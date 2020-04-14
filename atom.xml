@@ -1,50 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
-  
+  <title>岛</title>
+  <icon>https://www.gravatar.com/avatar/319858fe73279bed7f24b32f1a37ff1f</icon>
+  <subtitle>一生努力，一生热爱</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-14T01:13:09.708Z</updated>
+  <updated>2020-04-13T16:32:14.360Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>Steve Teng</name>
+    <email>simpletjun@163.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>shijie</title>
-    <link href="http://yoursite.com/2020/04/14/shijie/"/>
-    <id>http://yoursite.com/2020/04/14/shijie/</id>
-    <published>2020-04-14T01:13:09.000Z</published>
-    <updated>2020-04-14T01:13:09.708Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>你好</title>
-    <link href="http://yoursite.com/2020/04/14/%E4%BD%A0%E5%A5%BD/"/>
-    <id>http://yoursite.com/2020/04/14/%E4%BD%A0%E5%A5%BD/</id>
-    <published>2020-04-13T16:48:18.000Z</published>
-    <updated>2020-04-13T16:48:18.364Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -59,7 +29,7 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
         
       
     

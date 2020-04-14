@@ -1,15 +1,19 @@
 <!DOCTYPE html>
 
 
-<html lang="en" >
+<html lang="zh-Hans" >
 
 
 <head>
   <meta charset="utf-8" />
-    
+   
+  <meta name="keywords" content="生活，思考，产品，博客" />
+   
+  <meta name="description" content="一座孤岛" />
+  
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <title>
-    photos |  Hexo
+    Gallery |  岛
   </title>
   <meta name="generator" content="hexo-theme-yilia-plus">
   
@@ -28,7 +32,7 @@
 
   
 
-<link rel="alternate" href="/atom.xml" title="Hexo" type="application/atom+xml">
+<link rel="alternate" href="/atom.xml" title="岛" type="application/atom+xml">
 </head>
 
 </html>
@@ -45,7 +49,7 @@
     <header class="article-header">
        
 <h1 class="article-title sea-center" style="border-left:0" itemprop="name">
-  photos
+  Gallery
 </h1>
  
 
@@ -59,14 +63,22 @@
     
     <div class="article-entry" itemprop="articleBody">
       
+<div class="justified-gallery" id="gallery">
+  
+  <div>
+    <img src="/img_url" itemprop="image" alt="img_caption" style="cursor: pointer;">
+  </div>
+  
+  <div>
+    <img src="/img_url" itemprop="image" alt="img_caption" style="cursor: pointer;">
+  </div>
+  
+</div>
+
       
 
       
-      <hr>
-<p>title: Gallery</p>
-<p>albums: [<br>        [“img_url”,”img_caption”],<br>        [“img_url”,”img_caption”]<br>        ]</p>
-<hr>
-
+      
       
       <!-- reward -->
       
@@ -79,8 +91,8 @@
           <ul class="post-copyright">
             <li>
               <i class="ri-copyright-line"></i>
-              <strong>Copyright： </strong>
-              Copyright is owned by the author. For commercial reprints, please contact the author for authorization. For non-commercial reprints, please indicate the source.
+              <strong>Copyright-Hinweis： </strong>
+              Sofern nicht anders angegeben, liegt das Urheberrecht aller Artikel in diesem Blog beim Autor. Nachdruck bitte Quelle angeben!
             </li>
           </ul>
         </div>
@@ -212,8 +224,8 @@
     <ul class="list-inline">
       <li>
         &copy;
-        2019-2020
-        John Doe
+        2020
+        Steve Teng
       </li>
       <li>
         
@@ -260,7 +272,7 @@
 <nav class="navbar">
   
   <div class="logo">
-    <a href="/"><img src="/images/ayer-side.svg" alt="Hexo"></a>
+    <a href="/"><img src="/images/ayer-side.svg" alt="岛"></a>
   </div>
   
   <ul class="nav nav-main">
@@ -282,15 +294,7 @@
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="http://shenyu-vip.lofter.com" target="_blank" rel="noopener">摄影</a>
-    </li>
-    
-    <li class="nav-item">
-      <a class="nav-item-link" href="/tags/%E6%97%85%E8%A1%8C/">旅行</a>
-    </li>
-    
-    <li class="nav-item">
-      <a class="nav-item-link" href="/2019/about">关于我</a>
+      <a class="nav-item-link" href="/2020/about">关于我</a>
     </li>
     
   </ul>
@@ -299,7 +303,7 @@
   <ul class="nav">
     <li class="nav-item">
       
-      <a class="nav-item-link nav-item-search"  title="Search">
+      <a class="nav-item-link nav-item-search"  title="Suche">
         <i class="ri-search-line"></i>
       </a>
       
@@ -355,7 +359,7 @@
 <script>
   try {
     var typed = new Typed("#subtitle", {
-      strings: ['面朝大海，春暖花开', '愿你一生努力，一生被爱', '想要的都拥有，得不到的都释怀'],
+      strings: ['一生努力，一生热爱', '想要的都拥有，得不到的都释怀', ''],
       startDelay: 0,
       typeSpeed: 200,
       loop: true,
@@ -584,6 +588,23 @@
 
 
 
+    
+    <div id="music">
+    
+    
+    
+    <iframe frameborder="no" border="1" marginwidth="0" marginheight="0" width="200" height="52"
+        src="//music.163.com/outchain/player?type=2&id=518895142&auto=1&height=32"></iframe>
+</div>
+
+<style>
+    #music {
+        position: fixed;
+        right: 15px;
+        bottom: 0;
+        z-index: 998;
+    }
+</style>
     
   </div>
 </body>
