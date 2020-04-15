@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>我的第一篇博客产品思考</title>
+    <url>/2020/04/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E4%BA%A7%E5%93%81%E6%80%9D%E8%80%83/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="产品思考"><a href="#产品思考" class="headerlink" title="产品思考"></a>产品思考</h1><p>腾讯官网上说，互联网不只是渠道和平台，所有产品和服务最终是为了促进社会发展和提升人们生活质量。<br>用户在互联网时代能动性和主动性大大提高，互联网时代的所有产品和服务更应该遵循用户价值为首的原则，从用户需求出发策划产品，不管是产品的制作还是推广还是运营。传播学上说的主体间性，体现在产品上，就是产品与人的交互性、平等性，还有产品服务于人的性质。<br>-<br>作为一个用户，我觉得有的产品的某些功能对我来说是不太友好的，比如说喜马拉雅每次进主页，都会有课程弹框。<br>当然，产品的推出肯定也是要创造经济效益。某些产品看似不友好的功能，其实是产品创造经济效益所必需的。<br>那一个产品既要以用户价值为依归，又要创造经济效益，其实就涉及经济效益和用户价值的一个博弈。<br>当然，还有一种可能就是，一个产品做得足够大，用户养成了不可摆脱的习惯并且市场上暂时没有可取代的产品时，产品一个小的改动，用户不得不适应。<br>-<br>类似于微信这样的国民级app，一个很小的改动，影响的十多亿人的使用习惯。虽然短期内可能并不会对用户数据产生明显的改变，该用还是用，但不好的种子生根发芽，影响长效价值和公司形象。因此用户信任是保持用户价值的前提。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/04/14/hello-world/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
@@ -16,12 +22,6 @@
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>我的第一篇博客产品思考</title>
-    <url>/2020/04/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E4%BA%A7%E5%93%81%E6%80%9D%E8%80%83/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="产品思考"><a href="#产品思考" class="headerlink" title="产品思考"></a>产品思考</h1><p>腾讯官网上说，互联网不只是渠道和平台，所有产品和服务最终是为了促进社会发展和提升人们生活质量。<br>用户在互联网时代能动性和主动性大大提高，互联网时代的所有产品和服务更应该遵循用户价值为首的原则，从用户需求出发策划产品，不管是产品的制作还是推广还是运营。传播学上说的主体间性，体现在产品上，就是产品与人的交互性、平等性，还有产品服务于人的性质。<br>-<br>作为一个用户，我觉得有的产品的某些功能对我来说是不太友好的，比如说喜马拉雅每次进主页，都会有课程弹框。<br>当然，产品的推出肯定也是要创造经济效益。某些产品看似不友好的功能，其实是产品创造经济效益所必需的。<br>那一个产品既要以用户价值为依归，又要创造经济效益，其实就涉及经济效益和用户价值的一个博弈。<br>当然，还有一种可能就是，一个产品做得足够大，用户养成了不可摆脱的习惯并且市场上暂时没有可取代的产品时，产品一个小的改动，用户不得不适应。<br>-<br>类似于微信这样的国民级app，一个很小的改动，影响的十多亿人的使用习惯。虽然短期内可能并不会对用户数据产生明显的改变，该用还是用，但不好的种子生根发芽，影响长效价值和公司形象。因此用户信任是保持用户价值的前提。</p>
 ]]></content>
   </entry>
 </search>
