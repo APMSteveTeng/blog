@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-16T12:23:47.910Z</updated>
+  <updated>2020-04-17T11:00:02.381Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>谈一款现象级的互联网产品（一）——滴滴出行</title>
+    <link href="http://yoursite.com/2020/04/17/%E8%B0%88%E4%B8%80%E6%AC%BE%E7%8E%B0%E8%B1%A1%E7%BA%A7%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%A7%E5%93%81%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%94%E2%80%94%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C/"/>
+    <id>http://yoursite.com/2020/04/17/%E8%B0%88%E4%B8%80%E6%AC%BE%E7%8E%B0%E8%B1%A1%E7%BA%A7%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%A7%E5%93%81%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%94%E2%80%94%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C/</id>
+    <published>2020-04-17T11:00:02.381Z</published>
+    <updated>2020-04-17T11:00:02.381Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>关于QQ和微信的几点简单思考</title>
     <link href="http://yoursite.com/2020/04/16/%E5%85%B3%E4%BA%8EQQ%E5%92%8C%E5%BE%AE%E4%BF%A1%E7%9A%84%E5%87%A0%E7%82%B9%E7%AE%80%E5%8D%95%E6%80%9D%E8%80%83/"/>
     <id>http://yoursite.com/2020/04/16/%E5%85%B3%E4%BA%8EQQ%E5%92%8C%E5%BE%AE%E4%BF%A1%E7%9A%84%E5%87%A0%E7%82%B9%E7%AE%80%E5%8D%95%E6%80%9D%E8%80%83/</id>
     <published>2020-04-16T12:09:59.174Z</published>
-    <updated>2020-04-16T12:23:47.910Z</updated>
+    <updated>2020-04-17T10:53:07.182Z</updated>
     
     <summary type="html">
     
@@ -90,7 +113,7 @@
     <link href="http://yoursite.com/2020/04/15/%E5%85%B3%E4%BA%8E%E5%A4%AE%E8%A7%86%E9%A2%91%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/"/>
     <id>http://yoursite.com/2020/04/15/%E5%85%B3%E4%BA%8E%E5%A4%AE%E8%A7%86%E9%A2%91%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/</id>
     <published>2020-04-15T14:24:48.136Z</published>
-    <updated>2020-04-15T15:05:16.386Z</updated>
+    <updated>2020-04-17T09:34:35.053Z</updated>
     
     <summary type="html">
     
