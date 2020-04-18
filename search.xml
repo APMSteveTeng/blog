@@ -32,33 +32,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>关于QQ和微信的几点简单思考</title>
-    <url>/2020/04/16/%E5%85%B3%E4%BA%8EQQ%E5%92%8C%E5%BE%AE%E4%BF%A1%E7%9A%84%E5%87%A0%E7%82%B9%E7%AE%80%E5%8D%95%E6%80%9D%E8%80%83/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>两者不同风格，功能和偏向都有所不同。风格主题。</p>
-<ul>
-<li><p>微信简洁纯粹，不会增加一些小工具，如特效、便签，让用户感知微信的唯一性。</p>
-</li>
-<li><p>而QQ相比之下，更多是各种丰富元素的自由组合，风格偏向娱乐化，即slogan“乐在沟通”。包括农场、牧场、小游戏，特效、表情包，以及个性装扮和空间，QQ为用户构建了一个网络虚拟身份。某种程度上，QQ还是办公利器，如群文件、远程桌面。QQ既是工具集合体，也是娱乐集合体。</p>
-</li>
-</ul>
-<p>从社交关系链来看，这是两者的一个核心差异。</p>
-<ul>
-<li><p>微信社交是基于熟人关系链和半熟人关系链，它积极促进有效交流，而抑制陌生关系链。比如说漂流瓶的下架、联系人列表不可折叠，以及不能看访客记录等。</p>
-</li>
-<li><p>而QQ对陌生人关系链是比微信更加开放的。我们可以说微信更强调隐私保护，而QQ更强调乐在沟通。</p>
-</li>
-</ul>
-<p>从生态来看，这也是两者的一个核心差异。</p>
-<ul>
-<li><p>微信上嵌入的信息平台、开放的入口，加上微信支付、公众号、小程序这些，它们每一个本身就是一个内容生态，最后共同构成微信整个大的生态。</p>
-</li>
-<li><p>而QQ的生态似乎都是由腾讯直属的产品组成，比如说新闻、游戏、空间、动漫等等。从QQ上能看到腾讯的整个内容生态，而不是像微信那样开放入口给京东、唯品会、滴滴这些投资公司。</p>
-</li>
-</ul>
-<p>最后还有个特别神奇的地方，QQ→微信→QQ。在我读高中的时候，大概10年前，QQ作为我们那一代的明星产品，登陆有进度条，同学会用诺基亚登QQ偷菜。2011年微信推出，2012年智能手机普及。个人留下的印象是，微信在很短的时间内取代了QQ，身边朋友、同学的熟人关系链似乎一夜之间转到了微信上。这是第一次大转折。而当下，2000年左右出生甚至往后的青少年，更多是在使用QQ，我接触过不少人，QQ的使用频率远高于微信。这是第二次大转折。作为产品小白，目前我仍然觉得太不可思议，一个产品竟然可以从一个年龄段过渡到另一个年龄段，而且更火。它的策略值得好好学习。（_以后思考了再写到博客做一记录。_）</p>
-]]></content>
-  </entry>
-  <entry>
     <title>关于央视频的几点思考</title>
     <url>/2020/04/15/%E5%85%B3%E4%BA%8E%E5%A4%AE%E8%A7%86%E9%A2%91%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>从产品功能看，可以说是很多高大上技术的结晶了，功能做的非常强大。据了解，腾讯也加入了央视频的开发工作。</p>
@@ -72,6 +45,12 @@
 ]]></content>
   </entry>
   <entry>
+    <title>看书和工作形成方法论</title>
+    <url>/2020/04/16/%E7%9C%8B%E4%B9%A6%E5%92%8C%E5%B7%A5%E4%BD%9C%E5%BD%A2%E6%88%90%E6%96%B9%E6%B3%95%E8%AE%BA/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>看书和工作，是形成个人方法论的两个根本途径。碎片化的信息只能叫新闻，如垂直类App，只能获得灵感开拓视野，无法形成知识体系。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>我的第一篇博客产品思考</title>
     <url>/2020/04/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E4%BA%A7%E5%93%81%E6%80%9D%E8%80%83/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
@@ -81,12 +60,6 @@
 <p>作为一个用户，我觉得有的产品的某些功能对我来说是不太友好的，比如说喜马拉雅每次进主页，都会有课程弹框。当然，产品的推出肯定也是要创造经济效益。某些产品看似不友好的功能，其实是产品创造经济效益所必需的。那一个产品既要以用户价值为依归，又要创造经济效益，其实就涉及经济效益和用户价值的一个博弈。</p>
 <p>还有一种可能就是，一个产品做得足够大，用户养成了不可摆脱的习惯并且市场上暂时没有可取代的产品时，产品一个小的改动，用户不得不适应。</p>
 <p>类似于微信这样的国民级app，一个很小的改动，影响的十多亿人的使用习惯。虽然短期内可能并不会对用户数据产生明显的改变，该用还是用，但不好的种子生根发芽，影响长效价值和公司形象。因此用户信任是保持用户价值的前提。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>看书和工作形成方法论</title>
-    <url>/2020/04/16/%E7%9C%8B%E4%B9%A6%E5%92%8C%E5%B7%A5%E4%BD%9C%E5%BD%A2%E6%88%90%E6%96%B9%E6%B3%95%E8%AE%BA/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>看书和工作，是形成个人方法论的两个根本途径。碎片化的信息只能叫新闻，如垂直类App，只能获得灵感开拓视野，无法形成知识体系。</p>
 ]]></content>
   </entry>
   <entry>
@@ -112,6 +85,33 @@
 <h3 id="成熟阶段-1"><a href="#成熟阶段-1" class="headerlink" title="成熟阶段"></a>成熟阶段</h3><p>产品扩张，构建全方位一站式出行平台，不仅有实体产品，还有服务类产品，如代驾服务等。<br>减少补贴力度。<br>App中加入游戏性机制，如分享领红包、随机减、赠送游戏积分。<br>主要任务：促活。</p>
 <h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p><strong><em>安全机制！</em></strong></p>
 <p>参考：<a href="http://www.woshipm.com/pmd/503537.html" target="_blank" rel="noopener">http://www.woshipm.com/pmd/503537.html</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>关于QQ和微信的几点简单思考</title>
+    <url>/2020/04/16/%E5%85%B3%E4%BA%8EQQ%E5%92%8C%E5%BE%AE%E4%BF%A1%E7%9A%84%E5%87%A0%E7%82%B9%E7%AE%80%E5%8D%95%E6%80%9D%E8%80%83/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>两者不同风格，功能和偏向都有所不同。风格主题。</p>
+<ul>
+<li><p>微信简洁纯粹，不会增加一些小工具，如特效、便签，让用户感知微信的唯一性。</p>
+</li>
+<li><p>而QQ相比之下，更多是各种丰富元素的自由组合，风格偏向娱乐化，即slogan“乐在沟通”。包括农场、牧场、小游戏，特效、表情包，以及个性装扮和空间，QQ为用户构建了一个网络虚拟身份。某种程度上，QQ还是办公利器，如群文件、远程桌面。QQ既是工具集合体，也是娱乐集合体。</p>
+</li>
+</ul>
+<p>从社交关系链来看，这是两者的一个核心差异。</p>
+<ul>
+<li><p>微信社交是基于熟人关系链和半熟人关系链，它积极促进有效交流，而抑制陌生关系链。比如说漂流瓶的下架、联系人列表不可折叠，以及不能看访客记录等。</p>
+</li>
+<li><p>而QQ对陌生人关系链是比微信更加开放的。我们可以说微信更强调隐私保护，而QQ更强调乐在沟通。</p>
+</li>
+</ul>
+<p>从生态来看，这也是两者的一个核心差异。</p>
+<ul>
+<li><p>微信上嵌入的信息平台、开放的入口，加上微信支付、公众号、小程序这些，它们每一个本身就是一个内容生态，最后共同构成微信整个大的生态。</p>
+</li>
+<li><p>而QQ的生态似乎都是由腾讯直属的产品组成，比如说新闻、游戏、空间、动漫等等。从QQ上能看到腾讯的整个内容生态，而不是像微信那样开放入口给京东、唯品会、滴滴这些投资公司。</p>
+</li>
+</ul>
+<p>最后还有个特别神奇的地方，QQ→微信→QQ。在我读高中的时候，大概10年前，QQ作为我们那一代的明星产品，登陆有进度条，同学会用诺基亚登QQ偷菜。2011年微信推出，2012年智能手机普及。个人留下的印象是，微信在很短的时间内取代了QQ，身边朋友、同学的熟人关系链似乎一夜之间转到了微信上。这是第一次大转折。而当下，2000年左右出生甚至往后的青少年，更多是在使用QQ，我接触过不少人，QQ的使用频率远高于微信。这是第二次大转折。作为产品小白，目前我仍然觉得太不可思议，一个产品竟然可以从一个年龄段过渡到另一个年龄段，而且更火。它的策略值得好好学习。（_以后思考了再写到博客做一记录。_）</p>
 ]]></content>
   </entry>
 </search>
