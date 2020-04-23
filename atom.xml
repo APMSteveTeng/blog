@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-23T02:18:03.592Z</updated>
+  <updated>2020-04-23T02:20:44.123Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>物理小思考</title>
+    <title>物理小思考（一）</title>
     <link href="http://yoursite.com/2020/04/23/%E7%89%A9%E7%90%86%E5%B0%8F%E6%80%9D%E8%80%83%EF%BC%88%E4%B8%80%EF%BC%89/"/>
     <id>http://yoursite.com/2020/04/23/%E7%89%A9%E7%90%86%E5%B0%8F%E6%80%9D%E8%80%83%EF%BC%88%E4%B8%80%EF%BC%89/</id>
     <published>2020-04-23T02:03:25.008Z</published>
-    <updated>2020-04-23T02:18:03.592Z</updated>
+    <updated>2020-04-23T02:20:44.123Z</updated>
     
     <summary type="html">
     
@@ -36,10 +36,6 @@
     </summary>
     
     
-      <category term="物理" scheme="http://yoursite.com/categories/%E7%89%A9%E7%90%86/"/>
-    
-    
-      <category term="胡思乱想,不知所云" scheme="http://yoursite.com/tags/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3-%E4%B8%8D%E7%9F%A5%E6%89%80%E4%BA%91/"/>
     
   </entry>
   
