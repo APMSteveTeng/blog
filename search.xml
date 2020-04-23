@@ -19,6 +19,19 @@
 ]]></content>
   </entry>
   <entry>
+    <title>关于36Kr缺陷的几点思考</title>
+    <url>/2020/04/16/%E5%85%B3%E4%BA%8E36Kr%E7%BC%BA%E9%99%B7%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><ul>
+<li><p>只有PGC，没有UGC。所有的内容都是36氪平台的签约作家生成或是其他平台转载，普通用户的多元意见得不到表达。类似于新华社app上既提供专业内容，它的“现场云”板块也允许用户提供新闻线索。还有梨视频也是PGC+UGC的内容生产模式。</p>
+</li>
+<li><p>其次，没有嵌入性的服务平台，比如说最近今日头条根据线下场景提供适配的生活服务平台，拓展的新板块“在家玩”，提供在家做菜、外卖到家、送药上门、送菜等服务。可以通过在资讯类app中增加嵌入式服务平台，一方面可以拓展业务边界，另一方面可以满足用户的多元需求。</p>
+</li>
+<li><p>再次，36氪app的知识付费的商业模式中，内容同质化严重，而且优质内容被头部讲师垄断。另外，文章里可以适当加入课程链接，类似抖音的视频+电商的模式，资讯类app也可以使用文章+课程的模式。</p>
+</li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
     <title>《产品经理面试攻略》读书笔记</title>
     <url>/2020/04/22/%E3%80%8A%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E9%9D%A2%E8%AF%95%E6%94%BB%E7%95%A5%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>产品经理面试攻略<br>蓝鲸部落<br>262个笔记</p>
@@ -849,6 +862,33 @@
 ]]></content>
   </entry>
   <entry>
+    <title>关于QQ和微信的几点简单思考</title>
+    <url>/2020/04/16/%E5%85%B3%E4%BA%8EQQ%E5%92%8C%E5%BE%AE%E4%BF%A1%E7%9A%84%E5%87%A0%E7%82%B9%E7%AE%80%E5%8D%95%E6%80%9D%E8%80%83/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>两者不同风格，功能和偏向都有所不同。风格主题。</p>
+<ul>
+<li><p>微信简洁纯粹，不会增加一些小工具，如特效、便签，让用户感知微信的唯一性。</p>
+</li>
+<li><p>而QQ相比之下，更多是各种丰富元素的自由组合，风格偏向娱乐化，即slogan“乐在沟通”。包括农场、牧场、小游戏，特效、表情包，以及个性装扮和空间，QQ为用户构建了一个网络虚拟身份。某种程度上，QQ还是办公利器，如群文件、远程桌面。QQ既是工具集合体，也是娱乐集合体。</p>
+</li>
+</ul>
+<p>从社交关系链来看，这是两者的一个核心差异。</p>
+<ul>
+<li><p>微信社交是基于熟人关系链和半熟人关系链，它积极促进有效交流，而抑制陌生关系链。比如说漂流瓶的下架、联系人列表不可折叠，以及不能看访客记录等。</p>
+</li>
+<li><p>而QQ对陌生人关系链是比微信更加开放的。我们可以说微信更强调隐私保护，而QQ更强调乐在沟通。</p>
+</li>
+</ul>
+<p>从生态来看，这也是两者的一个核心差异。</p>
+<ul>
+<li><p>微信上嵌入的信息平台、开放的入口，加上微信支付、公众号、小程序这些，它们每一个本身就是一个内容生态，最后共同构成微信整个大的生态。</p>
+</li>
+<li><p>而QQ的生态似乎都是由腾讯直属的产品组成，比如说新闻、游戏、空间、动漫等等。从QQ上能看到腾讯的整个内容生态，而不是像微信那样开放入口给京东、唯品会、滴滴这些投资公司。</p>
+</li>
+</ul>
+<p>最后还有个特别神奇的地方，QQ→微信→QQ。在我读高中的时候，大概10年前，QQ作为我们那一代的明星产品，登陆有进度条，同学会用诺基亚登QQ偷菜。2011年微信推出，2012年智能手机普及。个人留下的印象是，微信在很短的时间内取代了QQ，身边朋友、同学的熟人关系链似乎一夜之间转到了微信上。这是第一次大转折。而当下，2000年左右出生甚至往后的青少年，更多是在使用QQ，我接触过不少人，QQ的使用频率远高于微信。这是第二次大转折。作为产品小白，目前我仍然觉得太不可思议，一个产品竟然可以从一个年龄段过渡到另一个年龄段，而且更火。它的策略值得好好学习。（_以后思考了再写到博客做一记录。_）</p>
+]]></content>
+  </entry>
+  <entry>
     <title>《产品经理的20堂必修课》读书笔记</title>
     <url>/2020/04/21/%E3%80%8A%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%9A%8420%E5%A0%82%E5%BF%85%E4%BF%AE%E8%AF%BE%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>产品经理的20堂必修课<br>徐建极<br>163个笔记</p>
@@ -1343,6 +1383,19 @@
 <p>例如分析产品使用用户数下跌的主要原因</p>
 </blockquote>
 <h2 id="◆-点评"><a href="#◆-点评" class="headerlink" title="◆ 点评"></a>◆ 点评</h2><p>点评:★★★☆☆</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>关于央视频的几点思考</title>
+    <url>/2020/04/15/%E5%85%B3%E4%BA%8E%E5%A4%AE%E8%A7%86%E9%A2%91%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>从产品功能看，可以说是很多高大上技术的结晶了，功能做的非常强大。据了解，腾讯也加入了央视频的开发工作。</p>
+<ul>
+<li>电视功能，它集成了所有央视、卫视的频道，软件就相当于一个电视。</li>
+<li>场景，基于5G技术的4K高清和VR现场直播，为用户创造一个虚拟化场景，比其他视频app内容版权要多、视角要多，而且央视频能提供基于位置的服务，比如说根据用户位置，提供地方资讯。</li>
+<li>精准推送，基于大数据和AI的个性化搜索，能够精准地分析用户喜好，提供优质内容。</li>
+</ul>
+<p>其次，从内容和渠道来看，以横屏短视频为主，依托央视，也有长剧集和直播等内容；新闻采编权又赋予了它一手的新闻线索和广泛的直播内容；还有一个非常强大的地方在于，广电总台已经将其定位为央视旗舰产品，不只是自己的内容，央视频打造账号森林，招募MCN、PGC和UGC加入其中，还鼓励总台的记者、主持人开账号。</p>
+<p>另外，央视频有个非常重要的入口，叫免流量特权。央视频卡也就是腾讯王卡-央视频版，这个意义非常重大，王卡免流不仅能提高央视频的用户黏性，而且对腾讯来说，王卡也意味着流量和入口，在央视频上用户能看到王卡的其他免流app，其他app上也同样提示央视频免流，这就相互导流，形成一种循环。</p>
 ]]></content>
   </entry>
   <entry>
@@ -2008,59 +2061,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>关于36Kr缺陷的几点思考</title>
-    <url>/2020/04/16/%E5%85%B3%E4%BA%8E36Kr%E7%BC%BA%E9%99%B7%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><ul>
-<li><p>只有PGC，没有UGC。所有的内容都是36氪平台的签约作家生成或是其他平台转载，普通用户的多元意见得不到表达。类似于新华社app上既提供专业内容，它的“现场云”板块也允许用户提供新闻线索。还有梨视频也是PGC+UGC的内容生产模式。</p>
-</li>
-<li><p>其次，没有嵌入性的服务平台，比如说最近今日头条根据线下场景提供适配的生活服务平台，拓展的新板块“在家玩”，提供在家做菜、外卖到家、送药上门、送菜等服务。可以通过在资讯类app中增加嵌入式服务平台，一方面可以拓展业务边界，另一方面可以满足用户的多元需求。</p>
-</li>
-<li><p>再次，36氪app的知识付费的商业模式中，内容同质化严重，而且优质内容被头部讲师垄断。另外，文章里可以适当加入课程链接，类似抖音的视频+电商的模式，资讯类app也可以使用文章+课程的模式。</p>
-</li>
-</ul>
-]]></content>
-  </entry>
-  <entry>
-    <title>关于QQ和微信的几点简单思考</title>
-    <url>/2020/04/16/%E5%85%B3%E4%BA%8EQQ%E5%92%8C%E5%BE%AE%E4%BF%A1%E7%9A%84%E5%87%A0%E7%82%B9%E7%AE%80%E5%8D%95%E6%80%9D%E8%80%83/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>两者不同风格，功能和偏向都有所不同。风格主题。</p>
-<ul>
-<li><p>微信简洁纯粹，不会增加一些小工具，如特效、便签，让用户感知微信的唯一性。</p>
-</li>
-<li><p>而QQ相比之下，更多是各种丰富元素的自由组合，风格偏向娱乐化，即slogan“乐在沟通”。包括农场、牧场、小游戏，特效、表情包，以及个性装扮和空间，QQ为用户构建了一个网络虚拟身份。某种程度上，QQ还是办公利器，如群文件、远程桌面。QQ既是工具集合体，也是娱乐集合体。</p>
-</li>
-</ul>
-<p>从社交关系链来看，这是两者的一个核心差异。</p>
-<ul>
-<li><p>微信社交是基于熟人关系链和半熟人关系链，它积极促进有效交流，而抑制陌生关系链。比如说漂流瓶的下架、联系人列表不可折叠，以及不能看访客记录等。</p>
-</li>
-<li><p>而QQ对陌生人关系链是比微信更加开放的。我们可以说微信更强调隐私保护，而QQ更强调乐在沟通。</p>
-</li>
-</ul>
-<p>从生态来看，这也是两者的一个核心差异。</p>
-<ul>
-<li><p>微信上嵌入的信息平台、开放的入口，加上微信支付、公众号、小程序这些，它们每一个本身就是一个内容生态，最后共同构成微信整个大的生态。</p>
-</li>
-<li><p>而QQ的生态似乎都是由腾讯直属的产品组成，比如说新闻、游戏、空间、动漫等等。从QQ上能看到腾讯的整个内容生态，而不是像微信那样开放入口给京东、唯品会、滴滴这些投资公司。</p>
-</li>
-</ul>
-<p>最后还有个特别神奇的地方，QQ→微信→QQ。在我读高中的时候，大概10年前，QQ作为我们那一代的明星产品，登陆有进度条，同学会用诺基亚登QQ偷菜。2011年微信推出，2012年智能手机普及。个人留下的印象是，微信在很短的时间内取代了QQ，身边朋友、同学的熟人关系链似乎一夜之间转到了微信上。这是第一次大转折。而当下，2000年左右出生甚至往后的青少年，更多是在使用QQ，我接触过不少人，QQ的使用频率远高于微信。这是第二次大转折。作为产品小白，目前我仍然觉得太不可思议，一个产品竟然可以从一个年龄段过渡到另一个年龄段，而且更火。它的策略值得好好学习。（_以后思考了再写到博客做一记录。_）</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>关于央视频的几点思考</title>
-    <url>/2020/04/15/%E5%85%B3%E4%BA%8E%E5%A4%AE%E8%A7%86%E9%A2%91%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>从产品功能看，可以说是很多高大上技术的结晶了，功能做的非常强大。据了解，腾讯也加入了央视频的开发工作。</p>
-<ul>
-<li>电视功能，它集成了所有央视、卫视的频道，软件就相当于一个电视。</li>
-<li>场景，基于5G技术的4K高清和VR现场直播，为用户创造一个虚拟化场景，比其他视频app内容版权要多、视角要多，而且央视频能提供基于位置的服务，比如说根据用户位置，提供地方资讯。</li>
-<li>精准推送，基于大数据和AI的个性化搜索，能够精准地分析用户喜好，提供优质内容。</li>
-</ul>
-<p>其次，从内容和渠道来看，以横屏短视频为主，依托央视，也有长剧集和直播等内容；新闻采编权又赋予了它一手的新闻线索和广泛的直播内容；还有一个非常强大的地方在于，广电总台已经将其定位为央视旗舰产品，不只是自己的内容，央视频打造账号森林，招募MCN、PGC和UGC加入其中，还鼓励总台的记者、主持人开账号。</p>
-<p>另外，央视频有个非常重要的入口，叫免流量特权。央视频卡也就是腾讯王卡-央视频版，这个意义非常重大，王卡免流不仅能提高央视频的用户黏性，而且对腾讯来说，王卡也意味着流量和入口，在央视频上用户能看到王卡的其他免流app，其他app上也同样提示央视频免流，这就相互导流，形成一种循环。</p>
-]]></content>
-  </entry>
-  <entry>
     <title>我的第一篇博客产品思考</title>
     <url>/2020/04/14/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E4%BA%A7%E5%93%81%E6%80%9D%E8%80%83/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><blockquote>
@@ -2627,6 +2627,25 @@
 ]]></content>
   </entry>
   <entry>
+    <title>物理小思考（一）</title>
+    <url>/2020/04/23/%E7%89%A9%E7%90%86%E5%B0%8F%E6%80%9D%E8%80%83%EF%BC%88%E4%B8%80%EF%BC%89/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>《思想大唠嗑》</p>
+<p>自牛顿建立经典物理学以来，其成就一是建立了宏观物理学的壮阔大厦，目之所及无不是经典物理学的“真理”之光照耀之处。</p>
+<p>实证的研究方法自此被确立下来（原来是源自这里），实践也就成了检验真理的唯一标准。“一套理性成熟的逻辑体系是无法证明自己的正确和完善的”（哥德尔不具备定理），一个逻辑体系无论多么繁复完善，也一定会在其中找到“既不能证实也不能证伪的问题”。这种问题也就成为了后来者提出假设、进行论证的新起点。</p>
+<p>所以在牛顿之后，“实证研究”和“提出假设”应用到自然科学直至人文科学之中。</p>
+<p>而爱因斯坦光的二象性、玻尔的普朗克常数、玻尔的原子模型提出之后，量子理论在微观世界彻底推翻牛顿创立的经典物理学。自1900年后发展迄今，量子物理学建立了另一座宏伟的双子大厦。</p>
+<p>之后，一群物理学家、数学家、逻辑学家形成的维也纳学派，“尝试在自然科学的基础上，探讨哲学和科学研究方法等问题”。“他们的哲学有时被称为逻辑实证主义，其基础是逻辑分析、可验证性准则以及被认可的科学陈述。”</p>
+<p>和书中观点一致，此处个人认为，在生活中某种情境之下，严格的形式逻辑和一味的追根溯源，其实会对语言和意义之间的指涉进行循环无尽的分析。表面是在扮演哲学思辨，实际上可能成了一种语言游戏和自相矛盾。</p>
+<p>复盘之后，目前再看作者奉行的体验主义，确实值得我们将其作为一种态度。继续阅读…</p>
+]]></content>
+      <categories>
+        <category>物理</category>
+      </categories>
+      <tags>
+        <tag>胡思乱想</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《给孩子讲量子力学》读书笔记</title>
     <url>/2020/04/22/%E3%80%8A%E7%BB%99%E5%AD%A9%E5%AD%90%E8%AE%B2%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>给孩子讲量子力学<br>李淼<br>92个笔记</p>
@@ -2909,20 +2928,6 @@
 </blockquote>
 <p>◆ 点评</p>
 <p>点评:★★★★☆</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>物理小思考（一）</title>
-    <url>/2020/04/23/%E7%89%A9%E7%90%86%E5%B0%8F%E6%80%9D%E8%80%83%EF%BC%88%E4%B8%80%EF%BC%89/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>title: 物理小思考（一）<br>categories: 物理<br>tags: 胡思乱想</p>
-<p>《思想大唠嗑》</p>
-<p>自牛顿建立经典物理学以来，其成就一是建立了宏观物理学的壮阔大厦，目之所及无不是经典物理学的“真理”之光照耀之处。</p>
-<p>实证的研究方法自此被确立下来（原来是源自这里），实践也就成了检验真理的唯一标准。“一套理性成熟的逻辑体系是无法证明自己的正确和完善的”（哥德尔不具备定理），一个逻辑体系无论多么繁复完善，也一定会在其中找到“既不能证实也不能证伪的问题”。这种问题也就成为了后来者提出假设、进行论证的新起点。</p>
-<p>所以在牛顿之后，“实证研究”和“提出假设”应用到自然科学直至人文科学之中。</p>
-<p>而爱因斯坦光的二象性、玻尔的普朗克常数、玻尔的原子模型提出之后，量子理论在微观世界彻底推翻牛顿创立的经典物理学。自1900年后发展迄今，量子物理学建立了另一座宏伟的双子大厦。</p>
-<p>之后，一群物理学家、数学家、逻辑学家形成的维也纳学派，“尝试在自然科学的基础上，探讨哲学和科学研究方法等问题”。“他们的哲学有时被称为逻辑实证主义，其基础是逻辑分析、可验证性准则以及被认可的科学陈述。”</p>
-<p>和书中观点一致，此处个人认为，在生活中某种情境之下，严格的形式逻辑和一味的追根溯源，其实会对语言和意义之间的指涉进行循环无尽的分析。表面是在扮演哲学思辨，实际上可能成了一种语言游戏和自相矛盾。</p>
-<p>复盘之后，目前再看作者奉行的体验主义，确实值得我们将其作为一种态度。继续阅读…</p>
 ]]></content>
   </entry>
   <entry>
