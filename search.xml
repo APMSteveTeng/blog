@@ -1,6 +1,528 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>36氪App的缺陷</title>
+    <url>/2020/05/02/36%E6%B0%AAApp%E7%9A%84%E7%BC%BA%E9%99%B7/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="36氪App的缺陷"><a href="#36氪App的缺陷" class="headerlink" title="36氪App的缺陷"></a>36氪App的缺陷</h1><ol>
+<li><p>呈现形式交叉混乱<br>页面显示复杂，大小图、文字、图标链接相互交叉，整个瀑布流都是采用这种交叉呈现的方式，而不是顶部集中重要的icon、banner等，下面是文字/图标/图片的一个种类的连续呈现。尤其是推荐页面，试图将文字、音频、视频、广告等所有形式的信息打包在一个页面中。</p>
+</li>
+<li><p>开氪栏目无分类<br>开氪栏目中，所有课程仅区分为免费和付费，极为显眼的也是红色字体的价格。没有区分课程的类型，作为用户我觉得查找起来非常麻烦，只能看那种线性的呈现方式，没有提供给我精确搜索所需课程的功能。</p>
+</li>
+<li><p>发现栏目无重点<br>发现栏目中，给用户的感觉是不知道其主旨是什么。有投票、有选择、有问答等，细看可能是想给用户发表意见的单独入口，但是既不是纯粹的UGC内容，也不是单纯的投票选择题。如果不仔细看，不知道发现一栏想强调什么；如果仔细看，似乎是为了给用户提问而堆砌功能，为了做而做。</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>PM</category>
+      </categories>
+      <tags>
+        <tag>idea常规性复盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《产品经理的20堂必修课》读书笔记</title>
+    <url>/2020/04/21/%E3%80%8A%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%9A%8420%E5%A0%82%E5%BF%85%E4%BF%AE%E8%AF%BE%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>产品经理的20堂必修课<br>徐建极<br>163个笔记</p>
+<h3 id="◆-1-1-以满足用户需求为目的"><a href="#◆-1-1-以满足用户需求为目的" class="headerlink" title="◆ 1.1 以满足用户需求为目的"></a>◆ 1.1 以满足用户需求为目的</h3><blockquote>
+<p>无论是传统行业的产品，还是互联网产品，它们都是由一系列功能组合而成，用于满足用户一系列的需求，而这些功能所满足的用户需求则在根本上决定了产品价值的大小。</p>
+</blockquote>
+<h3 id="◆-1-2-核心需求决定了市场最大效果"><a href="#◆-1-2-核心需求决定了市场最大效果" class="headerlink" title="◆ 1.2 核心需求决定了市场最大效果"></a>◆ 1.2 核心需求决定了市场最大效果</h3><blockquote>
+<p>无论产品的功能如何丰富，每款产品都会有一个主体的功能或功能组，用于重点、优先满足用户的某个需求。这一个主体的功能或功能组处于所有产品功能的关键位置，我们称之为产品的“核心功能”。</p>
+</blockquote>
+<blockquote>
+<p>核心功能所满足的用户需求往往就是用户对于该产品的核心需求，是用户使用该产品最根本的目的。</p>
+</blockquote>
+<h3 id="◆-1-3-让核心功能满足人们的基本需求"><a href="#◆-1-3-让核心功能满足人们的基本需求" class="headerlink" title="◆ 1.3 让核心功能满足人们的基本需求"></a>◆ 1.3 让核心功能满足人们的基本需求</h3><blockquote>
+<p>它应该满足用户哪些需求呢？答案自然是人们生活中最不能放弃的那些需求，也就是我们所说的“人的基本需求”。</p>
+</blockquote>
+<blockquote>
+<p>基本需求是人们生活中最旺盛的一些需求。如果一款产品的核心功能能够很好地满足人们的基本需求，那么这款产品就相当于天生具备优良的基因，它的潜在用户会非常多，用户使用产品的频率会非常高，同时用户所愿意付出的操作成本也会非常高。</p>
+</blockquote>
+<blockquote>
+<p>八大类需求从低层次到高层次分别为：生理需求、安全需求、归属与爱的需求、尊重需求、认知需求、美学需求、自我实现的需求、超越需求。<br>￼<br><strong>马斯洛需求层次理论</strong></p>
+</blockquote>
+<blockquote>
+<p>在虚拟世界中，多数人的需求结构是与互联网行业发展水平直接相关的。</p>
+</blockquote>
+<blockquote>
+<p>但是随着互联网的发展，人们对于情感需求的满足会越来越强烈。</p>
+</blockquote>
+<blockquote>
+<p>不是说我们要让自己的产品获得成功，就一定要瞄准人们的基本需求，因为这种需求毕竟是非常有限的，</p>
+</blockquote>
+<blockquote>
+<p>如果产品瞄准的是小众的需求，那么产品仍然能够获得某种意义上的成功，</p>
+</blockquote>
+<h2 id="◆-第2章-围绕用户需求打造产品竞争力"><a href="#◆-第2章-围绕用户需求打造产品竞争力" class="headerlink" title="◆ 第2章 围绕用户需求打造产品竞争力"></a>◆ 第2章 围绕用户需求打造产品竞争力</h2><blockquote>
+<p>第一，互联网产品的用户积累可以直接转化为产品上的优势。</p>
+</blockquote>
+<blockquote>
+<p>一般情况下，一款产品的用户越多，用户产生的内容也越多，而产品上的内容越多，产品就越能够吸引更多用户来使用。</p>
+</blockquote>
+<blockquote>
+<p>第二，互联网产品间的用户转移成本非常低。</p>
+</blockquote>
+<h3 id="◆-2-1-不同层次的用户需求"><a href="#◆-2-1-不同层次的用户需求" class="headerlink" title="◆ 2.1 不同层次的用户需求"></a>◆ 2.1 不同层次的用户需求</h3><blockquote>
+<p>我们要对不同用户需求进行区别对待，将有限的精力投入到那些可以有效提升产品价值的用户需求上。</p>
+</blockquote>
+<blockquote>
+<p>卡诺模型（KANO模型）</p>
+</blockquote>
+<blockquote>
+<p>根据卡诺模型，我们可以将用户需求分为三种类型：基本型、期望型和兴奋型。</p>
+</blockquote>
+<h3 id="◆-2-2-围绕用户需求创造产品价值"><a href="#◆-2-2-围绕用户需求创造产品价值" class="headerlink" title="◆ 2.2 围绕用户需求创造产品价值"></a>◆ 2.2 围绕用户需求创造产品价值</h3><blockquote>
+<p>产品满足用户需求的方式的变化过程有一定规律，它们总是朝着增加产品自动化，降低人们使用成本，为人们带来更多的便利和享受的方向发展。</p>
+</blockquote>
+<blockquote>
+<p>如果产品能够提供一两个功能满足用户的兴奋型需求，那么产品的用户忠诚度就会得到空前提高，并形成良好的产品口碑效应。</p>
+</blockquote>
+<blockquote>
+<p>产品独特的卖点被不断强化，产品就更容易被用户所发现和关注，</p>
+</blockquote>
+<blockquote>
+<p>应该麻木地去开发新的产品功能，而是要结合每个阶段产品的实际情况，选择最佳的用户需求组合，</p>
+</blockquote>
+<h3 id="◆-3-1-我们往往做不到“需求导向”"><a href="#◆-3-1-我们往往做不到“需求导向”" class="headerlink" title="◆ 3.1 我们往往做不到“需求导向”"></a>◆ 3.1 我们往往做不到“需求导向”</h3><blockquote>
+<p>关键就在于如何在两者间寻找合理的平衡点，使产品能够更加健康、长远地发展。</p>
+</blockquote>
+<blockquote>
+<p>流行的产品概念可以为我们拓宽思维，帮助我们找到更好的产品解决方案，进而去更好地满足用户需求，但是在产品创新时，产品经理还是应该回归产品的原点，从用户需求出发。</p>
+</blockquote>
+<blockquote>
+<p>如果新开发的产品功能能够满足用户的普遍需求，那么功能上线之后都会对结果指标的提升有正面的影响；</p>
+</blockquote>
+<blockquote>
+<p>能够促进指标增长的产品功能，并不都是符合用户需求的</p>
+</blockquote>
+<blockquote>
+<p>想产品赢得更多用户，在完成指标时，我们仍然要坚守一个前提，那就是充分尊重用户，尊重用户的需求</p>
+</blockquote>
+<blockquote>
+<p>产品方案的对错、好坏并不是老板说了算，也不是产品经理说了算，而是用户说了算。谁更理解用户，站在用户的角度替用户说话，就应该听谁的。</p>
+</blockquote>
+<h3 id="◆-3-2-难以捉摸的用户需求"><a href="#◆-3-2-难以捉摸的用户需求" class="headerlink" title="◆ 3.2 难以捉摸的用户需求"></a>◆ 3.2 难以捉摸的用户需求</h3><blockquote>
+<p>深入理解用户在需求上对产品的使用场景。</p>
+</blockquote>
+<blockquote>
+<p>让自己成为产品的深度用户，或是要多走到用户中间去</p>
+</blockquote>
+<blockquote>
+<p>乔布斯从来不做市场调查，他做市场调查的时候就是早上起来照照镜子，然后问问自己需要什么。苹果公司的产品很成功，乔布斯很成功，但是绝大多数的产品经理都不具备乔布斯那般的天赋和品位，能够让用户的需求以自己的需求为标杆。</p>
+</blockquote>
+<blockquote>
+<p>不把自己的需求当成用户需求，不要认为自己喜欢的，用户也会喜欢；</p>
+</blockquote>
+<blockquote>
+<p>不把少数用户的需求当成多数用户的需求，不要浪费过多的精力在一些边缘需求上。</p>
+</blockquote>
+<p><strong>顺应潮流→把握未来</strong></p>
+<blockquote>
+<p>一些需求受外部大环境的限制，刚开始会被掩盖着或压抑着，而一旦时机成熟，这些需求就会大爆发，并迅速形成一种潮流</p>
+</blockquote>
+<blockquote>
+<p>一些需求受外部大环境的限制，刚开始会被掩盖着或压抑着，而一旦时机成熟，这些需求就会大爆发，并迅速形成一种潮流</p>
+</blockquote>
+<h2 id="◆-第4章-简单，让产品更加锋利"><a href="#◆-第4章-简单，让产品更加锋利" class="headerlink" title="◆ 第4章 简单，让产品更加锋利"></a>◆ 第4章 简单，让产品更加锋利</h2><blockquote>
+<p>用户总是在追求可以以更低的成本获得更大价值的产品</p>
+</blockquote>
+<blockquote>
+<p>一是产品能够满足大众的基本需求，二是产品的使用门槛足够低。</p>
+</blockquote>
+<blockquote>
+<p>提升产品的自身价值</p>
+</blockquote>
+<blockquote>
+<p>降低产品的用户使用门槛。</p>
+</blockquote>
+<blockquote>
+<p>让产品尽可能简单、易用。</p>
+</blockquote>
+<h3 id="◆-4-1-简单原则为什么重要"><a href="#◆-4-1-简单原则为什么重要" class="headerlink" title="◆ 4.1 简单原则为什么重要"></a>◆ 4.1 简单原则为什么重要</h3><blockquote>
+<p>乔布斯领导的苹果公司更是将“简单”奉为至高无上的信仰</p>
+</blockquote>
+<blockquote>
+<p>乔布斯说：“简单之所以比复杂更难，是因为你必须努力地清空你的大脑，让它变得简单。但这种努力最终被证实为有价值，因为你一旦进入那种境界，便可以撼动大山。”</p>
+</blockquote>
+<blockquote>
+<p>懒惰是人的天性</p>
+</blockquote>
+<blockquote>
+<p>快节奏的网络生活给人们带来了便利，但也让人们在使用互联网产品时更加缺乏耐性，他们基本上不会去看产品的使用教程，</p>
+</blockquote>
+<blockquote>
+<p>有时候甚至连多点几下鼠标，多取消一个提示框都会觉得麻烦。</p>
+</blockquote>
+<h3 id="◆-4-2-如何将产品做得更简单"><a href="#◆-4-2-如何将产品做得更简单" class="headerlink" title="◆ 4.2 如何将产品做得更简单"></a>◆ 4.2 如何将产品做得更简单</h3><blockquote>
+<p>不少人在内心深处却又非常抵触简单，因为简单常常会被认为普通、平庸、弱智。</p>
+</blockquote>
+<blockquote>
+<p>多数人认为做简单的事物是一件简单的事情，但是事实上要把简单的事物复杂化很容易，要把复杂的事物简单化却非常困难。</p>
+</blockquote>
+<blockquote>
+<p>有着清晰、独特的定位，并能够在这个定位的指导下专注地将产品做到极致。</p>
+</blockquote>
+<blockquote>
+<p>简单地只支持随机播放高品质音乐，但是它却比大部分的音乐播放器更加受欢迎。</p>
+</blockquote>
+<h2 id="◆-第5章-用运营构筑产品竞争壁垒"><a href="#◆-第5章-用运营构筑产品竞争壁垒" class="headerlink" title="◆ 第5章 用运营构筑产品竞争壁垒"></a>◆ 第5章 用运营构筑产品竞争壁垒</h2><blockquote>
+<p>产品的功能是由产品人员负责的，产品的内容是由运营人员负责的，产品人员和运营人员相互配合，他们的共同目标就是服务好用户，让产品更好地满足用户的需求。</p>
+</blockquote>
+<h3 id="◆-5-1-围绕内容的运营"><a href="#◆-5-1-围绕内容的运营" class="headerlink" title="◆ 5.1 围绕内容的运营"></a>◆ 5.1 围绕内容的运营</h3><blockquote>
+<p>互联网产品内容的生产方式主要有三种：自己生产内容、用户生成内容、获取外部现成内容</p>
+</blockquote>
+<blockquote>
+<p>这些内容并不完全是由运营人员原创的，其中完全原创的内容非常少，大部分内容都是运营人员从其他渠道搜集过来再二次加工整理后产生的</p>
+</blockquote>
+<blockquote>
+<p>所以这些负责内容运营的人员常常又被称为编辑。</p>
+</blockquote>
+<p><strong>pgc</strong></p>
+<blockquote>
+<p>有专业的人员参与内容的建设</p>
+</blockquote>
+<blockquote>
+<p>有专业的人员参与内容的建设</p>
+</blockquote>
+<blockquote>
+<p>用户生成内容也就是我们所说的UGC（User Generated Content）。</p>
+</blockquote>
+<p><strong>例子不恰当，apple拿绝大部分收益。</strong></p>
+<blockquote>
+<p>在苹果AppStore这个应用平台上，当应用带来了收入时，应用服务提供商就可以和平台按比例分配所得收入</p>
+</blockquote>
+<blockquote>
+<p>在苹果AppStore这个应用平台上，当应用带来了收入时，应用服务提供商就可以和平台按比例分配所得收入</p>
+</blockquote>
+<blockquote>
+<p>常见的做法就是通过技术手段直接抓取外部内容，然后对这些内容进行聚合、筛选、处理和展示。</p>
+</blockquote>
+<blockquote>
+<p>对于很多内容提供商、渠道来说，独特的内容是他们自身价值的重要组成部分，所以有时候他们并不允许别人直接抓取自己的内容。</p>
+</blockquote>
+<blockquote>
+<p>这时候产品要想获取这些内容，就得和他们开展内容上的合作。</p>
+</blockquote>
+<blockquote>
+<p>优质内容通过各种手段推荐到首页等明显的位置，或是围绕某一主题制作内容专题，将好的内容打包推送给用户。</p>
+</blockquote>
+<blockquote>
+<p>趋同效应</p>
+</blockquote>
+<blockquote>
+<p>给优质内容确定一个固定的标准</p>
+</blockquote>
+<blockquote>
+<p>运营人员按标准生成早期的主流内容</p>
+</blockquote>
+<blockquote>
+<p>在产品发展的初期，产品的使用用户较少，用户自发生成的内容就非常少，这时候运营人员生成的内容很容易成为产品的主流内容。</p>
+</blockquote>
+<blockquote>
+<p>大部分用户都能够自觉地按照标准生成符合要求的内容，但是仍然会有一些用户</p>
+</blockquote>
+<blockquote>
+<p>奖励和惩罚两种手段确保用户严格执行我们的内容标准</p>
+</blockquote>
+<h3 id="◆-5-2-围绕用户的运营"><a href="#◆-5-2-围绕用户的运营" class="headerlink" title="◆ 5.2 围绕用户的运营"></a>◆ 5.2 围绕用户的运营</h3><blockquote>
+<p>用户运营的工作，指的是运营人员通过一系列的运营手段，诱发用户去做所要求的行为，让用户为产品创造更多的价值，进而实现产品的商业目标。</p>
+</blockquote>
+<blockquote>
+<p>一方面扩大入口，将更多目标用户转化为产品的使用用户；另一方面缩紧出口，降低用户的流失率，尽量避免产品使用用户的流失。</p>
+</blockquote>
+<blockquote>
+<p>产品推广计划</p>
+</blockquote>
+<p><strong>口碑营销</strong></p>
+<blockquote>
+<p>病毒营销</p>
+</blockquote>
+<blockquote>
+<p>病毒营销</p>
+</blockquote>
+<blockquote>
+<p>通过人们的人际关系网络</p>
+</blockquote>
+<blockquote>
+<p>一种是具有很强娱乐性的活动。</p>
+</blockquote>
+<blockquote>
+<p>另一种是能够给用户带来实实在在利益的活动。</p>
+</blockquote>
+<h3 id="◆-6-3-霸道进攻——抢占互联网渠道"><a href="#◆-6-3-霸道进攻——抢占互联网渠道" class="headerlink" title="◆ 6.3 霸道进攻——抢占互联网渠道"></a>◆ 6.3 霸道进攻——抢占互联网渠道</h3><blockquote>
+<p>对生态系统内用户渠道的控制能力</p>
+</blockquote>
+<blockquote>
+<p>一是做好产品，通过产品的口碑来吸引用户</p>
+</blockquote>
+<blockquote>
+<p>另一种就是通过渠道直接将我们的产品推送到用 户的面前</p>
+</blockquote>
+<h3 id="◆-7-2-不同的产品团队组织结构"><a href="#◆-7-2-不同的产品团队组织结构" class="headerlink" title="◆ 7.2 不同的产品团队组织结构"></a>◆ 7.2 不同的产品团队组织结构</h3><blockquote>
+<p>职能型组织结构以职能作为部门划分的依据，即把相同职能的人员放在一个部门</p>
+</blockquote>
+<blockquote>
+<p>除产品经理以外的人员每天接触不同的产品，对每个产品的目标无法深入了解，目标不清晰，成就感不强。</p>
+</blockquote>
+<blockquote>
+<p>项目型组织结构是围绕一个个产品或产品集群来组建部门的，不同的产品或产品集群设立不同的部门，每个部门会配备不同职能的人员，一般会包含产品经理、设计师、开发工程师、产品运营人员等角色。</p>
+</blockquote>
+<blockquote>
+<p>矩阵型组织结构是职能型组织结构与项目型组织结构共同存在的一种组织结构形式，不同职能的人员仍然归属不同的部门，但当某个项目启动时，会临时将 不同职能部门的成员组成一个项目团队，来共同完成这个项目，项目期间项目组成员不接收项目以外的其他工作。</p>
+</blockquote>
+<h3 id="◆-8-1-产品策略制定"><a href="#◆-8-1-产品策略制定" class="headerlink" title="◆ 8.1 产品策略制定"></a>◆ 8.1 产品策略制定</h3><blockquote>
+<p>产品经理在进行产品设计之前，还要搞清楚产品所处的生命周期位置。</p>
+</blockquote>
+<blockquote>
+<p>产品处于引入期时，产品规划工作应该主要围绕完善产品基础功能来进行；产品处于衰退期时，产品经理就可以 向公司提出产品退出建议和方案，或是对产品进行重新定位，使产品“老树开新花”。</p>
+</blockquote>
+<h3 id="◆-8-2-用户需求分析"><a href="#◆-8-2-用户需求分析" class="headerlink" title="◆ 8.2 用户需求分析"></a>◆ 8.2 用户需求分析</h3><blockquote>
+<p>BRD由产品经理向公司高层提交，用于说明用户存在哪些需求以及这些需求的重要程度，建议提供哪些功能来满足用户的这些需求，同时给出预估的商业价值和简单的市场竞争分析。</p>
+</blockquote>
+<blockquote>
+<p>文档内容的重点放在对产品需求商业价值的阐述和论证上。</p>
+</blockquote>
+<blockquote>
+<p>MRD（MarketRequirement Document，市场需求文档）</p>
+</blockquote>
+<blockquote>
+<p>BRD侧重于分析和论证产品需求的商业价值，不包含产品功能的细节</p>
+</blockquote>
+<blockquote>
+<p>MRD则是对产品需求的商业价值进行更加细致、全面的分析，并重点、详细描述具体的产品功能。</p>
+</blockquote>
+<blockquote>
+<p>一般来说，产品经理在申请项目立项时，提交一份BRD文档就足够了；对于一些产品范围特别小的项目，产品经理甚至没必要提交正式的BRD文档，只需要向公司高层简单说明用户需求、商业价值和产品功能即可。</p>
+</blockquote>
+<h3 id="◆-8-3-产品功能规划"><a href="#◆-8-3-产品功能规划" class="headerlink" title="◆ 8.3 产品功能规划"></a>◆ 8.3 产品功能规划</h3><blockquote>
+<p>原型图一般用Axure绘制，或依个人习惯用Dreamweaver、PS、画图板等工具实现；流程图一般用Visio绘制。</p>
+</blockquote>
+<h3 id="◆-9-2-将用户反馈解析为用户需求"><a href="#◆-9-2-将用户反馈解析为用户需求" class="headerlink" title="◆ 9.2 将用户反馈解析为用户需求"></a>◆ 9.2 将用户反馈解析为用户需求</h3><blockquote>
+<p>当用户的需求是“网站要提供最近流行的美剧”时，产品经理就得考虑引导或激励网站用户更多地提交美剧，或是直接让网站运营人员加大美剧的更新频率；当用户的需求是“在网站首页提供更多有意思的视频”时，产品经理就得考虑调整网站首页模块，或是优化算法以使更多有意思的视频能够被推荐到首页。</p>
+</blockquote>
+<h3 id="◆-10-3-确定产品需求优先级"><a href="#◆-10-3-确定产品需求优先级" class="headerlink" title="◆ 10.3 确定产品需求优先级"></a>◆ 10.3 确定产品需求优先级</h3><blockquote>
+<p>大部分互联网公司都主张“小步快跑，快速迭代”的产品开发方式</p>
+</blockquote>
+<blockquote>
+<p>每个阶段只选取最重要的产品需求进行开发，力争以最快的速度将产品新版本投入市场，通过不断地收集用户需求、不断地版本迭代来逐步地完善产品。为了确保每个阶段总是在开发最重要的产品需求，就需要通过确定各个需求的优先级来对产品需求进行取舍。</p>
+</blockquote>
+<h2 id="◆-第11章-流程图制作"><a href="#◆-第11章-流程图制作" class="headerlink" title="◆ 第11章 流程图制作"></a>◆ 第11章 流程图制作</h2><blockquote>
+<p>在规划产品功能时，产品经理需要和设计师一起将原本比较抽象的产品需求变得更加具体</p>
+</blockquote>
+<h2 id="◆-第12章-产品原型制作"><a href="#◆-第12章-产品原型制作" class="headerlink" title="◆ 第12章 产品原型制作"></a>◆ 第12章 产品原型制作</h2><blockquote>
+<p>制作产品原型是关键的一个环节，因为它要将大量存在于产品经理脑海中的信息转化为可视化的图形。</p>
+</blockquote>
+<blockquote>
+<p>产品原型要涵盖三个要素：元素、界面、交互。</p>
+</blockquote>
+<blockquote>
+<p>产品原型是由产品经理和交互设计师一起完成的</p>
+</blockquote>
+<blockquote>
+<p>在产品价值、产品可用性和技术成本之间寻找最佳的平衡点，而产品原型正好是完成这项工作的最佳工具。</p>
+</blockquote>
+<blockquote>
+<p>产品经理负责制作最原始版本的产品原型，在产品原始的功能、内容相对确定的情况下，再由交互设计师对产品原型进行优化，进一步提升产品的可用性。</p>
+</blockquote>
+<h3 id="◆-12-1-产品原型的重要性"><a href="#◆-12-1-产品原型的重要性" class="headerlink" title="◆ 12.1 产品原型的重要性"></a>◆ 12.1 产品原型的重要性</h3><blockquote>
+<p>一旦产品需求进入开发环节，再进行需求变更所要付出的代价往往是巨大的</p>
+</blockquote>
+<blockquote>
+<p>在我们投入大量资源进行实际设计和开发之前，对规划的产品功能进行评估，确保产品需求是正确的、合理的就非常有必要了。</p>
+</blockquote>
+<h3 id="◆-12-2-如何制作产品原型"><a href="#◆-12-2-如何制作产品原型" class="headerlink" title="◆ 12.2 如何制作产品原型"></a>◆ 12.2 如何制作产品原型</h3><blockquote>
+<p>制作产品原型不用拘泥于工具，用原型制作软件（Axure、Balsamiq）、流程图软件（Visio）、图像处理软件（Photoshop）、办公软件（Word、Excel、PowerPoint）、HTML编辑器（Dreamweaver）</p>
+</blockquote>
+<blockquote>
+<p>Axure由于操作简单、功能强大，受到多数人的推崇</p>
+</blockquote>
+<blockquote>
+<p>要尽可能考虑周全，尤其要注意不要遗漏一些特殊或极端情况下的功能或内容。</p>
+</blockquote>
+<blockquote>
+<p>对每个元素的描述要落实到具体细节上，避免过于空泛。</p>
+</blockquote>
+<blockquote>
+<p>我们还可以以注释的形式对一些难以用简单图形表达的功能或内容加以必要的说明。</p>
+</blockquote>
+<blockquote>
+<p>产品原型应该摒弃视觉元素，务求原汁原味地展示产品需求，重点体现产品的价值和可用性。</p>
+</blockquote>
+<h2 id="◆-第14章-产品需求文档（PRD）撰写"><a href="#◆-第14章-产品需求文档（PRD）撰写" class="headerlink" title="◆ 第14章 产品需求文档（PRD）撰写"></a>◆ 第14章 产品需求文档（PRD）撰写</h2><blockquote>
+<p>PRD是英文“Product Requirement Document”的缩写，翻译为中文就是“产品需求文档”，主要用于完整描述产品需求，向研发部门明确产品的功能和性能。</p>
+</blockquote>
+<blockquote>
+<p>PRD是产品项目过程中最为重要的文档。PRD的面向对象是研发部门，用于向他们说明要开发的产品功能以及这些产品功能的性能要求。</p>
+</blockquote>
+<h3 id="◆-14-1-PRD的主要内容"><a href="#◆-14-1-PRD的主要内容" class="headerlink" title="◆ 14.1 PRD的主要内容"></a>◆ 14.1 PRD的主要内容</h3><blockquote>
+<p>一是对项目的介绍，包括项目概述、项目价值、项目背景等</p>
+</blockquote>
+<blockquote>
+<p>整份文档的主体部分</p>
+</blockquote>
+<blockquote>
+<p>功能需求和非功能需求。</p>
+</blockquote>
+<blockquote>
+<p>用户界面就是以可视化的图形展示产品功能最终的模样。</p>
+</blockquote>
+<blockquote>
+<p>可以是视觉DEMO，也可以是产品原型，但前提是它不仅要具体到每个功能细节，而且功能的所有逻辑都必须是确定的，不会再有太大的调整（如有调整，应及时更新）。</p>
+</blockquote>
+<blockquote>
+<p>PRD通常以用例（Use Case）的形式逐个对产品需求进行详细的描述。</p>
+</blockquote>
+<blockquote>
+<p>非功能需求包括：性能需求（如响应时间、空间使用量等）、质量需求（如兼容性、安全性、可靠性等）、接口需求、维护性需求，等等。</p>
+</blockquote>
+<h3 id="◆-14-2-如何描述产品功能"><a href="#◆-14-2-如何描述产品功能" class="headerlink" title="◆ 14.2 如何描述产品功能"></a>◆ 14.2 如何描述产品功能</h3><blockquote>
+<p>用户界面和功能描述</p>
+</blockquote>
+<blockquote>
+<p>功能描述则是以文字的形式详细描述产品功能，一方面对用户界面呈现的内容进行了解释说明，另一方面还要负责补充描述那些我们无法使用用户界面来表达的逻辑细节。</p>
+</blockquote>
+<blockquote>
+<p>对产品功能的描述是整个PRD撰写过程中篇幅最大、最耗费精力的部分。</p>
+</blockquote>
+<blockquote>
+<p>用例（Use Case）是UML（Unified Modeling Language，统一建模语言）中一个非常重要的概念。UML对用例的定义是：在不展现系统或子系统内部结构的情况下，对系统或子系统的某个连贯的功能单元的定义和描述。</p>
+</blockquote>
+<blockquote>
+<p>用例把系统当作一个黑盒，完全不考虑系统设计（软件结构和数据结构设计），而是以用户的视角说明系统提供了哪些功能服务，这些功能服务是如何被使用的。</p>
+</blockquote>
+<h3 id="◆-14-4-PRD基本模板"><a href="#◆-14-4-PRD基本模板" class="headerlink" title="◆ 14.4 PRD基本模板"></a>◆ 14.4 PRD基本模板</h3><blockquote>
+<p>大部分大型互联网公司都有自己的PRD模板，由于模板规定了标准的格式，所以使用模板的好处是显而易见的：一方面，模板能够让产品经理新手写PRD变得相对容易，同时能够确保产品经理不会遗漏PRD中应该覆盖的部分；另一方 面，项目组成员不用去适应各种千奇百怪的PRD格式，阅读PRD也变得相对容易。</p>
+</blockquote>
+<h2 id="◆-第15章-项目管理的主要步骤"><a href="#◆-第15章-项目管理的主要步骤" class="headerlink" title="◆ 第15章 项目管理的主要步骤"></a>◆ 第15章 项目管理的主要步骤</h2><blockquote>
+<p>项目范围、项目时间和项目成本</p>
+</blockquote>
+<h3 id="◆-15-1-制订项目计划"><a href="#◆-15-1-制订项目计划" class="headerlink" title="◆ 15.1 制订项目计划"></a>◆ 15.1 制订项目计划</h3><blockquote>
+<p>要特别强调的是，项目经理要尽量避免在项目后期增加新成员的情况发 生。</p>
+</blockquote>
+<blockquote>
+<p>采用关键路径法来制订项目进度计划。</p>
+</blockquote>
+<blockquote>
+<p>对关键路径上的关键任务进行优化来获得最佳的项目进度安排</p>
+</blockquote>
+<blockquote>
+<p>向非关键路径要资</p>
+</blockquote>
+<blockquote>
+<p>让关键路径上的任务尽可能多地并行</p>
+</blockquote>
+<blockquote>
+<p>我们会使用借助Microsoft Project生成甘特图的方法来进行项目进度安排。Microsoft Project是一款功能强大、操作方便的项目管理工具软件。</p>
+</blockquote>
+<blockquote>
+<p>左侧罗列了项目所要完成的所有工作任务，右侧则以图形化的方式直观地说明了每项工作任务的相关信息</p>
+</blockquote>
+<h3 id="◆-16-1-严格控制产品范围"><a href="#◆-16-1-严格控制产品范围" class="headerlink" title="◆ 16.1 严格控制产品范围"></a>◆ 16.1 严格控制产品范围</h3><blockquote>
+<p>项目经理有责任让所有人明白减少需求变更的重要性，申明在产品需求评审之前，需求可以根据情况做出调整，但在产品需求评审之后，需求必须被锁定，任何人不得随意变更需求。</p>
+</blockquote>
+<blockquote>
+<p>制定一套行之有效的需求变更控制流程</p>
+</blockquote>
+<h3 id="◆-16-4-加强项目风险管理"><a href="#◆-16-4-加强项目风险管理" class="headerlink" title="◆ 16.4 加强项目风险管理"></a>◆ 16.4 加强项目风险管理</h3><blockquote>
+<p>项目风险管理可以大致分为风险识别、风险量化、制定应对措施和风险监控四个步骤。这四个步骤的工作交叉并行。</p>
+</blockquote>
+<h3 id="◆-18-1-微创新的重要性"><a href="#◆-18-1-微创新的重要性" class="headerlink" title="◆ 18.1 微创新的重要性"></a>◆ 18.1 微创新的重要性</h3><blockquote>
+<p>微创新，并不像颠覆性创新那样以焕然一新的方式满足人们的关键需求，而是从现有产品的细节地方着手，提供更加新颖而灵活的功能，让用户使用产品更加方便、更加简单。</p>
+</blockquote>
+<blockquote>
+<p>大量的微创新也能够给产品带来明显的差异化竞争优势。</p>
+</blockquote>
+<blockquote>
+<p>虽然每个微创新对于提升产品价值的效果并不明显，但是当这些微创新积累到一定数量级时，它们也能够明显地提升产品的竞争优势。</p>
+</blockquote>
+<h3 id="◆-18-3-如何高效创新"><a href="#◆-18-3-如何高效创新" class="headerlink" title="◆ 18.3 如何高效创新"></a>◆ 18.3 如何高效创新</h3><blockquote>
+<p>我们要把那些我们认为不起眼、不成熟的点子当成创新过程中有价值的成果</p>
+</blockquote>
+<blockquote>
+<p>一旦自己想到或别人提出新的点子，不要马上批判否定，找个地方 将它们逐一记录下来，有空的时候就回过头来对它们进行研究、思考</p>
+</blockquote>
+<blockquote>
+<p>在实际工作中，用“模仿加改良”的方法在别人产品的基础上进行进一步创新，是我们获取产品创意的重要来源。</p>
+</blockquote>
+<blockquote>
+<p>虽然这种方法很高效，但是或许会为很多人所不耻。他们认为把别人辛辛苦苦想出来的点子占为己有，是抄袭，是盗窃！首先，我们要明确“模仿加改良”并不等同于抄袭。</p>
+</blockquote>
+<blockquote>
+<p>正如乔布斯所说，“Good artists copy; Great artists steal”（能工摹其形，巧匠摄其魂）。</p>
+</blockquote>
+<blockquote>
+<p>因此，只要不是简单的抄袭，模仿优秀的产品并不是一件可耻的事情，相反，它是我们快速获取好创意的一条捷径。</p>
+</blockquote>
+<h3 id="◆-19-2-如何消除沟通中的分歧"><a href="#◆-19-2-如何消除沟通中的分歧" class="headerlink" title="◆ 19.2 如何消除沟通中的分歧"></a>◆ 19.2 如何消除沟通中的分歧</h3><blockquote>
+<p>有效的沟通始于倾听，沟通时我们首先要做的就是用心倾听。</p>
+</blockquote>
+<blockquote>
+<p>要避免一切容易让对方觉得你心不在 焉、无精打采、冷漠、不耐烦、抗拒和傲慢的行为举止。</p>
+</blockquote>
+<blockquote>
+<p>不要强行插话，随意打断对方讲话。在别人表述完整的观点时，不要因为想强调一些细枝末节，或修正对方无关紧要的错误而插话；不要未等对方讲完就按照自己过往的经验妄加评论、批评；更不要突然转移话题。</p>
+</blockquote>
+<blockquote>
+<p>鼓励对方把话说清楚</p>
+</blockquote>
+<blockquote>
+<p>给予对方的讲话必要的反应</p>
+</blockquote>
+<blockquote>
+<p>从对方的讲话中整理出重点</p>
+</blockquote>
+<blockquote>
+<p>们要避免对他人意见进行全盘性的否定</p>
+</blockquote>
+<blockquote>
+<p>我们要避免进行全盘性的否定，可以先表达一下对对方观点积极一面的认可，然后提出不同的看法和意见，</p>
+</blockquote>
+<blockquote>
+<p>所以，在与人沟通时，尤其是当沟通不顺畅的时候，我们要特别注意控制自己的情绪，不要出现情绪化的表情，不要拉高声调，不要过于大声。</p>
+</blockquote>
+<h3 id="◆-20-2-数据分析的步骤"><a href="#◆-20-2-数据分析的步骤" class="headerlink" title="◆ 20.2 数据分析的步骤"></a>◆ 20.2 数据分析的步骤</h3><blockquote>
+<p>明确数据分析目标就是要明确为什么进行这次数据分析，数据分析要研究的主要问题是什么，期望得到什么样的结果。</p>
+</blockquote>
+<blockquote>
+<p>评估X项目的实际项目效果；调查近期产品使用用户数下降的具体原因；分析A网站的主要推广渠道、推广效果的差异及原因；描述A产品的使用用户的特征，包括用户属性特征和行为特征；制定团队的业绩考核目标……</p>
+</blockquote>
+<blockquote>
+<p>根据目标有目的地收集相关的数据</p>
+</blockquote>
+<blockquote>
+<p>通过在产品功能上添加统计代码、记录用户使用产品的日志、开展调研等方法来获得第一手数据，也可以通过权威报告、开放的数据查询平台等渠道来间接获得第二手数据。</p>
+</blockquote>
+<blockquote>
+<p>自己开发一套强大的、完整的数据统计 与分析系统</p>
+</blockquote>
+<blockquote>
+<p>也可以选择直接使用第三方提供的专业的数据统计服务，如Google的Google Analytics。</p>
+</blockquote>
+<blockquote>
+<p>确定和该目标最相关的关键数据指标</p>
+</blockquote>
+<blockquote>
+<p>第一个层次是用描述统计的方法对数据进行整理，然后加以简化或绘制成图表，用以描述数据的特征及分布规律</p>
+</blockquote>
+<blockquote>
+<p>例如用数据说明公司近几个季度的营收情况</p>
+</blockquote>
+<blockquote>
+<p>第二个层次则是用推断统计的方法对数据进行处理，分析数据之间的关系或以样本信息推测总体的特征和规律</p>
+</blockquote>
+<blockquote>
+<p>例如分析产品使用用户数下跌的主要原因</p>
+</blockquote>
+<h2 id="◆-点评"><a href="#◆-点评" class="headerlink" title="◆ 点评"></a>◆ 点评</h2><p>点评:★★★☆☆</p>
+]]></content>
+      <categories>
+        <category>PM</category>
+      </categories>
+      <tags>
+        <tag>读书笔记复盘</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《产品经理面试攻略》读书笔记</title>
     <url>/2020/04/22/%E3%80%8A%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E9%9D%A2%E8%AF%95%E6%94%BB%E7%95%A5%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>产品经理面试攻略<br>蓝鲸部落<br>262个笔记</p>
@@ -798,6 +1320,24 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2020/04/14/hello-world/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>《人人都是产品经理》读书笔记</title>
     <url>/2020/04/21/%E3%80%8A%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>人人都是产品经理<br>苏杰<br>218个笔记</p>
@@ -1466,527 +2006,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/04/14/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>《产品经理的20堂必修课》读书笔记</title>
-    <url>/2020/04/21/%E3%80%8A%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E7%9A%8420%E5%A0%82%E5%BF%85%E4%BF%AE%E8%AF%BE%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>产品经理的20堂必修课<br>徐建极<br>163个笔记</p>
-<h3 id="◆-1-1-以满足用户需求为目的"><a href="#◆-1-1-以满足用户需求为目的" class="headerlink" title="◆ 1.1 以满足用户需求为目的"></a>◆ 1.1 以满足用户需求为目的</h3><blockquote>
-<p>无论是传统行业的产品，还是互联网产品，它们都是由一系列功能组合而成，用于满足用户一系列的需求，而这些功能所满足的用户需求则在根本上决定了产品价值的大小。</p>
-</blockquote>
-<h3 id="◆-1-2-核心需求决定了市场最大效果"><a href="#◆-1-2-核心需求决定了市场最大效果" class="headerlink" title="◆ 1.2 核心需求决定了市场最大效果"></a>◆ 1.2 核心需求决定了市场最大效果</h3><blockquote>
-<p>无论产品的功能如何丰富，每款产品都会有一个主体的功能或功能组，用于重点、优先满足用户的某个需求。这一个主体的功能或功能组处于所有产品功能的关键位置，我们称之为产品的“核心功能”。</p>
-</blockquote>
-<blockquote>
-<p>核心功能所满足的用户需求往往就是用户对于该产品的核心需求，是用户使用该产品最根本的目的。</p>
-</blockquote>
-<h3 id="◆-1-3-让核心功能满足人们的基本需求"><a href="#◆-1-3-让核心功能满足人们的基本需求" class="headerlink" title="◆ 1.3 让核心功能满足人们的基本需求"></a>◆ 1.3 让核心功能满足人们的基本需求</h3><blockquote>
-<p>它应该满足用户哪些需求呢？答案自然是人们生活中最不能放弃的那些需求，也就是我们所说的“人的基本需求”。</p>
-</blockquote>
-<blockquote>
-<p>基本需求是人们生活中最旺盛的一些需求。如果一款产品的核心功能能够很好地满足人们的基本需求，那么这款产品就相当于天生具备优良的基因，它的潜在用户会非常多，用户使用产品的频率会非常高，同时用户所愿意付出的操作成本也会非常高。</p>
-</blockquote>
-<blockquote>
-<p>八大类需求从低层次到高层次分别为：生理需求、安全需求、归属与爱的需求、尊重需求、认知需求、美学需求、自我实现的需求、超越需求。<br>￼<br><strong>马斯洛需求层次理论</strong></p>
-</blockquote>
-<blockquote>
-<p>在虚拟世界中，多数人的需求结构是与互联网行业发展水平直接相关的。</p>
-</blockquote>
-<blockquote>
-<p>但是随着互联网的发展，人们对于情感需求的满足会越来越强烈。</p>
-</blockquote>
-<blockquote>
-<p>不是说我们要让自己的产品获得成功，就一定要瞄准人们的基本需求，因为这种需求毕竟是非常有限的，</p>
-</blockquote>
-<blockquote>
-<p>如果产品瞄准的是小众的需求，那么产品仍然能够获得某种意义上的成功，</p>
-</blockquote>
-<h2 id="◆-第2章-围绕用户需求打造产品竞争力"><a href="#◆-第2章-围绕用户需求打造产品竞争力" class="headerlink" title="◆ 第2章 围绕用户需求打造产品竞争力"></a>◆ 第2章 围绕用户需求打造产品竞争力</h2><blockquote>
-<p>第一，互联网产品的用户积累可以直接转化为产品上的优势。</p>
-</blockquote>
-<blockquote>
-<p>一般情况下，一款产品的用户越多，用户产生的内容也越多，而产品上的内容越多，产品就越能够吸引更多用户来使用。</p>
-</blockquote>
-<blockquote>
-<p>第二，互联网产品间的用户转移成本非常低。</p>
-</blockquote>
-<h3 id="◆-2-1-不同层次的用户需求"><a href="#◆-2-1-不同层次的用户需求" class="headerlink" title="◆ 2.1 不同层次的用户需求"></a>◆ 2.1 不同层次的用户需求</h3><blockquote>
-<p>我们要对不同用户需求进行区别对待，将有限的精力投入到那些可以有效提升产品价值的用户需求上。</p>
-</blockquote>
-<blockquote>
-<p>卡诺模型（KANO模型）</p>
-</blockquote>
-<blockquote>
-<p>根据卡诺模型，我们可以将用户需求分为三种类型：基本型、期望型和兴奋型。</p>
-</blockquote>
-<h3 id="◆-2-2-围绕用户需求创造产品价值"><a href="#◆-2-2-围绕用户需求创造产品价值" class="headerlink" title="◆ 2.2 围绕用户需求创造产品价值"></a>◆ 2.2 围绕用户需求创造产品价值</h3><blockquote>
-<p>产品满足用户需求的方式的变化过程有一定规律，它们总是朝着增加产品自动化，降低人们使用成本，为人们带来更多的便利和享受的方向发展。</p>
-</blockquote>
-<blockquote>
-<p>如果产品能够提供一两个功能满足用户的兴奋型需求，那么产品的用户忠诚度就会得到空前提高，并形成良好的产品口碑效应。</p>
-</blockquote>
-<blockquote>
-<p>产品独特的卖点被不断强化，产品就更容易被用户所发现和关注，</p>
-</blockquote>
-<blockquote>
-<p>应该麻木地去开发新的产品功能，而是要结合每个阶段产品的实际情况，选择最佳的用户需求组合，</p>
-</blockquote>
-<h3 id="◆-3-1-我们往往做不到“需求导向”"><a href="#◆-3-1-我们往往做不到“需求导向”" class="headerlink" title="◆ 3.1 我们往往做不到“需求导向”"></a>◆ 3.1 我们往往做不到“需求导向”</h3><blockquote>
-<p>关键就在于如何在两者间寻找合理的平衡点，使产品能够更加健康、长远地发展。</p>
-</blockquote>
-<blockquote>
-<p>流行的产品概念可以为我们拓宽思维，帮助我们找到更好的产品解决方案，进而去更好地满足用户需求，但是在产品创新时，产品经理还是应该回归产品的原点，从用户需求出发。</p>
-</blockquote>
-<blockquote>
-<p>如果新开发的产品功能能够满足用户的普遍需求，那么功能上线之后都会对结果指标的提升有正面的影响；</p>
-</blockquote>
-<blockquote>
-<p>能够促进指标增长的产品功能，并不都是符合用户需求的</p>
-</blockquote>
-<blockquote>
-<p>想产品赢得更多用户，在完成指标时，我们仍然要坚守一个前提，那就是充分尊重用户，尊重用户的需求</p>
-</blockquote>
-<blockquote>
-<p>产品方案的对错、好坏并不是老板说了算，也不是产品经理说了算，而是用户说了算。谁更理解用户，站在用户的角度替用户说话，就应该听谁的。</p>
-</blockquote>
-<h3 id="◆-3-2-难以捉摸的用户需求"><a href="#◆-3-2-难以捉摸的用户需求" class="headerlink" title="◆ 3.2 难以捉摸的用户需求"></a>◆ 3.2 难以捉摸的用户需求</h3><blockquote>
-<p>深入理解用户在需求上对产品的使用场景。</p>
-</blockquote>
-<blockquote>
-<p>让自己成为产品的深度用户，或是要多走到用户中间去</p>
-</blockquote>
-<blockquote>
-<p>乔布斯从来不做市场调查，他做市场调查的时候就是早上起来照照镜子，然后问问自己需要什么。苹果公司的产品很成功，乔布斯很成功，但是绝大多数的产品经理都不具备乔布斯那般的天赋和品位，能够让用户的需求以自己的需求为标杆。</p>
-</blockquote>
-<blockquote>
-<p>不把自己的需求当成用户需求，不要认为自己喜欢的，用户也会喜欢；</p>
-</blockquote>
-<blockquote>
-<p>不把少数用户的需求当成多数用户的需求，不要浪费过多的精力在一些边缘需求上。</p>
-</blockquote>
-<p><strong>顺应潮流→把握未来</strong></p>
-<blockquote>
-<p>一些需求受外部大环境的限制，刚开始会被掩盖着或压抑着，而一旦时机成熟，这些需求就会大爆发，并迅速形成一种潮流</p>
-</blockquote>
-<blockquote>
-<p>一些需求受外部大环境的限制，刚开始会被掩盖着或压抑着，而一旦时机成熟，这些需求就会大爆发，并迅速形成一种潮流</p>
-</blockquote>
-<h2 id="◆-第4章-简单，让产品更加锋利"><a href="#◆-第4章-简单，让产品更加锋利" class="headerlink" title="◆ 第4章 简单，让产品更加锋利"></a>◆ 第4章 简单，让产品更加锋利</h2><blockquote>
-<p>用户总是在追求可以以更低的成本获得更大价值的产品</p>
-</blockquote>
-<blockquote>
-<p>一是产品能够满足大众的基本需求，二是产品的使用门槛足够低。</p>
-</blockquote>
-<blockquote>
-<p>提升产品的自身价值</p>
-</blockquote>
-<blockquote>
-<p>降低产品的用户使用门槛。</p>
-</blockquote>
-<blockquote>
-<p>让产品尽可能简单、易用。</p>
-</blockquote>
-<h3 id="◆-4-1-简单原则为什么重要"><a href="#◆-4-1-简单原则为什么重要" class="headerlink" title="◆ 4.1 简单原则为什么重要"></a>◆ 4.1 简单原则为什么重要</h3><blockquote>
-<p>乔布斯领导的苹果公司更是将“简单”奉为至高无上的信仰</p>
-</blockquote>
-<blockquote>
-<p>乔布斯说：“简单之所以比复杂更难，是因为你必须努力地清空你的大脑，让它变得简单。但这种努力最终被证实为有价值，因为你一旦进入那种境界，便可以撼动大山。”</p>
-</blockquote>
-<blockquote>
-<p>懒惰是人的天性</p>
-</blockquote>
-<blockquote>
-<p>快节奏的网络生活给人们带来了便利，但也让人们在使用互联网产品时更加缺乏耐性，他们基本上不会去看产品的使用教程，</p>
-</blockquote>
-<blockquote>
-<p>有时候甚至连多点几下鼠标，多取消一个提示框都会觉得麻烦。</p>
-</blockquote>
-<h3 id="◆-4-2-如何将产品做得更简单"><a href="#◆-4-2-如何将产品做得更简单" class="headerlink" title="◆ 4.2 如何将产品做得更简单"></a>◆ 4.2 如何将产品做得更简单</h3><blockquote>
-<p>不少人在内心深处却又非常抵触简单，因为简单常常会被认为普通、平庸、弱智。</p>
-</blockquote>
-<blockquote>
-<p>多数人认为做简单的事物是一件简单的事情，但是事实上要把简单的事物复杂化很容易，要把复杂的事物简单化却非常困难。</p>
-</blockquote>
-<blockquote>
-<p>有着清晰、独特的定位，并能够在这个定位的指导下专注地将产品做到极致。</p>
-</blockquote>
-<blockquote>
-<p>简单地只支持随机播放高品质音乐，但是它却比大部分的音乐播放器更加受欢迎。</p>
-</blockquote>
-<h2 id="◆-第5章-用运营构筑产品竞争壁垒"><a href="#◆-第5章-用运营构筑产品竞争壁垒" class="headerlink" title="◆ 第5章 用运营构筑产品竞争壁垒"></a>◆ 第5章 用运营构筑产品竞争壁垒</h2><blockquote>
-<p>产品的功能是由产品人员负责的，产品的内容是由运营人员负责的，产品人员和运营人员相互配合，他们的共同目标就是服务好用户，让产品更好地满足用户的需求。</p>
-</blockquote>
-<h3 id="◆-5-1-围绕内容的运营"><a href="#◆-5-1-围绕内容的运营" class="headerlink" title="◆ 5.1 围绕内容的运营"></a>◆ 5.1 围绕内容的运营</h3><blockquote>
-<p>互联网产品内容的生产方式主要有三种：自己生产内容、用户生成内容、获取外部现成内容</p>
-</blockquote>
-<blockquote>
-<p>这些内容并不完全是由运营人员原创的，其中完全原创的内容非常少，大部分内容都是运营人员从其他渠道搜集过来再二次加工整理后产生的</p>
-</blockquote>
-<blockquote>
-<p>所以这些负责内容运营的人员常常又被称为编辑。</p>
-</blockquote>
-<p><strong>pgc</strong></p>
-<blockquote>
-<p>有专业的人员参与内容的建设</p>
-</blockquote>
-<blockquote>
-<p>有专业的人员参与内容的建设</p>
-</blockquote>
-<blockquote>
-<p>用户生成内容也就是我们所说的UGC（User Generated Content）。</p>
-</blockquote>
-<p><strong>例子不恰当，apple拿绝大部分收益。</strong></p>
-<blockquote>
-<p>在苹果AppStore这个应用平台上，当应用带来了收入时，应用服务提供商就可以和平台按比例分配所得收入</p>
-</blockquote>
-<blockquote>
-<p>在苹果AppStore这个应用平台上，当应用带来了收入时，应用服务提供商就可以和平台按比例分配所得收入</p>
-</blockquote>
-<blockquote>
-<p>常见的做法就是通过技术手段直接抓取外部内容，然后对这些内容进行聚合、筛选、处理和展示。</p>
-</blockquote>
-<blockquote>
-<p>对于很多内容提供商、渠道来说，独特的内容是他们自身价值的重要组成部分，所以有时候他们并不允许别人直接抓取自己的内容。</p>
-</blockquote>
-<blockquote>
-<p>这时候产品要想获取这些内容，就得和他们开展内容上的合作。</p>
-</blockquote>
-<blockquote>
-<p>优质内容通过各种手段推荐到首页等明显的位置，或是围绕某一主题制作内容专题，将好的内容打包推送给用户。</p>
-</blockquote>
-<blockquote>
-<p>趋同效应</p>
-</blockquote>
-<blockquote>
-<p>给优质内容确定一个固定的标准</p>
-</blockquote>
-<blockquote>
-<p>运营人员按标准生成早期的主流内容</p>
-</blockquote>
-<blockquote>
-<p>在产品发展的初期，产品的使用用户较少，用户自发生成的内容就非常少，这时候运营人员生成的内容很容易成为产品的主流内容。</p>
-</blockquote>
-<blockquote>
-<p>大部分用户都能够自觉地按照标准生成符合要求的内容，但是仍然会有一些用户</p>
-</blockquote>
-<blockquote>
-<p>奖励和惩罚两种手段确保用户严格执行我们的内容标准</p>
-</blockquote>
-<h3 id="◆-5-2-围绕用户的运营"><a href="#◆-5-2-围绕用户的运营" class="headerlink" title="◆ 5.2 围绕用户的运营"></a>◆ 5.2 围绕用户的运营</h3><blockquote>
-<p>用户运营的工作，指的是运营人员通过一系列的运营手段，诱发用户去做所要求的行为，让用户为产品创造更多的价值，进而实现产品的商业目标。</p>
-</blockquote>
-<blockquote>
-<p>一方面扩大入口，将更多目标用户转化为产品的使用用户；另一方面缩紧出口，降低用户的流失率，尽量避免产品使用用户的流失。</p>
-</blockquote>
-<blockquote>
-<p>产品推广计划</p>
-</blockquote>
-<p><strong>口碑营销</strong></p>
-<blockquote>
-<p>病毒营销</p>
-</blockquote>
-<blockquote>
-<p>病毒营销</p>
-</blockquote>
-<blockquote>
-<p>通过人们的人际关系网络</p>
-</blockquote>
-<blockquote>
-<p>一种是具有很强娱乐性的活动。</p>
-</blockquote>
-<blockquote>
-<p>另一种是能够给用户带来实实在在利益的活动。</p>
-</blockquote>
-<h3 id="◆-6-3-霸道进攻——抢占互联网渠道"><a href="#◆-6-3-霸道进攻——抢占互联网渠道" class="headerlink" title="◆ 6.3 霸道进攻——抢占互联网渠道"></a>◆ 6.3 霸道进攻——抢占互联网渠道</h3><blockquote>
-<p>对生态系统内用户渠道的控制能力</p>
-</blockquote>
-<blockquote>
-<p>一是做好产品，通过产品的口碑来吸引用户</p>
-</blockquote>
-<blockquote>
-<p>另一种就是通过渠道直接将我们的产品推送到用 户的面前</p>
-</blockquote>
-<h3 id="◆-7-2-不同的产品团队组织结构"><a href="#◆-7-2-不同的产品团队组织结构" class="headerlink" title="◆ 7.2 不同的产品团队组织结构"></a>◆ 7.2 不同的产品团队组织结构</h3><blockquote>
-<p>职能型组织结构以职能作为部门划分的依据，即把相同职能的人员放在一个部门</p>
-</blockquote>
-<blockquote>
-<p>除产品经理以外的人员每天接触不同的产品，对每个产品的目标无法深入了解，目标不清晰，成就感不强。</p>
-</blockquote>
-<blockquote>
-<p>项目型组织结构是围绕一个个产品或产品集群来组建部门的，不同的产品或产品集群设立不同的部门，每个部门会配备不同职能的人员，一般会包含产品经理、设计师、开发工程师、产品运营人员等角色。</p>
-</blockquote>
-<blockquote>
-<p>矩阵型组织结构是职能型组织结构与项目型组织结构共同存在的一种组织结构形式，不同职能的人员仍然归属不同的部门，但当某个项目启动时，会临时将 不同职能部门的成员组成一个项目团队，来共同完成这个项目，项目期间项目组成员不接收项目以外的其他工作。</p>
-</blockquote>
-<h3 id="◆-8-1-产品策略制定"><a href="#◆-8-1-产品策略制定" class="headerlink" title="◆ 8.1 产品策略制定"></a>◆ 8.1 产品策略制定</h3><blockquote>
-<p>产品经理在进行产品设计之前，还要搞清楚产品所处的生命周期位置。</p>
-</blockquote>
-<blockquote>
-<p>产品处于引入期时，产品规划工作应该主要围绕完善产品基础功能来进行；产品处于衰退期时，产品经理就可以 向公司提出产品退出建议和方案，或是对产品进行重新定位，使产品“老树开新花”。</p>
-</blockquote>
-<h3 id="◆-8-2-用户需求分析"><a href="#◆-8-2-用户需求分析" class="headerlink" title="◆ 8.2 用户需求分析"></a>◆ 8.2 用户需求分析</h3><blockquote>
-<p>BRD由产品经理向公司高层提交，用于说明用户存在哪些需求以及这些需求的重要程度，建议提供哪些功能来满足用户的这些需求，同时给出预估的商业价值和简单的市场竞争分析。</p>
-</blockquote>
-<blockquote>
-<p>文档内容的重点放在对产品需求商业价值的阐述和论证上。</p>
-</blockquote>
-<blockquote>
-<p>MRD（MarketRequirement Document，市场需求文档）</p>
-</blockquote>
-<blockquote>
-<p>BRD侧重于分析和论证产品需求的商业价值，不包含产品功能的细节</p>
-</blockquote>
-<blockquote>
-<p>MRD则是对产品需求的商业价值进行更加细致、全面的分析，并重点、详细描述具体的产品功能。</p>
-</blockquote>
-<blockquote>
-<p>一般来说，产品经理在申请项目立项时，提交一份BRD文档就足够了；对于一些产品范围特别小的项目，产品经理甚至没必要提交正式的BRD文档，只需要向公司高层简单说明用户需求、商业价值和产品功能即可。</p>
-</blockquote>
-<h3 id="◆-8-3-产品功能规划"><a href="#◆-8-3-产品功能规划" class="headerlink" title="◆ 8.3 产品功能规划"></a>◆ 8.3 产品功能规划</h3><blockquote>
-<p>原型图一般用Axure绘制，或依个人习惯用Dreamweaver、PS、画图板等工具实现；流程图一般用Visio绘制。</p>
-</blockquote>
-<h3 id="◆-9-2-将用户反馈解析为用户需求"><a href="#◆-9-2-将用户反馈解析为用户需求" class="headerlink" title="◆ 9.2 将用户反馈解析为用户需求"></a>◆ 9.2 将用户反馈解析为用户需求</h3><blockquote>
-<p>当用户的需求是“网站要提供最近流行的美剧”时，产品经理就得考虑引导或激励网站用户更多地提交美剧，或是直接让网站运营人员加大美剧的更新频率；当用户的需求是“在网站首页提供更多有意思的视频”时，产品经理就得考虑调整网站首页模块，或是优化算法以使更多有意思的视频能够被推荐到首页。</p>
-</blockquote>
-<h3 id="◆-10-3-确定产品需求优先级"><a href="#◆-10-3-确定产品需求优先级" class="headerlink" title="◆ 10.3 确定产品需求优先级"></a>◆ 10.3 确定产品需求优先级</h3><blockquote>
-<p>大部分互联网公司都主张“小步快跑，快速迭代”的产品开发方式</p>
-</blockquote>
-<blockquote>
-<p>每个阶段只选取最重要的产品需求进行开发，力争以最快的速度将产品新版本投入市场，通过不断地收集用户需求、不断地版本迭代来逐步地完善产品。为了确保每个阶段总是在开发最重要的产品需求，就需要通过确定各个需求的优先级来对产品需求进行取舍。</p>
-</blockquote>
-<h2 id="◆-第11章-流程图制作"><a href="#◆-第11章-流程图制作" class="headerlink" title="◆ 第11章 流程图制作"></a>◆ 第11章 流程图制作</h2><blockquote>
-<p>在规划产品功能时，产品经理需要和设计师一起将原本比较抽象的产品需求变得更加具体</p>
-</blockquote>
-<h2 id="◆-第12章-产品原型制作"><a href="#◆-第12章-产品原型制作" class="headerlink" title="◆ 第12章 产品原型制作"></a>◆ 第12章 产品原型制作</h2><blockquote>
-<p>制作产品原型是关键的一个环节，因为它要将大量存在于产品经理脑海中的信息转化为可视化的图形。</p>
-</blockquote>
-<blockquote>
-<p>产品原型要涵盖三个要素：元素、界面、交互。</p>
-</blockquote>
-<blockquote>
-<p>产品原型是由产品经理和交互设计师一起完成的</p>
-</blockquote>
-<blockquote>
-<p>在产品价值、产品可用性和技术成本之间寻找最佳的平衡点，而产品原型正好是完成这项工作的最佳工具。</p>
-</blockquote>
-<blockquote>
-<p>产品经理负责制作最原始版本的产品原型，在产品原始的功能、内容相对确定的情况下，再由交互设计师对产品原型进行优化，进一步提升产品的可用性。</p>
-</blockquote>
-<h3 id="◆-12-1-产品原型的重要性"><a href="#◆-12-1-产品原型的重要性" class="headerlink" title="◆ 12.1 产品原型的重要性"></a>◆ 12.1 产品原型的重要性</h3><blockquote>
-<p>一旦产品需求进入开发环节，再进行需求变更所要付出的代价往往是巨大的</p>
-</blockquote>
-<blockquote>
-<p>在我们投入大量资源进行实际设计和开发之前，对规划的产品功能进行评估，确保产品需求是正确的、合理的就非常有必要了。</p>
-</blockquote>
-<h3 id="◆-12-2-如何制作产品原型"><a href="#◆-12-2-如何制作产品原型" class="headerlink" title="◆ 12.2 如何制作产品原型"></a>◆ 12.2 如何制作产品原型</h3><blockquote>
-<p>制作产品原型不用拘泥于工具，用原型制作软件（Axure、Balsamiq）、流程图软件（Visio）、图像处理软件（Photoshop）、办公软件（Word、Excel、PowerPoint）、HTML编辑器（Dreamweaver）</p>
-</blockquote>
-<blockquote>
-<p>Axure由于操作简单、功能强大，受到多数人的推崇</p>
-</blockquote>
-<blockquote>
-<p>要尽可能考虑周全，尤其要注意不要遗漏一些特殊或极端情况下的功能或内容。</p>
-</blockquote>
-<blockquote>
-<p>对每个元素的描述要落实到具体细节上，避免过于空泛。</p>
-</blockquote>
-<blockquote>
-<p>我们还可以以注释的形式对一些难以用简单图形表达的功能或内容加以必要的说明。</p>
-</blockquote>
-<blockquote>
-<p>产品原型应该摒弃视觉元素，务求原汁原味地展示产品需求，重点体现产品的价值和可用性。</p>
-</blockquote>
-<h2 id="◆-第14章-产品需求文档（PRD）撰写"><a href="#◆-第14章-产品需求文档（PRD）撰写" class="headerlink" title="◆ 第14章 产品需求文档（PRD）撰写"></a>◆ 第14章 产品需求文档（PRD）撰写</h2><blockquote>
-<p>PRD是英文“Product Requirement Document”的缩写，翻译为中文就是“产品需求文档”，主要用于完整描述产品需求，向研发部门明确产品的功能和性能。</p>
-</blockquote>
-<blockquote>
-<p>PRD是产品项目过程中最为重要的文档。PRD的面向对象是研发部门，用于向他们说明要开发的产品功能以及这些产品功能的性能要求。</p>
-</blockquote>
-<h3 id="◆-14-1-PRD的主要内容"><a href="#◆-14-1-PRD的主要内容" class="headerlink" title="◆ 14.1 PRD的主要内容"></a>◆ 14.1 PRD的主要内容</h3><blockquote>
-<p>一是对项目的介绍，包括项目概述、项目价值、项目背景等</p>
-</blockquote>
-<blockquote>
-<p>整份文档的主体部分</p>
-</blockquote>
-<blockquote>
-<p>功能需求和非功能需求。</p>
-</blockquote>
-<blockquote>
-<p>用户界面就是以可视化的图形展示产品功能最终的模样。</p>
-</blockquote>
-<blockquote>
-<p>可以是视觉DEMO，也可以是产品原型，但前提是它不仅要具体到每个功能细节，而且功能的所有逻辑都必须是确定的，不会再有太大的调整（如有调整，应及时更新）。</p>
-</blockquote>
-<blockquote>
-<p>PRD通常以用例（Use Case）的形式逐个对产品需求进行详细的描述。</p>
-</blockquote>
-<blockquote>
-<p>非功能需求包括：性能需求（如响应时间、空间使用量等）、质量需求（如兼容性、安全性、可靠性等）、接口需求、维护性需求，等等。</p>
-</blockquote>
-<h3 id="◆-14-2-如何描述产品功能"><a href="#◆-14-2-如何描述产品功能" class="headerlink" title="◆ 14.2 如何描述产品功能"></a>◆ 14.2 如何描述产品功能</h3><blockquote>
-<p>用户界面和功能描述</p>
-</blockquote>
-<blockquote>
-<p>功能描述则是以文字的形式详细描述产品功能，一方面对用户界面呈现的内容进行了解释说明，另一方面还要负责补充描述那些我们无法使用用户界面来表达的逻辑细节。</p>
-</blockquote>
-<blockquote>
-<p>对产品功能的描述是整个PRD撰写过程中篇幅最大、最耗费精力的部分。</p>
-</blockquote>
-<blockquote>
-<p>用例（Use Case）是UML（Unified Modeling Language，统一建模语言）中一个非常重要的概念。UML对用例的定义是：在不展现系统或子系统内部结构的情况下，对系统或子系统的某个连贯的功能单元的定义和描述。</p>
-</blockquote>
-<blockquote>
-<p>用例把系统当作一个黑盒，完全不考虑系统设计（软件结构和数据结构设计），而是以用户的视角说明系统提供了哪些功能服务，这些功能服务是如何被使用的。</p>
-</blockquote>
-<h3 id="◆-14-4-PRD基本模板"><a href="#◆-14-4-PRD基本模板" class="headerlink" title="◆ 14.4 PRD基本模板"></a>◆ 14.4 PRD基本模板</h3><blockquote>
-<p>大部分大型互联网公司都有自己的PRD模板，由于模板规定了标准的格式，所以使用模板的好处是显而易见的：一方面，模板能够让产品经理新手写PRD变得相对容易，同时能够确保产品经理不会遗漏PRD中应该覆盖的部分；另一方 面，项目组成员不用去适应各种千奇百怪的PRD格式，阅读PRD也变得相对容易。</p>
-</blockquote>
-<h2 id="◆-第15章-项目管理的主要步骤"><a href="#◆-第15章-项目管理的主要步骤" class="headerlink" title="◆ 第15章 项目管理的主要步骤"></a>◆ 第15章 项目管理的主要步骤</h2><blockquote>
-<p>项目范围、项目时间和项目成本</p>
-</blockquote>
-<h3 id="◆-15-1-制订项目计划"><a href="#◆-15-1-制订项目计划" class="headerlink" title="◆ 15.1 制订项目计划"></a>◆ 15.1 制订项目计划</h3><blockquote>
-<p>要特别强调的是，项目经理要尽量避免在项目后期增加新成员的情况发 生。</p>
-</blockquote>
-<blockquote>
-<p>采用关键路径法来制订项目进度计划。</p>
-</blockquote>
-<blockquote>
-<p>对关键路径上的关键任务进行优化来获得最佳的项目进度安排</p>
-</blockquote>
-<blockquote>
-<p>向非关键路径要资</p>
-</blockquote>
-<blockquote>
-<p>让关键路径上的任务尽可能多地并行</p>
-</blockquote>
-<blockquote>
-<p>我们会使用借助Microsoft Project生成甘特图的方法来进行项目进度安排。Microsoft Project是一款功能强大、操作方便的项目管理工具软件。</p>
-</blockquote>
-<blockquote>
-<p>左侧罗列了项目所要完成的所有工作任务，右侧则以图形化的方式直观地说明了每项工作任务的相关信息</p>
-</blockquote>
-<h3 id="◆-16-1-严格控制产品范围"><a href="#◆-16-1-严格控制产品范围" class="headerlink" title="◆ 16.1 严格控制产品范围"></a>◆ 16.1 严格控制产品范围</h3><blockquote>
-<p>项目经理有责任让所有人明白减少需求变更的重要性，申明在产品需求评审之前，需求可以根据情况做出调整，但在产品需求评审之后，需求必须被锁定，任何人不得随意变更需求。</p>
-</blockquote>
-<blockquote>
-<p>制定一套行之有效的需求变更控制流程</p>
-</blockquote>
-<h3 id="◆-16-4-加强项目风险管理"><a href="#◆-16-4-加强项目风险管理" class="headerlink" title="◆ 16.4 加强项目风险管理"></a>◆ 16.4 加强项目风险管理</h3><blockquote>
-<p>项目风险管理可以大致分为风险识别、风险量化、制定应对措施和风险监控四个步骤。这四个步骤的工作交叉并行。</p>
-</blockquote>
-<h3 id="◆-18-1-微创新的重要性"><a href="#◆-18-1-微创新的重要性" class="headerlink" title="◆ 18.1 微创新的重要性"></a>◆ 18.1 微创新的重要性</h3><blockquote>
-<p>微创新，并不像颠覆性创新那样以焕然一新的方式满足人们的关键需求，而是从现有产品的细节地方着手，提供更加新颖而灵活的功能，让用户使用产品更加方便、更加简单。</p>
-</blockquote>
-<blockquote>
-<p>大量的微创新也能够给产品带来明显的差异化竞争优势。</p>
-</blockquote>
-<blockquote>
-<p>虽然每个微创新对于提升产品价值的效果并不明显，但是当这些微创新积累到一定数量级时，它们也能够明显地提升产品的竞争优势。</p>
-</blockquote>
-<h3 id="◆-18-3-如何高效创新"><a href="#◆-18-3-如何高效创新" class="headerlink" title="◆ 18.3 如何高效创新"></a>◆ 18.3 如何高效创新</h3><blockquote>
-<p>我们要把那些我们认为不起眼、不成熟的点子当成创新过程中有价值的成果</p>
-</blockquote>
-<blockquote>
-<p>一旦自己想到或别人提出新的点子，不要马上批判否定，找个地方 将它们逐一记录下来，有空的时候就回过头来对它们进行研究、思考</p>
-</blockquote>
-<blockquote>
-<p>在实际工作中，用“模仿加改良”的方法在别人产品的基础上进行进一步创新，是我们获取产品创意的重要来源。</p>
-</blockquote>
-<blockquote>
-<p>虽然这种方法很高效，但是或许会为很多人所不耻。他们认为把别人辛辛苦苦想出来的点子占为己有，是抄袭，是盗窃！首先，我们要明确“模仿加改良”并不等同于抄袭。</p>
-</blockquote>
-<blockquote>
-<p>正如乔布斯所说，“Good artists copy; Great artists steal”（能工摹其形，巧匠摄其魂）。</p>
-</blockquote>
-<blockquote>
-<p>因此，只要不是简单的抄袭，模仿优秀的产品并不是一件可耻的事情，相反，它是我们快速获取好创意的一条捷径。</p>
-</blockquote>
-<h3 id="◆-19-2-如何消除沟通中的分歧"><a href="#◆-19-2-如何消除沟通中的分歧" class="headerlink" title="◆ 19.2 如何消除沟通中的分歧"></a>◆ 19.2 如何消除沟通中的分歧</h3><blockquote>
-<p>有效的沟通始于倾听，沟通时我们首先要做的就是用心倾听。</p>
-</blockquote>
-<blockquote>
-<p>要避免一切容易让对方觉得你心不在 焉、无精打采、冷漠、不耐烦、抗拒和傲慢的行为举止。</p>
-</blockquote>
-<blockquote>
-<p>不要强行插话，随意打断对方讲话。在别人表述完整的观点时，不要因为想强调一些细枝末节，或修正对方无关紧要的错误而插话；不要未等对方讲完就按照自己过往的经验妄加评论、批评；更不要突然转移话题。</p>
-</blockquote>
-<blockquote>
-<p>鼓励对方把话说清楚</p>
-</blockquote>
-<blockquote>
-<p>给予对方的讲话必要的反应</p>
-</blockquote>
-<blockquote>
-<p>从对方的讲话中整理出重点</p>
-</blockquote>
-<blockquote>
-<p>们要避免对他人意见进行全盘性的否定</p>
-</blockquote>
-<blockquote>
-<p>我们要避免进行全盘性的否定，可以先表达一下对对方观点积极一面的认可，然后提出不同的看法和意见，</p>
-</blockquote>
-<blockquote>
-<p>所以，在与人沟通时，尤其是当沟通不顺畅的时候，我们要特别注意控制自己的情绪，不要出现情绪化的表情，不要拉高声调，不要过于大声。</p>
-</blockquote>
-<h3 id="◆-20-2-数据分析的步骤"><a href="#◆-20-2-数据分析的步骤" class="headerlink" title="◆ 20.2 数据分析的步骤"></a>◆ 20.2 数据分析的步骤</h3><blockquote>
-<p>明确数据分析目标就是要明确为什么进行这次数据分析，数据分析要研究的主要问题是什么，期望得到什么样的结果。</p>
-</blockquote>
-<blockquote>
-<p>评估X项目的实际项目效果；调查近期产品使用用户数下降的具体原因；分析A网站的主要推广渠道、推广效果的差异及原因；描述A产品的使用用户的特征，包括用户属性特征和行为特征；制定团队的业绩考核目标……</p>
-</blockquote>
-<blockquote>
-<p>根据目标有目的地收集相关的数据</p>
-</blockquote>
-<blockquote>
-<p>通过在产品功能上添加统计代码、记录用户使用产品的日志、开展调研等方法来获得第一手数据，也可以通过权威报告、开放的数据查询平台等渠道来间接获得第二手数据。</p>
-</blockquote>
-<blockquote>
-<p>自己开发一套强大的、完整的数据统计 与分析系统</p>
-</blockquote>
-<blockquote>
-<p>也可以选择直接使用第三方提供的专业的数据统计服务，如Google的Google Analytics。</p>
-</blockquote>
-<blockquote>
-<p>确定和该目标最相关的关键数据指标</p>
-</blockquote>
-<blockquote>
-<p>第一个层次是用描述统计的方法对数据进行整理，然后加以简化或绘制成图表，用以描述数据的特征及分布规律</p>
-</blockquote>
-<blockquote>
-<p>例如用数据说明公司近几个季度的营收情况</p>
-</blockquote>
-<blockquote>
-<p>第二个层次则是用推断统计的方法对数据进行处理，分析数据之间的关系或以样本信息推测总体的特征和规律</p>
-</blockquote>
-<blockquote>
-<p>例如分析产品使用用户数下跌的主要原因</p>
-</blockquote>
-<h2 id="◆-点评"><a href="#◆-点评" class="headerlink" title="◆ 点评"></a>◆ 点评</h2><p>点评:★★★☆☆</p>
-]]></content>
-      <categories>
-        <category>PM</category>
-      </categories>
-      <tags>
-        <tag>读书笔记复盘</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《从门外汉到BAT产品经理有多远》读书笔记</title>
     <url>/2020/04/21/%E3%80%8A%E4%BB%8E%E9%97%A8%E5%A4%96%E6%B1%89%E5%88%B0BAT%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E6%9C%89%E5%A4%9A%E8%BF%9C%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>从门外汉到BAT产品经理有多远<br>张恒<br>183个笔记</p>
@@ -2544,25 +2563,6 @@
       </categories>
       <tags>
         <tag>读书笔记复盘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《君主》观后感</title>
-    <url>/2020/04/26/%E3%80%8A%E5%90%9B%E4%B8%BB%E3%80%8B%E8%A7%82%E5%90%8E%E6%84%9F/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="《君主》观后感"><a href="#《君主》观后感" class="headerlink" title="《君主》观后感"></a>《君主》观后感</h1><p>不得不承认，韩剧确实要好很多。</p>
-<p>国产剧总是拍都市剧、伦理剧、古装剧、家庭剧等，翻新也没花样，为了赚取注意力，沉迷流量神话。相比而言，韩剧的脑洞、剧情、主题等非常丰富。</p>
-<p>不过电视剧的主题分类其实是大同小异的，关键是如何做出创新，加入新元素。<br>而且如《红楼梦》、《父母爱情》、《大宅门》等等，也是一个时代与环境的记录。文学取之现实并反映现实，应该说的是这个道理。国情、背景之类的前提不同，所孕育出的文学形式应该是不同的。暂不讨论这种大环境对电视剧的文学主题的影响，这里只讨论为什么近几年大热的韩剧，信手拈来一部，都还不错的原因。</p>
-<p>个人认为，这种差距的原因至少表现在两点上：</p>
-<p>一是受众层面。<br>观众审美提高，或者说是在新的时代成长并被环境塑造出的观众，对于新剧情、新形式、新主题的电视剧文学的渴求。再或者说，是审美形式发生了改变。近些年韩剧刚好迎合了观众的审美。</p>
-<p>二是传者层面。这里仅表达个人看法。<br>首先就是剧本差，以最近的韩剧《君主》为例，其中至少有两个新元素的运用，国内差之千里。一是“符号-意义”，男主通过“符号对于意义的表征+符号只是意义的指涉”分析出反派没死这段剧情；二是“量子物理学”，“一个电子可以同时存在于电子轨道的任何一个地方→粒子同时存在于不同的时空+平行宇宙”。一为文，二为理，是整个剧整体水平的缩影，这要求编剧要有这种知识底蕴才能写出这种剧本，处理其中的象征符与意义的关系，以及基本理解量子力学从而处理平行宇宙时间线的关系，最终使观众观看时，既陷入悬疑的剧情中，又能清晰呈现这条线，引导观众发掘出来，且符号逻辑。最终呈现就不弱智。<br>其次是拍摄技巧。这个我不是很理解，就不多分析。但是韩剧的服装、色调、道具以及这些外在的客观物质塑造的拍戏场景，我作为观众，给我的感觉是很舒服，不突兀、不违和、不假。这里有一点值得注意，关于布景、运镜之类的，我个人认为，当事实上的技巧在现阶段的技术水平限制下已经无法提升之时，那么其最终讲的逻辑，和剧情相匹配的逻辑。编剧对于场景的设想才是指导所有的后续拍、演的根本。</p>
-<p>综上，但是比之韩剧，那种脑洞、那种新元素的运用，并对当下具有新审美的观众的吸引与共情，国产剧差很多。因为脑洞是建立在知识储备和拍摄实践经验上的。仅仅一点，《星际穿越》、《彗星来的那一夜》等电影，还有很多电视剧，早就是用量子力学作为影视的那个点（我不知道术语叫什么），我们根本没有。有也只是去年台湾的《想见你》。</p>
-<p>需要强调的是，我所选取的样本很小，可能不具代表性，无论是国产剧还是韩剧都有精粹有糟粕。但是韩国的影视做得比国内要好得多，我相信这是公认的。我也相信国产剧在我们的国情和背景之下做出来的，也是有很大价值的，并且积累了符合国情的实践技巧。比如说古装剧、知青主题的剧，我作为普通观众，其色调和场景，都能看到明显的进步。</p>
-]]></content>
-      <categories>
-        <category>新传</category>
-      </categories>
-      <tags>
-        <tag>胡思乱想</tag>
       </tags>
   </entry>
   <entry>
@@ -3789,6 +3789,602 @@
       </tags>
   </entry>
   <entry>
+    <title>《君主》观后感</title>
+    <url>/2020/04/26/%E3%80%8A%E5%90%9B%E4%B8%BB%E3%80%8B%E8%A7%82%E5%90%8E%E6%84%9F/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="《君主》观后感"><a href="#《君主》观后感" class="headerlink" title="《君主》观后感"></a>《君主》观后感</h1><p>不得不承认，韩剧确实要好很多。</p>
+<p>国产剧总是拍都市剧、伦理剧、古装剧、家庭剧等，翻新也没花样，为了赚取注意力，沉迷流量神话。相比而言，韩剧的脑洞、剧情、主题等非常丰富。</p>
+<p>不过电视剧的主题分类其实是大同小异的，关键是如何做出创新，加入新元素。<br>而且如《红楼梦》、《父母爱情》、《大宅门》等等，也是一个时代与环境的记录。文学取之现实并反映现实，应该说的是这个道理。国情、背景之类的前提不同，所孕育出的文学形式应该是不同的。暂不讨论这种大环境对电视剧的文学主题的影响，这里只讨论为什么近几年大热的韩剧，信手拈来一部，都还不错的原因。</p>
+<p>个人认为，这种差距的原因至少表现在两点上：</p>
+<p>一是受众层面。<br>观众审美提高，或者说是在新的时代成长并被环境塑造出的观众，对于新剧情、新形式、新主题的电视剧文学的渴求。再或者说，是审美形式发生了改变。近些年韩剧刚好迎合了观众的审美。</p>
+<p>二是传者层面。这里仅表达个人看法。<br>首先就是剧本差，以最近的韩剧《君主》为例，其中至少有两个新元素的运用，国内差之千里。一是“符号-意义”，男主通过“符号对于意义的表征+符号只是意义的指涉”分析出反派没死这段剧情；二是“量子物理学”，“一个电子可以同时存在于电子轨道的任何一个地方→粒子同时存在于不同的时空+平行宇宙”。一为文，二为理，是整个剧整体水平的缩影，这要求编剧要有这种知识底蕴才能写出这种剧本，处理其中的象征符与意义的关系，以及基本理解量子力学从而处理平行宇宙时间线的关系，最终使观众观看时，既陷入悬疑的剧情中，又能清晰呈现这条线，引导观众发掘出来，且符号逻辑。最终呈现就不弱智。<br>其次是拍摄技巧。这个我不是很理解，就不多分析。但是韩剧的服装、色调、道具以及这些外在的客观物质塑造的拍戏场景，我作为观众，给我的感觉是很舒服，不突兀、不违和、不假。这里有一点值得注意，关于布景、运镜之类的，我个人认为，当事实上的技巧在现阶段的技术水平限制下已经无法提升之时，那么其最终讲的逻辑，和剧情相匹配的逻辑。编剧对于场景的设想才是指导所有的后续拍、演的根本。</p>
+<p>综上，但是比之韩剧，那种脑洞、那种新元素的运用，并对当下具有新审美的观众的吸引与共情，国产剧差很多。因为脑洞是建立在知识储备和拍摄实践经验上的。仅仅一点，《星际穿越》、《彗星来的那一夜》等电影，还有很多电视剧，早就是用量子力学作为影视的那个点（我不知道术语叫什么），我们根本没有。有也只是去年台湾的《想见你》。</p>
+<p>需要强调的是，我所选取的样本很小，可能不具代表性，无论是国产剧还是韩剧都有精粹有糟粕。但是韩国的影视做得比国内要好得多，我相信这是公认的。我也相信国产剧在我们的国情和背景之下做出来的，也是有很大价值的，并且积累了符合国情的实践技巧。比如说古装剧、知青主题的剧，我作为普通观众，其色调和场景，都能看到明显的进步。</p>
+]]></content>
+      <categories>
+        <category>新传</category>
+      </categories>
+      <tags>
+        <tag>胡思乱想</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《新零售：从模式到实践》读书笔记</title>
+    <url>/2020/04/24/%E3%80%8A%E6%96%B0%E9%9B%B6%E5%94%AE%EF%BC%9A%E4%BB%8E%E6%A8%A1%E5%BC%8F%E5%88%B0%E5%AE%9E%E8%B7%B5%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>新零售：从模式到实践<br>刘官华 梁璐<br>185个笔记</p>
+<p>◆ 前言</p>
+<blockquote>
+<p>社区商业变革、无人货柜、商超+餐饮</p>
+</blockquote>
+<blockquote>
+<p>人—货—场</p>
+</blockquote>
+<p>◆ 第一节 正在发生的新零售大趋势</p>
+<blockquote>
+<p>除了价格优势外，盒马还提供完善的食材料理服务。用户不仅可以采购新鲜海鲜回家烹调，对于时间紧张、手艺欠佳的用户而言，还可以选择店里宰杀和烹饪的服务。</p>
+</blockquote>
+<blockquote>
+<p>盒马的这群用户是非常活跃的，而且他们的购买力极强，具备很强的社交传播性。</p>
+</blockquote>
+<blockquote>
+<p>盒马内部所称的“一店二仓五中心”，即一个门店，前端为消费区，后端为仓储配送区，囊括超市中心、餐饮中心、物流中心、体验中心以及粉丝运营中心。</p>
+</blockquote>
+<blockquote>
+<p>首先，盒马的水果、蔬菜、肉类都会预先包装好，按份售卖，而不像传统超市中按斤或者千克来标价。盒马每份蔬菜的重量都是300～500克，正好供2～3人炒一盘菜，因此，用户不用囤货，哪天想买就哪天再来，随时买新鲜的。并且，每份蔬菜根据上架时间采用不同颜色的外包装，让购买者可以清晰地分辨出食物的新鲜程度。以大米为例，盒马提供小包装产品，重量在500～1000克，区别于传统超市的大包装。</p>
+</blockquote>
+<blockquote>
+<p>布置和装潢突显现代感和档次感，着力营造高端氛围。产品货架的高度基本在1.5米左右，满足大部分人群平视且拿取方便的需求，合理的动线设计和室内高亮的灯光以及卖场区的包裹传送带也改善了用户的购物体验，增强了其对线上服务的信任。由于以生鲜类产品为主要售卖对象，因此盒马采用贴体包装的方式，这样不但更好地保持了食物的新鲜度，还增强了用户的购买欲望。</p>
+</blockquote>
+<blockquote>
+<p>盒马还针对目标人群的生活特征，设计了“生熟联动”和“熟生联动”两种产品模式来满足他们对吃更高的需求。所谓“生熟联动”是指购买生鲜产品后可选择相应的加工方式，省去了自己加工的步骤且做到了“逛吃”；而“熟生联动”则是指用户可以在盒马吃到一块香嫩可口的牛排，也可以在店铺内购买到制作这块牛排所用的全部原料——牛肉、酱汁和调料等。除此之外，盒马还开发了一些半熟、全熟产品，以及净菜产品，满足上班族时间紧但又想自己下厨的欲望。最后配合“三公里三十分钟”配送到家的服务，盒马全方位满足了用户对“吃”的需求。</p>
+</blockquote>
+<blockquote>
+<p>在社交化的同时打造粉丝经济，及时将有价值的信息传递给用户，促进用户间的交流，进而形成关系链，最后形成关系网。而这些也同样是针对核心用户的营销手段。</p>
+</blockquote>
+<blockquote>
+<p>从他们的痛点出发进行服务设计、产品设计和营销设计，是盒马在新零售道路上做出的第一个改变。</p>
+</blockquote>
+<blockquote>
+<p>盒马早期把其APP作为门店唯一的支付入口，消费者必须下载盒马APP并注册会员，才能使用支付宝账户完成支付。</p>
+</blockquote>
+<blockquote>
+<p>盒马其实是支付宝的会员体验店，“会员卡”就是绑定支付宝的盒马APP。</p>
+</blockquote>
+<p>品牌体验商鼓励线上购买</p>
+<blockquote>
+<p>盒马APP还可以将门店覆盖半径扩大至周围3公里。毕竟，对于盒马来说，门店只是为了体验功能，线上销量才是业务主力。</p>
+</blockquote>
+<blockquote>
+<p>盒马APP还可以将门店覆盖半径扩大至周围3公里。毕竟，对于盒马来说，门店只是为了体验功能，线上销量才是业务主力。</p>
+</blockquote>
+<blockquote>
+<p>网易严选是国内首家主打ODM（原始设计制造商）模式的电商平台。</p>
+</blockquote>
+<blockquote>
+<p>平台与大牌制造商建立直连，砍掉大牌商品的渠道成本与品牌溢价</p>
+</blockquote>
+<blockquote>
+<p>在网易严选APP上架的所有商品，均必须通过全球顶尖质检机构的认证。</p>
+</blockquote>
+<blockquote>
+<p>顺丰作为物流合作方</p>
+</blockquote>
+<blockquote>
+<p>提供30天退货与两个工作日快速退款</p>
+</blockquote>
+<blockquote>
+<p>一线品牌制造商直供</p>
+</blockquote>
+<blockquote>
+<p>世界一流的供应商</p>
+</blockquote>
+<blockquote>
+<p>砍掉了高昂的渠道成本、广告公关成本、品牌溢价，</p>
+</blockquote>
+<blockquote>
+<p>团队深入各个原材料的核心产地，</p>
+</blockquote>
+<blockquote>
+<p>在每个关键节点上进行质量管控</p>
+</blockquote>
+<blockquote>
+<p>顺丰</p>
+</blockquote>
+<blockquote>
+<p>依托网易本身的海量用户以及大流量平台</p>
+</blockquote>
+<blockquote>
+<p>着力提升上游供应链效率，缩短产品迭代升级周期</p>
+</blockquote>
+<blockquote>
+<p>对下游，网易严选将会加强与其他电商平台之间的合作，吸引更多用户尝试购买其产品</p>
+</blockquote>
+<blockquote>
+<p>从线上走到线下</p>
+</blockquote>
+<blockquote>
+<p>线下严选HOME，涉及长租公寓行业</p>
+</blockquote>
+<blockquote>
+<p>永辉超市的超级物种便是很好的例子。</p>
+</blockquote>
+<blockquote>
+<p>永辉超市是来自福建的著名民营企业，其模式的转变是从打造超级物种开始的。</p>
+</blockquote>
+<blockquote>
+<p>盒马</p>
+</blockquote>
+<blockquote>
+<p>一个从线上发展到线下的突破性新零售业态，是一个互联网企业在利用自身的互联网基因以及运营能力拓展线下实体业务</p>
+</blockquote>
+<blockquote>
+<p>永辉的超级物种</p>
+</blockquote>
+<blockquote>
+<p>传统零售商在做商业升级，是他们在拥抱互联网的过程中由线下发展至线上的适应性业态，也是他们通过改变原有的货架和品类管理方式，结合线上技术拓展原有业务</p>
+</blockquote>
+<blockquote>
+<p>优衣库</p>
+</blockquote>
+<blockquote>
+<p>线上下单、线下提货</p>
+</blockquote>
+<blockquote>
+<p>将货品齐全、购物便捷、支付快速等线上购物体验优势与线下购物的即时体验结合起来</p>
+</blockquote>
+<blockquote>
+<p>通过线上购物、线下提货的服务，迅速获取到用户的属性数据、行为数据以及支付数据</p>
+</blockquote>
+<blockquote>
+<p>对用户产生了掌控力，方便其了解用户、洞察用户的真实需求</p>
+</blockquote>
+<blockquote>
+<p>喜茶</p>
+</blockquote>
+<blockquote>
+<p>广东省江门市</p>
+</blockquote>
+<blockquote>
+<p>原名皇茶，后因商标无法注册，改名为喜茶HEYTEA</p>
+</blockquote>
+<blockquote>
+<p>快速发展的门店全部都属于直营店，喜茶坚决拒绝加盟店的扩张方式</p>
+</blockquote>
+<blockquote>
+<p>这些品牌利用社交网络快速传播的作用，短时间内在大量用户之间形成口碑传播并迅速壮大，随后又借助资本力量实现快速扩张。</p>
+</blockquote>
+<blockquote>
+<p>上游供应商</p>
+</blockquote>
+<blockquote>
+<p>消费者需求的准确洞察</p>
+</blockquote>
+<blockquote>
+<p>控制力非常弱，多是被供应商主导的</p>
+</blockquote>
+<blockquote>
+<p>喜茶已经成为消费者塑造自身形象的一个重要标签</p>
+</blockquote>
+<blockquote>
+<p>最大限度地简化供应链条的必要长度，且边际成本基本为零</p>
+</blockquote>
+<blockquote>
+<p>互联网业务强调快速迭代试错，反复验证产品方向，使产品不断趋近用户核心诉求</p>
+</blockquote>
+<blockquote>
+<p>快速迭代试错的明显优势在于，创新过程中的成本是可控的，创新收益的预期也相对明确，在创新产品面临失败时也可以及时止损</p>
+</blockquote>
+<blockquote>
+<p>京东便利店</p>
+</blockquote>
+<blockquote>
+<p>便利店采用加盟的形式，使用京东自有供应链，保证了产品品质。</p>
+</blockquote>
+<blockquote>
+<p>杂货店</p>
+</blockquote>
+<blockquote>
+<p>专业店</p>
+</blockquote>
+<blockquote>
+<p>核心的转变是从单纯的卖货模式升级为产品+服务的购物体验</p>
+</blockquote>
+<blockquote>
+<p>百货店</p>
+</blockquote>
+<blockquote>
+<p>顾客可以毫无顾忌地自由进出商店，消除了过去顾客进入专业店时的心理压力</p>
+</blockquote>
+<blockquote>
+<p>所有商品均有明确的价格标签，价格信息透明，消除了价格歧视</p>
+</blockquote>
+<blockquote>
+<p>陈列大量不同种类的商品，可满足顾客不同的购物需求</p>
+</blockquote>
+<blockquote>
+<p>退换制度的建立优化了顾客的购买体验</p>
+</blockquote>
+<blockquote>
+<p>按照商品类型划分出不同部门，由部门负责组织进货与销售</p>
+</blockquote>
+<blockquote>
+<p>超市、便利店</p>
+</blockquote>
+<blockquote>
+<p>超市的开架售货方式与舒适便捷的购物环境</p>
+</blockquote>
+<blockquote>
+<p>通过更低的成本与毛利吸引顾客，争夺市场份额。</p>
+</blockquote>
+<blockquote>
+<p>通过提升服务品质、优化购物体验等方式，来逐渐提高毛利</p>
+</blockquote>
+<blockquote>
+<p>沃尔玛极强的议价能力倒逼上游供应商降低成本，</p>
+</blockquote>
+<blockquote>
+<p>沃尔玛通过控制供应链来降低成本、压低售价的策略，被许多竞争对手仿效。</p>
+</blockquote>
+<blockquote>
+<p>再次推动零售业革新的是Costco</p>
+</blockquote>
+<blockquote>
+<p>美国最大的连锁会员制仓储量贩店，</p>
+</blockquote>
+<blockquote>
+<p>沃尔玛薄利多销</p>
+</blockquote>
+<blockquote>
+<p>Costco的盈利模式是通过几乎零利润的商品售价，吸引更多顾客办理会员身份，通过会员的会费来盈利。</p>
+</blockquote>
+<blockquote>
+<p>Costco精挑细选出的4000个左右最受中产阶级欢迎的SKU基本涵盖全品类，且几乎每款都是爆品，</p>
+</blockquote>
+<blockquote>
+<p>Costco每年的纯利润额几乎全部来自收取的会员费用</p>
+</blockquote>
+<blockquote>
+<p>M型社会指的是，原本人数最多的中产阶层中的一小部分挤入了高收入阶层，而其余的大多数则沦为中低收入甚至低收入阶层。</p>
+</blockquote>
+<blockquote>
+<p>中国的整个社会结构还没形成橄榄型就已经逐步呈现M型了，本来很弱的中间阶层在往下塌陷。</p>
+</blockquote>
+<blockquote>
+<p>潮流的产品设计、极短的生产与物流时间、超快速的货品迭代以及低廉的价格</p>
+</blockquote>
+<p>◆ 第二节 新零售背后不变的商业规律</p>
+<blockquote>
+<p>是分销渠道体系最终的出口，是距离消费者最近的</p>
+</blockquote>
+<blockquote>
+<p>一是制造商跨过渠道商与零售商，与消费者形成直连；二是零售商进行垂直整合，集品牌商、制造商、渠道商为一体</p>
+</blockquote>
+<blockquote>
+<p>产品生产出来后，生产商将销售目标层层拆解下去，从国代到省代，再到市代和区域代理，将货物逐步压到渠道内，渠道商再去想办法将货物消化掉，也就是我们常见的“出货”。</p>
+</blockquote>
+<blockquote>
+<p>渠道的整体费用相当高，厂商需要花费大量时间与费用去养活整个渠道资源，也需要提供可观的渠道分成比例。</p>
+</blockquote>
+<blockquote>
+<p>在手机行业中，渠道战略最成熟的，当属OPPO和vivo</p>
+</blockquote>
+<blockquote>
+<p>与小米手机的超高性价比相比，动辄两三千元起步的OPPO和vivo常被诟病为“高价低配”，其背后的原因就是手机的渠道成本和营销成本都摊到了每一台手机上。</p>
+</blockquote>
+<blockquote>
+<p>生产商天然的反应是想办法跨过渠道商，与消费者或用户进行直连。但从经销商、零售商的角度来看，他们要么希望进一步扩大自身的影响力，让自己成为无法被跨越的一环；要么就垂直反向扩展，让自己成为生产商。</p>
+</blockquote>
+<blockquote>
+<p>事实上价值链上各个环节的角色可能会有所重叠和整合，这就形成了几个需要注意的零售特殊状态。</p>
+</blockquote>
+<blockquote>
+<p>零售商直接向工厂采买。</p>
+</blockquote>
+<blockquote>
+<p>集中采购的话语权</p>
+</blockquote>
+<blockquote>
+<p>ODM模式</p>
+</blockquote>
+<blockquote>
+<p>零售商直接拥有工厂。零售商进行深度垂直整合，</p>
+</blockquote>
+<blockquote>
+<p>产品核心SKU均为小米公司或小米生态下的工厂所制造。</p>
+</blockquote>
+<blockquote>
+<p>零售业的从业人员也不断抱怨生意不好做。</p>
+</blockquote>
+<blockquote>
+<p>大量商家与消费者直接连接，越过了中间渠道。</p>
+</blockquote>
+<blockquote>
+<p>提高人、货、场相互连接的速度和深度，从而提高传统零售的效率。</p>
+</blockquote>
+<p>◆ 第三节 预见新零售的未来</p>
+<blockquote>
+<p>包括制造商、贸易商、批发商、零售商等，都会向运营商的角色靠近</p>
+</blockquote>
+<blockquote>
+<p>产品的运营工作包括三个主要部分：用户运营、活动运营、数据运营。</p>
+</blockquote>
+<blockquote>
+<p>书只是一个媒介，顾客来诚品书店消费的是这个阅读场景本身。</p>
+</blockquote>
+<blockquote>
+<p>顾客消费的是星巴克这个“第三空间”本身。</p>
+</blockquote>
+<blockquote>
+<p>如何将原本专注于卖货的商场，升级成为顾客在消费过程中良好体验的一部分</p>
+</blockquote>
+<p>◆ 第二节 重新认识目标用户</p>
+<blockquote>
+<p>消费者与用户的本质差异在于，消费者是有偿获得某种产品和服务的人，侧重点在于消费行为。</p>
+</blockquote>
+<blockquote>
+<p>用户是某种产品或服务的最终使用者，侧重点在于使用体验。</p>
+</blockquote>
+<blockquote>
+<p>新商业逻辑需要以用户为出发点，</p>
+</blockquote>
+<blockquote>
+<p>企业关注的焦点从消费者转向用户，</p>
+</blockquote>
+<blockquote>
+<p>以消费者为核心的商业逻辑注重促成购买行为，</p>
+</blockquote>
+<blockquote>
+<p>研究的重点从购买决策转移到使用过程，</p>
+</blockquote>
+<blockquote>
+<p>关注持续增值空间</p>
+</blockquote>
+<blockquote>
+<p>STP理论</p>
+</blockquote>
+<blockquote>
+<p>企业外部价值实现的经典方法论</p>
+</blockquote>
+<blockquote>
+<p>建立品牌形象认知，占领用户心智</p>
+</blockquote>
+<blockquote>
+<p>“认知大于事实”</p>
+</blockquote>
+<blockquote>
+<p>品牌形象认知能够强有力地影响消费者的购买决策</p>
+</blockquote>
+<blockquote>
+<p>在确认需要阶段，企业通过大范围的广告轰炸和品牌形象传播，在用户心中埋下品牌的“种子”，同时给用户在搜索信息阶段提供充足的信息来源</p>
+</blockquote>
+<blockquote>
+<p>通过放大产品卖点，使产品与其他备选产品形成差异化对比</p>
+</blockquote>
+<blockquote>
+<p>降低消费者做出购买决策的难度</p>
+</blockquote>
+<blockquote>
+<p>售后服务保证消费者的购买体验</p>
+</blockquote>
+<blockquote>
+<p>好的决策者或领导人应该是核心目标用户需求的翻译官。</p>
+</blockquote>
+<blockquote>
+<p>随着不断被满足而向上发展，这符合经典的马斯洛需求理论，</p>
+</blockquote>
+<blockquote>
+<p>腾讯产品经理使用的方法—“千百十”，即每周至少看1000篇用户帖子、看100篇用户博客（当时博客更为流行）、做10个用户调查。</p>
+</blockquote>
+<blockquote>
+<p>企业主动鼓励用户参与到新产品的开发过程当中，让用户提出他们的想法与建议，指导产品的创新。</p>
+</blockquote>
+<blockquote>
+<p>创新产品的扩散过程</p>
+</blockquote>
+<p>◆ 第三节 重新定义产品创新</p>
+<blockquote>
+<p>从用户角度出发的问题大部分都是不确定的，因为用户自己也很难描述清楚什么才是自己想要的，但当真的用到好的产品时却能敏锐地感知到。</p>
+</blockquote>
+<p>◆ 第四节 重新构建营销场景</p>
+<blockquote>
+<p>在场的作用下，原来“冰冷”的货物升级成了体验、人格、社群，从而重新构建了营销场景。</p>
+</blockquote>
+<blockquote>
+<p>让用户参与到营销过程中，从产品设计到改进再到产品的传播都让用户参与其中。</p>
+</blockquote>
+<blockquote>
+<p>用户是在人格化的场景中完成饮食消费的。</p>
+</blockquote>
+<blockquote>
+<p>所以企业一定要用好一流的连接，要学会利用已有的资源。</p>
+</blockquote>
+<blockquote>
+<p>这些APP加起来已经占用了用户大部分的时间，请问他们哪里还有时间分配给你自建的APP呢？这是大势判断，</p>
+</blockquote>
+<blockquote>
+<p>如果更多的是在微信上，那就充分利用公众号、小程序这些资源。</p>
+</blockquote>
+<blockquote>
+<p>国内现在最大的社群有三个：一个是罗振宇的罗辑思维，一个是吴晓波的吴晓波频道，还有一个是李善友的混沌大学。</p>
+</blockquote>
+<blockquote>
+<p>社群里必然要有一些高质量的核心用户，这些用户会产生自己的优质内容。</p>
+</blockquote>
+<blockquote>
+<p>一些细节性的内容由运营方去整合，</p>
+</blockquote>
+<blockquote>
+<p>UGC的高品质内容和平台内容就是社群最核心的。</p>
+</blockquote>
+<blockquote>
+<p>如果是转发，那么就会使得社群的内容不断扩散到社群外部，而外部用户的点击和回流就会把流量带回到原有的社群，</p>
+</blockquote>
+<blockquote>
+<p>社群内容价值的流转。</p>
+</blockquote>
+<p>◆ 第一节 新零售实践下的企业家精神</p>
+<blockquote>
+<p>从商业发展趋势来看，新零售的未来一定在中国，</p>
+</blockquote>
+<blockquote>
+<p>以后很有可能成为第一大经济体，这意味着什么？这意味着中国是世界最大的市场中心，所以凡事要找到核心，在核心处深挖。</p>
+</blockquote>
+<blockquote>
+<p>不是需求在萎缩，</p>
+</blockquote>
+<blockquote>
+<p>有效需求不足，因为有效产品根本就没有提供到有效市场上去，用户想买的东西买不到。</p>
+</blockquote>
+<blockquote>
+<p>腾讯的错误就在于太大了，中国人是习惯同情弱者的，360是相对小的，所以错就错在大！</p>
+</blockquote>
+<blockquote>
+<p>业务层面上势必会与其他同类产品产生竞争，那如何能减少这种竞争呢？</p>
+</blockquote>
+<blockquote>
+<p>把自己的业务平台做成开放平台，让大家都来做，大家可以共享腾讯的想法、腾讯的用户，甚至腾讯的广告。</p>
+</blockquote>
+<blockquote>
+<p>当外部团队和内部团队都在做类似的产品时，他们采用择优的原则，谁做得好，就支援谁，</p>
+</blockquote>
+<blockquote>
+<p>为了促使自己成为资源性组织。</p>
+</blockquote>
+<blockquote>
+<p>腾讯改变了部分组织结构，打破了原有的层级制，直接将团队隶属于某一个高级层级，而团队里不再划分部门与组别，团队下即为个人，因此，团队中的人不属于任何部门或组别，属于内部孵化组织，他们没有项目，没有KPI。</p>
+</blockquote>
+<blockquote>
+<p>老板的任务是提供决策与资源，提供决策即选哪个产品立项，而提供资源则是指人员、资金的投入。</p>
+</blockquote>
+<blockquote>
+<p>管理层更像是一个投资机构，用来决定A、B、C等几个项目中应该投哪一个。</p>
+</blockquote>
+<blockquote>
+<p>产品性经济，下层创新驱动，上层投资管理。</p>
+</blockquote>
+<p>◆ 第二节 新零售落地关键实战方法</p>
+<blockquote>
+<p>用户画像在互联网产品领域已经成为非常流行的工具。</p>
+</blockquote>
+<blockquote>
+<p>它是真实用户的虚拟代表，并根据目标、行为、观点、心理的差异分为不同类型。</p>
+</blockquote>
+<blockquote>
+<p>用户画像应具备PERSONA七个要素。</p>
+</blockquote>
+<blockquote>
+<p>P代表基本性（Primary ），</p>
+</blockquote>
+<blockquote>
+<p>E代表移情性（Empathy），</p>
+</blockquote>
+<blockquote>
+<p>R代表真实性（Realistic），</p>
+</blockquote>
+<blockquote>
+<p>S代表独特性（Singular），</p>
+</blockquote>
+<blockquote>
+<p>O代表目标性（Objectives），</p>
+</blockquote>
+<blockquote>
+<p>N代表数量性（Number），</p>
+</blockquote>
+<blockquote>
+<p>A代表应用性（Applicable），</p>
+</blockquote>
+<blockquote>
+<p>用户画像可以成为产品设计与产品决策时非常有效的工具。<br>除了用户画像，进行信息分析还需要完成需求挖掘。</p>
+</blockquote>
+<blockquote>
+<p>对用户访谈动作中获取的格式化、结构化的文字信息进行梳理，查漏补缺，保证重要的信息无遗漏，</p>
+</blockquote>
+<blockquote>
+<p>根据对应的目标、行为及心理上的差别进行划分。目标指的是用户想做什么；行为则是指他们怎么做；心理指他们为何做出某种行为。</p>
+</blockquote>
+<blockquote>
+<p>划分角色类型</p>
+</blockquote>
+<blockquote>
+<p>每人分别分析用户信息，将能够体现用户目标、行为、心理的关键信息标识出来；<br>各自将关键信息总结成关键词，并进行个人词组亲和分析；<br>组内讲解，再进行组内亲和筛选；<br>找到最能体现用户差异的关键词进行试分类，验证是否能够体现差异性、覆盖性、合理性以及指导性；<br>多轮迭代，最终选定最合适的关键词作为用户划分的标准。</p>
+</blockquote>
+<blockquote>
+<p>绘制用户画像首先要挑选典型用户。</p>
+</blockquote>
+<blockquote>
+<p>挑选完成后进行画像描述。</p>
+</blockquote>
+<blockquote>
+<p>最后还要进行画像的修改与优化。一般来说，一个产品的用户画像为3～6个。</p>
+</blockquote>
+<blockquote>
+<p>用户画像实例</p>
+</blockquote>
+<blockquote>
+<p>其关键也就是找到产品最先满足的那部分核心用户的核心需求点来进行产品设计。</p>
+</blockquote>
+<blockquote>
+<p>产品的第一特性原理，意思是指产品一定要通过特性来陈述，而不是靠功能的堆积。</p>
+</blockquote>
+<blockquote>
+<p>发现需求，这个需求早就存在了，只是需要产品设计者将它挖掘出来。</p>
+</blockquote>
+<blockquote>
+<p>营销主体已从市场转到消费者，又从消费者转到了用户。</p>
+</blockquote>
+<blockquote>
+<p>因为营销的最终目的还是要能产生触达，所以一定要研究如何能够更精准地触达用户，转换成营销的手段就是选择合适的传播渠道。</p>
+</blockquote>
+<p>◆ 第三节 新零售升级的六大打法</p>
+<blockquote>
+<p>产品不再是价值变现的唯一来源，而是逐渐成为企业保持与用户持续连接和实现持续价值变现的媒介。</p>
+</blockquote>
+<blockquote>
+<p>用户与企业完成交易不再是价值传递的终点，而是企业对用户产生持续服务的起点。在用户的使用过程中，企业不断提供满足用户需求的增值服务，可以明显增强用户黏性，同时创造更多新的利润点，优化盈利模式。</p>
+</blockquote>
+<blockquote>
+<p>从疯狂出货到疯狂圈人</p>
+</blockquote>
+<blockquote>
+<p>2011—2012年团购兴起引发“千团大战”，2013—2014年的打车软件补贴大战，2015年外卖软件的补贴大战，2016—2017年的共享单车混战，无一不是由新兴企业借助资本力量，在最短时间内疯狂圈人引发的。</p>
+</blockquote>
+<blockquote>
+<p>产品从原本的价值输出物转变为价值传递的媒介。</p>
+</blockquote>
+<blockquote>
+<p>成本定价指产品的定价与生产成本基本持平，不以出售产品作为获利手段，而是尽可能降低产品的出售门槛，与最多的用户建立连接。产品售出后，利用后续的增值服务以及周边产品实现品牌差异化，避免与同质化产品陷入恶性竞争的同时，获</p>
+</blockquote>
+<blockquote>
+<p>从零和游戏到用户参与</p>
+</blockquote>
+<blockquote>
+<p>零和游戏指参与博弈的各方在严格的条件限制下，一方的收益必定意味着另一方的损失。</p>
+</blockquote>
+<blockquote>
+<p>吸引用户参与有以下三种主要方式：用户决定产品内容、与用户互动、用户传播。</p>
+</blockquote>
+<blockquote>
+<p>从一次交付到持续服务</p>
+</blockquote>
+<blockquote>
+<p>时间稀缺是互联网时代中消费者与商家共同的痛点。</p>
+</blockquote>
+<blockquote>
+<p>有限的用户心智与无限的品牌认知之间巨大的冲突。</p>
+</blockquote>
+<blockquote>
+<p>商家从过去的一次性交付模式升级成为持续服务，与用户建立更长时间的连接。</p>
+</blockquote>
+<p>◆ 点评</p>
+<p>点评:★★★☆☆</p>
+]]></content>
+      <categories>
+        <category>PM</category>
+      </categories>
+      <tags>
+        <tag>读书笔记复盘</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《新零售的未来：零售连锁巨头的进化之道》读书笔记</title>
     <url>/2020/04/24/%E3%80%8A%E6%96%B0%E9%9B%B6%E5%94%AE%E7%9A%84%E6%9C%AA%E6%9D%A5%EF%BC%9A%E9%9B%B6%E5%94%AE%E8%BF%9E%E9%94%81%E5%B7%A8%E5%A4%B4%E7%9A%84%E8%BF%9B%E5%8C%96%E4%B9%8B%E9%81%93%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>新零售的未来：零售连锁巨头的进化之道<br>翁怡诺<br>298个笔记</p>
@@ -4701,583 +5297,6 @@
 </blockquote>
 <p>◆ 点评</p>
 <p>点评:★★★★☆</p>
-]]></content>
-      <categories>
-        <category>PM</category>
-      </categories>
-      <tags>
-        <tag>读书笔记复盘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《新零售：从模式到实践》读书笔记</title>
-    <url>/2020/04/24/%E3%80%8A%E6%96%B0%E9%9B%B6%E5%94%AE%EF%BC%9A%E4%BB%8E%E6%A8%A1%E5%BC%8F%E5%88%B0%E5%AE%9E%E8%B7%B5%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>新零售：从模式到实践<br>刘官华 梁璐<br>185个笔记</p>
-<p>◆ 前言</p>
-<blockquote>
-<p>社区商业变革、无人货柜、商超+餐饮</p>
-</blockquote>
-<blockquote>
-<p>人—货—场</p>
-</blockquote>
-<p>◆ 第一节 正在发生的新零售大趋势</p>
-<blockquote>
-<p>除了价格优势外，盒马还提供完善的食材料理服务。用户不仅可以采购新鲜海鲜回家烹调，对于时间紧张、手艺欠佳的用户而言，还可以选择店里宰杀和烹饪的服务。</p>
-</blockquote>
-<blockquote>
-<p>盒马的这群用户是非常活跃的，而且他们的购买力极强，具备很强的社交传播性。</p>
-</blockquote>
-<blockquote>
-<p>盒马内部所称的“一店二仓五中心”，即一个门店，前端为消费区，后端为仓储配送区，囊括超市中心、餐饮中心、物流中心、体验中心以及粉丝运营中心。</p>
-</blockquote>
-<blockquote>
-<p>首先，盒马的水果、蔬菜、肉类都会预先包装好，按份售卖，而不像传统超市中按斤或者千克来标价。盒马每份蔬菜的重量都是300～500克，正好供2～3人炒一盘菜，因此，用户不用囤货，哪天想买就哪天再来，随时买新鲜的。并且，每份蔬菜根据上架时间采用不同颜色的外包装，让购买者可以清晰地分辨出食物的新鲜程度。以大米为例，盒马提供小包装产品，重量在500～1000克，区别于传统超市的大包装。</p>
-</blockquote>
-<blockquote>
-<p>布置和装潢突显现代感和档次感，着力营造高端氛围。产品货架的高度基本在1.5米左右，满足大部分人群平视且拿取方便的需求，合理的动线设计和室内高亮的灯光以及卖场区的包裹传送带也改善了用户的购物体验，增强了其对线上服务的信任。由于以生鲜类产品为主要售卖对象，因此盒马采用贴体包装的方式，这样不但更好地保持了食物的新鲜度，还增强了用户的购买欲望。</p>
-</blockquote>
-<blockquote>
-<p>盒马还针对目标人群的生活特征，设计了“生熟联动”和“熟生联动”两种产品模式来满足他们对吃更高的需求。所谓“生熟联动”是指购买生鲜产品后可选择相应的加工方式，省去了自己加工的步骤且做到了“逛吃”；而“熟生联动”则是指用户可以在盒马吃到一块香嫩可口的牛排，也可以在店铺内购买到制作这块牛排所用的全部原料——牛肉、酱汁和调料等。除此之外，盒马还开发了一些半熟、全熟产品，以及净菜产品，满足上班族时间紧但又想自己下厨的欲望。最后配合“三公里三十分钟”配送到家的服务，盒马全方位满足了用户对“吃”的需求。</p>
-</blockquote>
-<blockquote>
-<p>在社交化的同时打造粉丝经济，及时将有价值的信息传递给用户，促进用户间的交流，进而形成关系链，最后形成关系网。而这些也同样是针对核心用户的营销手段。</p>
-</blockquote>
-<blockquote>
-<p>从他们的痛点出发进行服务设计、产品设计和营销设计，是盒马在新零售道路上做出的第一个改变。</p>
-</blockquote>
-<blockquote>
-<p>盒马早期把其APP作为门店唯一的支付入口，消费者必须下载盒马APP并注册会员，才能使用支付宝账户完成支付。</p>
-</blockquote>
-<blockquote>
-<p>盒马其实是支付宝的会员体验店，“会员卡”就是绑定支付宝的盒马APP。</p>
-</blockquote>
-<p>品牌体验商鼓励线上购买</p>
-<blockquote>
-<p>盒马APP还可以将门店覆盖半径扩大至周围3公里。毕竟，对于盒马来说，门店只是为了体验功能，线上销量才是业务主力。</p>
-</blockquote>
-<blockquote>
-<p>盒马APP还可以将门店覆盖半径扩大至周围3公里。毕竟，对于盒马来说，门店只是为了体验功能，线上销量才是业务主力。</p>
-</blockquote>
-<blockquote>
-<p>网易严选是国内首家主打ODM（原始设计制造商）模式的电商平台。</p>
-</blockquote>
-<blockquote>
-<p>平台与大牌制造商建立直连，砍掉大牌商品的渠道成本与品牌溢价</p>
-</blockquote>
-<blockquote>
-<p>在网易严选APP上架的所有商品，均必须通过全球顶尖质检机构的认证。</p>
-</blockquote>
-<blockquote>
-<p>顺丰作为物流合作方</p>
-</blockquote>
-<blockquote>
-<p>提供30天退货与两个工作日快速退款</p>
-</blockquote>
-<blockquote>
-<p>一线品牌制造商直供</p>
-</blockquote>
-<blockquote>
-<p>世界一流的供应商</p>
-</blockquote>
-<blockquote>
-<p>砍掉了高昂的渠道成本、广告公关成本、品牌溢价，</p>
-</blockquote>
-<blockquote>
-<p>团队深入各个原材料的核心产地，</p>
-</blockquote>
-<blockquote>
-<p>在每个关键节点上进行质量管控</p>
-</blockquote>
-<blockquote>
-<p>顺丰</p>
-</blockquote>
-<blockquote>
-<p>依托网易本身的海量用户以及大流量平台</p>
-</blockquote>
-<blockquote>
-<p>着力提升上游供应链效率，缩短产品迭代升级周期</p>
-</blockquote>
-<blockquote>
-<p>对下游，网易严选将会加强与其他电商平台之间的合作，吸引更多用户尝试购买其产品</p>
-</blockquote>
-<blockquote>
-<p>从线上走到线下</p>
-</blockquote>
-<blockquote>
-<p>线下严选HOME，涉及长租公寓行业</p>
-</blockquote>
-<blockquote>
-<p>永辉超市的超级物种便是很好的例子。</p>
-</blockquote>
-<blockquote>
-<p>永辉超市是来自福建的著名民营企业，其模式的转变是从打造超级物种开始的。</p>
-</blockquote>
-<blockquote>
-<p>盒马</p>
-</blockquote>
-<blockquote>
-<p>一个从线上发展到线下的突破性新零售业态，是一个互联网企业在利用自身的互联网基因以及运营能力拓展线下实体业务</p>
-</blockquote>
-<blockquote>
-<p>永辉的超级物种</p>
-</blockquote>
-<blockquote>
-<p>传统零售商在做商业升级，是他们在拥抱互联网的过程中由线下发展至线上的适应性业态，也是他们通过改变原有的货架和品类管理方式，结合线上技术拓展原有业务</p>
-</blockquote>
-<blockquote>
-<p>优衣库</p>
-</blockquote>
-<blockquote>
-<p>线上下单、线下提货</p>
-</blockquote>
-<blockquote>
-<p>将货品齐全、购物便捷、支付快速等线上购物体验优势与线下购物的即时体验结合起来</p>
-</blockquote>
-<blockquote>
-<p>通过线上购物、线下提货的服务，迅速获取到用户的属性数据、行为数据以及支付数据</p>
-</blockquote>
-<blockquote>
-<p>对用户产生了掌控力，方便其了解用户、洞察用户的真实需求</p>
-</blockquote>
-<blockquote>
-<p>喜茶</p>
-</blockquote>
-<blockquote>
-<p>广东省江门市</p>
-</blockquote>
-<blockquote>
-<p>原名皇茶，后因商标无法注册，改名为喜茶HEYTEA</p>
-</blockquote>
-<blockquote>
-<p>快速发展的门店全部都属于直营店，喜茶坚决拒绝加盟店的扩张方式</p>
-</blockquote>
-<blockquote>
-<p>这些品牌利用社交网络快速传播的作用，短时间内在大量用户之间形成口碑传播并迅速壮大，随后又借助资本力量实现快速扩张。</p>
-</blockquote>
-<blockquote>
-<p>上游供应商</p>
-</blockquote>
-<blockquote>
-<p>消费者需求的准确洞察</p>
-</blockquote>
-<blockquote>
-<p>控制力非常弱，多是被供应商主导的</p>
-</blockquote>
-<blockquote>
-<p>喜茶已经成为消费者塑造自身形象的一个重要标签</p>
-</blockquote>
-<blockquote>
-<p>最大限度地简化供应链条的必要长度，且边际成本基本为零</p>
-</blockquote>
-<blockquote>
-<p>互联网业务强调快速迭代试错，反复验证产品方向，使产品不断趋近用户核心诉求</p>
-</blockquote>
-<blockquote>
-<p>快速迭代试错的明显优势在于，创新过程中的成本是可控的，创新收益的预期也相对明确，在创新产品面临失败时也可以及时止损</p>
-</blockquote>
-<blockquote>
-<p>京东便利店</p>
-</blockquote>
-<blockquote>
-<p>便利店采用加盟的形式，使用京东自有供应链，保证了产品品质。</p>
-</blockquote>
-<blockquote>
-<p>杂货店</p>
-</blockquote>
-<blockquote>
-<p>专业店</p>
-</blockquote>
-<blockquote>
-<p>核心的转变是从单纯的卖货模式升级为产品+服务的购物体验</p>
-</blockquote>
-<blockquote>
-<p>百货店</p>
-</blockquote>
-<blockquote>
-<p>顾客可以毫无顾忌地自由进出商店，消除了过去顾客进入专业店时的心理压力</p>
-</blockquote>
-<blockquote>
-<p>所有商品均有明确的价格标签，价格信息透明，消除了价格歧视</p>
-</blockquote>
-<blockquote>
-<p>陈列大量不同种类的商品，可满足顾客不同的购物需求</p>
-</blockquote>
-<blockquote>
-<p>退换制度的建立优化了顾客的购买体验</p>
-</blockquote>
-<blockquote>
-<p>按照商品类型划分出不同部门，由部门负责组织进货与销售</p>
-</blockquote>
-<blockquote>
-<p>超市、便利店</p>
-</blockquote>
-<blockquote>
-<p>超市的开架售货方式与舒适便捷的购物环境</p>
-</blockquote>
-<blockquote>
-<p>通过更低的成本与毛利吸引顾客，争夺市场份额。</p>
-</blockquote>
-<blockquote>
-<p>通过提升服务品质、优化购物体验等方式，来逐渐提高毛利</p>
-</blockquote>
-<blockquote>
-<p>沃尔玛极强的议价能力倒逼上游供应商降低成本，</p>
-</blockquote>
-<blockquote>
-<p>沃尔玛通过控制供应链来降低成本、压低售价的策略，被许多竞争对手仿效。</p>
-</blockquote>
-<blockquote>
-<p>再次推动零售业革新的是Costco</p>
-</blockquote>
-<blockquote>
-<p>美国最大的连锁会员制仓储量贩店，</p>
-</blockquote>
-<blockquote>
-<p>沃尔玛薄利多销</p>
-</blockquote>
-<blockquote>
-<p>Costco的盈利模式是通过几乎零利润的商品售价，吸引更多顾客办理会员身份，通过会员的会费来盈利。</p>
-</blockquote>
-<blockquote>
-<p>Costco精挑细选出的4000个左右最受中产阶级欢迎的SKU基本涵盖全品类，且几乎每款都是爆品，</p>
-</blockquote>
-<blockquote>
-<p>Costco每年的纯利润额几乎全部来自收取的会员费用</p>
-</blockquote>
-<blockquote>
-<p>M型社会指的是，原本人数最多的中产阶层中的一小部分挤入了高收入阶层，而其余的大多数则沦为中低收入甚至低收入阶层。</p>
-</blockquote>
-<blockquote>
-<p>中国的整个社会结构还没形成橄榄型就已经逐步呈现M型了，本来很弱的中间阶层在往下塌陷。</p>
-</blockquote>
-<blockquote>
-<p>潮流的产品设计、极短的生产与物流时间、超快速的货品迭代以及低廉的价格</p>
-</blockquote>
-<p>◆ 第二节 新零售背后不变的商业规律</p>
-<blockquote>
-<p>是分销渠道体系最终的出口，是距离消费者最近的</p>
-</blockquote>
-<blockquote>
-<p>一是制造商跨过渠道商与零售商，与消费者形成直连；二是零售商进行垂直整合，集品牌商、制造商、渠道商为一体</p>
-</blockquote>
-<blockquote>
-<p>产品生产出来后，生产商将销售目标层层拆解下去，从国代到省代，再到市代和区域代理，将货物逐步压到渠道内，渠道商再去想办法将货物消化掉，也就是我们常见的“出货”。</p>
-</blockquote>
-<blockquote>
-<p>渠道的整体费用相当高，厂商需要花费大量时间与费用去养活整个渠道资源，也需要提供可观的渠道分成比例。</p>
-</blockquote>
-<blockquote>
-<p>在手机行业中，渠道战略最成熟的，当属OPPO和vivo</p>
-</blockquote>
-<blockquote>
-<p>与小米手机的超高性价比相比，动辄两三千元起步的OPPO和vivo常被诟病为“高价低配”，其背后的原因就是手机的渠道成本和营销成本都摊到了每一台手机上。</p>
-</blockquote>
-<blockquote>
-<p>生产商天然的反应是想办法跨过渠道商，与消费者或用户进行直连。但从经销商、零售商的角度来看，他们要么希望进一步扩大自身的影响力，让自己成为无法被跨越的一环；要么就垂直反向扩展，让自己成为生产商。</p>
-</blockquote>
-<blockquote>
-<p>事实上价值链上各个环节的角色可能会有所重叠和整合，这就形成了几个需要注意的零售特殊状态。</p>
-</blockquote>
-<blockquote>
-<p>零售商直接向工厂采买。</p>
-</blockquote>
-<blockquote>
-<p>集中采购的话语权</p>
-</blockquote>
-<blockquote>
-<p>ODM模式</p>
-</blockquote>
-<blockquote>
-<p>零售商直接拥有工厂。零售商进行深度垂直整合，</p>
-</blockquote>
-<blockquote>
-<p>产品核心SKU均为小米公司或小米生态下的工厂所制造。</p>
-</blockquote>
-<blockquote>
-<p>零售业的从业人员也不断抱怨生意不好做。</p>
-</blockquote>
-<blockquote>
-<p>大量商家与消费者直接连接，越过了中间渠道。</p>
-</blockquote>
-<blockquote>
-<p>提高人、货、场相互连接的速度和深度，从而提高传统零售的效率。</p>
-</blockquote>
-<p>◆ 第三节 预见新零售的未来</p>
-<blockquote>
-<p>包括制造商、贸易商、批发商、零售商等，都会向运营商的角色靠近</p>
-</blockquote>
-<blockquote>
-<p>产品的运营工作包括三个主要部分：用户运营、活动运营、数据运营。</p>
-</blockquote>
-<blockquote>
-<p>书只是一个媒介，顾客来诚品书店消费的是这个阅读场景本身。</p>
-</blockquote>
-<blockquote>
-<p>顾客消费的是星巴克这个“第三空间”本身。</p>
-</blockquote>
-<blockquote>
-<p>如何将原本专注于卖货的商场，升级成为顾客在消费过程中良好体验的一部分</p>
-</blockquote>
-<p>◆ 第二节 重新认识目标用户</p>
-<blockquote>
-<p>消费者与用户的本质差异在于，消费者是有偿获得某种产品和服务的人，侧重点在于消费行为。</p>
-</blockquote>
-<blockquote>
-<p>用户是某种产品或服务的最终使用者，侧重点在于使用体验。</p>
-</blockquote>
-<blockquote>
-<p>新商业逻辑需要以用户为出发点，</p>
-</blockquote>
-<blockquote>
-<p>企业关注的焦点从消费者转向用户，</p>
-</blockquote>
-<blockquote>
-<p>以消费者为核心的商业逻辑注重促成购买行为，</p>
-</blockquote>
-<blockquote>
-<p>研究的重点从购买决策转移到使用过程，</p>
-</blockquote>
-<blockquote>
-<p>关注持续增值空间</p>
-</blockquote>
-<blockquote>
-<p>STP理论</p>
-</blockquote>
-<blockquote>
-<p>企业外部价值实现的经典方法论</p>
-</blockquote>
-<blockquote>
-<p>建立品牌形象认知，占领用户心智</p>
-</blockquote>
-<blockquote>
-<p>“认知大于事实”</p>
-</blockquote>
-<blockquote>
-<p>品牌形象认知能够强有力地影响消费者的购买决策</p>
-</blockquote>
-<blockquote>
-<p>在确认需要阶段，企业通过大范围的广告轰炸和品牌形象传播，在用户心中埋下品牌的“种子”，同时给用户在搜索信息阶段提供充足的信息来源</p>
-</blockquote>
-<blockquote>
-<p>通过放大产品卖点，使产品与其他备选产品形成差异化对比</p>
-</blockquote>
-<blockquote>
-<p>降低消费者做出购买决策的难度</p>
-</blockquote>
-<blockquote>
-<p>售后服务保证消费者的购买体验</p>
-</blockquote>
-<blockquote>
-<p>好的决策者或领导人应该是核心目标用户需求的翻译官。</p>
-</blockquote>
-<blockquote>
-<p>随着不断被满足而向上发展，这符合经典的马斯洛需求理论，</p>
-</blockquote>
-<blockquote>
-<p>腾讯产品经理使用的方法—“千百十”，即每周至少看1000篇用户帖子、看100篇用户博客（当时博客更为流行）、做10个用户调查。</p>
-</blockquote>
-<blockquote>
-<p>企业主动鼓励用户参与到新产品的开发过程当中，让用户提出他们的想法与建议，指导产品的创新。</p>
-</blockquote>
-<blockquote>
-<p>创新产品的扩散过程</p>
-</blockquote>
-<p>◆ 第三节 重新定义产品创新</p>
-<blockquote>
-<p>从用户角度出发的问题大部分都是不确定的，因为用户自己也很难描述清楚什么才是自己想要的，但当真的用到好的产品时却能敏锐地感知到。</p>
-</blockquote>
-<p>◆ 第四节 重新构建营销场景</p>
-<blockquote>
-<p>在场的作用下，原来“冰冷”的货物升级成了体验、人格、社群，从而重新构建了营销场景。</p>
-</blockquote>
-<blockquote>
-<p>让用户参与到营销过程中，从产品设计到改进再到产品的传播都让用户参与其中。</p>
-</blockquote>
-<blockquote>
-<p>用户是在人格化的场景中完成饮食消费的。</p>
-</blockquote>
-<blockquote>
-<p>所以企业一定要用好一流的连接，要学会利用已有的资源。</p>
-</blockquote>
-<blockquote>
-<p>这些APP加起来已经占用了用户大部分的时间，请问他们哪里还有时间分配给你自建的APP呢？这是大势判断，</p>
-</blockquote>
-<blockquote>
-<p>如果更多的是在微信上，那就充分利用公众号、小程序这些资源。</p>
-</blockquote>
-<blockquote>
-<p>国内现在最大的社群有三个：一个是罗振宇的罗辑思维，一个是吴晓波的吴晓波频道，还有一个是李善友的混沌大学。</p>
-</blockquote>
-<blockquote>
-<p>社群里必然要有一些高质量的核心用户，这些用户会产生自己的优质内容。</p>
-</blockquote>
-<blockquote>
-<p>一些细节性的内容由运营方去整合，</p>
-</blockquote>
-<blockquote>
-<p>UGC的高品质内容和平台内容就是社群最核心的。</p>
-</blockquote>
-<blockquote>
-<p>如果是转发，那么就会使得社群的内容不断扩散到社群外部，而外部用户的点击和回流就会把流量带回到原有的社群，</p>
-</blockquote>
-<blockquote>
-<p>社群内容价值的流转。</p>
-</blockquote>
-<p>◆ 第一节 新零售实践下的企业家精神</p>
-<blockquote>
-<p>从商业发展趋势来看，新零售的未来一定在中国，</p>
-</blockquote>
-<blockquote>
-<p>以后很有可能成为第一大经济体，这意味着什么？这意味着中国是世界最大的市场中心，所以凡事要找到核心，在核心处深挖。</p>
-</blockquote>
-<blockquote>
-<p>不是需求在萎缩，</p>
-</blockquote>
-<blockquote>
-<p>有效需求不足，因为有效产品根本就没有提供到有效市场上去，用户想买的东西买不到。</p>
-</blockquote>
-<blockquote>
-<p>腾讯的错误就在于太大了，中国人是习惯同情弱者的，360是相对小的，所以错就错在大！</p>
-</blockquote>
-<blockquote>
-<p>业务层面上势必会与其他同类产品产生竞争，那如何能减少这种竞争呢？</p>
-</blockquote>
-<blockquote>
-<p>把自己的业务平台做成开放平台，让大家都来做，大家可以共享腾讯的想法、腾讯的用户，甚至腾讯的广告。</p>
-</blockquote>
-<blockquote>
-<p>当外部团队和内部团队都在做类似的产品时，他们采用择优的原则，谁做得好，就支援谁，</p>
-</blockquote>
-<blockquote>
-<p>为了促使自己成为资源性组织。</p>
-</blockquote>
-<blockquote>
-<p>腾讯改变了部分组织结构，打破了原有的层级制，直接将团队隶属于某一个高级层级，而团队里不再划分部门与组别，团队下即为个人，因此，团队中的人不属于任何部门或组别，属于内部孵化组织，他们没有项目，没有KPI。</p>
-</blockquote>
-<blockquote>
-<p>老板的任务是提供决策与资源，提供决策即选哪个产品立项，而提供资源则是指人员、资金的投入。</p>
-</blockquote>
-<blockquote>
-<p>管理层更像是一个投资机构，用来决定A、B、C等几个项目中应该投哪一个。</p>
-</blockquote>
-<blockquote>
-<p>产品性经济，下层创新驱动，上层投资管理。</p>
-</blockquote>
-<p>◆ 第二节 新零售落地关键实战方法</p>
-<blockquote>
-<p>用户画像在互联网产品领域已经成为非常流行的工具。</p>
-</blockquote>
-<blockquote>
-<p>它是真实用户的虚拟代表，并根据目标、行为、观点、心理的差异分为不同类型。</p>
-</blockquote>
-<blockquote>
-<p>用户画像应具备PERSONA七个要素。</p>
-</blockquote>
-<blockquote>
-<p>P代表基本性（Primary ），</p>
-</blockquote>
-<blockquote>
-<p>E代表移情性（Empathy），</p>
-</blockquote>
-<blockquote>
-<p>R代表真实性（Realistic），</p>
-</blockquote>
-<blockquote>
-<p>S代表独特性（Singular），</p>
-</blockquote>
-<blockquote>
-<p>O代表目标性（Objectives），</p>
-</blockquote>
-<blockquote>
-<p>N代表数量性（Number），</p>
-</blockquote>
-<blockquote>
-<p>A代表应用性（Applicable），</p>
-</blockquote>
-<blockquote>
-<p>用户画像可以成为产品设计与产品决策时非常有效的工具。<br>除了用户画像，进行信息分析还需要完成需求挖掘。</p>
-</blockquote>
-<blockquote>
-<p>对用户访谈动作中获取的格式化、结构化的文字信息进行梳理，查漏补缺，保证重要的信息无遗漏，</p>
-</blockquote>
-<blockquote>
-<p>根据对应的目标、行为及心理上的差别进行划分。目标指的是用户想做什么；行为则是指他们怎么做；心理指他们为何做出某种行为。</p>
-</blockquote>
-<blockquote>
-<p>划分角色类型</p>
-</blockquote>
-<blockquote>
-<p>每人分别分析用户信息，将能够体现用户目标、行为、心理的关键信息标识出来；<br>各自将关键信息总结成关键词，并进行个人词组亲和分析；<br>组内讲解，再进行组内亲和筛选；<br>找到最能体现用户差异的关键词进行试分类，验证是否能够体现差异性、覆盖性、合理性以及指导性；<br>多轮迭代，最终选定最合适的关键词作为用户划分的标准。</p>
-</blockquote>
-<blockquote>
-<p>绘制用户画像首先要挑选典型用户。</p>
-</blockquote>
-<blockquote>
-<p>挑选完成后进行画像描述。</p>
-</blockquote>
-<blockquote>
-<p>最后还要进行画像的修改与优化。一般来说，一个产品的用户画像为3～6个。</p>
-</blockquote>
-<blockquote>
-<p>用户画像实例</p>
-</blockquote>
-<blockquote>
-<p>其关键也就是找到产品最先满足的那部分核心用户的核心需求点来进行产品设计。</p>
-</blockquote>
-<blockquote>
-<p>产品的第一特性原理，意思是指产品一定要通过特性来陈述，而不是靠功能的堆积。</p>
-</blockquote>
-<blockquote>
-<p>发现需求，这个需求早就存在了，只是需要产品设计者将它挖掘出来。</p>
-</blockquote>
-<blockquote>
-<p>营销主体已从市场转到消费者，又从消费者转到了用户。</p>
-</blockquote>
-<blockquote>
-<p>因为营销的最终目的还是要能产生触达，所以一定要研究如何能够更精准地触达用户，转换成营销的手段就是选择合适的传播渠道。</p>
-</blockquote>
-<p>◆ 第三节 新零售升级的六大打法</p>
-<blockquote>
-<p>产品不再是价值变现的唯一来源，而是逐渐成为企业保持与用户持续连接和实现持续价值变现的媒介。</p>
-</blockquote>
-<blockquote>
-<p>用户与企业完成交易不再是价值传递的终点，而是企业对用户产生持续服务的起点。在用户的使用过程中，企业不断提供满足用户需求的增值服务，可以明显增强用户黏性，同时创造更多新的利润点，优化盈利模式。</p>
-</blockquote>
-<blockquote>
-<p>从疯狂出货到疯狂圈人</p>
-</blockquote>
-<blockquote>
-<p>2011—2012年团购兴起引发“千团大战”，2013—2014年的打车软件补贴大战，2015年外卖软件的补贴大战，2016—2017年的共享单车混战，无一不是由新兴企业借助资本力量，在最短时间内疯狂圈人引发的。</p>
-</blockquote>
-<blockquote>
-<p>产品从原本的价值输出物转变为价值传递的媒介。</p>
-</blockquote>
-<blockquote>
-<p>成本定价指产品的定价与生产成本基本持平，不以出售产品作为获利手段，而是尽可能降低产品的出售门槛，与最多的用户建立连接。产品售出后，利用后续的增值服务以及周边产品实现品牌差异化，避免与同质化产品陷入恶性竞争的同时，获</p>
-</blockquote>
-<blockquote>
-<p>从零和游戏到用户参与</p>
-</blockquote>
-<blockquote>
-<p>零和游戏指参与博弈的各方在严格的条件限制下，一方的收益必定意味着另一方的损失。</p>
-</blockquote>
-<blockquote>
-<p>吸引用户参与有以下三种主要方式：用户决定产品内容、与用户互动、用户传播。</p>
-</blockquote>
-<blockquote>
-<p>从一次交付到持续服务</p>
-</blockquote>
-<blockquote>
-<p>时间稀缺是互联网时代中消费者与商家共同的痛点。</p>
-</blockquote>
-<blockquote>
-<p>有限的用户心智与无限的品牌认知之间巨大的冲突。</p>
-</blockquote>
-<blockquote>
-<p>商家从过去的一次性交付模式升级成为持续服务，与用户建立更长时间的连接。</p>
-</blockquote>
-<p>◆ 点评</p>
-<p>点评:★★★☆☆</p>
 ]]></content>
       <categories>
         <category>PM</category>
@@ -6614,6 +6633,292 @@
       </tags>
   </entry>
   <entry>
+    <title>《给孩子讲量子力学》读书笔记</title>
+    <url>/2020/04/22/%E3%80%8A%E7%BB%99%E5%AD%A9%E5%AD%90%E8%AE%B2%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>给孩子讲量子力学<br>李淼<br>92个笔记</p>
+<h2 id="◆-第1讲-量子世界是什么样的"><a href="#◆-第1讲-量子世界是什么样的" class="headerlink" title="◆ 第1讲 量子世界是什么样的"></a>◆ 第1讲 量子世界是什么样的</h2><blockquote>
+<p>波也有能量：其频率越高，或者说波长越短，波的能量越高。</p>
+</blockquote>
+<blockquote>
+<p>物体热辐射所发出的光，其能量并不连续，而是一份份的，大小等于光的频率乘以一个很小的常数，叫普朗克常数。我们所说的“量子化”，其实就是指这种物理量本身不连续、总是一份份分布的特性。换言之，在量子世界里，物理量总是存在着一个最小值，无法像在经典世界中那样，直接趋于零。</p>
+</blockquote>
+<blockquote>
+<p>用光照射金属就可以从其内部打出电子。这并不奇怪。光可以把自身的能量传递给电子，使它获得足够的能量，从而逃脱金属原子对它的束缚。</p>
+</blockquote>
+<blockquote>
+<p>在一定频率之上的光，只要一照就可以从金属中打出电子；而在此频率之下的光，无论照射多长时间也无法把电子打出来。</p>
+</blockquote>
+<blockquote>
+<p>要想精确地测出它的位置，那它的动量就一定测不准；反过来，你要想精确地测出它的动量，那它的位置就一定测不准</p>
+</blockquote>
+<blockquote>
+<p>海森堡不确定性原理</p>
+</blockquote>
+<blockquote>
+<p>所谓的“看见”，就是让光打到物体上面，然后再反射到人眼或显微镜里。</p>
+</blockquote>
+<blockquote>
+<p>我们前面讲过，每种光都有自己的波长。万一光的波长比物体的尺寸还长，那它就反射不回来了；换句话说，我们无法看见尺寸小于光的波长的物体。</p>
+</blockquote>
+<blockquote>
+<p>要想精确地测出物体的位置，就要尽可能用波长比较短的光。</p>
+</blockquote>
+<blockquote>
+<p>光的波长越短，光子的能量就越大；而能量大的光子打到特别小的物体上，就会干扰到它原来的运动。</p>
+</blockquote>
+<blockquote>
+<p>用波长比较长的光，能测准微观粒子的动量，却测不准它的位置；而用波长比较短的光，能测准微观粒子的位置，却测不准它的动量。</p>
+</blockquote>
+<blockquote>
+<p>我们不能说一个光子有多大，只能说它的不确定性，它的不确定性应当在一万亿分之一米到一亿分之一米之间。它的能量在万分之一电子能量到一个电子能量之间。</p>
+</blockquote>
+<blockquote>
+<p>γ射线的能量要高于一个电子的能量，</p>
+</blockquote>
+<blockquote>
+<p>质量越大，它的不确定性越小。</p>
+</blockquote>
+<blockquote>
+<p>细胞由大量的原子组成，最小细胞的尺寸也要比原子大一万倍，所以细胞的不确定性很小。</p>
+</blockquote>
+<blockquote>
+<p>因为癌细胞是经典的，我们可以精确地定位它。</p>
+</blockquote>
+<blockquote>
+<p>退相干性，只要一个量子物体跟周围的环境发生相互作用，它就很难处在一个精确的量子态中。</p>
+</blockquote>
+<blockquote>
+<p>一个物体能量越大，它的位置的不确定性就越小。</p>
+</blockquote>
+<blockquote>
+<p>量子论和相对论是20世纪物理学的两大支柱。爱因斯坦完成了两项伟大的事业：一是提出了狭义相对论，这个理论与量子力学完全没有矛盾；二是提出了广义相对论，这个理论包含了万有引力。</p>
+</blockquote>
+<blockquote>
+<p>量子这个概念是普朗克引进的，按照他的理解，量子就是光里面的那些能量，一份一份的能量。后来，爱因斯坦发现，这一份一份的量子其实就是光子。现在量子的含义则更加复杂，不再是一份一份的能量，所有跟量子力学有关的东西都可能被叫作量子。</p>
+</blockquote>
+<blockquote>
+<p>原子核越小，能量就越大。</p>
+</blockquote>
+<blockquote>
+<p>原子是遵从量子力学的，量子本身不是一个物体，量子只是一个说法</p>
+</blockquote>
+<blockquote>
+<p>所有遵从量子力学的东西都被叫作量子了。</p>
+</blockquote>
+<blockquote>
+<p>仅仅用碳原子就可以构造不同的物体。</p>
+</blockquote>
+<blockquote>
+<p>根据相对论，质量和能量是一回事。</p>
+</blockquote>
+<blockquote>
+<p>在原子里面，所谓电子的跳跃，是从能量高的地方向能量低的地方跳跃。</p>
+</blockquote>
+<blockquote>
+<p>根据能量守恒定律，电子在跳跃的过程中得辐射光子。如果从能量低的地方向能量高的地方跳，同样，根据能量守恒定律，它必须吸收光子。</p>
+</blockquote>
+<blockquote>
+<p>根据相对论，光速是最高的速度，引力波也是以光速传播的。</p>
+</blockquote>
+<blockquote>
+<p>任何一个有质量的粒子，它的速度原则上都不能达到光速，因为达到光速时它的能量会无限大。</p>
+</blockquote>
+<h2 id="◆-第2讲-物质为何能保持稳定"><a href="#◆-第2讲-物质为何能保持稳定" class="headerlink" title="◆ 第2讲 物质为何能保持稳定"></a>◆ 第2讲 物质为何能保持稳定</h2><blockquote>
+<p>这种不会突然变大或变小的性质，叫作稳定性。</p>
+</blockquote>
+<blockquote>
+<p>电子的位置是不确定的，任何时刻都会同时出现在很多地方。</p>
+</blockquote>
+<blockquote>
+<p>只有当我们去看的时候，才能知道电子具体出现在哪里；如果不去看，电子就会同时待在很多地方。</p>
+</blockquote>
+<blockquote>
+<p>泡利发现了著名的泡利不相容原理。这个原理其实很简单，就是说在一个氢原子核周围只能有一个电子，另外一个电子根本就进不去。</p>
+</blockquote>
+<blockquote>
+<p>火是一个概念，当我们看到火的时候，其实是一团物质在发光。加热物质之后，它里面原子中的电子会被激发出来，电子从原子中掉出来就会辐射光。所以火本身不是物质，火只是物质发光的一种现象。<br>我们通常把火向上烧的那个发光的部分看成火，其实它大部分是气体。铁也发光，我们会说铁烧红了而不说那是火，这是习惯说法。</p>
+</blockquote>
+<blockquote>
+<p>每两个电子的重量是完全相同的，</p>
+</blockquote>
+<blockquote>
+<p>所有电子都长得一模一样，</p>
+</blockquote>
+<blockquote>
+<p>每两个质子的重量也是完全相同的，当然，不同元素的重量不同。</p>
+</blockquote>
+<blockquote>
+<p>电子就是围绕着原子核的一团雾。</p>
+</blockquote>
+<blockquote>
+<p>电子能量高的时候可以叫成高能粒子，中微子高能的时候也是高能粒子。</p>
+</blockquote>
+<blockquote>
+<p>电子最小（最轻），电子是基本粒子。</p>
+</blockquote>
+<blockquote>
+<p>原子核不是基本的，原子核里面有质子和中子。质子和中子也不是基本的，质子和中子是由夸克组成的。</p>
+</blockquote>
+<blockquote>
+<p>夸克本身是基本粒子，没有大小，像电子一样。</p>
+</blockquote>
+<blockquote>
+<p>夸克是基本粒子，像电子一样不可再分。</p>
+</blockquote>
+<blockquote>
+<p>现在可以确定中微子不是暗物质，暗物质一定是我们不知道的一种粒子，或者某几种粒子。</p>
+</blockquote>
+<blockquote>
+<p>我们现在通常用的加速器都是用来加速电子或质子的，因为它们都带电，不带电的粒子是没有办法被加速的。</p>
+</blockquote>
+<blockquote>
+<p>中微子之间几乎没有吸引力，因此不可以用中微子组成任何物质，原子之间是有吸引力的，所以原子可以用来组成物质。</p>
+</blockquote>
+<blockquote>
+<p>夸克是基本粒子，电子也是基本粒子，中微子和光子也都是基本粒子，当我们说大小的时候，指的是它们的质量，而不是尺寸，因为基本粒子都没有尺寸。</p>
+</blockquote>
+<blockquote>
+<p>目前在加速器上可以通过碰撞的办法制造出反物质，但不能大批地生产。</p>
+</blockquote>
+<blockquote>
+<p>亚原子是一个概念，我们通常将比原子小的东西叫作亚原子。原子核是亚原子，电子、中微子、基本粒子都是亚原子。</p>
+</blockquote>
+<blockquote>
+<p>虫洞是一个假想的东西，也许它并不存在，只是一个物理学家想象的东西，虫洞只是一种时空形态，而不是任何物质。</p>
+</blockquote>
+<blockquote>
+<p>基本粒子没有大小，这一点是很难理解的，因为它有质量，所以也就是说，它的密度是无限大的。的确，物理学家用量子力学和相对论来解释基本粒子，就得假设它没有大小，在逻辑上是这样的。</p>
+</blockquote>
+<blockquote>
+<p>不确定性原理</p>
+</blockquote>
+<h2 id="◆-第3讲-量子力学有什么用"><a href="#◆-第3讲-量子力学有什么用" class="headerlink" title="◆ 第3讲 量子力学有什么用"></a>◆ 第3讲 量子力学有什么用</h2><blockquote>
+<p>量子力学的第一个应用是激光。</p>
+</blockquote>
+<blockquote>
+<p>激光和其他任何光一样，都是由光子组成的，</p>
+</blockquote>
+<blockquote>
+<p>构成光的微粒</p>
+</blockquote>
+<blockquote>
+<p>激光非常特别，它里面每个光子的能量都一样大。这就是激光与普通光最大的区别。</p>
+</blockquote>
+<blockquote>
+<p>量子力学的第二个应用是半导体。</p>
+</blockquote>
+<blockquote>
+<p>路上有不少障碍，一般汽车开上去就会被堵死。但要是外部条件发生变化，比如温度升高，那汽车就又能在路上开了。这些特殊的材料就是半导体。</p>
+</blockquote>
+<blockquote>
+<p>二极管有两个接口，而这种元件有三个接口。所以人们就把这种电子元件称为三极管，也叫晶体管。晶体管可以放大电流，同时也可以充当开关。</p>
+</blockquote>
+<blockquote>
+<p>为什么短短几十年的时间里，硅谷就能从一个默默无闻的小地方，摇身一变，成为全世界最著名的高科技中心？一个非常重要的原因就是，肖克利去了那里。</p>
+</blockquote>
+<blockquote>
+<p>很快肖克利身边就聚集了一批美国电子领域中最优秀的人才。</p>
+</blockquote>
+<blockquote>
+<p>肖克利公司的八个主要员工集体跳槽，这就是硅谷历史上著名的“叛逆八人帮”。</p>
+</blockquote>
+<blockquote>
+<p>仙童半导体公司。仙童公司只用了短短两年时间就研发出了集成电路，从而彻底改变了整个电子行业，甚至整个世界的面貌。</p>
+</blockquote>
+<blockquote>
+<p>仙童公司为硅谷培养了成千上万的技术人才和管理人才，是当之无愧的硅谷“西点军校”。</p>
+</blockquote>
+<blockquote>
+<p>“叛逆八人帮”里出了一个特别有名的人，叫摩尔。摩尔离开仙童公司后，创办了一个专门生产半导体芯片的公司，这就是大名鼎鼎的英特尔公司。</p>
+</blockquote>
+<blockquote>
+<p>下面我再给大家讲一个比较科幻、还没有出现在现实世界中的应用，叫量子传输。</p>
+</blockquote>
+<blockquote>
+<p>但与经典世界不同的是，原来的物体一定会被破坏掉。最终的效果是，一个物体会突然从自己原来的位置消失；与此同时，另一个地方会突然出现一个一模一样的东西。</p>
+</blockquote>
+<blockquote>
+<p>量子传输机。当你走到机器里面，机器开动起来时，原来的你会变成一堆垃圾；与此同时，在另外一个星球上，有一台与之配套的机器，里面有一堆物质会突然得到你的全部信息，然后变成你走了出来。如果能掌握这种瞬时的量子传输技术，人类就可以实现科幻电影里常见的空间旅行了。</p>
+</blockquote>
+<blockquote>
+<p>1993年，六位物理学家想出了一个用量子纠缠来实现量子传输的办法。</p>
+</blockquote>
+<blockquote>
+<p>一群奥地利的物理学家在1997年首次实现了量子传输。不过，他们传输的东西非常简单，只有一个光子；而且传输的距离也很短，只有一个普通实验室的长度。经过近20年的发展，今天人类创造的量子传输最远距离纪录已达到340公里，相当于从武汉到长沙的距离。</p>
+</blockquote>
+<blockquote>
+<p>我们的大脑是不是一个量子计算机？意识是不是量子计算的产物？这个问题下一讲会讲。如果是的话，当我们传输人类的时候，主要传输的将是我们的大脑和意识。</p>
+</blockquote>
+<blockquote>
+<p>终极能源有可能是物质和反物质，但最快也要200年以后人类才能对这种能源进行利用。我的乐观估计是，人类在100年之内，大概能够实现受控热核聚变，这样的话，我们就可以在地球上造出人造小太阳。</p>
+</blockquote>
+<blockquote>
+<p>如果人类的大脑是一台量子计算机，我们把一个人的大脑传输到另外一个地方去，在那个地方出现的人应当还是原来的人。因为根据量子不可克隆定理，原来的这个人会被毁灭，而他会出现在另外一个地方。</p>
+</blockquote>
+<blockquote>
+<p>量子传输不可能达到时光机的效果，不可能让我们回到过去。</p>
+</blockquote>
+<blockquote>
+<p>永动机是不可能实现的，不论用经典的定理还是量子的定理，都不可能实现。</p>
+</blockquote>
+<blockquote>
+<p>反物质和物质湮灭产生能量的效率很高，核聚变效率低一点，但是反物质非常难以制造。</p>
+</blockquote>
+<blockquote>
+<p>量子传输应当是忠实的传输——把一个物体传到另一处，得到的新物体和原来的一模一样。能不能改变被传输的人？应该可以，这是实现忠实传输之后下一步的事情。</p>
+</blockquote>
+<blockquote>
+<p>我觉得未来是一个我们无法想象的世界：第一，在200年之后，我们很可能制造出反物质飞船。第二，也许大约100年之后，我们将制造出量子计算机，也许在那之后50年左右，我们就能制造出一个指甲盖大小的量子计算机，它的运算能力是现在世界上所有的计算机加起来都达不到的。</p>
+</blockquote>
+<h2 id="◆-第4讲-量子计算机和人类大脑"><a href="#◆-第4讲-量子计算机和人类大脑" class="headerlink" title="◆ 第4讲 量子计算机和人类大脑"></a>◆ 第4讲 量子计算机和人类大脑</h2><blockquote>
+<p>二极管的主要功能是开和关。</p>
+</blockquote>
+<blockquote>
+<p>一个经典的二极管，要么就是100%的开，要么就是100%的关，不会有第三种可能。</p>
+</blockquote>
+<blockquote>
+<p>不确定性原理</p>
+</blockquote>
+<blockquote>
+<p>到底什么是“薛定谔的猫”？</p>
+</blockquote>
+<blockquote>
+<p>在量子世界中，粒子可以同时存在于很多地方。</p>
+</blockquote>
+<blockquote>
+<p>量子计算机与经典计算机最核心的区别是，量子计算机基本元件构成的开关可以既是开的，同时也是关的。换句话说，它可以同时表示0和1这两个数字。这样的量子开关被称为量子比特。</p>
+</blockquote>
+<blockquote>
+<p>那么人脑的最基本单元，也就是它的开关，是什么呢？答案是神经元。</p>
+</blockquote>
+<blockquote>
+<p>神经元是可以放电的。而大量神经元一起放电时就会向外辐射脑电波。</p>
+</blockquote>
+<blockquote>
+<p>微管很难维持这种满足量子力学的状态，而是会很快地退化成一种经典的物体。</p>
+</blockquote>
+<blockquote>
+<p>在浸泡脑细胞的体液中，有一种磷酸钙的分子。由于含有磷原子，这种分子同样能充当量子开关。</p>
+</blockquote>
+<blockquote>
+<p>这种磷酸钙分子能够长时间地维持满足量子力学的状态。</p>
+</blockquote>
+<blockquote>
+<p>我们经常觉得我们的决定出自自己的意志，可是有人觉得我们的决定其实是我们受环境影响做出的，这就是著名的自由意志难题。</p>
+</blockquote>
+<blockquote>
+<p>人类的大脑有很多层次，最先进的就是大脑皮质，</p>
+</blockquote>
+<h2 id="◆-点评"><a href="#◆-点评" class="headerlink" title="◆ 点评"></a>◆ 点评</h2><p>点评:★★★★☆</p>
+]]></content>
+      <categories>
+        <category>PM</category>
+      </categories>
+      <tags>
+        <tag>读书笔记复盘</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《社群营销实战手册：从社群运营到社群经济》读书笔记</title>
     <url>/2020/04/24/%E3%80%8A%E7%A4%BE%E7%BE%A4%E8%90%A5%E9%94%80%E5%AE%9E%E6%88%98%E6%89%8B%E5%86%8C%EF%BC%9A%E4%BB%8E%E7%A4%BE%E7%BE%A4%E8%BF%90%E8%90%A5%E5%88%B0%E7%A4%BE%E7%BE%A4%E7%BB%8F%E6%B5%8E%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>社群营销实战手册：从社群运营到社群经济<br>秋叶 邻三月 秦阳<br>170个笔记</p>
@@ -7140,321 +7445,16 @@
       </tags>
   </entry>
   <entry>
-    <title>关于36Kr缺陷的几点思考</title>
-    <url>/2020/04/16/%E5%85%B3%E4%BA%8E36Kr%E7%BC%BA%E9%99%B7%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><ul>
-<li><p>只有PGC，没有UGC。所有的内容都是36氪平台的签约作家生成或是其他平台转载，普通用户的多元意见得不到表达。类似于新华社app上既提供专业内容，它的“现场云”板块也允许用户提供新闻线索。还有梨视频也是PGC+UGC的内容生产模式。</p>
+    <title>关于36Kr App缺陷的几点思考</title>
+    <url>/2020/04/29/%E5%85%B3%E4%BA%8E36Kr%20App%E7%BC%BA%E9%99%B7%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="36氪App的缺陷"><a href="#36氪App的缺陷" class="headerlink" title="36氪App的缺陷"></a>36氪App的缺陷</h1><ol>
+<li><p>呈现形式交叉混乱<br>页面显示复杂，大小图、文字、图标链接相互交叉，整个瀑布流都是采用这种交叉呈现的方式，而不是顶部集中重要的icon、banner等，下面是文字/图标/图片的一个种类的连续呈现。尤其是推荐页面，试图将文字、音频、视频、广告等所有形式的信息打包在一个页面中。</p>
 </li>
-<li><p>其次，没有嵌入性的服务平台，比如说最近今日头条根据线下场景提供适配的生活服务平台，拓展的新板块“在家玩”，提供在家做菜、外卖到家、送药上门、送菜等服务。可以通过在资讯类app中增加嵌入式服务平台，一方面可以拓展业务边界，另一方面可以满足用户的多元需求。</p>
+<li><p>开氪栏目无分类<br>开氪栏目中，所有课程仅区分为免费和付费，极为显眼的也是红色字体的价格。没有区分课程的类型，作为用户我觉得查找起来非常麻烦，只能看那种线性的呈现方式，没有提供给我精确搜索所需课程的功能。</p>
 </li>
-<li><p>再次，36氪app的知识付费的商业模式中，内容同质化严重，而且优质内容被头部讲师垄断。另外，文章里可以适当加入课程链接，类似抖音的视频+电商的模式，资讯类app也可以使用文章+课程的模式。</p>
+<li><p>发现栏目无重点<br>发现栏目中，给用户的感觉是不知道其主旨是什么。有投票、有选择、有问答等，细看可能是想给用户发表意见的单独入口，但是既不是纯粹的UGC内容，也不是单纯的投票选择题。如果不仔细看，不知道发现一栏想强调什么；如果仔细看，似乎是为了给用户提问而堆砌功能，为了做而做。</p>
 </li>
-</ul>
-]]></content>
-      <categories>
-        <category>PM</category>
-      </categories>
-      <tags>
-        <tag>idea常规性复盘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《给孩子讲量子力学》读书笔记</title>
-    <url>/2020/04/22/%E3%80%8A%E7%BB%99%E5%AD%A9%E5%AD%90%E8%AE%B2%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>给孩子讲量子力学<br>李淼<br>92个笔记</p>
-<h2 id="◆-第1讲-量子世界是什么样的"><a href="#◆-第1讲-量子世界是什么样的" class="headerlink" title="◆ 第1讲 量子世界是什么样的"></a>◆ 第1讲 量子世界是什么样的</h2><blockquote>
-<p>波也有能量：其频率越高，或者说波长越短，波的能量越高。</p>
-</blockquote>
-<blockquote>
-<p>物体热辐射所发出的光，其能量并不连续，而是一份份的，大小等于光的频率乘以一个很小的常数，叫普朗克常数。我们所说的“量子化”，其实就是指这种物理量本身不连续、总是一份份分布的特性。换言之，在量子世界里，物理量总是存在着一个最小值，无法像在经典世界中那样，直接趋于零。</p>
-</blockquote>
-<blockquote>
-<p>用光照射金属就可以从其内部打出电子。这并不奇怪。光可以把自身的能量传递给电子，使它获得足够的能量，从而逃脱金属原子对它的束缚。</p>
-</blockquote>
-<blockquote>
-<p>在一定频率之上的光，只要一照就可以从金属中打出电子；而在此频率之下的光，无论照射多长时间也无法把电子打出来。</p>
-</blockquote>
-<blockquote>
-<p>要想精确地测出它的位置，那它的动量就一定测不准；反过来，你要想精确地测出它的动量，那它的位置就一定测不准</p>
-</blockquote>
-<blockquote>
-<p>海森堡不确定性原理</p>
-</blockquote>
-<blockquote>
-<p>所谓的“看见”，就是让光打到物体上面，然后再反射到人眼或显微镜里。</p>
-</blockquote>
-<blockquote>
-<p>我们前面讲过，每种光都有自己的波长。万一光的波长比物体的尺寸还长，那它就反射不回来了；换句话说，我们无法看见尺寸小于光的波长的物体。</p>
-</blockquote>
-<blockquote>
-<p>要想精确地测出物体的位置，就要尽可能用波长比较短的光。</p>
-</blockquote>
-<blockquote>
-<p>光的波长越短，光子的能量就越大；而能量大的光子打到特别小的物体上，就会干扰到它原来的运动。</p>
-</blockquote>
-<blockquote>
-<p>用波长比较长的光，能测准微观粒子的动量，却测不准它的位置；而用波长比较短的光，能测准微观粒子的位置，却测不准它的动量。</p>
-</blockquote>
-<blockquote>
-<p>我们不能说一个光子有多大，只能说它的不确定性，它的不确定性应当在一万亿分之一米到一亿分之一米之间。它的能量在万分之一电子能量到一个电子能量之间。</p>
-</blockquote>
-<blockquote>
-<p>γ射线的能量要高于一个电子的能量，</p>
-</blockquote>
-<blockquote>
-<p>质量越大，它的不确定性越小。</p>
-</blockquote>
-<blockquote>
-<p>细胞由大量的原子组成，最小细胞的尺寸也要比原子大一万倍，所以细胞的不确定性很小。</p>
-</blockquote>
-<blockquote>
-<p>因为癌细胞是经典的，我们可以精确地定位它。</p>
-</blockquote>
-<blockquote>
-<p>退相干性，只要一个量子物体跟周围的环境发生相互作用，它就很难处在一个精确的量子态中。</p>
-</blockquote>
-<blockquote>
-<p>一个物体能量越大，它的位置的不确定性就越小。</p>
-</blockquote>
-<blockquote>
-<p>量子论和相对论是20世纪物理学的两大支柱。爱因斯坦完成了两项伟大的事业：一是提出了狭义相对论，这个理论与量子力学完全没有矛盾；二是提出了广义相对论，这个理论包含了万有引力。</p>
-</blockquote>
-<blockquote>
-<p>量子这个概念是普朗克引进的，按照他的理解，量子就是光里面的那些能量，一份一份的能量。后来，爱因斯坦发现，这一份一份的量子其实就是光子。现在量子的含义则更加复杂，不再是一份一份的能量，所有跟量子力学有关的东西都可能被叫作量子。</p>
-</blockquote>
-<blockquote>
-<p>原子核越小，能量就越大。</p>
-</blockquote>
-<blockquote>
-<p>原子是遵从量子力学的，量子本身不是一个物体，量子只是一个说法</p>
-</blockquote>
-<blockquote>
-<p>所有遵从量子力学的东西都被叫作量子了。</p>
-</blockquote>
-<blockquote>
-<p>仅仅用碳原子就可以构造不同的物体。</p>
-</blockquote>
-<blockquote>
-<p>根据相对论，质量和能量是一回事。</p>
-</blockquote>
-<blockquote>
-<p>在原子里面，所谓电子的跳跃，是从能量高的地方向能量低的地方跳跃。</p>
-</blockquote>
-<blockquote>
-<p>根据能量守恒定律，电子在跳跃的过程中得辐射光子。如果从能量低的地方向能量高的地方跳，同样，根据能量守恒定律，它必须吸收光子。</p>
-</blockquote>
-<blockquote>
-<p>根据相对论，光速是最高的速度，引力波也是以光速传播的。</p>
-</blockquote>
-<blockquote>
-<p>任何一个有质量的粒子，它的速度原则上都不能达到光速，因为达到光速时它的能量会无限大。</p>
-</blockquote>
-<h2 id="◆-第2讲-物质为何能保持稳定"><a href="#◆-第2讲-物质为何能保持稳定" class="headerlink" title="◆ 第2讲 物质为何能保持稳定"></a>◆ 第2讲 物质为何能保持稳定</h2><blockquote>
-<p>这种不会突然变大或变小的性质，叫作稳定性。</p>
-</blockquote>
-<blockquote>
-<p>电子的位置是不确定的，任何时刻都会同时出现在很多地方。</p>
-</blockquote>
-<blockquote>
-<p>只有当我们去看的时候，才能知道电子具体出现在哪里；如果不去看，电子就会同时待在很多地方。</p>
-</blockquote>
-<blockquote>
-<p>泡利发现了著名的泡利不相容原理。这个原理其实很简单，就是说在一个氢原子核周围只能有一个电子，另外一个电子根本就进不去。</p>
-</blockquote>
-<blockquote>
-<p>火是一个概念，当我们看到火的时候，其实是一团物质在发光。加热物质之后，它里面原子中的电子会被激发出来，电子从原子中掉出来就会辐射光。所以火本身不是物质，火只是物质发光的一种现象。<br>我们通常把火向上烧的那个发光的部分看成火，其实它大部分是气体。铁也发光，我们会说铁烧红了而不说那是火，这是习惯说法。</p>
-</blockquote>
-<blockquote>
-<p>每两个电子的重量是完全相同的，</p>
-</blockquote>
-<blockquote>
-<p>所有电子都长得一模一样，</p>
-</blockquote>
-<blockquote>
-<p>每两个质子的重量也是完全相同的，当然，不同元素的重量不同。</p>
-</blockquote>
-<blockquote>
-<p>电子就是围绕着原子核的一团雾。</p>
-</blockquote>
-<blockquote>
-<p>电子能量高的时候可以叫成高能粒子，中微子高能的时候也是高能粒子。</p>
-</blockquote>
-<blockquote>
-<p>电子最小（最轻），电子是基本粒子。</p>
-</blockquote>
-<blockquote>
-<p>原子核不是基本的，原子核里面有质子和中子。质子和中子也不是基本的，质子和中子是由夸克组成的。</p>
-</blockquote>
-<blockquote>
-<p>夸克本身是基本粒子，没有大小，像电子一样。</p>
-</blockquote>
-<blockquote>
-<p>夸克是基本粒子，像电子一样不可再分。</p>
-</blockquote>
-<blockquote>
-<p>现在可以确定中微子不是暗物质，暗物质一定是我们不知道的一种粒子，或者某几种粒子。</p>
-</blockquote>
-<blockquote>
-<p>我们现在通常用的加速器都是用来加速电子或质子的，因为它们都带电，不带电的粒子是没有办法被加速的。</p>
-</blockquote>
-<blockquote>
-<p>中微子之间几乎没有吸引力，因此不可以用中微子组成任何物质，原子之间是有吸引力的，所以原子可以用来组成物质。</p>
-</blockquote>
-<blockquote>
-<p>夸克是基本粒子，电子也是基本粒子，中微子和光子也都是基本粒子，当我们说大小的时候，指的是它们的质量，而不是尺寸，因为基本粒子都没有尺寸。</p>
-</blockquote>
-<blockquote>
-<p>目前在加速器上可以通过碰撞的办法制造出反物质，但不能大批地生产。</p>
-</blockquote>
-<blockquote>
-<p>亚原子是一个概念，我们通常将比原子小的东西叫作亚原子。原子核是亚原子，电子、中微子、基本粒子都是亚原子。</p>
-</blockquote>
-<blockquote>
-<p>虫洞是一个假想的东西，也许它并不存在，只是一个物理学家想象的东西，虫洞只是一种时空形态，而不是任何物质。</p>
-</blockquote>
-<blockquote>
-<p>基本粒子没有大小，这一点是很难理解的，因为它有质量，所以也就是说，它的密度是无限大的。的确，物理学家用量子力学和相对论来解释基本粒子，就得假设它没有大小，在逻辑上是这样的。</p>
-</blockquote>
-<blockquote>
-<p>不确定性原理</p>
-</blockquote>
-<h2 id="◆-第3讲-量子力学有什么用"><a href="#◆-第3讲-量子力学有什么用" class="headerlink" title="◆ 第3讲 量子力学有什么用"></a>◆ 第3讲 量子力学有什么用</h2><blockquote>
-<p>量子力学的第一个应用是激光。</p>
-</blockquote>
-<blockquote>
-<p>激光和其他任何光一样，都是由光子组成的，</p>
-</blockquote>
-<blockquote>
-<p>构成光的微粒</p>
-</blockquote>
-<blockquote>
-<p>激光非常特别，它里面每个光子的能量都一样大。这就是激光与普通光最大的区别。</p>
-</blockquote>
-<blockquote>
-<p>量子力学的第二个应用是半导体。</p>
-</blockquote>
-<blockquote>
-<p>路上有不少障碍，一般汽车开上去就会被堵死。但要是外部条件发生变化，比如温度升高，那汽车就又能在路上开了。这些特殊的材料就是半导体。</p>
-</blockquote>
-<blockquote>
-<p>二极管有两个接口，而这种元件有三个接口。所以人们就把这种电子元件称为三极管，也叫晶体管。晶体管可以放大电流，同时也可以充当开关。</p>
-</blockquote>
-<blockquote>
-<p>为什么短短几十年的时间里，硅谷就能从一个默默无闻的小地方，摇身一变，成为全世界最著名的高科技中心？一个非常重要的原因就是，肖克利去了那里。</p>
-</blockquote>
-<blockquote>
-<p>很快肖克利身边就聚集了一批美国电子领域中最优秀的人才。</p>
-</blockquote>
-<blockquote>
-<p>肖克利公司的八个主要员工集体跳槽，这就是硅谷历史上著名的“叛逆八人帮”。</p>
-</blockquote>
-<blockquote>
-<p>仙童半导体公司。仙童公司只用了短短两年时间就研发出了集成电路，从而彻底改变了整个电子行业，甚至整个世界的面貌。</p>
-</blockquote>
-<blockquote>
-<p>仙童公司为硅谷培养了成千上万的技术人才和管理人才，是当之无愧的硅谷“西点军校”。</p>
-</blockquote>
-<blockquote>
-<p>“叛逆八人帮”里出了一个特别有名的人，叫摩尔。摩尔离开仙童公司后，创办了一个专门生产半导体芯片的公司，这就是大名鼎鼎的英特尔公司。</p>
-</blockquote>
-<blockquote>
-<p>下面我再给大家讲一个比较科幻、还没有出现在现实世界中的应用，叫量子传输。</p>
-</blockquote>
-<blockquote>
-<p>但与经典世界不同的是，原来的物体一定会被破坏掉。最终的效果是，一个物体会突然从自己原来的位置消失；与此同时，另一个地方会突然出现一个一模一样的东西。</p>
-</blockquote>
-<blockquote>
-<p>量子传输机。当你走到机器里面，机器开动起来时，原来的你会变成一堆垃圾；与此同时，在另外一个星球上，有一台与之配套的机器，里面有一堆物质会突然得到你的全部信息，然后变成你走了出来。如果能掌握这种瞬时的量子传输技术，人类就可以实现科幻电影里常见的空间旅行了。</p>
-</blockquote>
-<blockquote>
-<p>1993年，六位物理学家想出了一个用量子纠缠来实现量子传输的办法。</p>
-</blockquote>
-<blockquote>
-<p>一群奥地利的物理学家在1997年首次实现了量子传输。不过，他们传输的东西非常简单，只有一个光子；而且传输的距离也很短，只有一个普通实验室的长度。经过近20年的发展，今天人类创造的量子传输最远距离纪录已达到340公里，相当于从武汉到长沙的距离。</p>
-</blockquote>
-<blockquote>
-<p>我们的大脑是不是一个量子计算机？意识是不是量子计算的产物？这个问题下一讲会讲。如果是的话，当我们传输人类的时候，主要传输的将是我们的大脑和意识。</p>
-</blockquote>
-<blockquote>
-<p>终极能源有可能是物质和反物质，但最快也要200年以后人类才能对这种能源进行利用。我的乐观估计是，人类在100年之内，大概能够实现受控热核聚变，这样的话，我们就可以在地球上造出人造小太阳。</p>
-</blockquote>
-<blockquote>
-<p>如果人类的大脑是一台量子计算机，我们把一个人的大脑传输到另外一个地方去，在那个地方出现的人应当还是原来的人。因为根据量子不可克隆定理，原来的这个人会被毁灭，而他会出现在另外一个地方。</p>
-</blockquote>
-<blockquote>
-<p>量子传输不可能达到时光机的效果，不可能让我们回到过去。</p>
-</blockquote>
-<blockquote>
-<p>永动机是不可能实现的，不论用经典的定理还是量子的定理，都不可能实现。</p>
-</blockquote>
-<blockquote>
-<p>反物质和物质湮灭产生能量的效率很高，核聚变效率低一点，但是反物质非常难以制造。</p>
-</blockquote>
-<blockquote>
-<p>量子传输应当是忠实的传输——把一个物体传到另一处，得到的新物体和原来的一模一样。能不能改变被传输的人？应该可以，这是实现忠实传输之后下一步的事情。</p>
-</blockquote>
-<blockquote>
-<p>我觉得未来是一个我们无法想象的世界：第一，在200年之后，我们很可能制造出反物质飞船。第二，也许大约100年之后，我们将制造出量子计算机，也许在那之后50年左右，我们就能制造出一个指甲盖大小的量子计算机，它的运算能力是现在世界上所有的计算机加起来都达不到的。</p>
-</blockquote>
-<h2 id="◆-第4讲-量子计算机和人类大脑"><a href="#◆-第4讲-量子计算机和人类大脑" class="headerlink" title="◆ 第4讲 量子计算机和人类大脑"></a>◆ 第4讲 量子计算机和人类大脑</h2><blockquote>
-<p>二极管的主要功能是开和关。</p>
-</blockquote>
-<blockquote>
-<p>一个经典的二极管，要么就是100%的开，要么就是100%的关，不会有第三种可能。</p>
-</blockquote>
-<blockquote>
-<p>不确定性原理</p>
-</blockquote>
-<blockquote>
-<p>到底什么是“薛定谔的猫”？</p>
-</blockquote>
-<blockquote>
-<p>在量子世界中，粒子可以同时存在于很多地方。</p>
-</blockquote>
-<blockquote>
-<p>量子计算机与经典计算机最核心的区别是，量子计算机基本元件构成的开关可以既是开的，同时也是关的。换句话说，它可以同时表示0和1这两个数字。这样的量子开关被称为量子比特。</p>
-</blockquote>
-<blockquote>
-<p>那么人脑的最基本单元，也就是它的开关，是什么呢？答案是神经元。</p>
-</blockquote>
-<blockquote>
-<p>神经元是可以放电的。而大量神经元一起放电时就会向外辐射脑电波。</p>
-</blockquote>
-<blockquote>
-<p>微管很难维持这种满足量子力学的状态，而是会很快地退化成一种经典的物体。</p>
-</blockquote>
-<blockquote>
-<p>在浸泡脑细胞的体液中，有一种磷酸钙的分子。由于含有磷原子，这种分子同样能充当量子开关。</p>
-</blockquote>
-<blockquote>
-<p>这种磷酸钙分子能够长时间地维持满足量子力学的状态。</p>
-</blockquote>
-<blockquote>
-<p>我们经常觉得我们的决定出自自己的意志，可是有人觉得我们的决定其实是我们受环境影响做出的，这就是著名的自由意志难题。</p>
-</blockquote>
-<blockquote>
-<p>人类的大脑有很多层次，最先进的就是大脑皮质，</p>
-</blockquote>
-<h2 id="◆-点评"><a href="#◆-点评" class="headerlink" title="◆ 点评"></a>◆ 点评</h2><p>点评:★★★★☆</p>
-]]></content>
-      <categories>
-        <category>PM</category>
-      </categories>
-      <tags>
-        <tag>读书笔记复盘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>关于信息处理｜idea常规性复盘</title>
-    <url>/2020/04/25/%E5%85%B3%E4%BA%8E%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86%EF%BD%9Cidea%E5%B8%B8%E8%A7%84%E6%80%A7%E5%A4%8D%E7%9B%98/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于信息处理｜idea常规性复盘"><a href="#关于信息处理｜idea常规性复盘" class="headerlink" title="关于信息处理｜idea常规性复盘"></a>关于信息处理｜idea常规性复盘</h1><ul>
-<li><p>语境下的信息<br>热点信息高度依赖于当下语境，其价值在某种程度上也是由语境赋予的。因此脱离开具体语境，再考量信息是否有价值。</p>
-</li>
-<li><p>不行动地囤积信息<br>大量时间花在资源囤积上，很少去整理复盘，而这些囤积的资源又给我们一种虚假的充实感，让我们继续忙碌于无用且繁复的囤积。因此分两步走：一是闲逛收集，二是复盘消化。</p>
-</li>
-<li><p>不理睬噪音<br>对于噪音，最好的处理方式是不去理睬，不看、不想、不产生情绪。因为一旦给予了注意力，它就得逞了，它的目的就是为了赚取你的注意力。这不是失去了它们，只是淘汰了没有价值的信息。</p>
-</li>
-</ul>
+</ol>
 ]]></content>
       <categories>
         <category>PM</category>
@@ -7488,6 +7488,72 @@
 </li>
 </ul>
 <p>最后还有个特别神奇的地方，QQ→微信→QQ。在我读高中的时候，大概10年前，QQ作为我们那一代的明星产品，登陆有进度条，同学会用诺基亚登QQ偷菜。2011年微信推出，2012年智能手机普及。个人留下的印象是，微信在很短的时间内取代了QQ，身边朋友、同学的熟人关系链似乎一夜之间转到了微信上。这是第一次大转折。而当下，2000年左右出生甚至往后的青少年，更多是在使用QQ，我接触过不少人，QQ的使用频率远高于微信。这是第二次大转折。作为产品小白，目前我仍然觉得太不可思议，一个产品竟然可以从一个年龄段过渡到另一个年龄段，而且更火。它的策略值得好好学习。（_以后思考了再写到博客做一记录。_）</p>
+]]></content>
+      <categories>
+        <category>PM</category>
+      </categories>
+      <tags>
+        <tag>idea常规性复盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于36Kr缺陷的几点思考</title>
+    <url>/2020/04/16/%E5%85%B3%E4%BA%8E36Kr%E7%BC%BA%E9%99%B7%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><ul>
+<li><p>只有PGC，没有UGC。所有的内容都是36氪平台的签约作家生成或是其他平台转载，普通用户的多元意见得不到表达。类似于新华社app上既提供专业内容，它的“现场云”板块也允许用户提供新闻线索。还有梨视频也是PGC+UGC的内容生产模式。</p>
+</li>
+<li><p>其次，没有嵌入性的服务平台，比如说最近今日头条根据线下场景提供适配的生活服务平台，拓展的新板块“在家玩”，提供在家做菜、外卖到家、送药上门、送菜等服务。可以通过在资讯类app中增加嵌入式服务平台，一方面可以拓展业务边界，另一方面可以满足用户的多元需求。</p>
+</li>
+<li><p>再次，36氪app的知识付费的商业模式中，内容同质化严重，而且优质内容被头部讲师垄断。另外，文章里可以适当加入课程链接，类似抖音的视频+电商的模式，资讯类app也可以使用文章+课程的模式。</p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>PM</category>
+      </categories>
+      <tags>
+        <tag>idea常规性复盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于信息处理</title>
+    <url>/2020/04/25/%E5%85%B3%E4%BA%8E%E4%BF%A1%E6%81%AF%E5%A4%84%E7%90%86/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于信息处理｜idea常规性复盘"><a href="#关于信息处理｜idea常规性复盘" class="headerlink" title="关于信息处理｜idea常规性复盘"></a>关于信息处理｜idea常规性复盘</h1><ul>
+<li><p>语境下的信息<br>热点信息高度依赖于当下语境，其价值在某种程度上也是由语境赋予的。因此脱离开具体语境，再考量信息是否有价值。</p>
+</li>
+<li><p>不行动地囤积信息<br>大量时间花在资源囤积上，很少去整理复盘，而这些囤积的资源又给我们一种虚假的充实感，让我们继续忙碌于无用且繁复的囤积。因此分两步走：一是闲逛收集，二是复盘消化。</p>
+</li>
+<li><p>不理睬噪音<br>对于噪音，最好的处理方式是不去理睬，不看、不想、不产生情绪。因为一旦给予了注意力，它就得逞了，它的目的就是为了赚取你的注意力。这不是失去了它们，只是淘汰了没有价值的信息。</p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>PM</category>
+      </categories>
+      <tags>
+        <tag>idea常规性复盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于美团闪购业务的学习笔记</title>
+    <url>/2020/04/18/%E5%85%B3%E4%BA%8E%E7%BE%8E%E5%9B%A2%E9%97%AA%E8%B4%AD%E4%B8%9A%E5%8A%A1%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>关于美团闪购业务的学习笔记</p>
+<h2 id="闪购业务背景"><a href="#闪购业务背景" class="headerlink" title="闪购业务背景"></a>闪购业务背景</h2><p>2018年美团上线美团闪购业务，产品定位于_即时性非餐饮类服务_，业务包括超市便利、生鲜果蔬、鲜花绿植等品类。要求是30分钟配送上门，24小时服务。<br>非餐饮类零售增长速度极快，超过外卖的增长速度。其中以_生鲜、水果_的增长最快。</p>
+<p>2018年，美团组织架构调整之后，目前战略上聚焦“Food+Platform”，“吃”为核心，搭建用户平台，到店事业群、到家事业群。</p>
+<h2 id="美团组织架构"><a href="#美团组织架构" class="headerlink" title="美团组织架构"></a>美团组织架构</h2><ol>
+<li>用户平台=美团平台+点评平台+服务体验平台。对用户负责，提升用户体验。协同LBS平台。</li>
+<li>到店事业群=到店餐饮+到店综合、住宿、境内度假、收银营销等。对商家负责，提升商家效率。</li>
+<li>到家事业群=外卖+配送+闪购+智慧厨房等。对用户负责，提升配送能力和到家服务。</li>
+<li>快驴事业部→供应链服务。对商家负责。</li>
+<li>小象事业部→生鲜零售。布局生鲜零售业务。</li>
+<li>LBS平台=LBS服务+网约车+大交通+无人配送等。增强LBS基础服务能力。协同用户平台。</li>
+</ol>
+<h2 id="闪购业务上线基础"><a href="#闪购业务上线基础" class="headerlink" title="闪购业务上线基础"></a>闪购业务上线基础</h2><p>美团O2O基础设施完善，配送体系健全。<br>即时性、高频次、快零售服务正在成为行业发展的另一个爆发点。<br>传统电商增长趋势放缓，快零售成为巨头看中的方向，京东、苏宁、阿里相继入局快零售，如京东到家、淘鲜达。</p>
+<h2 id="定位"><a href="#定位" class="headerlink" title="定位"></a>定位</h2><blockquote>
+<p>美团外卖解决的是餐饮30分钟送到消费者手中的问题。<br>美团闪购是要解决低渗透的零售品类快速线上化的问题。30分钟送达的LBS电商。</p>
+</blockquote>
+<h2 id="闪购逻辑"><a href="#闪购逻辑" class="headerlink" title="闪购逻辑"></a>闪购逻辑</h2><p>美团在全国假如有一万个商圈/蜂窝，那就把商圈里面最好的新鲜、日用、快消、药品、鲜花、宠物用品等搬上线，这些类别共同组成了一个商圈的SKU，通过O2O，保证30分钟送达。</p>
+<p>与外卖逻辑类似，外卖也是一万个蜂窝，一个蜂窝为消费者提供三百个餐厅一万道菜。</p>
 ]]></content>
       <categories>
         <category>PM</category>
@@ -7534,50 +7600,38 @@
       </tags>
   </entry>
   <entry>
-    <title>关于美团闪购业务的学习笔记</title>
-    <url>/2020/04/18/%E5%85%B3%E4%BA%8E%E7%BE%8E%E5%9B%A2%E9%97%AA%E8%B4%AD%E4%B8%9A%E5%8A%A1%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>关于美团闪购业务的学习笔记</p>
-<h2 id="闪购业务背景"><a href="#闪购业务背景" class="headerlink" title="闪购业务背景"></a>闪购业务背景</h2><p>2018年美团上线美团闪购业务，产品定位于_即时性非餐饮类服务_，业务包括超市便利、生鲜果蔬、鲜花绿植等品类。要求是30分钟配送上门，24小时服务。<br>非餐饮类零售增长速度极快，超过外卖的增长速度。其中以_生鲜、水果_的增长最快。</p>
-<p>2018年，美团组织架构调整之后，目前战略上聚焦“Food+Platform”，“吃”为核心，搭建用户平台，到店事业群、到家事业群。</p>
-<h2 id="美团组织架构"><a href="#美团组织架构" class="headerlink" title="美团组织架构"></a>美团组织架构</h2><ol>
-<li>用户平台=美团平台+点评平台+服务体验平台。对用户负责，提升用户体验。协同LBS平台。</li>
-<li>到店事业群=到店餐饮+到店综合、住宿、境内度假、收银营销等。对商家负责，提升商家效率。</li>
-<li>到家事业群=外卖+配送+闪购+智慧厨房等。对用户负责，提升配送能力和到家服务。</li>
-<li>快驴事业部→供应链服务。对商家负责。</li>
-<li>小象事业部→生鲜零售。布局生鲜零售业务。</li>
-<li>LBS平台=LBS服务+网约车+大交通+无人配送等。增强LBS基础服务能力。协同用户平台。</li>
-</ol>
-<h2 id="闪购业务上线基础"><a href="#闪购业务上线基础" class="headerlink" title="闪购业务上线基础"></a>闪购业务上线基础</h2><p>美团O2O基础设施完善，配送体系健全。<br>即时性、高频次、快零售服务正在成为行业发展的另一个爆发点。<br>传统电商增长趋势放缓，快零售成为巨头看中的方向，京东、苏宁、阿里相继入局快零售，如京东到家、淘鲜达。</p>
-<h2 id="定位"><a href="#定位" class="headerlink" title="定位"></a>定位</h2><blockquote>
-<p>美团外卖解决的是餐饮30分钟送到消费者手中的问题。<br>美团闪购是要解决低渗透的零售品类快速线上化的问题。30分钟送达的LBS电商。</p>
-</blockquote>
-<h2 id="闪购逻辑"><a href="#闪购逻辑" class="headerlink" title="闪购逻辑"></a>闪购逻辑</h2><p>美团在全国假如有一万个商圈/蜂窝，那就把商圈里面最好的新鲜、日用、快消、药品、鲜花、宠物用品等搬上线，这些类别共同组成了一个商圈的SKU，通过O2O，保证30分钟送达。</p>
-<p>与外卖逻辑类似，外卖也是一万个蜂窝，一个蜂窝为消费者提供三百个餐厅一万道菜。</p>
+    <title>关于团队与工作的思考</title>
+    <url>/2020/05/02/%E5%85%B3%E4%BA%8E%E5%9B%A2%E9%98%9F%E4%B8%8E%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%80%9D%E8%80%83/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于团队与工作的思考"><a href="#关于团队与工作的思考" class="headerlink" title="关于团队与工作的思考"></a>关于团队与工作的思考</h1><p>1、先看大环境再做业务，任何行业都是如此，任何岗位也是如此。业务技能做到最后，都是对行业、对环境有清晰准确的把握。无论何时何地哪个国家，任何业界干得著名且牛逼，莫不是了解国情、行业、趋势之人。我觉得既可以边做业务边提升眼界，也可以先升眼界再做业务并持续论证。</p>
+<p>2、“有什么不好处理的，都是为公司干活，干好了大家都有利益，干不好大家的利益都受影响。”一个国家、一个公司、一个团队所有人都是这么想的，那这个国家、公司、团队倒好管理了。从理论上说，这种观点无丝毫不足之处，但是从现实上来说，这种观点也只能存在于期望之中。</p>
+<p>3、我们通常会用“拴在一根绳上的蚂蚱”来比喻利益的一致性，但真实的结果往往是每个蚂蚱都想着自己先飞，让其他蚂蚱掩护。即使是在最终利益一致的情况下，也会有各种各样的小团体利益存在于最终利益之中，在最终利益未实现之前，人们首先考虑的是保证小团体利益的实现，再细化就是个人利益。</p>
+<p>4、所有问题、事件说到最后都是哲学问题。哲学问题是脑子问题，脑子问题是生物问题，最终都是物质、元素问题。所以如果用一个词来形容物理学，我喜欢用“上帝物理学”。</p>
 ]]></content>
       <categories>
-        <category>PM</category>
+        <category>日常</category>
       </categories>
       <tags>
-        <tag>idea常规性复盘</tag>
+        <tag>胡思乱想</tag>
       </tags>
   </entry>
   <entry>
-    <title>物理小思考（一）</title>
-    <url>/2020/04/23/%E7%89%A9%E7%90%86%E5%B0%8F%E6%80%9D%E8%80%83%EF%BC%88%E4%B8%80%EF%BC%89/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>《思想大唠嗑》</p>
-<p>自牛顿建立经典物理学以来，其成就一是建立了宏观物理学的壮阔大厦，目之所及无不是经典物理学的“真理”之光照耀之处。</p>
-<p>实证的研究方法自此被确立下来（原来是源自这里），实践也就成了检验真理的唯一标准。“一套理性成熟的逻辑体系是无法证明自己的正确和完善的”（哥德尔不具备定理），一个逻辑体系无论多么繁复完善，也一定会在其中找到“既不能证实也不能证伪的问题”。这种问题也就成为了后来者提出假设、进行论证的新起点。</p>
-<p>所以在牛顿之后，“实证研究”和“提出假设”应用到自然科学直至人文科学之中。</p>
-<p>而爱因斯坦光的二象性、玻尔的普朗克常数、玻尔的原子模型提出之后，量子理论在微观世界彻底推翻牛顿创立的经典物理学。自1900年后发展迄今，量子物理学建立了另一座宏伟的双子大厦。</p>
-<p>之后，一群物理学家、数学家、逻辑学家形成的维也纳学派，“尝试在自然科学的基础上，探讨哲学和科学研究方法等问题”。“他们的哲学有时被称为逻辑实证主义，其基础是逻辑分析、可验证性准则以及被认可的科学陈述。”</p>
-<p>和书中观点一致，此处个人认为，在生活中某种情境之下，严格的形式逻辑和一味的追根溯源，其实会对语言和意义之间的指涉进行循环无尽的分析。表面是在扮演哲学思辨，实际上可能成了一种语言游戏和自相矛盾。</p>
-<p>复盘之后，目前再看作者奉行的体验主义，确实值得我们将其作为一种态度。继续阅读…</p>
+    <title>基于“共识:融合态”的一种相处连接</title>
+    <url>/2020/05/02/%E5%9F%BA%E4%BA%8E%E2%80%9C%E5%85%B1%E8%AF%86:%E8%9E%8D%E5%90%88%E6%80%81%E2%80%9D%E7%9A%84%E4%B8%80%E7%A7%8D%E7%9B%B8%E5%A4%84%E8%BF%9E%E6%8E%A5/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="基于“共识-融合态”的一种相处连接"><a href="#基于“共识-融合态”的一种相处连接" class="headerlink" title="基于“共识/融合态”的一种相处连接"></a>基于“共识/融合态”的一种相处连接</h1><p>人与人之间的交往和相处，其本质是建立在多个维度的连接之上的。</p>
+<p>以下所举例的维度都是强调，在这一维度上的连接。越多维度的连接，人与人之间就能建立越亲密的关系。</p>
+<p>这里说的维度，其实就是一个角度、一个规则，在某个方面的共识。这里说的“共识”不一定是相同的看待事物的基础，而是想要强调一种融合的状态，超越同与不同的概念，纯粹是人与人之间相处的一种融合状态。<br>（其实我也没有思辨好这个略带哲学意味的话题。）</p>
+<p>我目前所思考的，作为类比，相当于一个点对点结构，两点就是两个人，点与点的连接不是一条线的简单连接，也不是一个平面的多条线的连接，而是多个平面的多条线的连接，即立体状态。点与点间的每一条线就是人与人之间相处的一个维度，也就是连接的一个维度。<br>这样，线条越多、维度越多，人与人之间的连接就越强，越亲密。</p>
+<p>具体来说，举几个例子：</p>
+<p>1、两者之间对于事物要有看法，对人生有追求，这里强调的不是相同的看法和一致的追求，以前我是这么以为，现在不这么认为。我觉得是一种连接，这种连接超越是否相同、是否互补这类概念，而是仅强调一种“连接”，即使有差异也可以连接在一起，偏向于融合共生的状态。这是举例的第一个维度。</p>
+<p>2、细化下来，第二个例子，对于交朋友的看法，必须要在平等的条件下，进行公正对比，避免双标的情况发生。比如说男生A和女生B是好朋友，A与（B+B的一群朋友）吃饭；男生C和女生D是好朋友，C和D单独吃饭。这种就是不对等的情况。这只是一个例子。人与人之间对于事物的判断和理解，也是可同、可不同，这作为人与人之间相处的另一个维度。关键在于，超越表面概念之上，如何建立连接，如何建立一种融合的状态。不是说你优秀我不优秀、你阶层高我阶层低、你有钱我没钱，或者你我想法一致、你我追求相同等，这样才可以建立连接，而是超越这种概念的“共识”，并在这“共识”之上建立的连接。似乎有点倾向于“认可”。</p>
+<p>3、第三个例子，说情侣之间。如果一方对另一方失去信心，而只关注爱不爱、好不好（个人认为这是很玄妙的东西），如果不是因为一个人的“特质”而相互吸引，而只关注“爱情”、“对我好不好”，这是无根浮萍（弱连接）。这么说的基础是，“爱情”是建立在“特质”相互吸引、多个维度连接的基础上的，如果没有“特质”可吸引或维度连接（强连接）都断裂了，那爱情也就会破碎。归纳下似乎所有的爱情破灭都可以这么解释。<br>进一步具体地说，如果一个女的觉得一个男的不行，没有优点和“特质”，仅仅是因为“对我好”并在此基础上产生自以为的“爱情”（而不是因为其他而产生爱情）而维系情侣关系，这其实已经破碎，因为失去了强连接。并且不止一条的强连接，在多个方面都失去了强连接。</p>
+<p>综上一番论述，也就是强调：如果人与人之间的在多个维度的强连接断裂了，或者说在多个角度达不成一种“共识”的状态，那关系即将破碎。反之，关系亲密。尤其需要强调，这个“共识”是超越同与不同、互不互补等等概念的一种融合态。<br>这些维度可能包括：思考、想法、观点、目标、态度等等。<br>似乎不是这些维度，太大了。我想说的就是一些连接的维度，但是形容不出来了，现在有点混乱。</p>
 ]]></content>
       <categories>
-        <category>物理</category>
+        <category>心理</category>
       </categories>
       <tags>
-        <tag>物理点子复盘</tag>
+        <tag>胡思乱想</tag>
       </tags>
   </entry>
   <entry>
@@ -7608,34 +7662,22 @@
       </tags>
   </entry>
   <entry>
-    <title>谈一款现象级的互联网产品（一）——滴滴出行</title>
-    <url>/2020/04/17/%E8%B0%88%E4%B8%80%E6%AC%BE%E7%8E%B0%E8%B1%A1%E7%BA%A7%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%A7%E5%93%81%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%94%E2%80%94%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>谈一款现象级的互联网产品（六）——滴滴出行<br>滴滴出行作为国内目前最大的解决出行问题的互联网产品，定位共享出行。</p>
-<h2 id="共享经济"><a href="#共享经济" class="headerlink" title="共享经济"></a>共享经济</h2><blockquote>
-<p>共享经济是指拥有闲置资源的机构或个人有偿让渡资源使用权给他人，并获得回报。实质是分享者通过分享闲置资源获得利益。</p>
-</blockquote>
-<p>共享经济是一种能够优化资源配置并推动社会治理进步的模式。这是基于互联网等技术而架构的平台，平台方将卖房的资源有偿提供给买房。事实上，互联网产品都涉及到三方，一是平台方，二是卖房，三是买房。不同定位的产品可能三方的说法不同。</p>
-<p>从这个角度看，滴滴作为共享出行的平台，它将汽车这一闲置资源放在平台上有偿共享，拥有汽车的并且相对闲置，或者说对资源拥有者来说可以赚点外快，何乐而不为呢，这样的一个人群个人认为是庞大的，这一方作为卖方，作为资源拥有方和提供方。</p>
-<p>另一方是有出行需求的人，在共享出行方式出现之前，打车难、被拒载这些环境的大问题或者说痛点，始终存在，滴滴平台做的事是什么呢？将刚才说的闲置汽车资源提供给有出行用户，且这些用户的出行是有痛点的。这样三方就联系起来了。</p>
-<h2 id="发展历程"><a href="#发展历程" class="headerlink" title="发展历程"></a>发展历程</h2><p>滴滴从2012年成立，到目前，已经超越Uber，是全球最大的出行服务平台。滴滴刚开始叫做“嘀嘀”，2012年成立于北京，同年快的（杭州）也成立了。两者刚成立的时候提供的业务仅限于出租车在线叫车服务。<strong>O2O模式</strong></p>
-<p>在2013年分别被腾讯、阿里投资，并且“嘀嘀”收购了大黄蜂打车。</p>
-<p>2014年1月开始，其实两者也爆发了在出行领域的补贴大战，饿了么美团的补贴大战也是同一年（_回头也会思考下美团和饿了么，发到博客做个记录_）。在“嘀嘀”与快的打仗的2014年，移动出行这一概念也就开始兴起，收到资本追捧，为大众也熟知。2014年5月，“嘀嘀”更名为“滴滴”。_我就说对这个更名的新闻有点熟悉呢，那会儿是有这么一出事，原来是来龙去脉是这样的。_8月份，滴滴专车上线。</p>
-<p>2015年2月，滴滴和快的战略合并。猜测应该是政府出门协调的。6月份，顺风车上线。<strong>C2C模式。</strong>8月更名为“滴滴出行”，明确构建一站式出行平台。</p>
-<p>后面就开始市场扩张了，在国内国外各种扩张。据维基百科的介绍，滴滴在2016年收购Uber中国业务，实际上是通过换股的方式进行收购的，这种换股实际上Uber成为滴滴的第一大股东，并且获取最多的股东收益。</p>
-<h2 id="产品视角"><a href="#产品视角" class="headerlink" title="产品视角"></a>产品视角</h2><h3 id="推广阶段"><a href="#推广阶段" class="headerlink" title="推广阶段"></a>推广阶段</h3><p>定位于共享出行市场。<br>用户痛点：用户打车难、司机拉客难。<br>核心要求：保证用户流畅使用App打车，并完成支付。<br>解决办法：注册bug→免注册，直接使用→保证核心功能体验。</p>
-<h3 id="成长阶段"><a href="#成长阶段" class="headerlink" title="成长阶段"></a>成长阶段</h3><p>丰富产品功能+算法优化+产品迭代+接入第三方支付功能。<br>提升用户体验。</p>
-<h3 id="成熟阶段"><a href="#成熟阶段" class="headerlink" title="成熟阶段"></a>成熟阶段</h3><p>解锁各种新功能，形成全方位的产品线格局，一是滴滴专车、顺风车、巴士、豪车等原始产品线，二是预约、接送机、代驾、包车、二手车买卖等服务线，三是入局共享单车，即青桔单车。<br>吸引更多用户成为司机（仍有潜力），吸引更多受众成为用户（国内增长速度放缓）。<br>→带动更多社会闲置资源的流转和复用。</p>
-<h2 id="运营视角"><a href="#运营视角" class="headerlink" title="运营视角"></a>运营视角</h2><h3 id="推广阶段-1"><a href="#推广阶段-1" class="headerlink" title="推广阶段"></a>推广阶段</h3><p>滴滴刚开始的阶段，做的是出租车在线打车业务，主要就是通过补贴，让出租车愿意接单，得到更多补贴；用户愿意在线打车，得到补贴更便宜。<br>主要任务：拉新。</p>
-<h3 id="成长阶段-1"><a href="#成长阶段-1" class="headerlink" title="成长阶段"></a>成长阶段</h3><p>从一线城市向二三线城市扩张。<br>从出租车纵向发展，触及高品质出行（豪车）+下沉便利便宜出行（快车）+中间是专车，形成差异化产品格局。<br>持续补贴。<br>拉新。<br>主要任务：城市扩张+产品扩张。</p>
-<h3 id="成熟阶段-1"><a href="#成熟阶段-1" class="headerlink" title="成熟阶段"></a>成熟阶段</h3><p>产品扩张，构建全方位一站式出行平台，不仅有实体产品，还有服务类产品，如代驾服务等。<br>减少补贴力度。<br>App中加入游戏性机制，如分享领红包、随机减、赠送游戏积分。<br>主要任务：促活。</p>
-<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p><strong><em>安全机制！</em></strong></p>
-<p>参考：<a href="http://www.woshipm.com/pmd/503537.html" target="_blank" rel="noopener">http://www.woshipm.com/pmd/503537.html</a></p>
+    <title>物理小思考（一）</title>
+    <url>/2020/04/23/%E7%89%A9%E7%90%86%E5%B0%8F%E6%80%9D%E8%80%83%EF%BC%88%E4%B8%80%EF%BC%89/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>《思想大唠嗑》</p>
+<p>自牛顿建立经典物理学以来，其成就一是建立了宏观物理学的壮阔大厦，目之所及无不是经典物理学的“真理”之光照耀之处。</p>
+<p>实证的研究方法自此被确立下来（原来是源自这里），实践也就成了检验真理的唯一标准。“一套理性成熟的逻辑体系是无法证明自己的正确和完善的”（哥德尔不具备定理），一个逻辑体系无论多么繁复完善，也一定会在其中找到“既不能证实也不能证伪的问题”。这种问题也就成为了后来者提出假设、进行论证的新起点。</p>
+<p>所以在牛顿之后，“实证研究”和“提出假设”应用到自然科学直至人文科学之中。</p>
+<p>而爱因斯坦光的二象性、玻尔的普朗克常数、玻尔的原子模型提出之后，量子理论在微观世界彻底推翻牛顿创立的经典物理学。自1900年后发展迄今，量子物理学建立了另一座宏伟的双子大厦。</p>
+<p>之后，一群物理学家、数学家、逻辑学家形成的维也纳学派，“尝试在自然科学的基础上，探讨哲学和科学研究方法等问题”。“他们的哲学有时被称为逻辑实证主义，其基础是逻辑分析、可验证性准则以及被认可的科学陈述。”</p>
+<p>和书中观点一致，此处个人认为，在生活中某种情境之下，严格的形式逻辑和一味的追根溯源，其实会对语言和意义之间的指涉进行循环无尽的分析。表面是在扮演哲学思辨，实际上可能成了一种语言游戏和自相矛盾。</p>
+<p>复盘之后，目前再看作者奉行的体验主义，确实值得我们将其作为一种态度。继续阅读…</p>
 ]]></content>
       <categories>
-        <category>PM</category>
+        <category>物理</category>
       </categories>
       <tags>
-        <tag>idea常规性复盘</tag>
+        <tag>物理点子复盘</tag>
       </tags>
   </entry>
   <entry>
@@ -7698,6 +7740,37 @@
 <li>通过口碑营销提高产品知名度，并拉新。</li>
 <li>简书出版的线上线下联动模式，拓展边界，出圈。</li>
 </ul>
+<p>参考：<a href="http://www.woshipm.com/pmd/503537.html" target="_blank" rel="noopener">http://www.woshipm.com/pmd/503537.html</a></p>
+]]></content>
+      <categories>
+        <category>PM</category>
+      </categories>
+      <tags>
+        <tag>idea常规性复盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>谈一款现象级的互联网产品（一）——滴滴出行</title>
+    <url>/2020/04/17/%E8%B0%88%E4%B8%80%E6%AC%BE%E7%8E%B0%E8%B1%A1%E7%BA%A7%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%A7%E5%93%81%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%94%E2%80%94%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>谈一款现象级的互联网产品（六）——滴滴出行<br>滴滴出行作为国内目前最大的解决出行问题的互联网产品，定位共享出行。</p>
+<h2 id="共享经济"><a href="#共享经济" class="headerlink" title="共享经济"></a>共享经济</h2><blockquote>
+<p>共享经济是指拥有闲置资源的机构或个人有偿让渡资源使用权给他人，并获得回报。实质是分享者通过分享闲置资源获得利益。</p>
+</blockquote>
+<p>共享经济是一种能够优化资源配置并推动社会治理进步的模式。这是基于互联网等技术而架构的平台，平台方将卖房的资源有偿提供给买房。事实上，互联网产品都涉及到三方，一是平台方，二是卖房，三是买房。不同定位的产品可能三方的说法不同。</p>
+<p>从这个角度看，滴滴作为共享出行的平台，它将汽车这一闲置资源放在平台上有偿共享，拥有汽车的并且相对闲置，或者说对资源拥有者来说可以赚点外快，何乐而不为呢，这样的一个人群个人认为是庞大的，这一方作为卖方，作为资源拥有方和提供方。</p>
+<p>另一方是有出行需求的人，在共享出行方式出现之前，打车难、被拒载这些环境的大问题或者说痛点，始终存在，滴滴平台做的事是什么呢？将刚才说的闲置汽车资源提供给有出行用户，且这些用户的出行是有痛点的。这样三方就联系起来了。</p>
+<h2 id="发展历程"><a href="#发展历程" class="headerlink" title="发展历程"></a>发展历程</h2><p>滴滴从2012年成立，到目前，已经超越Uber，是全球最大的出行服务平台。滴滴刚开始叫做“嘀嘀”，2012年成立于北京，同年快的（杭州）也成立了。两者刚成立的时候提供的业务仅限于出租车在线叫车服务。<strong>O2O模式</strong></p>
+<p>在2013年分别被腾讯、阿里投资，并且“嘀嘀”收购了大黄蜂打车。</p>
+<p>2014年1月开始，其实两者也爆发了在出行领域的补贴大战，饿了么美团的补贴大战也是同一年（_回头也会思考下美团和饿了么，发到博客做个记录_）。在“嘀嘀”与快的打仗的2014年，移动出行这一概念也就开始兴起，收到资本追捧，为大众也熟知。2014年5月，“嘀嘀”更名为“滴滴”。_我就说对这个更名的新闻有点熟悉呢，那会儿是有这么一出事，原来是来龙去脉是这样的。_8月份，滴滴专车上线。</p>
+<p>2015年2月，滴滴和快的战略合并。猜测应该是政府出门协调的。6月份，顺风车上线。<strong>C2C模式。</strong>8月更名为“滴滴出行”，明确构建一站式出行平台。</p>
+<p>后面就开始市场扩张了，在国内国外各种扩张。据维基百科的介绍，滴滴在2016年收购Uber中国业务，实际上是通过换股的方式进行收购的，这种换股实际上Uber成为滴滴的第一大股东，并且获取最多的股东收益。</p>
+<h2 id="产品视角"><a href="#产品视角" class="headerlink" title="产品视角"></a>产品视角</h2><h3 id="推广阶段"><a href="#推广阶段" class="headerlink" title="推广阶段"></a>推广阶段</h3><p>定位于共享出行市场。<br>用户痛点：用户打车难、司机拉客难。<br>核心要求：保证用户流畅使用App打车，并完成支付。<br>解决办法：注册bug→免注册，直接使用→保证核心功能体验。</p>
+<h3 id="成长阶段"><a href="#成长阶段" class="headerlink" title="成长阶段"></a>成长阶段</h3><p>丰富产品功能+算法优化+产品迭代+接入第三方支付功能。<br>提升用户体验。</p>
+<h3 id="成熟阶段"><a href="#成熟阶段" class="headerlink" title="成熟阶段"></a>成熟阶段</h3><p>解锁各种新功能，形成全方位的产品线格局，一是滴滴专车、顺风车、巴士、豪车等原始产品线，二是预约、接送机、代驾、包车、二手车买卖等服务线，三是入局共享单车，即青桔单车。<br>吸引更多用户成为司机（仍有潜力），吸引更多受众成为用户（国内增长速度放缓）。<br>→带动更多社会闲置资源的流转和复用。</p>
+<h2 id="运营视角"><a href="#运营视角" class="headerlink" title="运营视角"></a>运营视角</h2><h3 id="推广阶段-1"><a href="#推广阶段-1" class="headerlink" title="推广阶段"></a>推广阶段</h3><p>滴滴刚开始的阶段，做的是出租车在线打车业务，主要就是通过补贴，让出租车愿意接单，得到更多补贴；用户愿意在线打车，得到补贴更便宜。<br>主要任务：拉新。</p>
+<h3 id="成长阶段-1"><a href="#成长阶段-1" class="headerlink" title="成长阶段"></a>成长阶段</h3><p>从一线城市向二三线城市扩张。<br>从出租车纵向发展，触及高品质出行（豪车）+下沉便利便宜出行（快车）+中间是专车，形成差异化产品格局。<br>持续补贴。<br>拉新。<br>主要任务：城市扩张+产品扩张。</p>
+<h3 id="成熟阶段-1"><a href="#成熟阶段-1" class="headerlink" title="成熟阶段"></a>成熟阶段</h3><p>产品扩张，构建全方位一站式出行平台，不仅有实体产品，还有服务类产品，如代驾服务等。<br>减少补贴力度。<br>App中加入游戏性机制，如分享领红包、随机减、赠送游戏积分。<br>主要任务：促活。</p>
+<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p><strong><em>安全机制！</em></strong></p>
 <p>参考：<a href="http://www.woshipm.com/pmd/503537.html" target="_blank" rel="noopener">http://www.woshipm.com/pmd/503537.html</a></p>
 ]]></content>
       <categories>
