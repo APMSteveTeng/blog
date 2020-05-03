@@ -523,6 +523,1252 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2020/04/14/hello-world/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>《从门外汉到BAT产品经理有多远》读书笔记</title>
+    <url>/2020/04/21/%E3%80%8A%E4%BB%8E%E9%97%A8%E5%A4%96%E6%B1%89%E5%88%B0BAT%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E6%9C%89%E5%A4%9A%E8%BF%9C%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>从门外汉到BAT产品经理有多远<br>张恒<br>183个笔记</p>
+<h2 id="◆-1．任何互联网公司都缺人，证明实力争取机会"><a href="#◆-1．任何互联网公司都缺人，证明实力争取机会" class="headerlink" title="◆ 1．任何互联网公司都缺人，证明实力争取机会"></a>◆ 1．任何互联网公司都缺人，证明实力争取机会</h2><blockquote>
+<p>总之从规划自己职业生涯的那一刻开始，这些人就在不断有意识地培养自己各方面的能力，以期毕业之后能进入这家公司工作。</p>
+</blockquote>
+<blockquote>
+<p>所以很多互联网公司其实都处于“一直在招人，从未停止过”的状态，如果一家互联网公司没有表现出对人才的渴求，只能说明它已经在走下坡路了，这样的公司不进也罢。</p>
+</blockquote>
+<blockquote>
+<p>你唯一需要关注的问题就是你的简历以及你展现出来的能力能否引起它们的注意，值不值得它专门为你准备一个职位。所以只要你实力足够强，符合公司的预期，它是否正在招人这个因素根本就不应该成为你的顾虑。</p>
+</blockquote>
+<blockquote>
+<p>专门为优秀的你准备一个Offer对一家互联网公司来说完全有可能，</p>
+</blockquote>
+<blockquote>
+<p>很多互联网公司舍得花很大一笔钱去培养一些现在看来不太重要的产品经理和运营人员，因为他们未来会给公司创造很大的价值。</p>
+</blockquote>
+<blockquote>
+<p>你只要让自己变得更加优秀，让自己处于最佳状态</p>
+</blockquote>
+<h2 id="◆-2．互联网公司基本无简历、性别、年龄、学历歧视"><a href="#◆-2．互联网公司基本无简历、性别、年龄、学历歧视" class="headerlink" title="◆ 2．互联网公司基本无简历、性别、年龄、学历歧视"></a>◆ 2．互联网公司基本无简历、性别、年龄、学历歧视</h2><blockquote>
+<p>在互联网这个行业大家工作都如此地忙，没有时间去深究面试者的简历到底是用什么邮箱发来的，他们只会点开你的简历从前往后看，寻找你有哪些经历是跟招聘职位匹配的，哪些能力是可以胜任这个职位的，又有什么不足会为团队带来潜在的风险，就这么简单。</p>
+</blockquote>
+<blockquote>
+<p>简历的内容远比简历的命名、发送邮箱更为重要。</p>
+</blockquote>
+<blockquote>
+<p>求职前请忽略那些名校的成功人士案例，也不要太过崇拜那些没有学历却能在互联网上混得风生水起的大佬，请把更多的注意力放在自己身上，让自己在最短的时间内有最大的提升，这样你才能成为别人口中的模板。</p>
+</blockquote>
+<blockquote>
+<p>不断去了解互联网这个行业，积攒行业中你感兴趣的职位所需的能力，</p>
+</blockquote>
+<h2 id="◆-3．工作经验只是噱头，如果能力够强请自动忽略"><a href="#◆-3．工作经验只是噱头，如果能力够强请自动忽略" class="headerlink" title="◆ 3．工作经验只是噱头，如果能力够强请自动忽略"></a>◆ 3．工作经验只是噱头，如果能力够强请自动忽略</h2><blockquote>
+<p>很多应届毕业生看到招聘网站上的JD（职位描述）中写着需要若干年的工作经验，就自动把自己屏蔽在这个职位之外了，哪怕这个职位是你心仪的职位，哪怕你的能力跟职位描述的要求完全相符。那就大错特错了！</p>
+</blockquote>
+<blockquote>
+<p>对于自己能胜任的职位，即使存在工作经验不匹配的情况，也不要太过纠结。简历照样投，毕竟写一个邮件的成本很低，即使你没有得到面试的机会，你也做了尝试，这是一件特别有正能量的事情。工作经验只是一个噱头，如果你的能力够强请自动忽略。</p>
+</blockquote>
+<h2 id="◆-4．面试官没有你想得那么牛"><a href="#◆-4．面试官没有你想得那么牛" class="headerlink" title="◆ 4．面试官没有你想得那么牛"></a>◆ 4．面试官没有你想得那么牛</h2><blockquote>
+<p>很多应届毕业生在面试过程中因为心理素质不够强而过度紧张，导致自己发挥失常，和向往的职位失之交臂。</p>
+</blockquote>
+<blockquote>
+<p>紧张源于面试时的不确定性，而所有的不确定性和未知因素都是面试官抛过来的，假定面试官就是一个比你高两届的学长，你的心情会不会瞬间变好，紧张的情绪会不会瞬间消失？</p>
+</blockquote>
+<blockquote>
+<p>所以你需要明白的第四个前规则是面试官远没有你想得那么厉害，尤其是他的识人之术。</p>
+</blockquote>
+<blockquote>
+<p>面试你的面试官们是一个什么样的状态：从年龄看，他们大部分都在26岁左右，平均工作经验在三年左右；他们的兴趣点在如何打造一款亿级产品，而不是忙于勾心斗角的内部争斗；他们对人的评价远没有达到人生观世界观价值观这样的层级，更多的时候仅限于你是否是一个有能力有热情，能跟他一起为一款产品打拼的战友。</p>
+</blockquote>
+<blockquote>
+<p>互联网公司的面试官除人力资源部门外80%都是非专业人士，基本没有接受过面试流程的培训。</p>
+</blockquote>
+<blockquote>
+<p>面对他们，你只要能够清晰地梳理自己对产品的认知就足够了。</p>
+</blockquote>
+<blockquote>
+<p>你在面试时遇到的面试官尤其是一面的面试官，通常都可能是你未来的直属领导，大多只比你高两届。如果你是研究生毕业，那你的面试官很可能跟你同龄甚至比你的年龄还小。</p>
+</blockquote>
+<blockquote>
+<p>你有相当高的几率遇到一个此生第一次担当面试官的人——他可能比你还紧张，因为他也不知道问什么问题才能够更好地了解你的能力，甚至也为此纠结了好长时间，做了很多功课才能来应对面试。</p>
+</blockquote>
+<h2 id="◆-5．所有的收益都建立在能力之上"><a href="#◆-5．所有的收益都建立在能力之上" class="headerlink" title="◆ 5．所有的收益都建立在能力之上"></a>◆ 5．所有的收益都建立在能力之上</h2><blockquote>
+<p>在“人际关系”已经成为敏感词的今天，互联网这个行业的竞争环境相对来说会单纯很多。</p>
+</blockquote>
+<blockquote>
+<p>就算是腾讯、阿里巴巴这些较早的互联网领军企业到现在也才发展15年，行业历史实在太短，而且大部分公司还处于发展中阶段，也不会考虑养闲人。</p>
+</blockquote>
+<blockquote>
+<p>未来中国就逐渐在往弱关系时代发展，而互联网公司基本已进入了“弱关系时代”</p>
+</blockquote>
+<blockquote>
+<p>本身就是以工作、能力、弱关系为依附点</p>
+</blockquote>
+<blockquote>
+<p>因为在互联网行业，所有的机会、业绩及收益都建立在一个人的能力之上。</p>
+</blockquote>
+<h2 id="◆-6．不要把所有的希望都寄托在内推上"><a href="#◆-6．不要把所有的希望都寄托在内推上" class="headerlink" title="◆ 6．不要把所有的希望都寄托在内推上"></a>◆ 6．不要把所有的希望都寄托在内推上</h2><blockquote>
+<p>内推的推荐人是需要承担一定责任的，他的推荐行为跟自己的职业信誉、靠谱程度、未来推荐的可信度紧密相关，所以真正有资格内推的人往往很</p>
+</blockquote>
+<blockquote>
+<p>内推的本质不是安排两次面试，也不意味着就能拿到终极Offer，内推只是提前把优秀的毕业生吸纳过来。</p>
+</blockquote>
+<blockquote>
+<p>腾讯的员工应该很忙，工作量相当饱和，在论坛上发帖子去征集内推的简历对他们有什么好处？</p>
+</blockquote>
+<blockquote>
+<p>试着从内推者的角度考虑他们为什么要内推，再试着从自己的角度出发提醒自己</p>
+</blockquote>
+<h2 id="◆-7．HR提的任何问题都不希望得到答案"><a href="#◆-7．HR提的任何问题都不希望得到答案" class="headerlink" title="◆ 7．HR提的任何问题都不希望得到答案"></a>◆ 7．HR提的任何问题都不希望得到答案</h2><blockquote>
+<p>那就是HR提出的任何问题都不希望得到答案。</p>
+</blockquote>
+<blockquote>
+<p>HR只需要判断你这个人是否适合这家公司就行了，比如你跟团队的契合能力，你的学习能力，能否在团队中传递正能量等，他设计所有问题的出发点都为了判别你这些方面的能力。</p>
+</blockquote>
+<blockquote>
+<p>在面试中，HR提到的每一个问题都希望面试者能把自己的能力展现出来，而非单纯要一个结果。</p>
+</blockquote>
+<blockquote>
+<p>公司在招聘时都希望招一个能力和情商都特别高的人，他能跟上司的性格相匹配，又能跟团队很好地配合，依附于团队他的价值才能最大化。</p>
+</blockquote>
+<blockquote>
+<p>你是否会对这个团队忠诚，至少工作一到两年，让HR培养你的精力不被浪费。</p>
+</blockquote>
+<blockquote>
+<p>除了看能力之外，HR也会让你未来的同事观察你在面试中的表现，让他们给出自己的参考意见。很常见的一种情况就是你到一个公司去面试，刚进公司的一刻大家的目光都会聚焦在你的身上。你能否留在这个公司，你未来的同事也会起到很大的作用。</p>
+</blockquote>
+<blockquote>
+<p>比如你的信仰与喜好跟团队成员的意愿都相违背，即使能力再强恐怕也没有办法很好地融入到整个团队当中。</p>
+</blockquote>
+<h2 id="◆-8．公司拒录你的原因千奇百怪"><a href="#◆-8．公司拒录你的原因千奇百怪" class="headerlink" title="◆ 8．公司拒录你的原因千奇百怪"></a>◆ 8．公司拒录你的原因千奇百怪</h2><blockquote>
+<p>公司录用你或者拒录你的原因你永远意想不到</p>
+</blockquote>
+<blockquote>
+<p>尤其是产品经理这个职位，基本上只能跟着感觉走。</p>
+</blockquote>
+<blockquote>
+<p>公司录用你，可能是你的身高很高，他们想着在以后的公司篮球赛中你会帮助团队取得更好的成绩；也可能是你个人形象很好，有助于提升公司和团队的形象。</p>
+</blockquote>
+<blockquote>
+<p>所以不要在每一场面试之后纠结为什么公司不录取你，这没有意义。因为这也许不是你能力的问题，一些小的因素是你完全没有办法左右的。</p>
+</blockquote>
+<blockquote>
+<p>这些前规则说到底还是心态的问题，只要你足够乐观，这些前规则都可以凭借你的能力得到解决。</p>
+</blockquote>
+<h2 id="◆-9．看别人的“面试经”要适可而止"><a href="#◆-9．看别人的“面试经”要适可而止" class="headerlink" title="◆ 9．看别人的“面试经”要适可而止"></a>◆ 9．看别人的“面试经”要适可而止</h2><blockquote>
+<p>对于论坛里的面试经，汲取对自己有帮助的经验即可</p>
+</blockquote>
+<blockquote>
+<p>所以面试经不是全部，把有限的准备时间合理分配到不同的环节中，才能提高拿到Offer的几率。</p>
+</blockquote>
+<h1 id="◆-Chapter-2-如何打造具有互联网特色的简历"><a href="#◆-Chapter-2-如何打造具有互联网特色的简历" class="headerlink" title="◆ Chapter 2 如何打造具有互联网特色的简历"></a>◆ Chapter 2 如何打造具有互联网特色的简历</h1><blockquote>
+<p>互联网特色的简历</p>
+</blockquote>
+<blockquote>
+<p>应聘互联网行业的求职者众多，尤其是校园招聘阶段，面试官花在一份简历上的平均时间不超过30秒，</p>
+</blockquote>
+<blockquote>
+<p>这些HR在筛选简历的时候特别注重一些关键词，尤其是跟互联网职位相关的，如果没有基本会被Pass。</p>
+</blockquote>
+<h2 id="◆-1．什么是互联网特色的简历"><a href="#◆-1．什么是互联网特色的简历" class="headerlink" title="◆ 1．什么是互联网特色的简历"></a>◆ 1．什么是互联网特色的简历</h2><blockquote>
+<p>按照产品的思维讲，求职的过程就是把自己包装成一个满足目标公司需求的产品，让自己成为一款用户竞相追逐的产品，让各家公司的面试官都能成为你的忠实用户。</p>
+</blockquote>
+<blockquote>
+<p>只有在简历本身及简历投递上进行雕琢，用一份具备互联网特色的简历让自己至少不输在起跑线上。</p>
+</blockquote>
+<blockquote>
+<p>你的思维、沟通、产品敏感度、数据敏感度、执行力、内驱力、对互联网的熟悉及热爱程度，</p>
+</blockquote>
+<blockquote>
+<p>最忌讳的就是不断向普通用户拽专业术语，所以要站在用户——面试官的角度以其能听懂的方式进行叙述。</p>
+</blockquote>
+<blockquote>
+<p>简明扼要。</p>
+</blockquote>
+<blockquote>
+<p>在学历描述中止于最高学历基本就OK，研究生当然可以提本科，但是你把高中的学历也呈现出来意义似乎不大</p>
+</blockquote>
+<blockquote>
+<p>本科修的专业课，除了心理、统计、市场营销外其余的专业</p>
+</blockquote>
+<blockquote>
+<p>控制简历节奏。</p>
+</blockquote>
+<blockquote>
+<p>个人信息、教育信息、实习情况、个人奖励这样的逻辑</p>
+</blockquote>
+<blockquote>
+<p>借鉴尼尔森的“F视觉模型”：首先是水平移动，看的是基本信息，紧接着眼光略微下移，很典型地扫描范围较短的区域，主要是你实习的大概情况，然后对整个简历的标题进行垂直扫描，这样就画了F字母中的一条竖线。</p>
+</blockquote>
+<blockquote>
+<p>协调能力是化解技术产品矛盾的能力，</p>
+</blockquote>
+<blockquote>
+<p>只需在简历中表现你组织的、参与最多且最能代表你能力的活动：</p>
+</blockquote>
+<blockquote>
+<p>首先需要清晰这个活动的目标，你组织这场活动的出发点是什么？</p>
+</blockquote>
+<blockquote>
+<p>“为了学习跟锻炼”这种没有任何营养的废话</p>
+</blockquote>
+<blockquote>
+<p>暴露自己内心的小九九成为一个更真实的人，也是有互联网特色简历的一个亮点</p>
+</blockquote>
+<blockquote>
+<p>有意识地对其进行信息量化，让这些数据能有效地指导整个产品的迭代以及选择推广渠道，以展示自己对数据的敏感度。</p>
+</blockquote>
+<blockquote>
+<p>能用数据展示的地方尽量选择数据，同时也要会做一些简单的数据分析，如占比、数据趋势及对比分析。</p>
+</blockquote>
+<blockquote>
+<p>在校期间运营基于学校的微信账号，那对于粉丝量的描述只是单纯地写上2000人肯定效果不佳，如果你能通过数据的简单对比展现出这2000人的账号到底效果如何，就能立刻与众不同。</p>
+</blockquote>
+<blockquote>
+<p>你肯定还会描述打开率、分享、转发这些数据。</p>
+</blockquote>
+<blockquote>
+<p>让面试官给你打上一个数据敏感的标签</p>
+</blockquote>
+<blockquote>
+<p>通过长期的积累会形成自己在获取用户方面的经验。把这个过程用上面的数据描述以及营销方式进行总结，并跟网上的经验分享做一个结合，肯定会成为简历的一大亮点。</p>
+</blockquote>
+<blockquote>
+<p>如果你主动去运营微博、微信账号甚至是QQ群，</p>
+</blockquote>
+<blockquote>
+<p>如什么样的微博有助于用户转发，什么样的话题有助于更好的评论互动，什么样的玩法可以促进粉丝量的增长……最重要的是除了这样的表象指标以外，你还需设定最初的转化目标，并计划出最终的转化效果</p>
+</blockquote>
+<blockquote>
+<p>只要你用过互联网产品，在QQ空间、人人网中写文章，或者在微博、朋友圈发美图，都是形成内容的过程，内容是营销的基础。</p>
+</blockquote>
+<blockquote>
+<p>分析这些内容为什么会引起关注，复制出具有同等效果的内容就是营销能力的体现</p>
+</blockquote>
+<blockquote>
+<p>既有资源的梳理，也有借势营销的玩法，这就是一个很宝贵的微博运营经验</p>
+</blockquote>
+<blockquote>
+<p>每一个平台级产品的诞生都会创造出一种新的营销玩法，但是不流行不代表没有价值。即使有人称微博为传统的营销渠道，称人人网马上就要破产了，说QQ空间只有00后才玩，但这些产品真正蕴含的流量价值，只有做过的人才知道。</p>
+</blockquote>
+<blockquote>
+<p>即便你只熟悉人人跟QQ空间这两个平台也没有关系</p>
+</blockquote>
+<blockquote>
+<p>把你玩人人网的心得结合其他人分享的经验，完全可以把自己塑造成一个营销专家。</p>
+</blockquote>
+<blockquote>
+<p>你在简历上跟面试官大谈微博、微信运营很容易露出破绽，而且同质化也会很严重。相反，反其道而行，你在阐述QQ空间、人人网的推广特性时，风险相对较小，而且这也可以作为一个亮点引起面试官的注意。</p>
+</blockquote>
+<blockquote>
+<p>比如像小米等营销做得很好的公司</p>
+</blockquote>
+<blockquote>
+<p>深究下去，就能研究出一套适合你自己的营销理论</p>
+</blockquote>
+<blockquote>
+<p>在互联网公司更适合的是微创新</p>
+</blockquote>
+<blockquote>
+<p>别忙着颠覆式创新，它不是揭竿而起，更不是聚众闹事，没那么宏大。</p>
+</blockquote>
+<blockquote>
+<p>收费的能不能变免费，贵的能不能变便宜，复杂的能不能变简单，麻烦的能不能变方便。从这些微创新起步，才有可能实现颠覆式创新。</p>
+</blockquote>
+<blockquote>
+<p>强大的知识储备、对互联网热点和产品的敏感度、热衷尝试新事物、有自己的判断能力、独特的审美眼光都是互联网特色简历需要体现的东西</p>
+</blockquote>
+<h2 id="◆-2．如何打造具有互联网特色的简历"><a href="#◆-2．如何打造具有互联网特色的简历" class="headerlink" title="◆ 2．如何打造具有互联网特色的简历"></a>◆ 2．如何打造具有互联网特色的简历</h2><blockquote>
+<p>工作、实习、兼职经历</p>
+</blockquote>
+<blockquote>
+<p>组织或参与过的所有活动</p>
+</blockquote>
+<blockquote>
+<p>获得过的奖项、证书</p>
+</blockquote>
+<blockquote>
+<p>注册过的所有互联网产品和玩过的游戏</p>
+</blockquote>
+<blockquote>
+<p>兴趣爱好</p>
+</blockquote>
+<h2 id="◆-4．互联网特色简历的打磨要素"><a href="#◆-4．互联网特色简历的打磨要素" class="headerlink" title="◆ 4．互联网特色简历的打磨要素"></a>◆ 4．互联网特色简历的打磨要素</h2><blockquote>
+<p>第一，过程比结果重要。</p>
+</blockquote>
+<blockquote>
+<p>第二，总结过程比叙述过程更重要。</p>
+</blockquote>
+<blockquote>
+<p>第三，用互联网人能看懂的方式来描述更重要。</p>
+</blockquote>
+<blockquote>
+<p>第四，利用数据更好地体现你的价值。</p>
+</blockquote>
+<blockquote>
+<p>约10%的潜在用户可能比你写10位用户的效果更好，因为基数面试官不知道</p>
+</blockquote>
+<h2 id="◆-5．互联网特色的简历需要有针对性"><a href="#◆-5．互联网特色的简历需要有针对性" class="headerlink" title="◆ 5．互联网特色的简历需要有针对性"></a>◆ 5．互联网特色的简历需要有针对性</h2><blockquote>
+<p>如果你投的是产品岗位，那品牌的构建、沟通协调领导力就是重中之中，所有能代表你产品思维的经历都需要，</p>
+</blockquote>
+<blockquote>
+<p>如果你面试的是阿里巴巴、京东的市场运营，那之前网上开店的经历就会为你加分很多。</p>
+</blockquote>
+<blockquote>
+<p>一份好的针对腾讯产品岗位的简历投到阿里巴巴的运营岗位肯定不适用，所以要克服惰性，为自己喜爱的岗位设计一份有针对性的简历才是对自己求职的最好交代。</p>
+</blockquote>
+<h2 id="◆-6．简历投递及数据回收"><a href="#◆-6．简历投递及数据回收" class="headerlink" title="◆ 6．简历投递及数据回收"></a>◆ 6．简历投递及数据回收</h2><blockquote>
+<p>互联网简历的内容是大于形式的。</p>
+</blockquote>
+<blockquote>
+<p>用PS设计出来的简历效果比别人用Word排出来的效果还要差，那就不要把重点放在设计创新上面</p>
+</blockquote>
+<blockquote>
+<p>试着发给一些公司的HR，简历投递就像邮件推广一样</p>
+</blockquote>
+<blockquote>
+<p>有效地吸引面试官进行电话回访获得面试机会</p>
+</blockquote>
+<blockquote>
+<p>邀请面试的概率增大之后，开始发给你特别中意的公司，在核心目标群中推广自己</p>
+</blockquote>
+<h2 id="◆-1．偏重事业还是偏重生活"><a href="#◆-1．偏重事业还是偏重生活" class="headerlink" title="◆ 1．偏重事业还是偏重生活"></a>◆ 1．偏重事业还是偏重生活</h2><blockquote>
+<p>首先明确你是爱生活多一点，还是爱事业多一点</p>
+</blockquote>
+<blockquote>
+<p>互联网行业基本每18个月会发生一轮翻天覆地的变化</p>
+</blockquote>
+<blockquote>
+<p>一</p>
+</blockquote>
+<blockquote>
+<p>将功成为万骨枯</p>
+</blockquote>
+<blockquote>
+<p>基本上所有的互联网公司都伴随着压力，还有无休止的加班。</p>
+</blockquote>
+<blockquote>
+<p>前几年还是重点的PC互联网转瞬间就让位给了移动互联网，包括现在正在流行的可穿戴设备，如果你不去研究了解，只会被行业所遗弃。</p>
+</blockquote>
+<blockquote>
+<p>跟传统行业相融合一直是一个趋势，不管你是做产品还是做运营</p>
+</blockquote>
+<blockquote>
+<p>不断花时间去了解传统行业，</p>
+</blockquote>
+<h2 id="◆-2．根据职位发展选择驱动型公司"><a href="#◆-2．根据职位发展选择驱动型公司" class="headerlink" title="◆ 2．根据职位发展选择驱动型公司"></a>◆ 2．根据职位发展选择驱动型公司</h2><blockquote>
+<p>产品、技术、运营的发展轨迹差别还是很大的</p>
+</blockquote>
+<blockquote>
+<p>在不同文化背景的公司中，技术、产品、运营所占的地位也完全不同。</p>
+</blockquote>
+<blockquote>
+<p>腾讯是典型的产品驱动型公司，而阿里巴巴则是运营驱动型公司</p>
+</blockquote>
+<blockquote>
+<p>前者以产品为导向，后者以业务为导向。</p>
+</blockquote>
+<blockquote>
+<p>腾讯产品经理的主导地位加上基于QQ的庞大用户账号体系基本上弱化了运营的角色</p>
+</blockquote>
+<blockquote>
+<p>阿里巴巴这种运营驱动型的公司擅长公关及资源整合，用户会感觉到阿里巴巴不管推什么产品，首先听到的都是媒体的声音，而且是各家媒体同时发声，接着以现金补贴的方式来举办各种营销活动</p>
+</blockquote>
+<blockquote>
+<p>产品驱动型的公司是由产品经理牵头，负责整个产品的发展、KPI包括的业务指标。运营经理负责实施产品经理的计划</p>
+</blockquote>
+<blockquote>
+<p>业务驱动型的公司则由运营经理牵头，负责业务的发展和营收，产品经理只负责完成服务的功能规划和实现</p>
+</blockquote>
+<blockquote>
+<p>如果你立志从事产品工作，尽量去一家产品驱动型的公司；而如果你对运营感兴趣，去运营驱动型的公司成长会更快。</p>
+</blockquote>
+<h2 id="◆-3．选择大公司还是初创公司"><a href="#◆-3．选择大公司还是初创公司" class="headerlink" title="◆ 3．选择大公司还是初创公司"></a>◆ 3．选择大公司还是初创公司</h2><blockquote>
+<p>判断力的人总不会虚度年华，试错是必须的，为自己买单是迟早会发生的，这是成熟前的必经之路。</p>
+</blockquote>
+<blockquote>
+<p>可以提前去一家公司实习，接触未来会一起工作的团队还有直属领导，如果相处起来会有疙瘩，转投另一家就好</p>
+</blockquote>
+<h2 id="◆-4．如何寻找靠谱的团队"><a href="#◆-4．如何寻找靠谱的团队" class="headerlink" title="◆ 4．如何寻找靠谱的团队"></a>◆ 4．如何寻找靠谱的团队</h2><blockquote>
+<p>如果你能力够强、喜欢折腾，靠谱的创业型团队更适合你。因为它对你的束缚比较小，你可以做更多的事情，有更好的成长，更容易展示并证明你的能力，而且也有相对稳定的折腾空间。</p>
+</blockquote>
+<blockquote>
+<p>大公司稳定的成长、收入、社会地位也在不断向你招手。</p>
+</blockquote>
+<blockquote>
+<p>靠谱的投资机构选择的公司大部分都是相对靠谱的，比如创新工场投的公司肯定是靠谱的公司，因为他们有李开复等一系列的知名投资人帮你审视一家公司。他们会用实际行动去判断这个团队是否靠谱，团队做的事情是否靠谱以及未来前景如何。</p>
+</blockquote>
+<p>◆ 1．如何优雅地使用招聘网站</p>
+<blockquote>
+<p>其实并非你的简历没有通过筛选，也许只是因为你投递了一个虚拟职位而已。</p>
+</blockquote>
+<blockquote>
+<p>最好将简历直接投递到公司的招聘邮箱当中。</p>
+</blockquote>
+<blockquote>
+<p>求职是一项长期的工作</p>
+</blockquote>
+<blockquote>
+<p>最好建立专门的求职文档，记录你所投递公司的详细信息：如投递职位、投递时间、面试时间、面试进度、宣讲会时间、简历截止时间、在意程度等信息</p>
+</blockquote>
+<h2 id="◆-2．校园招聘中的简历投递"><a href="#◆-2．校园招聘中的简历投递" class="headerlink" title="◆ 2．校园招聘中的简历投递"></a>◆ 2．校园招聘中的简历投递</h2><blockquote>
+<p>百度、腾讯、阿里巴巴的校园招聘通常在每年的九月开始，大部分城市的简历截止时间在十月前，这也是刚上大四的同学们要注意的一点。</p>
+</blockquote>
+<h2 id="◆-4．如何轻松获取面试官的信息"><a href="#◆-4．如何轻松获取面试官的信息" class="headerlink" title="◆ 4．如何轻松获取面试官的信息"></a>◆ 4．如何轻松获取面试官的信息</h2><blockquote>
+<p>特别是利用社交网站投递简历</p>
+</blockquote>
+<blockquote>
+<p>约60%的发布者是直接招人的领导者。这个人基本上会是你未来的直属领导，也极有可能是你面试时的主要面试官。</p>
+</blockquote>
+<blockquote>
+<p>了解他的产品观、喜好及个人经历，知已知彼，才能百战百胜，打造一个与面试官合拍、话题有交集的人</p>
+</blockquote>
+<blockquote>
+<p>根据所留邮箱还能进行深度挖掘</p>
+</blockquote>
+<h2 id="◆-5．还有哪些值得推荐的招聘网站"><a href="#◆-5．还有哪些值得推荐的招聘网站" class="headerlink" title="◆ 5．还有哪些值得推荐的招聘网站"></a>◆ 5．还有哪些值得推荐的招聘网站</h2><blockquote>
+<p>通过北邮人论坛拿到的简历都会相当受期待，自然会为你加分不少。</p>
+</blockquote>
+<h2 id="◆-3．面试中的万能型回答模板"><a href="#◆-3．面试中的万能型回答模板" class="headerlink" title="◆ 3．面试中的万能型回答模板"></a>◆ 3．面试中的万能型回答模板</h2><blockquote>
+<p>第一不要直面问题，第二把话题引到自己熟悉的方向来，第三避免谈论求职公司的产品。</p>
+</blockquote>
+<h2 id="◆-1．大佬们的招聘思维"><a href="#◆-1．大佬们的招聘思维" class="headerlink" title="◆ 1．大佬们的招聘思维"></a>◆ 1．大佬们的招聘思维</h2><blockquote>
+<p>蓝色理想或互联网业内的招聘网如北邮人论坛</p>
+</blockquote>
+<blockquote>
+<p>这类大牛通常不会是微博上面的微博领袖，而是某个领域里卓有成就的人，比如提到产品经理，也许你就会想到张小龙、周鸿祎，但这是尽人皆知的，再往下研究，你也许会知道苏杰、王坚这类产品经理书籍的作者。这些还不够，如果你能找到市面上所有优秀的产品经理，那就堪称完美了。比如搜狗输入法的马占凯、禅游记产品经理纯银等，不管是认证还是非认证的、不管是经常写博客的用户还是异常低调的产品经理都在你的关注列表里面</p>
+</blockquote>
+<blockquote>
+<p>至少你已经具备一个优秀的行业聚会组织者所具备的基本能力了。这一点起码可以证明你是一个值得招募的人。</p>
+</blockquote>
+<blockquote>
+<p>在豆瓣上分享读书心得，尤其是相对不流行但是在互联网圈子里巨火的书籍，如《精益创业》等，也有助于建立你专业的产品经理或者运营的形象。</p>
+</blockquote>
+<h2 id="◆-2．逆向打造自己的匹配能力"><a href="#◆-2．逆向打造自己的匹配能力" class="headerlink" title="◆ 2．逆向打造自己的匹配能力"></a>◆ 2．逆向打造自己的匹配能力</h2><blockquote>
+<p>打造一个活跃ID混眼熟</p>
+</blockquote>
+<blockquote>
+<p>关注有价值的人，既能学到东西，也能形成必要的链条，以便更好地被挖掘。</p>
+</blockquote>
+<blockquote>
+<p>寻找你认为极靠谱的人复制他们的关注链条，基本就可以把整个行业里所有有价值的人都关注一次。</p>
+</blockquote>
+<blockquote>
+<p>周源提到过他会去豆瓣里面看有谁读过、有谁想看、有谁正在看一些互联网书籍，但是往往这个数据量是很大的，而交互越重的方式留存下来的数据往往越少。</p>
+</blockquote>
+<blockquote>
+<p>假如对产品感兴趣，可以发表关于用户调研、原型设计、数据库分析的原创文章，至于行业分析类的暂时忽略，如果原创问题比较大，可以做内容的加工整合。</p>
+</blockquote>
+<blockquote>
+<p>减少微博更新频率，同时提升质量，以长微博分享为主，并有明显标记如“《读书笔记之产品第十期》”区分不同类型的文章，同时以强烈的数据展现微博中所蕴藏的干货。</p>
+</blockquote>
+<blockquote>
+<p>留下邮箱等个人信息，方便对你感兴趣的人与你联系。</p>
+</blockquote>
+<blockquote>
+<p>在所有主页的个人简介中都带上社交名片的链接，增加浏览量。</p>
+</blockquote>
+<blockquote>
+<p>没有时间快速构建自己的社交名片，下面这些方式可以加速这个过程，在短时间内看到效果。</p>
+</blockquote>
+<blockquote>
+<p>微博微数据中“关系链查询”这种基于“六度人脉关系理论”设计出来的工具</p>
+</blockquote>
+<h2 id="◆-3．开复缘何在微博上公开邀约大二学生？"><a href="#◆-3．开复缘何在微博上公开邀约大二学生？" class="headerlink" title="◆ 3．开复缘何在微博上公开邀约大二学生？"></a>◆ 3．开复缘何在微博上公开邀约大二学生？</h2><blockquote>
+<p>可能在传统眼光里特别出格，但在互联网人的眼里则充满着创新，所以不要在意别人异样的眼光，要不断尝试，哪怕偶尔做点小破坏，总会带来意外的惊喜。</p>
+</blockquote>
+<blockquote>
+<p>能力聚焦很重要。之前你可能在十个领域都有小的研究，但每一个方向都没有达到业内顶尖水平。那倒不如把时间聚焦在一个研究点上</p>
+</blockquote>
+<h2 id="◆-1．目标明确为公司而生"><a href="#◆-1．目标明确为公司而生" class="headerlink" title="◆ 1．目标明确为公司而生"></a>◆ 1．目标明确为公司而生</h2><blockquote>
+<p>因为公司跟职位相比，公司还是第一位的。先进去才是王道，至于岗位则可以在进去之后根据能力进行调整。</p>
+</blockquote>
+<h2 id="◆-3．如何从产品活跃用户变成公司员工"><a href="#◆-3．如何从产品活跃用户变成公司员工" class="headerlink" title="◆ 3．如何从产品活跃用户变成公司员工"></a>◆ 3．如何从产品活跃用户变成公司员工</h2><blockquote>
+<p>长期关注产品、运营的细节点，对产品有足够了解的基础上的。</p>
+</blockquote>
+<blockquote>
+<p>研究产品的每一次迭代，列举每个版本中的详细功能，尤其是重大策略的一些调整，试着从产品的角度加上公司可能的环境去研究这些变化，形成一个详细的文档；</p>
+</blockquote>
+<blockquote>
+<p>通过活动频率及类型的分析逐渐把握产品运营的特点</p>
+</blockquote>
+<blockquote>
+<p>研究产品官方微博的语言风格，尤其是转发量较高或者较低的一部分微博，试着了解微博粉丝偏好的内容口味，进一步了解粉丝的特征；</p>
+</blockquote>
+<blockquote>
+<p>收集产品的广告投资渠道及周期，研究当前SEO状况等</p>
+</blockquote>
+<blockquote>
+<p>长时间研究你喜爱公司的产品及运营策略，除了能提升进入这家公司的几率外，还能培养你的产品意识。</p>
+</blockquote>
+<blockquote>
+<p>最后一点是持续输入有价值的内容或行业的信息。</p>
+</blockquote>
+<blockquote>
+<p>比如在博客或者新媒体网站中以整理为主去分享一些行业观点。</p>
+</blockquote>
+<blockquote>
+<p>形成一封以产品见解为主的求职邮件，并把长期的记录数据作为附件一并发给产品经理，争取面谈的机会</p>
+</blockquote>
+<h2 id="◆-4．岗位明确，公司待定，你该如何做"><a href="#◆-4．岗位明确，公司待定，你该如何做" class="headerlink" title="◆ 4．岗位明确，公司待定，你该如何做"></a>◆ 4．岗位明确，公司待定，你该如何做</h2><blockquote>
+<p>首先你可以系统地学习产品经理所需的基本能力如数据分析、需求分析、原型设计，</p>
+</blockquote>
+<blockquote>
+<p>产品经理所需的软实力</p>
+</blockquote>
+<blockquote>
+<p>硬技能可以通过产品经理书籍、产品相关的在线教育网站及垂直论坛进行快速学习，同时用这些基本的技能形成一套自己做事情的方法论</p>
+</blockquote>
+<blockquote>
+<p>软技能则需要不断去复盘每天生活中的片断，思考其中的不足，形成自己的成长文档，</p>
+</blockquote>
+<blockquote>
+<p>建立博客记录，记录自己如何用产品经理的思维</p>
+</blockquote>
+<blockquote>
+<p>在博客中记录所读的产品经理书籍，分享这本书能给初学者带来的价值</p>
+</blockquote>
+<blockquote>
+<p>在博客中分享所有你觉得有价值的文章，并用精简的语言摘录出其中最精华的点。</p>
+</blockquote>
+<blockquote>
+<p>分享自己使用典型产品的感受，从用户的角度来解析产品给你带来的价值，从产品的角度去解构为什么要这样设计。</p>
+</blockquote>
+<h1 id="◆-Chapter-18-浅析阿里巴巴校招之产品经理"><a href="#◆-Chapter-18-浅析阿里巴巴校招之产品经理" class="headerlink" title="◆ Chapter 18 浅析阿里巴巴校招之产品经理"></a>◆ Chapter 18 浅析阿里巴巴校招之产品经理</h1><blockquote>
+<p>每个城市面试官的详细信息都会在新浪微博上贴出来，这也是其延续了两三年的传统。</p>
+</blockquote>
+<blockquote>
+<p>还可以直接在微博上“勾搭”面试官赢得面试的机会。</p>
+</blockquote>
+<blockquote>
+<p>可能一个面试官就可以决定你是否能拿到这个Offer。面试官的自主权非常大，</p>
+</blockquote>
+<h2 id="◆-后记-错过BAT，你离互联网公司还有多远"><a href="#◆-后记-错过BAT，你离互联网公司还有多远" class="headerlink" title="◆ 后记 错过BAT，你离互联网公司还有多远"></a>◆ 后记 错过BAT，你离互联网公司还有多远</h2><blockquote>
+<p>你的价值不在于当一颗螺丝钉，你的每一个想法都会反馈在你的网站、产品以及运营手段上，影响数百万甚至是几亿用户，个人价值可以通过互联网无限放大。</p>
+</blockquote>
+<blockquote>
+<p>如果足够幸运进入一家有创意有前景的互联网公司并能获得期权时，你的身价会随着每次的融资实现线性增长，</p>
+</blockquote>
+<blockquote>
+<p>《人人都是产品经理》</p>
+</blockquote>
+<blockquote>
+<p>《结网》</p>
+</blockquote>
+<blockquote>
+<p>《用户体验要素》、《Don’t make me think》、《赢在用户》、《设计心理学》</p>
+</blockquote>
+<blockquote>
+<p>《怪诞行为学》</p>
+</blockquote>
+<blockquote>
+<p>《定位》</p>
+</blockquote>
+<blockquote>
+<p>《失控》则是一本你通读了全文张小龙就会录取你的书。</p>
+</blockquote>
+<blockquote>
+<p>在工具层面，可以掌握基本的Axure、Ps技能，设计出更好的原型图，可以将各种优秀的网站的原型图都做一遍。</p>
+</blockquote>
+<blockquote>
+<p>请谨记乔布斯的座右铭：求知若饥，虚心若愚（stay hungry, stay foolish），</p>
+</blockquote>
+<blockquote>
+<p>“记住你即将死去”是乔布斯一生中遇到的最重要的一句箴言。</p>
+</blockquote>
+<blockquote>
+<p>它帮乔布斯指明了生命中重要的选择，几乎所有的事情，包括所有的荣誉、所有的骄傲、所有对难堪和失败的恐惧，这些在死亡面前都会消失，但会留下真正重要的东西。</p>
+</blockquote>
+<h2 id="◆-点评"><a href="#◆-点评" class="headerlink" title="◆ 点评"></a>◆ 点评</h2><p>点评:★★★★★</p>
+]]></content>
+      <categories>
+        <category>PM</category>
+      </categories>
+      <tags>
+        <tag>读书笔记复盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《人人都是产品经理》读书笔记</title>
+    <url>/2020/04/21/%E3%80%8A%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>人人都是产品经理<br>苏杰<br>218个笔记</p>
+<h2 id="◆-写在正文之前"><a href="#◆-写在正文之前" class="headerlink" title="◆ 写在正文之前"></a>◆ 写在正文之前</h2><blockquote>
+<ol>
+<li>要解决什么问题，满足什么需求？</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="2">
+<li>目标用户在哪里，以什么样的一句话卖点打动对方？</li>
+</ol>
+</blockquote>
+<h2 id="◆-第1章-写给-1到3岁的产品经理"><a href="#◆-第1章-写给-1到3岁的产品经理" class="headerlink" title="◆ 第1章 写给-1到3岁的产品经理"></a>◆ 第1章 写给-1到3岁的产品经理</h2><blockquote>
+<p>只有颜色区分，也许有的朋友通过颜色就能知道绿色为可回收、黄色为不可回收，但大多数人多半想不到这一点。</p>
+</blockquote>
+<blockquote>
+<p>作为产品经理，产品的整个研发、制造、上市的过程，都要充分地参与其中吧。</p>
+</blockquote>
+<blockquote>
+<p>给新手使用的产品，一大设计准则就是——无需阅读说明书就能上手！</p>
+</blockquote>
+<blockquote>
+<p>让用户更加省心。</p>
+</blockquote>
+<blockquote>
+<p>麦当劳洗手间的门，一看就让人觉得这很像人们印象中洗手间通常应该有的门。</p>
+</blockquote>
+<blockquote>
+<p>门没有把手，所以只能推开。</p>
+</blockquote>
+<blockquote>
+<p>洗手间的门推开以后，一定要有类似弹簧的装置让门能自动关上</p>
+</blockquote>
+<h3 id="◆-1-1-为什么要做产品经理"><a href="#◆-1-1-为什么要做产品经理" class="headerlink" title="◆ 1.1 为什么要做产品经理"></a>◆ 1.1 为什么要做产品经理</h3><blockquote>
+<p>可以满足人们需求的载体。</p>
+</blockquote>
+<blockquote>
+<p>产品就是用来解决某个问题的东西。</p>
+</blockquote>
+<blockquote>
+<p>她的服务也是一种产品……最后，我觉得我自己也是一个产品。</p>
+</blockquote>
+<blockquote>
+<p>解决问题其实就意味着满足人们的需求，这样才能产生价值。</p>
+</blockquote>
+<blockquote>
+<p>这个价值不仅要给产品的使用者，也要给产品的创造者。</p>
+</blockquote>
+<blockquote>
+<p>绝大多数都是在人们的需求，即用户目标和公司的商业目标之间寻找平衡。</p>
+</blockquote>
+<blockquote>
+<p>产品就是要同时解决用户的问题和公司的问题，一个都不能少！</p>
+</blockquote>
+<blockquote>
+<p>产品管理的矩阵型组织</p>
+</blockquote>
+<blockquote>
+<p>产品经理的主要职责是规划产品的生命周期，负责产品的上市策略、定价策略、整合营销策略、销售与分销策略，等等。</p>
+</blockquote>
+<blockquote>
+<p>传统意义下的产品经理</p>
+</blockquote>
+<blockquote>
+<p>个产品已经做好以后，应该怎样管理，怎样营销，偏重于市场、商业端，这类产品经理也可以叫做“品牌经理”或“产品市场经理”。</p>
+</blockquote>
+<blockquote>
+<p>它更多地侧重产品本身“从无到有”、“从有到优”的过程，更多地涉及了“产品规划、数据分析、用户研究、需求分析、功能设计、项目管理、敏捷方法”等内容，而不是如传统的产品经理那样，去做已经有了产品之后需要做的诸如管理产品、推广和营销产品的事情。</p>
+</blockquote>
+<blockquote>
+<p>更多元的盈利模式，比如免费给用户使用，但利用用户的注意力赚取第三方的广告费等。</p>
+</blockquote>
+<blockquote>
+<p>传统行业多是为付钱的客户做，值得注意的是，很多情况下客户只是买产品的人并不是用产品的人，也许搞定几个大客户，就3年不愁吃穿。</p>
+</blockquote>
+<blockquote>
+<p>而互联网、软件产品大多是为使用产品的终端用户所做，而且通常是面对海量的用户，用户数多了，自然就能盈利。</p>
+</blockquote>
+<blockquote>
+<p>互联网、软件行业的产品经理会更重视用户研究、数据分析等工作，要“负责用户研究，把握用户需求，实现用户需求”，而盈利的事情反倒不用直接去管，会有另外的团队负责。</p>
+</blockquote>
+<blockquote>
+<p>为了给用户极致的体验，我们需要做很多数据分析，而数据分析的基础在于互联网、软件产品的虚拟特性，可以大量地记录用户的各种行为数据，</p>
+</blockquote>
+<blockquote>
+<p>管理的能力，其实就是“在资源不足的情况下把事情做成”的能力，</p>
+</blockquote>
+<blockquote>
+<p>第一，信息不足以决策。</p>
+</blockquote>
+<blockquote>
+<p>第二，时间不足以安排周密的计划。</p>
+</blockquote>
+<blockquote>
+<p>第三，人员不足以支持工作强度和难度。</p>
+</blockquote>
+<blockquote>
+<p>第四，资金不足以自由调配。</p>
+</blockquote>
+<blockquote>
+<p>凡是资源，总归不足——这是常态！既然不足，就需要学会分配资源、管理资源。</p>
+</blockquote>
+<h3 id="◆-1-3-我真的想做，怎么入行"><a href="#◆-1-3-我真的想做，怎么入行" class="headerlink" title="◆ 1.3 我真的想做，怎么入行"></a>◆ 1.3 我真的想做，怎么入行</h3><blockquote>
+<p>通常，用户会去想怎么用这个产品，才能带给自己更大的好处，产生更大的效用；而产品经理则习惯于绕过表象，从背后看问题的本质，思考怎么设计这个产品才能更好地平衡用户目标与商业目标。</p>
+</blockquote>
+<blockquote>
+<p>技术相对而言好学一点，可以速成，但是商业感觉没个三五年是磨不出来的。</p>
+</blockquote>
+<blockquote>
+<p>最在乎的是应聘者有没有激情，是否够机灵、好学，逻辑思维是否清晰，沟通表达是否顺畅等。</p>
+</blockquote>
+<blockquote>
+<p>谈谈我们生活中经常用的一个产品，它解决了什么问题，要是你来改进，打算怎么做？</p>
+</blockquote>
+<blockquote>
+<p>电视/书/电影么？举个例子分析一下它的目标用户。</p>
+</blockquote>
+<blockquote>
+<p>说说你是怎么准备这次面试的。</p>
+</blockquote>
+<blockquote>
+<p>先在本职工作上找到与产品有关的事情做一些尝试，并且考虑先从产品经理周边的职位做起。</p>
+</blockquote>
+<blockquote>
+<p>自己练习写一下BRD￼、PRD￼</p>
+</blockquote>
+<blockquote>
+<p>研究几十家公司的产品经理招聘广告。我一直觉得把研究结果做成一份漂亮的调研报告，而后去应聘产品经理是个很靠谱的事，而且我相信大家多半都很想读这样的一份报告，可惜还没见过有人这么做。</p>
+</blockquote>
+<h3 id="◆-1-4-一个产品经理的-1到3岁"><a href="#◆-1-4-一个产品经理的-1到3岁" class="headerlink" title="◆ 1.4 一个产品经理的-1到3岁"></a>◆ 1.4 一个产品经理的-1到3岁</h3><blockquote>
+<p>当时只是在学习解决问题的思路，而专业就是找了一个特定的领域来练习思考的能力而已。</p>
+</blockquote>
+<blockquote>
+<p>做过的题不重要，上过的课不重要，学过的知识也不重要，重要的是练好思维方式，“学会”学习。</p>
+</blockquote>
+<blockquote>
+<p>一个网站——http：//iamsujie.com，通过产品设计，通过个人博客￼发布产品设计相关文章，与网友交流，也练习了网站的运营与推广。</p>
+</blockquote>
+<blockquote>
+<p>不要试图满足所有用户<br>不仅要区别对待广义用户，对于狭义的终端用户，我们也无法一视同仁。新人常见的状态就是听到用户的新需求就很兴奋，特别想赶紧给他解决。</p>
+</blockquote>
+<blockquote>
+<p>优先级评估，需求管理，</p>
+</blockquote>
+<blockquote>
+<p>腾讯CEO马化腾说应该关注核心用户的需求。<br>我做过的一款产品刚起步的时候，老板跟我说先满足大量的一般用户的需求。</p>
+</blockquote>
+<blockquote>
+<p>优先满足哪些用户需要和产品的商业目标要结合起来考虑，简单说就是看KPI￼是什么，</p>
+</blockquote>
+<blockquote>
+<p>既然我们的产品目标是用户数、活跃用户数，而不是销售额，那么从一开始就注定了我们更要代表的是大多数用户的利益。这并不是说核心用户不重要，而是产品的不同阶段，目标自然不同。</p>
+</blockquote>
+<blockquote>
+<p>上述维度的划分￼可以帮助我们更好的理解用户研究各种方法的特点，以便在现实工作中更加灵活地应用。</p>
+</blockquote>
+<blockquote>
+<p>使用之前要认真考虑清楚产品的目标，</p>
+</blockquote>
+<blockquote>
+<p>新产品定位？老产品优化？预测某新功能的用户数？提高用户活跃程度？验证某个改动的效果？</p>
+</blockquote>
+<h2 id="◆-第2章-一个需求的奋斗史"><a href="#◆-第2章-一个需求的奋斗史" class="headerlink" title="◆ 第2章 一个需求的奋斗史"></a>◆ 第2章 一个需求的奋斗史</h2><blockquote>
+<p>需求采集方法，如“数据分析”、“调查问卷”、“用户访谈”等</p>
+</blockquote>
+<blockquote>
+<p>需求采集</p>
+</blockquote>
+<blockquote>
+<p>用户说了很多需求，产品经理要“听用户的但不要照着做”，必须“明确我们存在的价值”是“把用户需求转化为产品需求”，这一过程即需求分析过程。</p>
+</blockquote>
+<h3 id="◆-2-1-从用户中来到用户中去"><a href="#◆-2-1-从用户中来到用户中去" class="headerlink" title="◆ 2.1 从用户中来到用户中去"></a>◆ 2.1 从用户中来到用户中去</h3><blockquote>
+<p>用户是User，有时也叫做终端用户，End User，是使用产品的人；而客户是Customer，是购买产品的人、为产品付钱的人。</p>
+</blockquote>
+<blockquote>
+<p>有形的Persona存在的更大意义，可能并不是给创建者自己看，而是有新人进团队的时候，可以迅速了解用户，理解产品，同时忙碌的无法关注细节的老板也可以利用Persona迅速进入状态，保证他们也能像创建者一样，时刻心中想着正确的用户形象。</p>
+</blockquote>
+<blockquote>
+<p>书中有一张关于用户研究方法的二维图（如图2-3所示），值得牢记：</p>
+</blockquote>
+<blockquote>
+<p>《赢在用户：WEB人物角色创建和应用实践指南》</p>
+</blockquote>
+<blockquote>
+<p>横向，用户的说和做。<br>怎么说表现了目标和观点，怎么做反映了行为，用户怎么说和怎么做经常是不一致的。</p>
+</blockquote>
+<blockquote>
+<p>只了解做是没办法知道背后原因的，而不知道问题的原因也就意味着没法从根本上解决问题。所以我们既要看用户怎么做，也要听用户怎么说，虽然他说的不一定是真话。</p>
+</blockquote>
+<blockquote>
+<p>纵向，定性与定量。<br>定性研究可以找出原因，偏向于了解；而定量研究可以发现现象，偏向于证实。</p>
+</blockquote>
+<blockquote>
+<p>人们认知新事物的过程通常都是从定性到定量，再定性再定量，并且螺旋上升，而了解和证实也是不断迭代进化的。</p>
+</blockquote>
+<blockquote>
+<p>听用户定性地说，确定产品方向，做什么？随机抽样</p>
+</blockquote>
+<blockquote>
+<p>需求列表。</p>
+</blockquote>
+<blockquote>
+<p>听用户定量地说，确定需求优先级，</p>
+</blockquote>
+<blockquote>
+<p>看用户定性地做，要先做的那几个需求，应该怎么做？</p>
+</blockquote>
+<blockquote>
+<p>一边设计，一边陆续找了10个用户来验证，做可用性测试。</p>
+</blockquote>
+<blockquote>
+<p>看用户定量地做，根据产品的用户使用情况做数据分析，不断改进产品。</p>
+</blockquote>
+<blockquote>
+<p>会视情况采取简化的方案。</p>
+</blockquote>
+<blockquote>
+<p>比如做调查问卷的时候，通常需要给用户激励，但不能使用被调查的产品作为激励，</p>
+</blockquote>
+<h3 id="◆-2-2-需求采集的大生产运动"><a href="#◆-2-2-需求采集的大生产运动" class="headerlink" title="◆ 2.2 需求采集的大生产运动"></a>◆ 2.2 需求采集的大生产运动</h3><blockquote>
+<p>有了资源以后，我们可能会叫几个用户过来访谈，请咨询公司协助出报告，或者出差做用户调研等。</p>
+</blockquote>
+<blockquote>
+<p>明确目标、选择采集方法、制定采集计划、执行采集、资料整理，然后进入下一步的需求分析阶段。</p>
+</blockquote>
+<blockquote>
+<p>用户访谈通常采用访谈者与被访者一对一聊天的形式，一批次用户访谈的样本比较少，一般是几个到几十个，但在每个用户身上花的时间比较多，通常为几十分钟到几个小时，围绕着几个特定的话题，我们问，用户答，用户说，我们听，这是一种典型的定性研究。</p>
+</blockquote>
+<blockquote>
+<p>用户访谈经常用在新产品方向的预研工作中，或者通过数据分析发现现象以后，去探索现象背后的原因。</p>
+</blockquote>
+<blockquote>
+<p>用户访谈经常出现如下问题：</p>
+</blockquote>
+<blockquote>
+<p>第一，“说”和“做”不一致的问题。<br>用户经常会骗我们，</p>
+</blockquote>
+<blockquote>
+<p>尽量在用户可以和产品发生交互的场合下进行，让用户在“说”的同时也“做”，</p>
+</blockquote>
+<blockquote>
+<p>诸如“我做了什么，步骤如何，碰到了什么问题”这类事实的可信度更高一些，而“我觉得、我认为”这类的观点，则需要带着大大的问号去听。</p>
+</blockquote>
+<blockquote>
+<p>首先，我们应该尽量识别出各种可能引起偏差的因素，并在访谈的报告里标明，让读者了解。</p>
+</blockquote>
+<blockquote>
+<p>为了用尽可能少的样本得到尽可能正确的结论，我会以增量的方式做访谈。</p>
+</blockquote>
+<blockquote>
+<p>先访谈5个用户，得出基本结论，然后再访谈5 个，观察结论是否有改变，</p>
+</blockquote>
+<blockquote>
+<p>第三，用户过于强势，把我们往沟里带。</p>
+</blockquote>
+<blockquote>
+<p>第四，我们过于强势，把用户往沟里带。</p>
+</blockquote>
+<blockquote>
+<p>软件观念革命：交互设计精髓</p>
+</blockquote>
+<blockquote>
+<p>避免一组固定的问题</p>
+</blockquote>
+<blockquote>
+<p>首先关注目标，任务其次</p>
+</blockquote>
+<blockquote>
+<p>比用户行为更重要的是行为背后的原因，多问问用户为什么这么做。</p>
+</blockquote>
+<blockquote>
+<p>避免讨论技术</p>
+</blockquote>
+<blockquote>
+<p>鼓励讲故事</p>
+</blockquote>
+<blockquote>
+<p>避免诱导性的问题：典型的诱导问题是“如果有××功能，你会使用么？”一般来说用户会给出毫无意义的肯定答复。</p>
+</blockquote>
+<blockquote>
+<p>用户大会，是邀请产品的用户到某一集中地点开会，人数一般在几十人到几百人不等，可以短时间内从多人处收集大量信息，是一种特别的用户访谈形式。</p>
+</blockquote>
+<blockquote>
+<p>产品二期卖点确认，辅助运营决策；三期需求收集；现有产品用户体验改进等。</p>
+</blockquote>
+<blockquote>
+<p>比如确定了产品二期主推的3 个卖点；明确了产品三期优先级最高的几个需求；与这些用户成为朋友，将来可以作为产品的种子用户￼等。</p>
+</blockquote>
+<blockquote>
+<p>用户访谈的提纲通常是开放式问题￼，适用于我们心里还比较疑惑的时候去寻找产品的方向，适合与较少的访谈对象进行深入的交流；</p>
+</blockquote>
+<blockquote>
+<p>调查问卷通常封闭式问题比较多，适合大用户量的信息收集，但不够深入，一般只能获得某些明确问题的答案，</p>
+</blockquote>
+<blockquote>
+<p>用户访谈与调查问卷之间也有联系，我们经常通过前者的开放式问题，为后者收集具体的封闭式问题。</p>
+</blockquote>
+<blockquote>
+<p>调查问卷一人一份，独立作答，可消除“焦点小组”、“论坛发贴征集需求”等具有群体讨论性质的方法的弊端。</p>
+</blockquote>
+<blockquote>
+<p>站出来的总是很少数，而且往往是非典型的用户，不能保证其代表了目标用户的想法；</p>
+</blockquote>
+<blockquote>
+<p>开始表态的那几个人的观点引导了群体的观点，随机的初始值决定了结果，这个时候你只有单独和跟风者交流，才会发现他根本不是那么想的。</p>
+</blockquote>
+<blockquote>
+<p>用户访谈由于样本量的限制，始终只能听到目标用户群体中很少部分用户的声音，</p>
+</blockquote>
+<blockquote>
+<p>尽可能覆盖目标群体中各种类型的用户，比如性别、年龄段、行业、收入等，要保证各种类型用户的样本比例接近全体的比例，</p>
+</blockquote>
+<blockquote>
+<p>大家最好把这些潜在的筛选条件标明，让报告的读者知道数据获得的方法与来源，</p>
+</blockquote>
+<blockquote>
+<p>可以把目标群体的特征也定义成一系列问题，放入问卷中，</p>
+</blockquote>
+<blockquote>
+<p>如果发现了偏差，我们也可以从回收的问卷中再筛选出一个接近目标群体的子集来分析。</p>
+</blockquote>
+<blockquote>
+<p>可用性测试是指通过让实际用户使用产品或原型方法来发现界面设计中的可用性问题，通常只能做少数几个用户的测试，看他们怎么做，属于典型的定性研究。</p>
+</blockquote>
+<blockquote>
+<p>它是UGC￼理念的一种很漂亮的实践，在目的明确的前提下，简单介绍一下主要过程。</p>
+</blockquote>
+<blockquote>
+<p>可用性测试的基本过程就是用户通过使用产品来完成所要求的任务，同时组织者在一旁观察用户操作的全过程，并把发现的问题记录下来。</p>
+</blockquote>
+<blockquote>
+<p>产品的可用性问题列表，并对问题的严重程度进行分级，使得我们可以根据项目进度来选择哪些优先处理。</p>
+</blockquote>
+<blockquote>
+<p>第一，如果可用性测试做得太晚（往往在产品将要上线的时候），这时发现问题也于事无补了。</p>
+</blockquote>
+<blockquote>
+<p>可用性测试在产品的各个阶段都可以做。</p>
+</blockquote>
+<blockquote>
+<p>可用性测试通常来说做5 个左右的用户才可以发现大部分的共性问题，前前后后的准备也耗时不少，但只做一个用户，并且简化步骤，也比不做要好。</p>
+</blockquote>
+<blockquote>
+<p>这个测试的目的是发现软件产品中的问题</p>
+</blockquote>
+<blockquote>
+<p>可以要求用户在使用产品的过程中采用一种名为“发声思维”的方法，即在使用产品的同时说出自己的思考过程，比如为了完成某个任务，用户想先做什么，后做什么，为什么要做某个动作，等等。</p>
+</blockquote>
+<blockquote>
+<p>记住，一切的错都是产品和我们的错，用户绝对没有错。</p>
+</blockquote>
+<blockquote>
+<p>改版的初衷都是为了产品升级，更好地服务用户，但改版在客观上会挑战用户现有的习惯，所以必须慎之又慎。</p>
+</blockquote>
+<blockquote>
+<p>可用性测试就是一种很合适的方法，来保证产品改版的安全性。</p>
+</blockquote>
+<blockquote>
+<p>在这之后，我再也不敢这么晚才做可用性测试，</p>
+</blockquote>
+<blockquote>
+<p>除了“可用性测试”要在足够早的时候做以外，</p>
+</blockquote>
+<blockquote>
+<p>发布后也是有一些方法改进的。<br>比如先从部分次级页面改起，</p>
+</blockquote>
+<blockquote>
+<p>再如新旧版本并存一段时间，并允许用户自由选择，</p>
+</blockquote>
+<blockquote>
+<p>三如小面积试验，选择一小批测试用户放出新版本，监测效果，做用户调研，</p>
+</blockquote>
+<blockquote>
+<p>四如傍上一个用户已经习惯的风格，</p>
+</blockquote>
+<blockquote>
+<p>通常数据分析只能发现一些现象和问题，并不能了解原因，所以分析完成后通常会伴随着一些用户访谈，听听用户怎么解释。</p>
+</blockquote>
+<blockquote>
+<p>过于学术，沉迷于“科学研究”。</p>
+</blockquote>
+<blockquote>
+<p>实际的生产和科研是有很大不同的。</p>
+</blockquote>
+<blockquote>
+<p>科学研究通常只注重“性价比”的性，只要结果好，往往不在乎投入，因为相对而言科研的结果不是为了马上应用，而是为了证明实力。</p>
+</blockquote>
+<blockquote>
+<p>但实际生产环境就更注重综合的性价比了，所以我们日常的数据分析方法也就显得不那么严谨了，</p>
+</blockquote>
+<blockquote>
+<p>“显著性检验”</p>
+</blockquote>
+<blockquote>
+<p>这个问题的对策，是学习统计学的知识￼，努力提高自己的水平。</p>
+</blockquote>
+<blockquote>
+<p>我们应该在产品设计的时候就把数据分析的需求加进去，比如记录每个按钮的点击次数、统计每个用户的登录频率等，</p>
+</blockquote>
+<blockquote>
+<p>用户研究的成本真的很高，很多小公司都能省则省，我们很无奈，老板也很无奈，以后在抱怨老板没用户研究意识的时候，也需要体谅一下他们的难处。</p>
+</blockquote>
+<blockquote>
+<p>我们去主动“拉”需求的比例较高，需求都是直接从用户那里得到的，有点“进攻”的感觉，</p>
+</blockquote>
+<blockquote>
+<p>我们会收到很多“推”过来的需求，比较像“防守”的感觉。</p>
+</blockquote>
+<blockquote>
+<p>这种二手需求，或多或少有扭曲，以销售为例，他们的考核指标决定了会比较注重眼前，希望产品的卖点越多越好，而之后用户用得如何，就不那么关心了。</p>
+</blockquote>
+<blockquote>
+<p>我觉得产品部门至少应该和销售、服务等部门有平等的地位，坚持不断的从终端用户那里直接获得需求，才能保证产品的可持续发展。</p>
+</blockquote>
+<blockquote>
+<p>产品的需求工作不只是需求分析人员的事，而是涉及产品的每个干系人的义务，至少得参与“采集”的过程，</p>
+</blockquote>
+<blockquote>
+<p>作为专业的需求分析人员，就应该尽量降低同事们，比如销售、服务、技术人员提交需求的成本，也是节省我们自己的时间。</p>
+</blockquote>
+<blockquote>
+<p>一个用户需求到底包含哪些内容</p>
+</blockquote>
+<blockquote>
+<p>用户场景</p>
+</blockquote>
+<blockquote>
+<p>单项需求卡片模板</p>
+</blockquote>
+<blockquote>
+<p>单向需求卡片所描述的用户需求，最终要转化为产品需求才有真正的价值。</p>
+</blockquote>
+<blockquote>
+<p>现场调查</p>
+</blockquote>
+<blockquote>
+<p>AB测试</p>
+</blockquote>
+<blockquote>
+<p>日记研究</p>
+</blockquote>
+<blockquote>
+<p>卡片分类法</p>
+</blockquote>
+<blockquote>
+<p>自己提需求</p>
+</blockquote>
+<h3 id="◆-2-3-听用户的但不要照着做"><a href="#◆-2-3-听用户的但不要照着做" class="headerlink" title="◆ 2.3 听用户的但不要照着做"></a>◆ 2.3 听用户的但不要照着做</h3><blockquote>
+<p>在产品需求列表上再加几个属性项，试着管理需求的生命周期。</p>
+</blockquote>
+<blockquote>
+<p>需求的状态随时改变，但每个阶段都是谁来负责？所以我们还需要知道需求在各个阶段的负责人，以及其他一些需求跟踪的信息。</p>
+</blockquote>
+<blockquote>
+<p>需求状态。通常有“待讨论”、“拒绝”、“暂缓”、“需求中”、“开发中”、“已完成”几个状态，可按照实际情况有所增减，比如管理的粒度细一点，还可以增加“测试中”。</p>
+</blockquote>
+<blockquote>
+<p>对同一个问题，这两套解决方案的区别就是，一个是用户需求，一个是产品需求。而这中间的转化过程，就是这节的主题——需求分析。</p>
+</blockquote>
+<blockquote>
+<p>用户需求：用户自以为的需求，并且经常表达为用户的解决方案。<br>产品需求：经过我们的分析，找到的真实需求，并且表达为产品的解决方案。</p>
+</blockquote>
+<blockquote>
+<p>需求分析：从用户提出的需求出发，找到用户内心真正的渴望，再转化为产品需求的过程。</p>
+</blockquote>
+<blockquote>
+<p>去探究他内心真正的渴望，再给出更好的解决方案，或者说是用户真正需要的东西，</p>
+</blockquote>
+<blockquote>
+<p>改变现状。是我们最常用的，去开发某种产品，但也是最笨的办法。</p>
+</blockquote>
+<blockquote>
+<p>降低理想。不要忽视精神的力量，什么“打预防针”、“丑话说在前头”这类句子想必大家都经常听到。</p>
+</blockquote>
+<blockquote>
+<p>转移需求。因为人类的注意力是有限的，所以引导用户去关注其他事物，他就会觉得这个差距没那么可憎了。</p>
+</blockquote>
+<blockquote>
+<p>先把用户需求转化为产品需求，然后一步步确定每个产品需求的基本属性、商业价值、实现难度、性价比等。</p>
+</blockquote>
+<blockquote>
+<p>不同于之前提到的“单项需求卡片”，那张卡片里描述的是用户需求的各种属性。</p>
+</blockquote>
+<blockquote>
+<p>一些Excel的简单技巧，建议大家还是学习一下，比如条件格式、筛选、单元格有效性、单元格锁定、隐藏等，可以让表格管理起来轻松一点，看起来也美观一点。</p>
+</blockquote>
+<blockquote>
+<p>绝对不能因为某个需求的实现难度很小就马上去做，也不能因为另一个需求的实现难度大就不做。</p>
+</blockquote>
+<blockquote>
+<p>性价比 = 商业价值÷实现难度（简化为开发量）</p>
+</blockquote>
+<h3 id="◆-2-4-活下来的永远是少数"><a href="#◆-2-4-活下来的永远是少数" class="headerlink" title="◆ 2.4 活下来的永远是少数"></a>◆ 2.4 活下来的永远是少数</h3><blockquote>
+<p>这是一场公司内部的战争，每个产品的产品经理都要上场，打仗总是为了抢点什么，我们争夺的是下个月的人力资源，即总是不够用的开发工程师、测试工程师等。战场就是闻之色变的产品会议，而我们手上的武器，则是精心准备的商业需求文档。</p>
+</blockquote>
+<blockquote>
+<p>“需求打包”最好打包类似的功能点。</p>
+</blockquote>
+<blockquote>
+<p>产品经理——靠想。产品经理是做正确的事，其所领导的产品是否符合市场的需求，是否能给公司带来利润。<br>项目经理——靠做。项目经理是把事情做正确，把事情做得完美，在时间、成本和资源约束的条件下完成目标。</p>
+</blockquote>
+<blockquote>
+<p>那些只能先做的功能，应该在产品需求列表里注明；</p>
+</blockquote>
+<blockquote>
+<p>功能与人力资源之间的依赖关系</p>
+</blockquote>
+<blockquote>
+<p>需求的粒度大小问题。</p>
+</blockquote>
+<blockquote>
+<p>商业价值很高的功能，如果细分的话，我们会发现其中也有价值相对低的部分，所以需求的粒度应该尽量细，前提是细化引起的管理成本上升在可接受的范围内，</p>
+</blockquote>
+<blockquote>
+<p>我们的经验是，在需求列表里出现的任意一行，工作量最好不要超过“5人天”。</p>
+</blockquote>
+<blockquote>
+<p>我们一开始只要让其拥有100%的质量其实就够了，这样留给用户的是升级的期待，而如果反过来，功能铺得很开，但每个点都不爽，那反而喧宾夺主，把闪光的地方给掩埋了。<br>情愿把一半的功能做到尽可能完美也不要把全部功能都做成半吊子。</p>
+</blockquote>
+<blockquote>
+<p>越来越觉得当发现一个功能可有可无的时候，甚至只要是没有强烈的理由要做的时候，要明确的选择：不做！</p>
+</blockquote>
+<h3 id="◆-2-5-心急吃不了热豆腐"><a href="#◆-2-5-心急吃不了热豆腐" class="headerlink" title="◆ 2.5 心急吃不了热豆腐"></a>◆ 2.5 心急吃不了热豆腐</h3><blockquote>
+<p>Kick Off是足球比赛开球的意思，现在被广泛用于开始做某事，在项目里指的是项目的启动大会，而启动大会及其准备工作（主要是团队组建和各种计划的确定），就是所谓立项阶段的工作内容，</p>
+</blockquote>
+<h2 id="◆-第3章-项目的坎坷一生"><a href="#◆-第3章-项目的坎坷一生" class="headerlink" title="◆ 第3章 项目的坎坷一生"></a>◆ 第3章 项目的坎坷一生</h2><blockquote>
+<p>BRD：Business Requirements Document，商业需求文档。这是产品生命周期中最早的文档，其内容涉及市场分析、销售策略、盈利预测等，通常是给大老板们演示的PPT，也就比较短小精炼，没有产品细节，有点像创业者给投资人看的商业计划，主要为了获得认可，争取资源。</p>
+</blockquote>
+<blockquote>
+<p>MRD：Market Requirements Document，市场需求文档。获得老板们的支持后，产品进入实施阶段，需要写出MRD，要有更细致的市场与竞争对手分析，包括可通过哪些功能来实现商业目的，功能、非功能需求分哪几块，功能的优先级，等等。实际工作中，PD在这个阶段常见的产出物有产品的Feature List、业务逻辑图等，这是从商业目标到技术实现的关键转化文档。</p>
+</blockquote>
+<blockquote>
+<p>PRD：Product Requirements Document，产品需求文档。PRD是对产品功能的进一步细化，是PD新人写得最多的文档，也就是我说的“需求开发”过程。文档主要包含整体说明、用例文档、产品Demo等，会对产品功能做具体描述</p>
+</blockquote>
+<blockquote>
+<p>FSD：Functional Specifications Document，功能详细说明。</p>
+</blockquote>
+<blockquote>
+<p>总体说明之后是用例文档部分，首先需要对这个PRD中所有的用例来个说明，给出用例的可视化表示，说明各个用例之间的关系，一般有类图、用例图、状态图几种表示方法，其中用例图最为关键，下节里即将给出几个例子说明。</p>
+</blockquote>
+<blockquote>
+<p>用例文档￼。</p>
+</blockquote>
+<blockquote>
+<p>学一点UML：类图、用例图、状态图</p>
+</blockquote>
+<blockquote>
+<p>用例文档，UC</p>
+</blockquote>
+<blockquote>
+<p>UC是需求人员写给开发人员看的一种最基本的文档</p>
+</blockquote>
+<blockquote>
+<p>再学一点UML：时序图、活动图及其他</p>
+</blockquote>
+<blockquote>
+<p>测试评审，俗称TC评审，是在TC编写完成，测试开始执行之前进行，由测试工程师把对需求的理解以TC的形式说给PD、开发听。</p>
+</blockquote>
+<blockquote>
+<p>日常需求发布流程</p>
+</blockquote>
+<h3 id="◆-4-3-商业团队，冲锋陷阵"><a href="#◆-4-3-商业团队，冲锋陷阵" class="headerlink" title="◆ 4.3 商业团队，冲锋陷阵"></a>◆ 4.3 商业团队，冲锋陷阵</h3><blockquote>
+<p>《水平营销》</p>
+</blockquote>
+<h3 id="◆-4-6-大家好才是真的好"><a href="#◆-4-6-大家好才是真的好" class="headerlink" title="◆ 4.6 大家好才是真的好"></a>◆ 4.6 大家好才是真的好</h3><blockquote>
+<p>远视者把目的当手段，近视者把手段当目的。</p>
+</blockquote>
+<blockquote>
+<p>产品部门的主要KPI是“活跃度”，用户开始用了，产品能不能粘住用户很考验我们的功力</p>
+</blockquote>
+<blockquote>
+<p>付费用户中有相当的用户并不是目标用户，产品好对他来说没用，他不可能真正使用产品，也就不可能变成活跃用户。</p>
+</blockquote>
+<h3 id="◆-5-3-做吧，准备出发！"><a href="#◆-5-3-做吧，准备出发！" class="headerlink" title="◆ 5.3 做吧，准备出发！"></a>◆ 5.3 做吧，准备出发！</h3><blockquote>
+<p>高层定向，中层分解，基层执行</p>
+</blockquote>
+<h3 id="◆-5-5-本书的源头活水"><a href="#◆-5-5-本书的源头活水" class="headerlink" title="◆ 5.5 本书的源头活水"></a>◆ 5.5 本书的源头活水</h3><blockquote>
+<p>产品设计中“Don’t Make Me Think”的原则，把用户需要的信息以最直接的形式展现出来。</p>
+</blockquote>
+<blockquote>
+<p>Feature List</p>
+</blockquote>
+<h3 id="◆-6-5-产品经理主义"><a href="#◆-6-5-产品经理主义" class="headerlink" title="◆ 6.5 产品经理主义"></a>◆ 6.5 产品经理主义</h3><blockquote>
+<p>每当有人骂春晚的时候，产品经理的思路应该像对待一个提需求的用户：骂的人是不是典型用户？他的观点能代表多少人？他的影响力多大？他是不是只是“嗓门大”的用户？他说的是不是解决方案？他的本质需求是什么？把他的需求加入需求列表应该标什么级别？什么属性？</p>
+</blockquote>
+<h2 id="◆-各种有用的信息"><a href="#◆-各种有用的信息" class="headerlink" title="◆ 各种有用的信息"></a>◆ 各种有用的信息</h2><blockquote>
+<p>我觉得产品经理应该是通才，本行功夫自不必说，要能出彩，更重要的是外家的功夫，所谓“功夫总是在诗外”。</p>
+</blockquote>
+<blockquote>
+<p>UCDChina（<a href="http://ucdchina.com/）" target="_blank" rel="noopener">http://ucdchina.com/）</a></p>
+</blockquote>
+<blockquote>
+<p>UCDChina上有个很好的网址导航，从URL（http：//ucdchina.com/123/）看我一直觉得他们是在讽刺hao123</p>
+</blockquote>
+<blockquote>
+<p>ExcelPro的图表博客（<a href="http://excelpro.blog.sohu.com/），从他这里我学到很多Excel、PPT的技巧，以及更多画图表的好方法。" target="_blank" rel="noopener">http://excelpro.blog.sohu.com/），从他这里我学到很多Excel、PPT的技巧，以及更多画图表的好方法。</a></p>
+</blockquote>
+<blockquote>
+<p>人月神话（<a href="http://blog.sina.com.cn/cmmi/）" target="_blank" rel="noopener">http://blog.sina.com.cn/cmmi/）</a></p>
+</blockquote>
+<blockquote>
+<p>刘未鹏|Mind Hacks（<a href="http://mindhacks.cn/）" target="_blank" rel="noopener">http://mindhacks.cn/）</a></p>
+</blockquote>
+<blockquote>
+<p>褪墨（<a href="http://www.mifengtd.cn/）" target="_blank" rel="noopener">http://www.mifengtd.cn/）</a></p>
+</blockquote>
+<blockquote>
+<p>我不太用各种微博客和SNS，最大的原因就是我觉得它们会把时间碎片化。不时地看一些信息、一些名言警句，甚至是一篇文章，其实收获都不大，最实在的还是花一些整块的时间看几本好书。</p>
+</blockquote>
+<blockquote>
+<p>《产品经理实战手册》￼、《产品经理的第一本书》￼、《产品经理的第二本书》</p>
+</blockquote>
+<blockquote>
+<p>市场营销方面的知识我们不得不储备一点。科特勒的</p>
+</blockquote>
+<blockquote>
+<p>产品的用户体验很关键，2007年看了《用户体验的要素》</p>
+</blockquote>
+<blockquote>
+<p>所以学一点用户研究的方法也很必要，《赢在用户》</p>
+</blockquote>
+<blockquote>
+<p>《一目了然》￼、《点石成金》￼、《胜于言传》￼</p>
+</blockquote>
+<blockquote>
+<p>《设计心理学》￼与《情感化设计》￼</p>
+</blockquote>
+<blockquote>
+<p>交互设计之父Alan Cooper（此牛人也是VB之父）的《软件观念革命：交互设计精髓》￼</p>
+</blockquote>
+<blockquote>
+<p>《公司进化论》￼、《跨越鸿沟》￼</p>
+</blockquote>
+<blockquote>
+<p>所以我们有必要读一本UML相关的书，体会一下怎么用抽象模型的方法来描述一个领域、一系列事物。</p>
+</blockquote>
+<blockquote>
+<p>《UML基础、案例与应用》￼</p>
+</blockquote>
+<blockquote>
+<p>敏捷方法在互联网、软件产品上特别适用</p>
+</blockquote>
+<blockquote>
+<p>用最少的时间吸取一本书里的精华部分</p>
+</blockquote>
+<blockquote>
+<p>科学修养，思维方法、心理学类，比如《决策与判断》￼、《别做正常的傻瓜》￼、《学会提问——批判性思维指南》￼、《黑天鹅》￼、《美第奇效应》￼、《社会性动物》￼、《统计数字会撒谎》￼等；人文修养，历史、经济、社会、政治类，比如《中国历代政治得失》￼、《激荡三十年》￼、《万历十五年》￼、《常识》￼、《大败局》￼等；新经济系列，《长尾理论》￼、《世界是平的》￼、《维基经济学》￼、《未来是湿的》￼、《众包》￼、《轻公司》￼等；自我提升、精神力量的书，比如《影响力》￼、《把时间当作朋友》￼、《当下的力量》￼、《少有人走的路》￼、《遇见未知的自己》￼等。</p>
+</blockquote>
+<blockquote>
+<p>《成功的产品经理》</p>
+</blockquote>
+<blockquote>
+<p>需求相关课程</p>
+</blockquote>
+<blockquote>
+<p>《项目管理》</p>
+</blockquote>
+<h2 id="◆-点评"><a href="#◆-点评" class="headerlink" title="◆ 点评"></a>◆ 点评</h2><p>点评:★★★★★</p>
+]]></content>
+      <categories>
+        <category>PM</category>
+      </categories>
+      <tags>
+        <tag>读书笔记复盘</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《产品经理面试攻略》读书笔记</title>
     <url>/2020/04/22/%E3%80%8A%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E9%9D%A2%E8%AF%95%E6%94%BB%E7%95%A5%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>产品经理面试攻略<br>蓝鲸部落<br>262个笔记</p>
@@ -1317,2494 +2563,6 @@
       </categories>
       <tags>
         <tag>读书笔记复盘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2020/04/14/hello-world/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>《人人都是产品经理》读书笔记</title>
-    <url>/2020/04/21/%E3%80%8A%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>人人都是产品经理<br>苏杰<br>218个笔记</p>
-<h2 id="◆-写在正文之前"><a href="#◆-写在正文之前" class="headerlink" title="◆ 写在正文之前"></a>◆ 写在正文之前</h2><blockquote>
-<ol>
-<li>要解决什么问题，满足什么需求？</li>
-</ol>
-</blockquote>
-<blockquote>
-<ol start="2">
-<li>目标用户在哪里，以什么样的一句话卖点打动对方？</li>
-</ol>
-</blockquote>
-<h2 id="◆-第1章-写给-1到3岁的产品经理"><a href="#◆-第1章-写给-1到3岁的产品经理" class="headerlink" title="◆ 第1章 写给-1到3岁的产品经理"></a>◆ 第1章 写给-1到3岁的产品经理</h2><blockquote>
-<p>只有颜色区分，也许有的朋友通过颜色就能知道绿色为可回收、黄色为不可回收，但大多数人多半想不到这一点。</p>
-</blockquote>
-<blockquote>
-<p>作为产品经理，产品的整个研发、制造、上市的过程，都要充分地参与其中吧。</p>
-</blockquote>
-<blockquote>
-<p>给新手使用的产品，一大设计准则就是——无需阅读说明书就能上手！</p>
-</blockquote>
-<blockquote>
-<p>让用户更加省心。</p>
-</blockquote>
-<blockquote>
-<p>麦当劳洗手间的门，一看就让人觉得这很像人们印象中洗手间通常应该有的门。</p>
-</blockquote>
-<blockquote>
-<p>门没有把手，所以只能推开。</p>
-</blockquote>
-<blockquote>
-<p>洗手间的门推开以后，一定要有类似弹簧的装置让门能自动关上</p>
-</blockquote>
-<h3 id="◆-1-1-为什么要做产品经理"><a href="#◆-1-1-为什么要做产品经理" class="headerlink" title="◆ 1.1 为什么要做产品经理"></a>◆ 1.1 为什么要做产品经理</h3><blockquote>
-<p>可以满足人们需求的载体。</p>
-</blockquote>
-<blockquote>
-<p>产品就是用来解决某个问题的东西。</p>
-</blockquote>
-<blockquote>
-<p>她的服务也是一种产品……最后，我觉得我自己也是一个产品。</p>
-</blockquote>
-<blockquote>
-<p>解决问题其实就意味着满足人们的需求，这样才能产生价值。</p>
-</blockquote>
-<blockquote>
-<p>这个价值不仅要给产品的使用者，也要给产品的创造者。</p>
-</blockquote>
-<blockquote>
-<p>绝大多数都是在人们的需求，即用户目标和公司的商业目标之间寻找平衡。</p>
-</blockquote>
-<blockquote>
-<p>产品就是要同时解决用户的问题和公司的问题，一个都不能少！</p>
-</blockquote>
-<blockquote>
-<p>产品管理的矩阵型组织</p>
-</blockquote>
-<blockquote>
-<p>产品经理的主要职责是规划产品的生命周期，负责产品的上市策略、定价策略、整合营销策略、销售与分销策略，等等。</p>
-</blockquote>
-<blockquote>
-<p>传统意义下的产品经理</p>
-</blockquote>
-<blockquote>
-<p>个产品已经做好以后，应该怎样管理，怎样营销，偏重于市场、商业端，这类产品经理也可以叫做“品牌经理”或“产品市场经理”。</p>
-</blockquote>
-<blockquote>
-<p>它更多地侧重产品本身“从无到有”、“从有到优”的过程，更多地涉及了“产品规划、数据分析、用户研究、需求分析、功能设计、项目管理、敏捷方法”等内容，而不是如传统的产品经理那样，去做已经有了产品之后需要做的诸如管理产品、推广和营销产品的事情。</p>
-</blockquote>
-<blockquote>
-<p>更多元的盈利模式，比如免费给用户使用，但利用用户的注意力赚取第三方的广告费等。</p>
-</blockquote>
-<blockquote>
-<p>传统行业多是为付钱的客户做，值得注意的是，很多情况下客户只是买产品的人并不是用产品的人，也许搞定几个大客户，就3年不愁吃穿。</p>
-</blockquote>
-<blockquote>
-<p>而互联网、软件产品大多是为使用产品的终端用户所做，而且通常是面对海量的用户，用户数多了，自然就能盈利。</p>
-</blockquote>
-<blockquote>
-<p>互联网、软件行业的产品经理会更重视用户研究、数据分析等工作，要“负责用户研究，把握用户需求，实现用户需求”，而盈利的事情反倒不用直接去管，会有另外的团队负责。</p>
-</blockquote>
-<blockquote>
-<p>为了给用户极致的体验，我们需要做很多数据分析，而数据分析的基础在于互联网、软件产品的虚拟特性，可以大量地记录用户的各种行为数据，</p>
-</blockquote>
-<blockquote>
-<p>管理的能力，其实就是“在资源不足的情况下把事情做成”的能力，</p>
-</blockquote>
-<blockquote>
-<p>第一，信息不足以决策。</p>
-</blockquote>
-<blockquote>
-<p>第二，时间不足以安排周密的计划。</p>
-</blockquote>
-<blockquote>
-<p>第三，人员不足以支持工作强度和难度。</p>
-</blockquote>
-<blockquote>
-<p>第四，资金不足以自由调配。</p>
-</blockquote>
-<blockquote>
-<p>凡是资源，总归不足——这是常态！既然不足，就需要学会分配资源、管理资源。</p>
-</blockquote>
-<h3 id="◆-1-3-我真的想做，怎么入行"><a href="#◆-1-3-我真的想做，怎么入行" class="headerlink" title="◆ 1.3 我真的想做，怎么入行"></a>◆ 1.3 我真的想做，怎么入行</h3><blockquote>
-<p>通常，用户会去想怎么用这个产品，才能带给自己更大的好处，产生更大的效用；而产品经理则习惯于绕过表象，从背后看问题的本质，思考怎么设计这个产品才能更好地平衡用户目标与商业目标。</p>
-</blockquote>
-<blockquote>
-<p>技术相对而言好学一点，可以速成，但是商业感觉没个三五年是磨不出来的。</p>
-</blockquote>
-<blockquote>
-<p>最在乎的是应聘者有没有激情，是否够机灵、好学，逻辑思维是否清晰，沟通表达是否顺畅等。</p>
-</blockquote>
-<blockquote>
-<p>谈谈我们生活中经常用的一个产品，它解决了什么问题，要是你来改进，打算怎么做？</p>
-</blockquote>
-<blockquote>
-<p>电视/书/电影么？举个例子分析一下它的目标用户。</p>
-</blockquote>
-<blockquote>
-<p>说说你是怎么准备这次面试的。</p>
-</blockquote>
-<blockquote>
-<p>先在本职工作上找到与产品有关的事情做一些尝试，并且考虑先从产品经理周边的职位做起。</p>
-</blockquote>
-<blockquote>
-<p>自己练习写一下BRD￼、PRD￼</p>
-</blockquote>
-<blockquote>
-<p>研究几十家公司的产品经理招聘广告。我一直觉得把研究结果做成一份漂亮的调研报告，而后去应聘产品经理是个很靠谱的事，而且我相信大家多半都很想读这样的一份报告，可惜还没见过有人这么做。</p>
-</blockquote>
-<h3 id="◆-1-4-一个产品经理的-1到3岁"><a href="#◆-1-4-一个产品经理的-1到3岁" class="headerlink" title="◆ 1.4 一个产品经理的-1到3岁"></a>◆ 1.4 一个产品经理的-1到3岁</h3><blockquote>
-<p>当时只是在学习解决问题的思路，而专业就是找了一个特定的领域来练习思考的能力而已。</p>
-</blockquote>
-<blockquote>
-<p>做过的题不重要，上过的课不重要，学过的知识也不重要，重要的是练好思维方式，“学会”学习。</p>
-</blockquote>
-<blockquote>
-<p>一个网站——http：//iamsujie.com，通过产品设计，通过个人博客￼发布产品设计相关文章，与网友交流，也练习了网站的运营与推广。</p>
-</blockquote>
-<blockquote>
-<p>不要试图满足所有用户<br>不仅要区别对待广义用户，对于狭义的终端用户，我们也无法一视同仁。新人常见的状态就是听到用户的新需求就很兴奋，特别想赶紧给他解决。</p>
-</blockquote>
-<blockquote>
-<p>优先级评估，需求管理，</p>
-</blockquote>
-<blockquote>
-<p>腾讯CEO马化腾说应该关注核心用户的需求。<br>我做过的一款产品刚起步的时候，老板跟我说先满足大量的一般用户的需求。</p>
-</blockquote>
-<blockquote>
-<p>优先满足哪些用户需要和产品的商业目标要结合起来考虑，简单说就是看KPI￼是什么，</p>
-</blockquote>
-<blockquote>
-<p>既然我们的产品目标是用户数、活跃用户数，而不是销售额，那么从一开始就注定了我们更要代表的是大多数用户的利益。这并不是说核心用户不重要，而是产品的不同阶段，目标自然不同。</p>
-</blockquote>
-<blockquote>
-<p>上述维度的划分￼可以帮助我们更好的理解用户研究各种方法的特点，以便在现实工作中更加灵活地应用。</p>
-</blockquote>
-<blockquote>
-<p>使用之前要认真考虑清楚产品的目标，</p>
-</blockquote>
-<blockquote>
-<p>新产品定位？老产品优化？预测某新功能的用户数？提高用户活跃程度？验证某个改动的效果？</p>
-</blockquote>
-<h2 id="◆-第2章-一个需求的奋斗史"><a href="#◆-第2章-一个需求的奋斗史" class="headerlink" title="◆ 第2章 一个需求的奋斗史"></a>◆ 第2章 一个需求的奋斗史</h2><blockquote>
-<p>需求采集方法，如“数据分析”、“调查问卷”、“用户访谈”等</p>
-</blockquote>
-<blockquote>
-<p>需求采集</p>
-</blockquote>
-<blockquote>
-<p>用户说了很多需求，产品经理要“听用户的但不要照着做”，必须“明确我们存在的价值”是“把用户需求转化为产品需求”，这一过程即需求分析过程。</p>
-</blockquote>
-<h3 id="◆-2-1-从用户中来到用户中去"><a href="#◆-2-1-从用户中来到用户中去" class="headerlink" title="◆ 2.1 从用户中来到用户中去"></a>◆ 2.1 从用户中来到用户中去</h3><blockquote>
-<p>用户是User，有时也叫做终端用户，End User，是使用产品的人；而客户是Customer，是购买产品的人、为产品付钱的人。</p>
-</blockquote>
-<blockquote>
-<p>有形的Persona存在的更大意义，可能并不是给创建者自己看，而是有新人进团队的时候，可以迅速了解用户，理解产品，同时忙碌的无法关注细节的老板也可以利用Persona迅速进入状态，保证他们也能像创建者一样，时刻心中想着正确的用户形象。</p>
-</blockquote>
-<blockquote>
-<p>书中有一张关于用户研究方法的二维图（如图2-3所示），值得牢记：</p>
-</blockquote>
-<blockquote>
-<p>《赢在用户：WEB人物角色创建和应用实践指南》</p>
-</blockquote>
-<blockquote>
-<p>横向，用户的说和做。<br>怎么说表现了目标和观点，怎么做反映了行为，用户怎么说和怎么做经常是不一致的。</p>
-</blockquote>
-<blockquote>
-<p>只了解做是没办法知道背后原因的，而不知道问题的原因也就意味着没法从根本上解决问题。所以我们既要看用户怎么做，也要听用户怎么说，虽然他说的不一定是真话。</p>
-</blockquote>
-<blockquote>
-<p>纵向，定性与定量。<br>定性研究可以找出原因，偏向于了解；而定量研究可以发现现象，偏向于证实。</p>
-</blockquote>
-<blockquote>
-<p>人们认知新事物的过程通常都是从定性到定量，再定性再定量，并且螺旋上升，而了解和证实也是不断迭代进化的。</p>
-</blockquote>
-<blockquote>
-<p>听用户定性地说，确定产品方向，做什么？随机抽样</p>
-</blockquote>
-<blockquote>
-<p>需求列表。</p>
-</blockquote>
-<blockquote>
-<p>听用户定量地说，确定需求优先级，</p>
-</blockquote>
-<blockquote>
-<p>看用户定性地做，要先做的那几个需求，应该怎么做？</p>
-</blockquote>
-<blockquote>
-<p>一边设计，一边陆续找了10个用户来验证，做可用性测试。</p>
-</blockquote>
-<blockquote>
-<p>看用户定量地做，根据产品的用户使用情况做数据分析，不断改进产品。</p>
-</blockquote>
-<blockquote>
-<p>会视情况采取简化的方案。</p>
-</blockquote>
-<blockquote>
-<p>比如做调查问卷的时候，通常需要给用户激励，但不能使用被调查的产品作为激励，</p>
-</blockquote>
-<h3 id="◆-2-2-需求采集的大生产运动"><a href="#◆-2-2-需求采集的大生产运动" class="headerlink" title="◆ 2.2 需求采集的大生产运动"></a>◆ 2.2 需求采集的大生产运动</h3><blockquote>
-<p>有了资源以后，我们可能会叫几个用户过来访谈，请咨询公司协助出报告，或者出差做用户调研等。</p>
-</blockquote>
-<blockquote>
-<p>明确目标、选择采集方法、制定采集计划、执行采集、资料整理，然后进入下一步的需求分析阶段。</p>
-</blockquote>
-<blockquote>
-<p>用户访谈通常采用访谈者与被访者一对一聊天的形式，一批次用户访谈的样本比较少，一般是几个到几十个，但在每个用户身上花的时间比较多，通常为几十分钟到几个小时，围绕着几个特定的话题，我们问，用户答，用户说，我们听，这是一种典型的定性研究。</p>
-</blockquote>
-<blockquote>
-<p>用户访谈经常用在新产品方向的预研工作中，或者通过数据分析发现现象以后，去探索现象背后的原因。</p>
-</blockquote>
-<blockquote>
-<p>用户访谈经常出现如下问题：</p>
-</blockquote>
-<blockquote>
-<p>第一，“说”和“做”不一致的问题。<br>用户经常会骗我们，</p>
-</blockquote>
-<blockquote>
-<p>尽量在用户可以和产品发生交互的场合下进行，让用户在“说”的同时也“做”，</p>
-</blockquote>
-<blockquote>
-<p>诸如“我做了什么，步骤如何，碰到了什么问题”这类事实的可信度更高一些，而“我觉得、我认为”这类的观点，则需要带着大大的问号去听。</p>
-</blockquote>
-<blockquote>
-<p>首先，我们应该尽量识别出各种可能引起偏差的因素，并在访谈的报告里标明，让读者了解。</p>
-</blockquote>
-<blockquote>
-<p>为了用尽可能少的样本得到尽可能正确的结论，我会以增量的方式做访谈。</p>
-</blockquote>
-<blockquote>
-<p>先访谈5个用户，得出基本结论，然后再访谈5 个，观察结论是否有改变，</p>
-</blockquote>
-<blockquote>
-<p>第三，用户过于强势，把我们往沟里带。</p>
-</blockquote>
-<blockquote>
-<p>第四，我们过于强势，把用户往沟里带。</p>
-</blockquote>
-<blockquote>
-<p>软件观念革命：交互设计精髓</p>
-</blockquote>
-<blockquote>
-<p>避免一组固定的问题</p>
-</blockquote>
-<blockquote>
-<p>首先关注目标，任务其次</p>
-</blockquote>
-<blockquote>
-<p>比用户行为更重要的是行为背后的原因，多问问用户为什么这么做。</p>
-</blockquote>
-<blockquote>
-<p>避免讨论技术</p>
-</blockquote>
-<blockquote>
-<p>鼓励讲故事</p>
-</blockquote>
-<blockquote>
-<p>避免诱导性的问题：典型的诱导问题是“如果有××功能，你会使用么？”一般来说用户会给出毫无意义的肯定答复。</p>
-</blockquote>
-<blockquote>
-<p>用户大会，是邀请产品的用户到某一集中地点开会，人数一般在几十人到几百人不等，可以短时间内从多人处收集大量信息，是一种特别的用户访谈形式。</p>
-</blockquote>
-<blockquote>
-<p>产品二期卖点确认，辅助运营决策；三期需求收集；现有产品用户体验改进等。</p>
-</blockquote>
-<blockquote>
-<p>比如确定了产品二期主推的3 个卖点；明确了产品三期优先级最高的几个需求；与这些用户成为朋友，将来可以作为产品的种子用户￼等。</p>
-</blockquote>
-<blockquote>
-<p>用户访谈的提纲通常是开放式问题￼，适用于我们心里还比较疑惑的时候去寻找产品的方向，适合与较少的访谈对象进行深入的交流；</p>
-</blockquote>
-<blockquote>
-<p>调查问卷通常封闭式问题比较多，适合大用户量的信息收集，但不够深入，一般只能获得某些明确问题的答案，</p>
-</blockquote>
-<blockquote>
-<p>用户访谈与调查问卷之间也有联系，我们经常通过前者的开放式问题，为后者收集具体的封闭式问题。</p>
-</blockquote>
-<blockquote>
-<p>调查问卷一人一份，独立作答，可消除“焦点小组”、“论坛发贴征集需求”等具有群体讨论性质的方法的弊端。</p>
-</blockquote>
-<blockquote>
-<p>站出来的总是很少数，而且往往是非典型的用户，不能保证其代表了目标用户的想法；</p>
-</blockquote>
-<blockquote>
-<p>开始表态的那几个人的观点引导了群体的观点，随机的初始值决定了结果，这个时候你只有单独和跟风者交流，才会发现他根本不是那么想的。</p>
-</blockquote>
-<blockquote>
-<p>用户访谈由于样本量的限制，始终只能听到目标用户群体中很少部分用户的声音，</p>
-</blockquote>
-<blockquote>
-<p>尽可能覆盖目标群体中各种类型的用户，比如性别、年龄段、行业、收入等，要保证各种类型用户的样本比例接近全体的比例，</p>
-</blockquote>
-<blockquote>
-<p>大家最好把这些潜在的筛选条件标明，让报告的读者知道数据获得的方法与来源，</p>
-</blockquote>
-<blockquote>
-<p>可以把目标群体的特征也定义成一系列问题，放入问卷中，</p>
-</blockquote>
-<blockquote>
-<p>如果发现了偏差，我们也可以从回收的问卷中再筛选出一个接近目标群体的子集来分析。</p>
-</blockquote>
-<blockquote>
-<p>可用性测试是指通过让实际用户使用产品或原型方法来发现界面设计中的可用性问题，通常只能做少数几个用户的测试，看他们怎么做，属于典型的定性研究。</p>
-</blockquote>
-<blockquote>
-<p>它是UGC￼理念的一种很漂亮的实践，在目的明确的前提下，简单介绍一下主要过程。</p>
-</blockquote>
-<blockquote>
-<p>可用性测试的基本过程就是用户通过使用产品来完成所要求的任务，同时组织者在一旁观察用户操作的全过程，并把发现的问题记录下来。</p>
-</blockquote>
-<blockquote>
-<p>产品的可用性问题列表，并对问题的严重程度进行分级，使得我们可以根据项目进度来选择哪些优先处理。</p>
-</blockquote>
-<blockquote>
-<p>第一，如果可用性测试做得太晚（往往在产品将要上线的时候），这时发现问题也于事无补了。</p>
-</blockquote>
-<blockquote>
-<p>可用性测试在产品的各个阶段都可以做。</p>
-</blockquote>
-<blockquote>
-<p>可用性测试通常来说做5 个左右的用户才可以发现大部分的共性问题，前前后后的准备也耗时不少，但只做一个用户，并且简化步骤，也比不做要好。</p>
-</blockquote>
-<blockquote>
-<p>这个测试的目的是发现软件产品中的问题</p>
-</blockquote>
-<blockquote>
-<p>可以要求用户在使用产品的过程中采用一种名为“发声思维”的方法，即在使用产品的同时说出自己的思考过程，比如为了完成某个任务，用户想先做什么，后做什么，为什么要做某个动作，等等。</p>
-</blockquote>
-<blockquote>
-<p>记住，一切的错都是产品和我们的错，用户绝对没有错。</p>
-</blockquote>
-<blockquote>
-<p>改版的初衷都是为了产品升级，更好地服务用户，但改版在客观上会挑战用户现有的习惯，所以必须慎之又慎。</p>
-</blockquote>
-<blockquote>
-<p>可用性测试就是一种很合适的方法，来保证产品改版的安全性。</p>
-</blockquote>
-<blockquote>
-<p>在这之后，我再也不敢这么晚才做可用性测试，</p>
-</blockquote>
-<blockquote>
-<p>除了“可用性测试”要在足够早的时候做以外，</p>
-</blockquote>
-<blockquote>
-<p>发布后也是有一些方法改进的。<br>比如先从部分次级页面改起，</p>
-</blockquote>
-<blockquote>
-<p>再如新旧版本并存一段时间，并允许用户自由选择，</p>
-</blockquote>
-<blockquote>
-<p>三如小面积试验，选择一小批测试用户放出新版本，监测效果，做用户调研，</p>
-</blockquote>
-<blockquote>
-<p>四如傍上一个用户已经习惯的风格，</p>
-</blockquote>
-<blockquote>
-<p>通常数据分析只能发现一些现象和问题，并不能了解原因，所以分析完成后通常会伴随着一些用户访谈，听听用户怎么解释。</p>
-</blockquote>
-<blockquote>
-<p>过于学术，沉迷于“科学研究”。</p>
-</blockquote>
-<blockquote>
-<p>实际的生产和科研是有很大不同的。</p>
-</blockquote>
-<blockquote>
-<p>科学研究通常只注重“性价比”的性，只要结果好，往往不在乎投入，因为相对而言科研的结果不是为了马上应用，而是为了证明实力。</p>
-</blockquote>
-<blockquote>
-<p>但实际生产环境就更注重综合的性价比了，所以我们日常的数据分析方法也就显得不那么严谨了，</p>
-</blockquote>
-<blockquote>
-<p>“显著性检验”</p>
-</blockquote>
-<blockquote>
-<p>这个问题的对策，是学习统计学的知识￼，努力提高自己的水平。</p>
-</blockquote>
-<blockquote>
-<p>我们应该在产品设计的时候就把数据分析的需求加进去，比如记录每个按钮的点击次数、统计每个用户的登录频率等，</p>
-</blockquote>
-<blockquote>
-<p>用户研究的成本真的很高，很多小公司都能省则省，我们很无奈，老板也很无奈，以后在抱怨老板没用户研究意识的时候，也需要体谅一下他们的难处。</p>
-</blockquote>
-<blockquote>
-<p>我们去主动“拉”需求的比例较高，需求都是直接从用户那里得到的，有点“进攻”的感觉，</p>
-</blockquote>
-<blockquote>
-<p>我们会收到很多“推”过来的需求，比较像“防守”的感觉。</p>
-</blockquote>
-<blockquote>
-<p>这种二手需求，或多或少有扭曲，以销售为例，他们的考核指标决定了会比较注重眼前，希望产品的卖点越多越好，而之后用户用得如何，就不那么关心了。</p>
-</blockquote>
-<blockquote>
-<p>我觉得产品部门至少应该和销售、服务等部门有平等的地位，坚持不断的从终端用户那里直接获得需求，才能保证产品的可持续发展。</p>
-</blockquote>
-<blockquote>
-<p>产品的需求工作不只是需求分析人员的事，而是涉及产品的每个干系人的义务，至少得参与“采集”的过程，</p>
-</blockquote>
-<blockquote>
-<p>作为专业的需求分析人员，就应该尽量降低同事们，比如销售、服务、技术人员提交需求的成本，也是节省我们自己的时间。</p>
-</blockquote>
-<blockquote>
-<p>一个用户需求到底包含哪些内容</p>
-</blockquote>
-<blockquote>
-<p>用户场景</p>
-</blockquote>
-<blockquote>
-<p>单项需求卡片模板</p>
-</blockquote>
-<blockquote>
-<p>单向需求卡片所描述的用户需求，最终要转化为产品需求才有真正的价值。</p>
-</blockquote>
-<blockquote>
-<p>现场调查</p>
-</blockquote>
-<blockquote>
-<p>AB测试</p>
-</blockquote>
-<blockquote>
-<p>日记研究</p>
-</blockquote>
-<blockquote>
-<p>卡片分类法</p>
-</blockquote>
-<blockquote>
-<p>自己提需求</p>
-</blockquote>
-<h3 id="◆-2-3-听用户的但不要照着做"><a href="#◆-2-3-听用户的但不要照着做" class="headerlink" title="◆ 2.3 听用户的但不要照着做"></a>◆ 2.3 听用户的但不要照着做</h3><blockquote>
-<p>在产品需求列表上再加几个属性项，试着管理需求的生命周期。</p>
-</blockquote>
-<blockquote>
-<p>需求的状态随时改变，但每个阶段都是谁来负责？所以我们还需要知道需求在各个阶段的负责人，以及其他一些需求跟踪的信息。</p>
-</blockquote>
-<blockquote>
-<p>需求状态。通常有“待讨论”、“拒绝”、“暂缓”、“需求中”、“开发中”、“已完成”几个状态，可按照实际情况有所增减，比如管理的粒度细一点，还可以增加“测试中”。</p>
-</blockquote>
-<blockquote>
-<p>对同一个问题，这两套解决方案的区别就是，一个是用户需求，一个是产品需求。而这中间的转化过程，就是这节的主题——需求分析。</p>
-</blockquote>
-<blockquote>
-<p>用户需求：用户自以为的需求，并且经常表达为用户的解决方案。<br>产品需求：经过我们的分析，找到的真实需求，并且表达为产品的解决方案。</p>
-</blockquote>
-<blockquote>
-<p>需求分析：从用户提出的需求出发，找到用户内心真正的渴望，再转化为产品需求的过程。</p>
-</blockquote>
-<blockquote>
-<p>去探究他内心真正的渴望，再给出更好的解决方案，或者说是用户真正需要的东西，</p>
-</blockquote>
-<blockquote>
-<p>改变现状。是我们最常用的，去开发某种产品，但也是最笨的办法。</p>
-</blockquote>
-<blockquote>
-<p>降低理想。不要忽视精神的力量，什么“打预防针”、“丑话说在前头”这类句子想必大家都经常听到。</p>
-</blockquote>
-<blockquote>
-<p>转移需求。因为人类的注意力是有限的，所以引导用户去关注其他事物，他就会觉得这个差距没那么可憎了。</p>
-</blockquote>
-<blockquote>
-<p>先把用户需求转化为产品需求，然后一步步确定每个产品需求的基本属性、商业价值、实现难度、性价比等。</p>
-</blockquote>
-<blockquote>
-<p>不同于之前提到的“单项需求卡片”，那张卡片里描述的是用户需求的各种属性。</p>
-</blockquote>
-<blockquote>
-<p>一些Excel的简单技巧，建议大家还是学习一下，比如条件格式、筛选、单元格有效性、单元格锁定、隐藏等，可以让表格管理起来轻松一点，看起来也美观一点。</p>
-</blockquote>
-<blockquote>
-<p>绝对不能因为某个需求的实现难度很小就马上去做，也不能因为另一个需求的实现难度大就不做。</p>
-</blockquote>
-<blockquote>
-<p>性价比 = 商业价值÷实现难度（简化为开发量）</p>
-</blockquote>
-<h3 id="◆-2-4-活下来的永远是少数"><a href="#◆-2-4-活下来的永远是少数" class="headerlink" title="◆ 2.4 活下来的永远是少数"></a>◆ 2.4 活下来的永远是少数</h3><blockquote>
-<p>这是一场公司内部的战争，每个产品的产品经理都要上场，打仗总是为了抢点什么，我们争夺的是下个月的人力资源，即总是不够用的开发工程师、测试工程师等。战场就是闻之色变的产品会议，而我们手上的武器，则是精心准备的商业需求文档。</p>
-</blockquote>
-<blockquote>
-<p>“需求打包”最好打包类似的功能点。</p>
-</blockquote>
-<blockquote>
-<p>产品经理——靠想。产品经理是做正确的事，其所领导的产品是否符合市场的需求，是否能给公司带来利润。<br>项目经理——靠做。项目经理是把事情做正确，把事情做得完美，在时间、成本和资源约束的条件下完成目标。</p>
-</blockquote>
-<blockquote>
-<p>那些只能先做的功能，应该在产品需求列表里注明；</p>
-</blockquote>
-<blockquote>
-<p>功能与人力资源之间的依赖关系</p>
-</blockquote>
-<blockquote>
-<p>需求的粒度大小问题。</p>
-</blockquote>
-<blockquote>
-<p>商业价值很高的功能，如果细分的话，我们会发现其中也有价值相对低的部分，所以需求的粒度应该尽量细，前提是细化引起的管理成本上升在可接受的范围内，</p>
-</blockquote>
-<blockquote>
-<p>我们的经验是，在需求列表里出现的任意一行，工作量最好不要超过“5人天”。</p>
-</blockquote>
-<blockquote>
-<p>我们一开始只要让其拥有100%的质量其实就够了，这样留给用户的是升级的期待，而如果反过来，功能铺得很开，但每个点都不爽，那反而喧宾夺主，把闪光的地方给掩埋了。<br>情愿把一半的功能做到尽可能完美也不要把全部功能都做成半吊子。</p>
-</blockquote>
-<blockquote>
-<p>越来越觉得当发现一个功能可有可无的时候，甚至只要是没有强烈的理由要做的时候，要明确的选择：不做！</p>
-</blockquote>
-<h3 id="◆-2-5-心急吃不了热豆腐"><a href="#◆-2-5-心急吃不了热豆腐" class="headerlink" title="◆ 2.5 心急吃不了热豆腐"></a>◆ 2.5 心急吃不了热豆腐</h3><blockquote>
-<p>Kick Off是足球比赛开球的意思，现在被广泛用于开始做某事，在项目里指的是项目的启动大会，而启动大会及其准备工作（主要是团队组建和各种计划的确定），就是所谓立项阶段的工作内容，</p>
-</blockquote>
-<h2 id="◆-第3章-项目的坎坷一生"><a href="#◆-第3章-项目的坎坷一生" class="headerlink" title="◆ 第3章 项目的坎坷一生"></a>◆ 第3章 项目的坎坷一生</h2><blockquote>
-<p>BRD：Business Requirements Document，商业需求文档。这是产品生命周期中最早的文档，其内容涉及市场分析、销售策略、盈利预测等，通常是给大老板们演示的PPT，也就比较短小精炼，没有产品细节，有点像创业者给投资人看的商业计划，主要为了获得认可，争取资源。</p>
-</blockquote>
-<blockquote>
-<p>MRD：Market Requirements Document，市场需求文档。获得老板们的支持后，产品进入实施阶段，需要写出MRD，要有更细致的市场与竞争对手分析，包括可通过哪些功能来实现商业目的，功能、非功能需求分哪几块，功能的优先级，等等。实际工作中，PD在这个阶段常见的产出物有产品的Feature List、业务逻辑图等，这是从商业目标到技术实现的关键转化文档。</p>
-</blockquote>
-<blockquote>
-<p>PRD：Product Requirements Document，产品需求文档。PRD是对产品功能的进一步细化，是PD新人写得最多的文档，也就是我说的“需求开发”过程。文档主要包含整体说明、用例文档、产品Demo等，会对产品功能做具体描述</p>
-</blockquote>
-<blockquote>
-<p>FSD：Functional Specifications Document，功能详细说明。</p>
-</blockquote>
-<blockquote>
-<p>总体说明之后是用例文档部分，首先需要对这个PRD中所有的用例来个说明，给出用例的可视化表示，说明各个用例之间的关系，一般有类图、用例图、状态图几种表示方法，其中用例图最为关键，下节里即将给出几个例子说明。</p>
-</blockquote>
-<blockquote>
-<p>用例文档￼。</p>
-</blockquote>
-<blockquote>
-<p>学一点UML：类图、用例图、状态图</p>
-</blockquote>
-<blockquote>
-<p>用例文档，UC</p>
-</blockquote>
-<blockquote>
-<p>UC是需求人员写给开发人员看的一种最基本的文档</p>
-</blockquote>
-<blockquote>
-<p>再学一点UML：时序图、活动图及其他</p>
-</blockquote>
-<blockquote>
-<p>测试评审，俗称TC评审，是在TC编写完成，测试开始执行之前进行，由测试工程师把对需求的理解以TC的形式说给PD、开发听。</p>
-</blockquote>
-<blockquote>
-<p>日常需求发布流程</p>
-</blockquote>
-<h3 id="◆-4-3-商业团队，冲锋陷阵"><a href="#◆-4-3-商业团队，冲锋陷阵" class="headerlink" title="◆ 4.3 商业团队，冲锋陷阵"></a>◆ 4.3 商业团队，冲锋陷阵</h3><blockquote>
-<p>《水平营销》</p>
-</blockquote>
-<h3 id="◆-4-6-大家好才是真的好"><a href="#◆-4-6-大家好才是真的好" class="headerlink" title="◆ 4.6 大家好才是真的好"></a>◆ 4.6 大家好才是真的好</h3><blockquote>
-<p>远视者把目的当手段，近视者把手段当目的。</p>
-</blockquote>
-<blockquote>
-<p>产品部门的主要KPI是“活跃度”，用户开始用了，产品能不能粘住用户很考验我们的功力</p>
-</blockquote>
-<blockquote>
-<p>付费用户中有相当的用户并不是目标用户，产品好对他来说没用，他不可能真正使用产品，也就不可能变成活跃用户。</p>
-</blockquote>
-<h3 id="◆-5-3-做吧，准备出发！"><a href="#◆-5-3-做吧，准备出发！" class="headerlink" title="◆ 5.3 做吧，准备出发！"></a>◆ 5.3 做吧，准备出发！</h3><blockquote>
-<p>高层定向，中层分解，基层执行</p>
-</blockquote>
-<h3 id="◆-5-5-本书的源头活水"><a href="#◆-5-5-本书的源头活水" class="headerlink" title="◆ 5.5 本书的源头活水"></a>◆ 5.5 本书的源头活水</h3><blockquote>
-<p>产品设计中“Don’t Make Me Think”的原则，把用户需要的信息以最直接的形式展现出来。</p>
-</blockquote>
-<blockquote>
-<p>Feature List</p>
-</blockquote>
-<h3 id="◆-6-5-产品经理主义"><a href="#◆-6-5-产品经理主义" class="headerlink" title="◆ 6.5 产品经理主义"></a>◆ 6.5 产品经理主义</h3><blockquote>
-<p>每当有人骂春晚的时候，产品经理的思路应该像对待一个提需求的用户：骂的人是不是典型用户？他的观点能代表多少人？他的影响力多大？他是不是只是“嗓门大”的用户？他说的是不是解决方案？他的本质需求是什么？把他的需求加入需求列表应该标什么级别？什么属性？</p>
-</blockquote>
-<h2 id="◆-各种有用的信息"><a href="#◆-各种有用的信息" class="headerlink" title="◆ 各种有用的信息"></a>◆ 各种有用的信息</h2><blockquote>
-<p>我觉得产品经理应该是通才，本行功夫自不必说，要能出彩，更重要的是外家的功夫，所谓“功夫总是在诗外”。</p>
-</blockquote>
-<blockquote>
-<p>UCDChina（<a href="http://ucdchina.com/）" target="_blank" rel="noopener">http://ucdchina.com/）</a></p>
-</blockquote>
-<blockquote>
-<p>UCDChina上有个很好的网址导航，从URL（http：//ucdchina.com/123/）看我一直觉得他们是在讽刺hao123</p>
-</blockquote>
-<blockquote>
-<p>ExcelPro的图表博客（<a href="http://excelpro.blog.sohu.com/），从他这里我学到很多Excel、PPT的技巧，以及更多画图表的好方法。" target="_blank" rel="noopener">http://excelpro.blog.sohu.com/），从他这里我学到很多Excel、PPT的技巧，以及更多画图表的好方法。</a></p>
-</blockquote>
-<blockquote>
-<p>人月神话（<a href="http://blog.sina.com.cn/cmmi/）" target="_blank" rel="noopener">http://blog.sina.com.cn/cmmi/）</a></p>
-</blockquote>
-<blockquote>
-<p>刘未鹏|Mind Hacks（<a href="http://mindhacks.cn/）" target="_blank" rel="noopener">http://mindhacks.cn/）</a></p>
-</blockquote>
-<blockquote>
-<p>褪墨（<a href="http://www.mifengtd.cn/）" target="_blank" rel="noopener">http://www.mifengtd.cn/）</a></p>
-</blockquote>
-<blockquote>
-<p>我不太用各种微博客和SNS，最大的原因就是我觉得它们会把时间碎片化。不时地看一些信息、一些名言警句，甚至是一篇文章，其实收获都不大，最实在的还是花一些整块的时间看几本好书。</p>
-</blockquote>
-<blockquote>
-<p>《产品经理实战手册》￼、《产品经理的第一本书》￼、《产品经理的第二本书》</p>
-</blockquote>
-<blockquote>
-<p>市场营销方面的知识我们不得不储备一点。科特勒的</p>
-</blockquote>
-<blockquote>
-<p>产品的用户体验很关键，2007年看了《用户体验的要素》</p>
-</blockquote>
-<blockquote>
-<p>所以学一点用户研究的方法也很必要，《赢在用户》</p>
-</blockquote>
-<blockquote>
-<p>《一目了然》￼、《点石成金》￼、《胜于言传》￼</p>
-</blockquote>
-<blockquote>
-<p>《设计心理学》￼与《情感化设计》￼</p>
-</blockquote>
-<blockquote>
-<p>交互设计之父Alan Cooper（此牛人也是VB之父）的《软件观念革命：交互设计精髓》￼</p>
-</blockquote>
-<blockquote>
-<p>《公司进化论》￼、《跨越鸿沟》￼</p>
-</blockquote>
-<blockquote>
-<p>所以我们有必要读一本UML相关的书，体会一下怎么用抽象模型的方法来描述一个领域、一系列事物。</p>
-</blockquote>
-<blockquote>
-<p>《UML基础、案例与应用》￼</p>
-</blockquote>
-<blockquote>
-<p>敏捷方法在互联网、软件产品上特别适用</p>
-</blockquote>
-<blockquote>
-<p>用最少的时间吸取一本书里的精华部分</p>
-</blockquote>
-<blockquote>
-<p>科学修养，思维方法、心理学类，比如《决策与判断》￼、《别做正常的傻瓜》￼、《学会提问——批判性思维指南》￼、《黑天鹅》￼、《美第奇效应》￼、《社会性动物》￼、《统计数字会撒谎》￼等；人文修养，历史、经济、社会、政治类，比如《中国历代政治得失》￼、《激荡三十年》￼、《万历十五年》￼、《常识》￼、《大败局》￼等；新经济系列，《长尾理论》￼、《世界是平的》￼、《维基经济学》￼、《未来是湿的》￼、《众包》￼、《轻公司》￼等；自我提升、精神力量的书，比如《影响力》￼、《把时间当作朋友》￼、《当下的力量》￼、《少有人走的路》￼、《遇见未知的自己》￼等。</p>
-</blockquote>
-<blockquote>
-<p>《成功的产品经理》</p>
-</blockquote>
-<blockquote>
-<p>需求相关课程</p>
-</blockquote>
-<blockquote>
-<p>《项目管理》</p>
-</blockquote>
-<h2 id="◆-点评"><a href="#◆-点评" class="headerlink" title="◆ 点评"></a>◆ 点评</h2><p>点评:★★★★★</p>
-]]></content>
-      <categories>
-        <category>PM</category>
-      </categories>
-      <tags>
-        <tag>读书笔记复盘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《从门外汉到BAT产品经理有多远》读书笔记</title>
-    <url>/2020/04/21/%E3%80%8A%E4%BB%8E%E9%97%A8%E5%A4%96%E6%B1%89%E5%88%B0BAT%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E6%9C%89%E5%A4%9A%E8%BF%9C%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>从门外汉到BAT产品经理有多远<br>张恒<br>183个笔记</p>
-<h2 id="◆-1．任何互联网公司都缺人，证明实力争取机会"><a href="#◆-1．任何互联网公司都缺人，证明实力争取机会" class="headerlink" title="◆ 1．任何互联网公司都缺人，证明实力争取机会"></a>◆ 1．任何互联网公司都缺人，证明实力争取机会</h2><blockquote>
-<p>总之从规划自己职业生涯的那一刻开始，这些人就在不断有意识地培养自己各方面的能力，以期毕业之后能进入这家公司工作。</p>
-</blockquote>
-<blockquote>
-<p>所以很多互联网公司其实都处于“一直在招人，从未停止过”的状态，如果一家互联网公司没有表现出对人才的渴求，只能说明它已经在走下坡路了，这样的公司不进也罢。</p>
-</blockquote>
-<blockquote>
-<p>你唯一需要关注的问题就是你的简历以及你展现出来的能力能否引起它们的注意，值不值得它专门为你准备一个职位。所以只要你实力足够强，符合公司的预期，它是否正在招人这个因素根本就不应该成为你的顾虑。</p>
-</blockquote>
-<blockquote>
-<p>专门为优秀的你准备一个Offer对一家互联网公司来说完全有可能，</p>
-</blockquote>
-<blockquote>
-<p>很多互联网公司舍得花很大一笔钱去培养一些现在看来不太重要的产品经理和运营人员，因为他们未来会给公司创造很大的价值。</p>
-</blockquote>
-<blockquote>
-<p>你只要让自己变得更加优秀，让自己处于最佳状态</p>
-</blockquote>
-<h2 id="◆-2．互联网公司基本无简历、性别、年龄、学历歧视"><a href="#◆-2．互联网公司基本无简历、性别、年龄、学历歧视" class="headerlink" title="◆ 2．互联网公司基本无简历、性别、年龄、学历歧视"></a>◆ 2．互联网公司基本无简历、性别、年龄、学历歧视</h2><blockquote>
-<p>在互联网这个行业大家工作都如此地忙，没有时间去深究面试者的简历到底是用什么邮箱发来的，他们只会点开你的简历从前往后看，寻找你有哪些经历是跟招聘职位匹配的，哪些能力是可以胜任这个职位的，又有什么不足会为团队带来潜在的风险，就这么简单。</p>
-</blockquote>
-<blockquote>
-<p>简历的内容远比简历的命名、发送邮箱更为重要。</p>
-</blockquote>
-<blockquote>
-<p>求职前请忽略那些名校的成功人士案例，也不要太过崇拜那些没有学历却能在互联网上混得风生水起的大佬，请把更多的注意力放在自己身上，让自己在最短的时间内有最大的提升，这样你才能成为别人口中的模板。</p>
-</blockquote>
-<blockquote>
-<p>不断去了解互联网这个行业，积攒行业中你感兴趣的职位所需的能力，</p>
-</blockquote>
-<h2 id="◆-3．工作经验只是噱头，如果能力够强请自动忽略"><a href="#◆-3．工作经验只是噱头，如果能力够强请自动忽略" class="headerlink" title="◆ 3．工作经验只是噱头，如果能力够强请自动忽略"></a>◆ 3．工作经验只是噱头，如果能力够强请自动忽略</h2><blockquote>
-<p>很多应届毕业生看到招聘网站上的JD（职位描述）中写着需要若干年的工作经验，就自动把自己屏蔽在这个职位之外了，哪怕这个职位是你心仪的职位，哪怕你的能力跟职位描述的要求完全相符。那就大错特错了！</p>
-</blockquote>
-<blockquote>
-<p>对于自己能胜任的职位，即使存在工作经验不匹配的情况，也不要太过纠结。简历照样投，毕竟写一个邮件的成本很低，即使你没有得到面试的机会，你也做了尝试，这是一件特别有正能量的事情。工作经验只是一个噱头，如果你的能力够强请自动忽略。</p>
-</blockquote>
-<h2 id="◆-4．面试官没有你想得那么牛"><a href="#◆-4．面试官没有你想得那么牛" class="headerlink" title="◆ 4．面试官没有你想得那么牛"></a>◆ 4．面试官没有你想得那么牛</h2><blockquote>
-<p>很多应届毕业生在面试过程中因为心理素质不够强而过度紧张，导致自己发挥失常，和向往的职位失之交臂。</p>
-</blockquote>
-<blockquote>
-<p>紧张源于面试时的不确定性，而所有的不确定性和未知因素都是面试官抛过来的，假定面试官就是一个比你高两届的学长，你的心情会不会瞬间变好，紧张的情绪会不会瞬间消失？</p>
-</blockquote>
-<blockquote>
-<p>所以你需要明白的第四个前规则是面试官远没有你想得那么厉害，尤其是他的识人之术。</p>
-</blockquote>
-<blockquote>
-<p>面试你的面试官们是一个什么样的状态：从年龄看，他们大部分都在26岁左右，平均工作经验在三年左右；他们的兴趣点在如何打造一款亿级产品，而不是忙于勾心斗角的内部争斗；他们对人的评价远没有达到人生观世界观价值观这样的层级，更多的时候仅限于你是否是一个有能力有热情，能跟他一起为一款产品打拼的战友。</p>
-</blockquote>
-<blockquote>
-<p>互联网公司的面试官除人力资源部门外80%都是非专业人士，基本没有接受过面试流程的培训。</p>
-</blockquote>
-<blockquote>
-<p>面对他们，你只要能够清晰地梳理自己对产品的认知就足够了。</p>
-</blockquote>
-<blockquote>
-<p>你在面试时遇到的面试官尤其是一面的面试官，通常都可能是你未来的直属领导，大多只比你高两届。如果你是研究生毕业，那你的面试官很可能跟你同龄甚至比你的年龄还小。</p>
-</blockquote>
-<blockquote>
-<p>你有相当高的几率遇到一个此生第一次担当面试官的人——他可能比你还紧张，因为他也不知道问什么问题才能够更好地了解你的能力，甚至也为此纠结了好长时间，做了很多功课才能来应对面试。</p>
-</blockquote>
-<h2 id="◆-5．所有的收益都建立在能力之上"><a href="#◆-5．所有的收益都建立在能力之上" class="headerlink" title="◆ 5．所有的收益都建立在能力之上"></a>◆ 5．所有的收益都建立在能力之上</h2><blockquote>
-<p>在“人际关系”已经成为敏感词的今天，互联网这个行业的竞争环境相对来说会单纯很多。</p>
-</blockquote>
-<blockquote>
-<p>就算是腾讯、阿里巴巴这些较早的互联网领军企业到现在也才发展15年，行业历史实在太短，而且大部分公司还处于发展中阶段，也不会考虑养闲人。</p>
-</blockquote>
-<blockquote>
-<p>未来中国就逐渐在往弱关系时代发展，而互联网公司基本已进入了“弱关系时代”</p>
-</blockquote>
-<blockquote>
-<p>本身就是以工作、能力、弱关系为依附点</p>
-</blockquote>
-<blockquote>
-<p>因为在互联网行业，所有的机会、业绩及收益都建立在一个人的能力之上。</p>
-</blockquote>
-<h2 id="◆-6．不要把所有的希望都寄托在内推上"><a href="#◆-6．不要把所有的希望都寄托在内推上" class="headerlink" title="◆ 6．不要把所有的希望都寄托在内推上"></a>◆ 6．不要把所有的希望都寄托在内推上</h2><blockquote>
-<p>内推的推荐人是需要承担一定责任的，他的推荐行为跟自己的职业信誉、靠谱程度、未来推荐的可信度紧密相关，所以真正有资格内推的人往往很</p>
-</blockquote>
-<blockquote>
-<p>内推的本质不是安排两次面试，也不意味着就能拿到终极Offer，内推只是提前把优秀的毕业生吸纳过来。</p>
-</blockquote>
-<blockquote>
-<p>腾讯的员工应该很忙，工作量相当饱和，在论坛上发帖子去征集内推的简历对他们有什么好处？</p>
-</blockquote>
-<blockquote>
-<p>试着从内推者的角度考虑他们为什么要内推，再试着从自己的角度出发提醒自己</p>
-</blockquote>
-<h2 id="◆-7．HR提的任何问题都不希望得到答案"><a href="#◆-7．HR提的任何问题都不希望得到答案" class="headerlink" title="◆ 7．HR提的任何问题都不希望得到答案"></a>◆ 7．HR提的任何问题都不希望得到答案</h2><blockquote>
-<p>那就是HR提出的任何问题都不希望得到答案。</p>
-</blockquote>
-<blockquote>
-<p>HR只需要判断你这个人是否适合这家公司就行了，比如你跟团队的契合能力，你的学习能力，能否在团队中传递正能量等，他设计所有问题的出发点都为了判别你这些方面的能力。</p>
-</blockquote>
-<blockquote>
-<p>在面试中，HR提到的每一个问题都希望面试者能把自己的能力展现出来，而非单纯要一个结果。</p>
-</blockquote>
-<blockquote>
-<p>公司在招聘时都希望招一个能力和情商都特别高的人，他能跟上司的性格相匹配，又能跟团队很好地配合，依附于团队他的价值才能最大化。</p>
-</blockquote>
-<blockquote>
-<p>你是否会对这个团队忠诚，至少工作一到两年，让HR培养你的精力不被浪费。</p>
-</blockquote>
-<blockquote>
-<p>除了看能力之外，HR也会让你未来的同事观察你在面试中的表现，让他们给出自己的参考意见。很常见的一种情况就是你到一个公司去面试，刚进公司的一刻大家的目光都会聚焦在你的身上。你能否留在这个公司，你未来的同事也会起到很大的作用。</p>
-</blockquote>
-<blockquote>
-<p>比如你的信仰与喜好跟团队成员的意愿都相违背，即使能力再强恐怕也没有办法很好地融入到整个团队当中。</p>
-</blockquote>
-<h2 id="◆-8．公司拒录你的原因千奇百怪"><a href="#◆-8．公司拒录你的原因千奇百怪" class="headerlink" title="◆ 8．公司拒录你的原因千奇百怪"></a>◆ 8．公司拒录你的原因千奇百怪</h2><blockquote>
-<p>公司录用你或者拒录你的原因你永远意想不到</p>
-</blockquote>
-<blockquote>
-<p>尤其是产品经理这个职位，基本上只能跟着感觉走。</p>
-</blockquote>
-<blockquote>
-<p>公司录用你，可能是你的身高很高，他们想着在以后的公司篮球赛中你会帮助团队取得更好的成绩；也可能是你个人形象很好，有助于提升公司和团队的形象。</p>
-</blockquote>
-<blockquote>
-<p>所以不要在每一场面试之后纠结为什么公司不录取你，这没有意义。因为这也许不是你能力的问题，一些小的因素是你完全没有办法左右的。</p>
-</blockquote>
-<blockquote>
-<p>这些前规则说到底还是心态的问题，只要你足够乐观，这些前规则都可以凭借你的能力得到解决。</p>
-</blockquote>
-<h2 id="◆-9．看别人的“面试经”要适可而止"><a href="#◆-9．看别人的“面试经”要适可而止" class="headerlink" title="◆ 9．看别人的“面试经”要适可而止"></a>◆ 9．看别人的“面试经”要适可而止</h2><blockquote>
-<p>对于论坛里的面试经，汲取对自己有帮助的经验即可</p>
-</blockquote>
-<blockquote>
-<p>所以面试经不是全部，把有限的准备时间合理分配到不同的环节中，才能提高拿到Offer的几率。</p>
-</blockquote>
-<h1 id="◆-Chapter-2-如何打造具有互联网特色的简历"><a href="#◆-Chapter-2-如何打造具有互联网特色的简历" class="headerlink" title="◆ Chapter 2 如何打造具有互联网特色的简历"></a>◆ Chapter 2 如何打造具有互联网特色的简历</h1><blockquote>
-<p>互联网特色的简历</p>
-</blockquote>
-<blockquote>
-<p>应聘互联网行业的求职者众多，尤其是校园招聘阶段，面试官花在一份简历上的平均时间不超过30秒，</p>
-</blockquote>
-<blockquote>
-<p>这些HR在筛选简历的时候特别注重一些关键词，尤其是跟互联网职位相关的，如果没有基本会被Pass。</p>
-</blockquote>
-<h2 id="◆-1．什么是互联网特色的简历"><a href="#◆-1．什么是互联网特色的简历" class="headerlink" title="◆ 1．什么是互联网特色的简历"></a>◆ 1．什么是互联网特色的简历</h2><blockquote>
-<p>按照产品的思维讲，求职的过程就是把自己包装成一个满足目标公司需求的产品，让自己成为一款用户竞相追逐的产品，让各家公司的面试官都能成为你的忠实用户。</p>
-</blockquote>
-<blockquote>
-<p>只有在简历本身及简历投递上进行雕琢，用一份具备互联网特色的简历让自己至少不输在起跑线上。</p>
-</blockquote>
-<blockquote>
-<p>你的思维、沟通、产品敏感度、数据敏感度、执行力、内驱力、对互联网的熟悉及热爱程度，</p>
-</blockquote>
-<blockquote>
-<p>最忌讳的就是不断向普通用户拽专业术语，所以要站在用户——面试官的角度以其能听懂的方式进行叙述。</p>
-</blockquote>
-<blockquote>
-<p>简明扼要。</p>
-</blockquote>
-<blockquote>
-<p>在学历描述中止于最高学历基本就OK，研究生当然可以提本科，但是你把高中的学历也呈现出来意义似乎不大</p>
-</blockquote>
-<blockquote>
-<p>本科修的专业课，除了心理、统计、市场营销外其余的专业</p>
-</blockquote>
-<blockquote>
-<p>控制简历节奏。</p>
-</blockquote>
-<blockquote>
-<p>个人信息、教育信息、实习情况、个人奖励这样的逻辑</p>
-</blockquote>
-<blockquote>
-<p>借鉴尼尔森的“F视觉模型”：首先是水平移动，看的是基本信息，紧接着眼光略微下移，很典型地扫描范围较短的区域，主要是你实习的大概情况，然后对整个简历的标题进行垂直扫描，这样就画了F字母中的一条竖线。</p>
-</blockquote>
-<blockquote>
-<p>协调能力是化解技术产品矛盾的能力，</p>
-</blockquote>
-<blockquote>
-<p>只需在简历中表现你组织的、参与最多且最能代表你能力的活动：</p>
-</blockquote>
-<blockquote>
-<p>首先需要清晰这个活动的目标，你组织这场活动的出发点是什么？</p>
-</blockquote>
-<blockquote>
-<p>“为了学习跟锻炼”这种没有任何营养的废话</p>
-</blockquote>
-<blockquote>
-<p>暴露自己内心的小九九成为一个更真实的人，也是有互联网特色简历的一个亮点</p>
-</blockquote>
-<blockquote>
-<p>有意识地对其进行信息量化，让这些数据能有效地指导整个产品的迭代以及选择推广渠道，以展示自己对数据的敏感度。</p>
-</blockquote>
-<blockquote>
-<p>能用数据展示的地方尽量选择数据，同时也要会做一些简单的数据分析，如占比、数据趋势及对比分析。</p>
-</blockquote>
-<blockquote>
-<p>在校期间运营基于学校的微信账号，那对于粉丝量的描述只是单纯地写上2000人肯定效果不佳，如果你能通过数据的简单对比展现出这2000人的账号到底效果如何，就能立刻与众不同。</p>
-</blockquote>
-<blockquote>
-<p>你肯定还会描述打开率、分享、转发这些数据。</p>
-</blockquote>
-<blockquote>
-<p>让面试官给你打上一个数据敏感的标签</p>
-</blockquote>
-<blockquote>
-<p>通过长期的积累会形成自己在获取用户方面的经验。把这个过程用上面的数据描述以及营销方式进行总结，并跟网上的经验分享做一个结合，肯定会成为简历的一大亮点。</p>
-</blockquote>
-<blockquote>
-<p>如果你主动去运营微博、微信账号甚至是QQ群，</p>
-</blockquote>
-<blockquote>
-<p>如什么样的微博有助于用户转发，什么样的话题有助于更好的评论互动，什么样的玩法可以促进粉丝量的增长……最重要的是除了这样的表象指标以外，你还需设定最初的转化目标，并计划出最终的转化效果</p>
-</blockquote>
-<blockquote>
-<p>只要你用过互联网产品，在QQ空间、人人网中写文章，或者在微博、朋友圈发美图，都是形成内容的过程，内容是营销的基础。</p>
-</blockquote>
-<blockquote>
-<p>分析这些内容为什么会引起关注，复制出具有同等效果的内容就是营销能力的体现</p>
-</blockquote>
-<blockquote>
-<p>既有资源的梳理，也有借势营销的玩法，这就是一个很宝贵的微博运营经验</p>
-</blockquote>
-<blockquote>
-<p>每一个平台级产品的诞生都会创造出一种新的营销玩法，但是不流行不代表没有价值。即使有人称微博为传统的营销渠道，称人人网马上就要破产了，说QQ空间只有00后才玩，但这些产品真正蕴含的流量价值，只有做过的人才知道。</p>
-</blockquote>
-<blockquote>
-<p>即便你只熟悉人人跟QQ空间这两个平台也没有关系</p>
-</blockquote>
-<blockquote>
-<p>把你玩人人网的心得结合其他人分享的经验，完全可以把自己塑造成一个营销专家。</p>
-</blockquote>
-<blockquote>
-<p>你在简历上跟面试官大谈微博、微信运营很容易露出破绽，而且同质化也会很严重。相反，反其道而行，你在阐述QQ空间、人人网的推广特性时，风险相对较小，而且这也可以作为一个亮点引起面试官的注意。</p>
-</blockquote>
-<blockquote>
-<p>比如像小米等营销做得很好的公司</p>
-</blockquote>
-<blockquote>
-<p>深究下去，就能研究出一套适合你自己的营销理论</p>
-</blockquote>
-<blockquote>
-<p>在互联网公司更适合的是微创新</p>
-</blockquote>
-<blockquote>
-<p>别忙着颠覆式创新，它不是揭竿而起，更不是聚众闹事，没那么宏大。</p>
-</blockquote>
-<blockquote>
-<p>收费的能不能变免费，贵的能不能变便宜，复杂的能不能变简单，麻烦的能不能变方便。从这些微创新起步，才有可能实现颠覆式创新。</p>
-</blockquote>
-<blockquote>
-<p>强大的知识储备、对互联网热点和产品的敏感度、热衷尝试新事物、有自己的判断能力、独特的审美眼光都是互联网特色简历需要体现的东西</p>
-</blockquote>
-<h2 id="◆-2．如何打造具有互联网特色的简历"><a href="#◆-2．如何打造具有互联网特色的简历" class="headerlink" title="◆ 2．如何打造具有互联网特色的简历"></a>◆ 2．如何打造具有互联网特色的简历</h2><blockquote>
-<p>工作、实习、兼职经历</p>
-</blockquote>
-<blockquote>
-<p>组织或参与过的所有活动</p>
-</blockquote>
-<blockquote>
-<p>获得过的奖项、证书</p>
-</blockquote>
-<blockquote>
-<p>注册过的所有互联网产品和玩过的游戏</p>
-</blockquote>
-<blockquote>
-<p>兴趣爱好</p>
-</blockquote>
-<h2 id="◆-4．互联网特色简历的打磨要素"><a href="#◆-4．互联网特色简历的打磨要素" class="headerlink" title="◆ 4．互联网特色简历的打磨要素"></a>◆ 4．互联网特色简历的打磨要素</h2><blockquote>
-<p>第一，过程比结果重要。</p>
-</blockquote>
-<blockquote>
-<p>第二，总结过程比叙述过程更重要。</p>
-</blockquote>
-<blockquote>
-<p>第三，用互联网人能看懂的方式来描述更重要。</p>
-</blockquote>
-<blockquote>
-<p>第四，利用数据更好地体现你的价值。</p>
-</blockquote>
-<blockquote>
-<p>约10%的潜在用户可能比你写10位用户的效果更好，因为基数面试官不知道</p>
-</blockquote>
-<h2 id="◆-5．互联网特色的简历需要有针对性"><a href="#◆-5．互联网特色的简历需要有针对性" class="headerlink" title="◆ 5．互联网特色的简历需要有针对性"></a>◆ 5．互联网特色的简历需要有针对性</h2><blockquote>
-<p>如果你投的是产品岗位，那品牌的构建、沟通协调领导力就是重中之中，所有能代表你产品思维的经历都需要，</p>
-</blockquote>
-<blockquote>
-<p>如果你面试的是阿里巴巴、京东的市场运营，那之前网上开店的经历就会为你加分很多。</p>
-</blockquote>
-<blockquote>
-<p>一份好的针对腾讯产品岗位的简历投到阿里巴巴的运营岗位肯定不适用，所以要克服惰性，为自己喜爱的岗位设计一份有针对性的简历才是对自己求职的最好交代。</p>
-</blockquote>
-<h2 id="◆-6．简历投递及数据回收"><a href="#◆-6．简历投递及数据回收" class="headerlink" title="◆ 6．简历投递及数据回收"></a>◆ 6．简历投递及数据回收</h2><blockquote>
-<p>互联网简历的内容是大于形式的。</p>
-</blockquote>
-<blockquote>
-<p>用PS设计出来的简历效果比别人用Word排出来的效果还要差，那就不要把重点放在设计创新上面</p>
-</blockquote>
-<blockquote>
-<p>试着发给一些公司的HR，简历投递就像邮件推广一样</p>
-</blockquote>
-<blockquote>
-<p>有效地吸引面试官进行电话回访获得面试机会</p>
-</blockquote>
-<blockquote>
-<p>邀请面试的概率增大之后，开始发给你特别中意的公司，在核心目标群中推广自己</p>
-</blockquote>
-<h2 id="◆-1．偏重事业还是偏重生活"><a href="#◆-1．偏重事业还是偏重生活" class="headerlink" title="◆ 1．偏重事业还是偏重生活"></a>◆ 1．偏重事业还是偏重生活</h2><blockquote>
-<p>首先明确你是爱生活多一点，还是爱事业多一点</p>
-</blockquote>
-<blockquote>
-<p>互联网行业基本每18个月会发生一轮翻天覆地的变化</p>
-</blockquote>
-<blockquote>
-<p>一</p>
-</blockquote>
-<blockquote>
-<p>将功成为万骨枯</p>
-</blockquote>
-<blockquote>
-<p>基本上所有的互联网公司都伴随着压力，还有无休止的加班。</p>
-</blockquote>
-<blockquote>
-<p>前几年还是重点的PC互联网转瞬间就让位给了移动互联网，包括现在正在流行的可穿戴设备，如果你不去研究了解，只会被行业所遗弃。</p>
-</blockquote>
-<blockquote>
-<p>跟传统行业相融合一直是一个趋势，不管你是做产品还是做运营</p>
-</blockquote>
-<blockquote>
-<p>不断花时间去了解传统行业，</p>
-</blockquote>
-<h2 id="◆-2．根据职位发展选择驱动型公司"><a href="#◆-2．根据职位发展选择驱动型公司" class="headerlink" title="◆ 2．根据职位发展选择驱动型公司"></a>◆ 2．根据职位发展选择驱动型公司</h2><blockquote>
-<p>产品、技术、运营的发展轨迹差别还是很大的</p>
-</blockquote>
-<blockquote>
-<p>在不同文化背景的公司中，技术、产品、运营所占的地位也完全不同。</p>
-</blockquote>
-<blockquote>
-<p>腾讯是典型的产品驱动型公司，而阿里巴巴则是运营驱动型公司</p>
-</blockquote>
-<blockquote>
-<p>前者以产品为导向，后者以业务为导向。</p>
-</blockquote>
-<blockquote>
-<p>腾讯产品经理的主导地位加上基于QQ的庞大用户账号体系基本上弱化了运营的角色</p>
-</blockquote>
-<blockquote>
-<p>阿里巴巴这种运营驱动型的公司擅长公关及资源整合，用户会感觉到阿里巴巴不管推什么产品，首先听到的都是媒体的声音，而且是各家媒体同时发声，接着以现金补贴的方式来举办各种营销活动</p>
-</blockquote>
-<blockquote>
-<p>产品驱动型的公司是由产品经理牵头，负责整个产品的发展、KPI包括的业务指标。运营经理负责实施产品经理的计划</p>
-</blockquote>
-<blockquote>
-<p>业务驱动型的公司则由运营经理牵头，负责业务的发展和营收，产品经理只负责完成服务的功能规划和实现</p>
-</blockquote>
-<blockquote>
-<p>如果你立志从事产品工作，尽量去一家产品驱动型的公司；而如果你对运营感兴趣，去运营驱动型的公司成长会更快。</p>
-</blockquote>
-<h2 id="◆-3．选择大公司还是初创公司"><a href="#◆-3．选择大公司还是初创公司" class="headerlink" title="◆ 3．选择大公司还是初创公司"></a>◆ 3．选择大公司还是初创公司</h2><blockquote>
-<p>判断力的人总不会虚度年华，试错是必须的，为自己买单是迟早会发生的，这是成熟前的必经之路。</p>
-</blockquote>
-<blockquote>
-<p>可以提前去一家公司实习，接触未来会一起工作的团队还有直属领导，如果相处起来会有疙瘩，转投另一家就好</p>
-</blockquote>
-<h2 id="◆-4．如何寻找靠谱的团队"><a href="#◆-4．如何寻找靠谱的团队" class="headerlink" title="◆ 4．如何寻找靠谱的团队"></a>◆ 4．如何寻找靠谱的团队</h2><blockquote>
-<p>如果你能力够强、喜欢折腾，靠谱的创业型团队更适合你。因为它对你的束缚比较小，你可以做更多的事情，有更好的成长，更容易展示并证明你的能力，而且也有相对稳定的折腾空间。</p>
-</blockquote>
-<blockquote>
-<p>大公司稳定的成长、收入、社会地位也在不断向你招手。</p>
-</blockquote>
-<blockquote>
-<p>靠谱的投资机构选择的公司大部分都是相对靠谱的，比如创新工场投的公司肯定是靠谱的公司，因为他们有李开复等一系列的知名投资人帮你审视一家公司。他们会用实际行动去判断这个团队是否靠谱，团队做的事情是否靠谱以及未来前景如何。</p>
-</blockquote>
-<p>◆ 1．如何优雅地使用招聘网站</p>
-<blockquote>
-<p>其实并非你的简历没有通过筛选，也许只是因为你投递了一个虚拟职位而已。</p>
-</blockquote>
-<blockquote>
-<p>最好将简历直接投递到公司的招聘邮箱当中。</p>
-</blockquote>
-<blockquote>
-<p>求职是一项长期的工作</p>
-</blockquote>
-<blockquote>
-<p>最好建立专门的求职文档，记录你所投递公司的详细信息：如投递职位、投递时间、面试时间、面试进度、宣讲会时间、简历截止时间、在意程度等信息</p>
-</blockquote>
-<h2 id="◆-2．校园招聘中的简历投递"><a href="#◆-2．校园招聘中的简历投递" class="headerlink" title="◆ 2．校园招聘中的简历投递"></a>◆ 2．校园招聘中的简历投递</h2><blockquote>
-<p>百度、腾讯、阿里巴巴的校园招聘通常在每年的九月开始，大部分城市的简历截止时间在十月前，这也是刚上大四的同学们要注意的一点。</p>
-</blockquote>
-<h2 id="◆-4．如何轻松获取面试官的信息"><a href="#◆-4．如何轻松获取面试官的信息" class="headerlink" title="◆ 4．如何轻松获取面试官的信息"></a>◆ 4．如何轻松获取面试官的信息</h2><blockquote>
-<p>特别是利用社交网站投递简历</p>
-</blockquote>
-<blockquote>
-<p>约60%的发布者是直接招人的领导者。这个人基本上会是你未来的直属领导，也极有可能是你面试时的主要面试官。</p>
-</blockquote>
-<blockquote>
-<p>了解他的产品观、喜好及个人经历，知已知彼，才能百战百胜，打造一个与面试官合拍、话题有交集的人</p>
-</blockquote>
-<blockquote>
-<p>根据所留邮箱还能进行深度挖掘</p>
-</blockquote>
-<h2 id="◆-5．还有哪些值得推荐的招聘网站"><a href="#◆-5．还有哪些值得推荐的招聘网站" class="headerlink" title="◆ 5．还有哪些值得推荐的招聘网站"></a>◆ 5．还有哪些值得推荐的招聘网站</h2><blockquote>
-<p>通过北邮人论坛拿到的简历都会相当受期待，自然会为你加分不少。</p>
-</blockquote>
-<h2 id="◆-3．面试中的万能型回答模板"><a href="#◆-3．面试中的万能型回答模板" class="headerlink" title="◆ 3．面试中的万能型回答模板"></a>◆ 3．面试中的万能型回答模板</h2><blockquote>
-<p>第一不要直面问题，第二把话题引到自己熟悉的方向来，第三避免谈论求职公司的产品。</p>
-</blockquote>
-<h2 id="◆-1．大佬们的招聘思维"><a href="#◆-1．大佬们的招聘思维" class="headerlink" title="◆ 1．大佬们的招聘思维"></a>◆ 1．大佬们的招聘思维</h2><blockquote>
-<p>蓝色理想或互联网业内的招聘网如北邮人论坛</p>
-</blockquote>
-<blockquote>
-<p>这类大牛通常不会是微博上面的微博领袖，而是某个领域里卓有成就的人，比如提到产品经理，也许你就会想到张小龙、周鸿祎，但这是尽人皆知的，再往下研究，你也许会知道苏杰、王坚这类产品经理书籍的作者。这些还不够，如果你能找到市面上所有优秀的产品经理，那就堪称完美了。比如搜狗输入法的马占凯、禅游记产品经理纯银等，不管是认证还是非认证的、不管是经常写博客的用户还是异常低调的产品经理都在你的关注列表里面</p>
-</blockquote>
-<blockquote>
-<p>至少你已经具备一个优秀的行业聚会组织者所具备的基本能力了。这一点起码可以证明你是一个值得招募的人。</p>
-</blockquote>
-<blockquote>
-<p>在豆瓣上分享读书心得，尤其是相对不流行但是在互联网圈子里巨火的书籍，如《精益创业》等，也有助于建立你专业的产品经理或者运营的形象。</p>
-</blockquote>
-<h2 id="◆-2．逆向打造自己的匹配能力"><a href="#◆-2．逆向打造自己的匹配能力" class="headerlink" title="◆ 2．逆向打造自己的匹配能力"></a>◆ 2．逆向打造自己的匹配能力</h2><blockquote>
-<p>打造一个活跃ID混眼熟</p>
-</blockquote>
-<blockquote>
-<p>关注有价值的人，既能学到东西，也能形成必要的链条，以便更好地被挖掘。</p>
-</blockquote>
-<blockquote>
-<p>寻找你认为极靠谱的人复制他们的关注链条，基本就可以把整个行业里所有有价值的人都关注一次。</p>
-</blockquote>
-<blockquote>
-<p>周源提到过他会去豆瓣里面看有谁读过、有谁想看、有谁正在看一些互联网书籍，但是往往这个数据量是很大的，而交互越重的方式留存下来的数据往往越少。</p>
-</blockquote>
-<blockquote>
-<p>假如对产品感兴趣，可以发表关于用户调研、原型设计、数据库分析的原创文章，至于行业分析类的暂时忽略，如果原创问题比较大，可以做内容的加工整合。</p>
-</blockquote>
-<blockquote>
-<p>减少微博更新频率，同时提升质量，以长微博分享为主，并有明显标记如“《读书笔记之产品第十期》”区分不同类型的文章，同时以强烈的数据展现微博中所蕴藏的干货。</p>
-</blockquote>
-<blockquote>
-<p>留下邮箱等个人信息，方便对你感兴趣的人与你联系。</p>
-</blockquote>
-<blockquote>
-<p>在所有主页的个人简介中都带上社交名片的链接，增加浏览量。</p>
-</blockquote>
-<blockquote>
-<p>没有时间快速构建自己的社交名片，下面这些方式可以加速这个过程，在短时间内看到效果。</p>
-</blockquote>
-<blockquote>
-<p>微博微数据中“关系链查询”这种基于“六度人脉关系理论”设计出来的工具</p>
-</blockquote>
-<h2 id="◆-3．开复缘何在微博上公开邀约大二学生？"><a href="#◆-3．开复缘何在微博上公开邀约大二学生？" class="headerlink" title="◆ 3．开复缘何在微博上公开邀约大二学生？"></a>◆ 3．开复缘何在微博上公开邀约大二学生？</h2><blockquote>
-<p>可能在传统眼光里特别出格，但在互联网人的眼里则充满着创新，所以不要在意别人异样的眼光，要不断尝试，哪怕偶尔做点小破坏，总会带来意外的惊喜。</p>
-</blockquote>
-<blockquote>
-<p>能力聚焦很重要。之前你可能在十个领域都有小的研究，但每一个方向都没有达到业内顶尖水平。那倒不如把时间聚焦在一个研究点上</p>
-</blockquote>
-<h2 id="◆-1．目标明确为公司而生"><a href="#◆-1．目标明确为公司而生" class="headerlink" title="◆ 1．目标明确为公司而生"></a>◆ 1．目标明确为公司而生</h2><blockquote>
-<p>因为公司跟职位相比，公司还是第一位的。先进去才是王道，至于岗位则可以在进去之后根据能力进行调整。</p>
-</blockquote>
-<h2 id="◆-3．如何从产品活跃用户变成公司员工"><a href="#◆-3．如何从产品活跃用户变成公司员工" class="headerlink" title="◆ 3．如何从产品活跃用户变成公司员工"></a>◆ 3．如何从产品活跃用户变成公司员工</h2><blockquote>
-<p>长期关注产品、运营的细节点，对产品有足够了解的基础上的。</p>
-</blockquote>
-<blockquote>
-<p>研究产品的每一次迭代，列举每个版本中的详细功能，尤其是重大策略的一些调整，试着从产品的角度加上公司可能的环境去研究这些变化，形成一个详细的文档；</p>
-</blockquote>
-<blockquote>
-<p>通过活动频率及类型的分析逐渐把握产品运营的特点</p>
-</blockquote>
-<blockquote>
-<p>研究产品官方微博的语言风格，尤其是转发量较高或者较低的一部分微博，试着了解微博粉丝偏好的内容口味，进一步了解粉丝的特征；</p>
-</blockquote>
-<blockquote>
-<p>收集产品的广告投资渠道及周期，研究当前SEO状况等</p>
-</blockquote>
-<blockquote>
-<p>长时间研究你喜爱公司的产品及运营策略，除了能提升进入这家公司的几率外，还能培养你的产品意识。</p>
-</blockquote>
-<blockquote>
-<p>最后一点是持续输入有价值的内容或行业的信息。</p>
-</blockquote>
-<blockquote>
-<p>比如在博客或者新媒体网站中以整理为主去分享一些行业观点。</p>
-</blockquote>
-<blockquote>
-<p>形成一封以产品见解为主的求职邮件，并把长期的记录数据作为附件一并发给产品经理，争取面谈的机会</p>
-</blockquote>
-<h2 id="◆-4．岗位明确，公司待定，你该如何做"><a href="#◆-4．岗位明确，公司待定，你该如何做" class="headerlink" title="◆ 4．岗位明确，公司待定，你该如何做"></a>◆ 4．岗位明确，公司待定，你该如何做</h2><blockquote>
-<p>首先你可以系统地学习产品经理所需的基本能力如数据分析、需求分析、原型设计，</p>
-</blockquote>
-<blockquote>
-<p>产品经理所需的软实力</p>
-</blockquote>
-<blockquote>
-<p>硬技能可以通过产品经理书籍、产品相关的在线教育网站及垂直论坛进行快速学习，同时用这些基本的技能形成一套自己做事情的方法论</p>
-</blockquote>
-<blockquote>
-<p>软技能则需要不断去复盘每天生活中的片断，思考其中的不足，形成自己的成长文档，</p>
-</blockquote>
-<blockquote>
-<p>建立博客记录，记录自己如何用产品经理的思维</p>
-</blockquote>
-<blockquote>
-<p>在博客中记录所读的产品经理书籍，分享这本书能给初学者带来的价值</p>
-</blockquote>
-<blockquote>
-<p>在博客中分享所有你觉得有价值的文章，并用精简的语言摘录出其中最精华的点。</p>
-</blockquote>
-<blockquote>
-<p>分享自己使用典型产品的感受，从用户的角度来解析产品给你带来的价值，从产品的角度去解构为什么要这样设计。</p>
-</blockquote>
-<h1 id="◆-Chapter-18-浅析阿里巴巴校招之产品经理"><a href="#◆-Chapter-18-浅析阿里巴巴校招之产品经理" class="headerlink" title="◆ Chapter 18 浅析阿里巴巴校招之产品经理"></a>◆ Chapter 18 浅析阿里巴巴校招之产品经理</h1><blockquote>
-<p>每个城市面试官的详细信息都会在新浪微博上贴出来，这也是其延续了两三年的传统。</p>
-</blockquote>
-<blockquote>
-<p>还可以直接在微博上“勾搭”面试官赢得面试的机会。</p>
-</blockquote>
-<blockquote>
-<p>可能一个面试官就可以决定你是否能拿到这个Offer。面试官的自主权非常大，</p>
-</blockquote>
-<h2 id="◆-后记-错过BAT，你离互联网公司还有多远"><a href="#◆-后记-错过BAT，你离互联网公司还有多远" class="headerlink" title="◆ 后记 错过BAT，你离互联网公司还有多远"></a>◆ 后记 错过BAT，你离互联网公司还有多远</h2><blockquote>
-<p>你的价值不在于当一颗螺丝钉，你的每一个想法都会反馈在你的网站、产品以及运营手段上，影响数百万甚至是几亿用户，个人价值可以通过互联网无限放大。</p>
-</blockquote>
-<blockquote>
-<p>如果足够幸运进入一家有创意有前景的互联网公司并能获得期权时，你的身价会随着每次的融资实现线性增长，</p>
-</blockquote>
-<blockquote>
-<p>《人人都是产品经理》</p>
-</blockquote>
-<blockquote>
-<p>《结网》</p>
-</blockquote>
-<blockquote>
-<p>《用户体验要素》、《Don’t make me think》、《赢在用户》、《设计心理学》</p>
-</blockquote>
-<blockquote>
-<p>《怪诞行为学》</p>
-</blockquote>
-<blockquote>
-<p>《定位》</p>
-</blockquote>
-<blockquote>
-<p>《失控》则是一本你通读了全文张小龙就会录取你的书。</p>
-</blockquote>
-<blockquote>
-<p>在工具层面，可以掌握基本的Axure、Ps技能，设计出更好的原型图，可以将各种优秀的网站的原型图都做一遍。</p>
-</blockquote>
-<blockquote>
-<p>请谨记乔布斯的座右铭：求知若饥，虚心若愚（stay hungry, stay foolish），</p>
-</blockquote>
-<blockquote>
-<p>“记住你即将死去”是乔布斯一生中遇到的最重要的一句箴言。</p>
-</blockquote>
-<blockquote>
-<p>它帮乔布斯指明了生命中重要的选择，几乎所有的事情，包括所有的荣誉、所有的骄傲、所有对难堪和失败的恐惧，这些在死亡面前都会消失，但会留下真正重要的东西。</p>
-</blockquote>
-<h2 id="◆-点评"><a href="#◆-点评" class="headerlink" title="◆ 点评"></a>◆ 点评</h2><p>点评:★★★★★</p>
-]]></content>
-      <categories>
-        <category>PM</category>
-      </categories>
-      <tags>
-        <tag>读书笔记复盘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《从零开始做运营》读书笔记</title>
-    <url>/2020/04/28/%E3%80%8A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%81%9A%E8%BF%90%E8%90%A5%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>从零开始做运营<br>张亮<br>371个笔记</p>
-<p>◆ 前 言</p>
-<blockquote>
-<p>产品与运营本来是一对孪生兄弟</p>
-</blockquote>
-<blockquote>
-<p>产品负责生孩子，运营负责养孩子。</p>
-</blockquote>
-<p>◆ 第一章 实话实说说运营</p>
-<blockquote>
-<p>我一直认为产品经理这样的职位并不是为应届生准备的，产品经理所需要的知识结构、需求敏感性、需求转化的能力不是普通应届生所能企及的。</p>
-</blockquote>
-<blockquote>
-<p>一毕业就能做产品经理的同学有没有？有，但这些人可能在校期间就已经有了互联网产品的设计经验，或者已经作为实习生在产品经理岗位上进行了深入的实习。</p>
-</blockquote>
-<blockquote>
-<p>我通常会给他们一些建议，而最多的建议就是：“为什么不尝试从互联网运营开始做起呢？”</p>
-</blockquote>
-<p>◆ 苦哈哈的运营、产品两兄弟</p>
-<blockquote>
-<p>产品经理有很多工作要做，其中很大一部分是需求分析、文档写作以及资源沟通。一个好的产品经理，需要有“跟到底”的精神。这是真理。</p>
-</blockquote>
-<p>◆ 开阔的职业发展道路</p>
-<blockquote>
-<p>你需要的是让自己变得有责任心和有价值。</p>
-</blockquote>
-<blockquote>
-<p>“产品经理是通往CEO（首席执行官）的训练营”</p>
-</blockquote>
-<p>◆ 假如你是一个实习生</p>
-<blockquote>
-<ol>
-<li>盛大内部有一句名言：“产品不足运营补。”请问这句话有没有道理？</li>
-<li>如果你认为有道理，那么什么样的产品适用于这句话，什么样的产品不适用于这句话？</li>
-<li>如果你认为没有道理，请问为什么没有道理，你认为这句话的问题出在哪里？</li>
-</ol>
-</blockquote>
-<p>◆ 运营是个筐</p>
-<blockquote>
-<p>产品是一项贯穿用户整个生命周期的设计行为。它根据用户的需求而变化，最终完成对用户需求的实现与用户体验的完善。</p>
-</blockquote>
-<blockquote>
-<p>进行产品推广、促进用户使用、提高用户认知</p>
-</blockquote>
-<blockquote>
-<p>预留好运营接口、做好对应的运营准备</p>
-</blockquote>
-<blockquote>
-<p>获取初始用户、培养种子用户</p>
-</blockquote>
-<blockquote>
-<p>进行市场推广、开展各项活动，加速用户与收入的增长速度</p>
-</blockquote>
-<blockquote>
-<p>保持用户稳定，保障收入稳定</p>
-</blockquote>
-<blockquote>
-<p>关怀用户，并试图将已有用户导入新的产品</p>
-</blockquote>
-<blockquote>
-<p>第一，流量建设。</p>
-</blockquote>
-<blockquote>
-<p>持续的大量的流量</p>
-</blockquote>
-<blockquote>
-<p>第二，用户维系。</p>
-</blockquote>
-<blockquote>
-<p>如何持续有效地推动用户的活跃与留存，并从中发现有价值甚至高价值的用户</p>
-</blockquote>
-<blockquote>
-<p>“User”（使用者）与“Member”（会员）</p>
-</blockquote>
-<blockquote>
-<p>内容运营、用户运营、活动运营。而这三类的总和，即我们常说的“产品运营”。</p>
-</blockquote>
-<blockquote>
-<p>内容运营非常倚重文案能力，</p>
-</blockquote>
-<blockquote>
-<p>了解用户互动的逻辑</p>
-</blockquote>
-<blockquote>
-<p>用户运营首先要做的事情，就是掌握用户结构。</p>
-</blockquote>
-<blockquote>
-<p>了解用户的规模以及增长或衰退情况，并进行适当的用户分级，</p>
-</blockquote>
-<blockquote>
-<p>用户都处于怎样的生命周期。</p>
-</blockquote>
-<blockquote>
-<p>熟练掌握网站的用户行为数据分析，</p>
-</blockquote>
-<blockquote>
-<p>从用户需求出发反向提出产品优化建议的能力，</p>
-</blockquote>
-<blockquote>
-<p>活动是用户感知最明显的一项运营工作。</p>
-</blockquote>
-<blockquote>
-<p>• 活动文案撰写</p>
-</blockquote>
-<blockquote>
-<p>• 活动流程设计</p>
-</blockquote>
-<blockquote>
-<p>• 活动规则制定</p>
-</blockquote>
-<blockquote>
-<p>• 活动成本预估</p>
-</blockquote>
-<blockquote>
-<p>• 活动预期收益</p>
-</blockquote>
-<blockquote>
-<p>• 活动效果统计</p>
-</blockquote>
-<blockquote>
-<p>• 活动改进措施</p>
-</blockquote>
-<p>◆ 运营是万能的吗</p>
-<blockquote>
-<p>腾讯经常被人说抄袭，360被指作流氓，百度一直被批评竞价排名，这些批评不但与公关工作有关，也和运营方式有关。</p>
-</blockquote>
-<blockquote>
-<p>最近网站要拉动注册用户量，你可以想出多少种办法来实现这一目标？</p>
-</blockquote>
-<blockquote>
-<p>用户邀请用户，</p>
-</blockquote>
-<blockquote>
-<p>不仅仅是成功的邀请人有奖励，新注册的用户也可以获得奖励。</p>
-</blockquote>
-<blockquote>
-<p>设置一些阻碍，让用户在未完成注册的情况下权限降低</p>
-</blockquote>
-<blockquote>
-<p>产品人员进行支持</p>
-</blockquote>
-<blockquote>
-<p>采用预注册的方式，为每个进入的用户保留一个ID</p>
-</blockquote>
-<blockquote>
-<p>如果最近网站的流失率有点高，大家有什么好的运营办法？</p>
-</blockquote>
-<blockquote>
-<p>对流失用户开展挽回活动，给他们一些奖励</p>
-</blockquote>
-<blockquote>
-<p>只能确保其他没流失的用户保持活跃，鼓励留存</p>
-</blockquote>
-<blockquote>
-<p>先看看流失的用户是什么类型，是否具备共同点，找出他们流失的原因</p>
-</blockquote>
-<blockquote>
-<p>去掉这些因素，再专门设计一个针对流失用户的活动</p>
-</blockquote>
-<blockquote>
-<p>先送一些礼品，或者告知他们之前导致他们离开的阻碍已经消除了，看他们是否愿意回归</p>
-</blockquote>
-<blockquote>
-<p>老板希望能够增加活动运营的频率，最好每天都能有网站活动，运营人员应该怎么办？</p>
-</blockquote>
-<blockquote>
-<p>增加开发人员和设计人员，我们多设计一些活动，确保每天都有新活动上线。</p>
-</blockquote>
-<blockquote>
-<p>把活动分类，通过模板来解决设计问题，一套程序可以同时做多个活动。</p>
-</blockquote>
-<blockquote>
-<p>先看一下我们目前的运营目标，以及用户的行为数据，考虑是不是能够做一套工具，帮助我们快速上线活动。</p>
-</blockquote>
-<blockquote>
-<ol>
-<li>运营工作与产品工作是对立的吗？</li>
-<li>如果你准备从运营工作进入互联网行业，你打算如何规划自己的职业生涯？</li>
-</ol>
-</blockquote>
-<p>◆ 内容运营的初期事项</p>
-<blockquote>
-<p>• 内容消费者定位（网站定位+受众定位+运营目标）。<br>• 内容来源确认（采集或者寻找内容生产者）。<br>• 内容标准的确立（有哪些内容、如何展现内容、评判内容质量的标准）。</p>
-</blockquote>
-<blockquote>
-<p>内容流转的机制</p>
-</blockquote>
-<blockquote>
-<p>准备内容并在内容供应链完成</p>
-</blockquote>
-<blockquote>
-<p>确立好内容面对的初始用户群</p>
-</blockquote>
-<blockquote>
-<p>种子用户</p>
-</blockquote>
-<p>◆ 持续运营中的内容运营——以知乎为例</p>
-<p>转化分析</p>
-<blockquote>
-<p>历史推送数据。它主要包括使用过什么样的渠道，各个渠道的到达率与转化率如何。</p>
-</blockquote>
-<blockquote>
-<p>历史推送数据。它主要包括使用过什么样的渠道，各个渠道的到达率与转化率如何。</p>
-</blockquote>
-<p>对比分析</p>
-<blockquote>
-<p>竞品选择的渠道。如果没有历史数据，就需要预估，此时比较具有参考价值的，是竞品的渠道选择。</p>
-</blockquote>
-<blockquote>
-<p>竞品选择的渠道。如果没有历史数据，就需要预估，此时比较具有参考价值的，是竞品的渠道选择。</p>
-</blockquote>
-<blockquote>
-<p>根据用户的行为去猜测用户可能会在哪些渠道上接受信息，比如搜索引擎，属于几乎人人都会去接触的；比如电商网站用户经常会去导购平台、返利平台。</p>
-</blockquote>
-<blockquote>
-<p>呈漏斗状</p>
-</blockquote>
-<blockquote>
-<p>漏斗的每个环节的转化率分别是多少</p>
-</blockquote>
-<blockquote>
-<p>渠道的质量分析</p>
-</blockquote>
-<blockquote>
-<p>成功到达用户的数量</p>
-</blockquote>
-<blockquote>
-<p>有多少用户打开、阅读了推送的内容</p>
-</blockquote>
-<blockquote>
-<p>有多少人进入网站（产品）中对应的Landing Page（着陆页）</p>
-</blockquote>
-<blockquote>
-<p>有多少用户完成了我们期望的转化</p>
-</blockquote>
-<blockquote>
-<p>内容推荐</p>
-</blockquote>
-<blockquote>
-<p>内容整合</p>
-</blockquote>
-<blockquote>
-<p>不再过多地依赖运营人员的引导，实现用户自主运营。</p>
-</blockquote>
-<p>◆ 内容运营的核心</p>
-<blockquote>
-<p>内容供应链的建立必然涉及三方：网站（产品）、内容生产者及内容消费者。</p>
-</blockquote>
-<blockquote>
-<p>内容消费者的定位是动态的，</p>
-</blockquote>
-<blockquote>
-<p>以内容为主的网站（产品）都需要评估让用户进入的速率以及用户选型￼的控制。</p>
-</blockquote>
-<blockquote>
-<p>控制内容消费者进入最成熟的方案是：邀请机制。</p>
-</blockquote>
-<blockquote>
-<p>让人感受到“稀缺性”，能够带来精确锁定，也会造成黑市交易。</p>
-</blockquote>
-<blockquote>
-<p>可以制造垂直领域用户群，但可能导致用户群体过于单一。</p>
-</blockquote>
-<blockquote>
-<p>用户群体单一可以让网站（产品）拥有较好的掌控能力和内容生产能力，但长期来说会因为缺乏成长性与活力降低用户的兴趣。</p>
-</blockquote>
-<blockquote>
-<p>邀请码让潜在的用户充满了好奇，</p>
-</blockquote>
-<blockquote>
-<p>如果用户预期控制不当，内容生产者或者运营者的能力不足</p>
-</blockquote>
-<blockquote>
-<p>“护城河机制”是指人为确立一个较高的门槛，只有跨过了这一门槛的用户才能获得一定的权限和资格。</p>
-</blockquote>
-<blockquote>
-<p>需要有一套完善的激励措施，来激励他们持续地贡献内容</p>
-</blockquote>
-<blockquote>
-<p>内容运营者要充分理解并信任内容生产者的价值，</p>
-</blockquote>
-<blockquote>
-<p>运营人员要知道内容生产者是谁，知道他们能贡献哪个方面或哪个层次的内容，并且知道如何推动他们贡献内容。</p>
-</blockquote>
-<blockquote>
-<p>增强了用户与网站之间的互动；网站运营人员有机会了解用户对该内容的态度；通过数据挖掘，可以尝试了解用户对这一类型的内容是否感兴趣，进一步了解用户对这一类型的内容背后的产品的认知态度。</p>
-</blockquote>
-<blockquote>
-<p>这个功能其实代表的是一种反馈机制。</p>
-</blockquote>
-<blockquote>
-<p>某些企业利用自有的独立平台进行运营</p>
-</blockquote>
-<blockquote>
-<p>有一些内容运营者并未拥有独立的内容平台，那么它们就会通过EDM（电子邮件营销），甚至是其他媒体平台开展内容运营。</p>
-</blockquote>
-<blockquote>
-<p>某一篇内容获得了大量的阅读、转发甚至点赞，我们可以尝试对这一类型的内容继续强化</p>
-</blockquote>
-<blockquote>
-<p>跟进策略</p>
-</blockquote>
-<p>◆ 让内容健康地流转</p>
-<blockquote>
-<p>引入运营者的一个工作职责——用户研究</p>
-</blockquote>
-<blockquote>
-<p>对于内容运营者来说，要让内容生产者持续地创造内容，就要尽量避免在一个时间段内，带来大量与内容生产者创造的内容类型、内容质量不匹配的内容消费者。</p>
-</blockquote>
-<blockquote>
-<p>人为隔离对丰富社区内容拥有不同贡献度的用户，以保证核心的内容生产者不受到过多的干扰，尽量避免“鸡同鸭讲”甚至互相倾轧的现象，以维护内容社区的健康、稳定。</p>
-</blockquote>
-<blockquote>
-<p>这些行为的根本目的之一是为了避免大量的垃圾内容填充到用户的Timeline（时间轴）中，造成过于负面的影响，从而损害用户体验，进而威胁整个微信产品的稳定。</p>
-</blockquote>
-<p>◆ 如何让社区用户动起来</p>
-<blockquote>
-<p>“二八法则”在内容社区里可能会放大到1∶9，甚至是1∶999。</p>
-</blockquote>
-<blockquote>
-<p>拥有稀缺内容或者优质内容的社区，会采用抬高用户的准入门槛的方式，通过设置护城河、用户分级，让真正需要内容的用户进入</p>
-</blockquote>
-<blockquote>
-<p>建立标准化内容，让用户按照规定动作参与社区运营</p>
-</blockquote>
-<blockquote>
-<p>结构化处理可以简化用户点评的流程，明晰用户需要提供的内容，从而确保用户可以提供合适的内容。</p>
-</blockquote>
-<blockquote>
-<p>140字的内容限制</p>
-</blockquote>
-<blockquote>
-<p>，让用户发现其实制造内容并不是一件非常困难的事情，</p>
-</blockquote>
-<blockquote>
-<p>让不同类型的用户都可以找到适合自己的动作</p>
-</blockquote>
-<blockquote>
-<p>制造观念冲突，让用户自发站队</p>
-</blockquote>
-<blockquote>
-<p>“制造冲突”是一种比较有风险的做法。当然，这也是一种能够在短时间内制造出用户活跃和用户引入的做法。</p>
-</blockquote>
-<blockquote>
-<p>最通常的运营方式是利用社会热点，创造多种不同角度、不同立场的初始内容，然后通过多种手段，让认同不同观点的用户发现彼此，并制造出冲突，从而引发用户的站队。</p>
-</blockquote>
-<blockquote>
-<p>申请一个微信公众号，坚持发布原创内容，在一个月的时间里做到1000个粉丝，并完成数据分析与运营总结，然后制定下一阶段运营规划。</p>
-</blockquote>
-<p>◆ 第四章 做一个有趣的活动</p>
-<blockquote>
-<p>通过组织活动在短期内快速提升相关指标的运营手段</p>
-</blockquote>
-<blockquote>
-<p>短期：在一个较短的时间内开展活动。<br>快速：用简单直接的方式在较短时间内达成结果。<br>提升指标：目的明确，提升活动对应指标，达成KPI。</p>
-</blockquote>
-<blockquote>
-<p>• 活动设计与成本预算。</p>
-</blockquote>
-<blockquote>
-<p>• 活动风险管控与应急预案。</p>
-</blockquote>
-<blockquote>
-<p>• 活动数据监测与应对策略。</p>
-</blockquote>
-<blockquote>
-<p>• 活动效果判定与总结。</p>
-</blockquote>
-<p>◆ 活动设计与成本预算</p>
-<blockquote>
-<p>不管什么类型的运营，都逃不掉成本、预算这两个词</p>
-</blockquote>
-<blockquote>
-<p>将活动设计得吸引用户，同时又能够将成本控制在预算之内</p>
-</blockquote>
-<blockquote>
-<p>常见的做法</p>
-</blockquote>
-<blockquote>
-<p>是采用抽奖的形式</p>
-</blockquote>
-<blockquote>
-<p>将一个或几个看起来昂贵的奖品加上部分看起来不怎么贵的奖品进行组合，利用人们的侥幸心理加以诱惑</p>
-</blockquote>
-<blockquote>
-<p>为什么微博上各种转发抽××奖品的活动会人气这么旺？因为对用户来说，这类活动的操作成本很低，</p>
-</blockquote>
-<blockquote>
-<p>新浪每年都做的活动“让红包飞”，其实新浪几乎不用负担成本，但是效果是有目共睹的，至少在春节期间，微博会被刷爆。</p>
-</blockquote>
-<blockquote>
-<p>一曰借力，二曰借势。借力是借别人的力，借势是借环境的势。</p>
-</blockquote>
-<blockquote>
-<p>尝试与别的网站（产品）联合做活动，共担成本。</p>
-</blockquote>
-<blockquote>
-<p>可以借势的活动用抽奖的方式进行，可以借力的活动用合作分摊成本。</p>
-</blockquote>
-<blockquote>
-<p>就要拿出数据说服老板，要么降低活动预期，要么增加活动预算。</p>
-</blockquote>
-<blockquote>
-<p>以时间为理由做活动，比较容易获得用户的认同。</p>
-</blockquote>
-<blockquote>
-<p>这种活动，通常会利用商品的一个类目或者共同属性，甚至产品迭代的某个重要版本，有针对性地开展活动。</p>
-</blockquote>
-<blockquote>
-<p>不管是社会热点、娱乐热点，还是生活热点，都可以拿来作为活动素材、活动理由。</p>
-</blockquote>
-<blockquote>
-<p>自造热点</p>
-</blockquote>
-<blockquote>
-<p>《引爆点》、《部落》、《乌合之众》</p>
-</blockquote>
-<blockquote>
-<p>天猫的“双十一”活动策划，淘宝硬生生地炒出一个“光棍节”</p>
-</blockquote>
-<blockquote>
-<p>活动规则的设计准则就一句话：流程简单少思考，文案清晰无歧义。</p>
-</blockquote>
-<blockquote>
-<p>• 普奖并不一定比抽奖的效果更好。<br>• 抽奖的设计不是越复杂越好。<br>• 活动规则越复杂，用户逃跑的心态越强烈。<br>• 采用游戏化或任务化的设计，</p>
-</blockquote>
-<blockquote>
-<p>• 不管活动设计得多好，如果活动宣传没做好，活动效果还是会很差。</p>
-</blockquote>
-<blockquote>
-<p>宣传渠道投放</p>
-</blockquote>
-<blockquote>
-<p>你时刻记住你的用户是谁</p>
-</blockquote>
-<blockquote>
-<p>他们处于怎样的生命周期，活动的设计是为了达成什么目标。</p>
-</blockquote>
-<blockquote>
-<p>用户经常在哪里出没、对怎样的内容感兴趣</p>
-</blockquote>
-<blockquote>
-<p>百度指数相关活动的搜索、来源都可以作为参考。</p>
-</blockquote>
-<blockquote>
-<ol>
-<li>活动主题：</li>
-</ol>
-</blockquote>
-<blockquote>
-<ol start="2">
-<li>活动对象：</li>
-</ol>
-</blockquote>
-<blockquote>
-<ol start="3">
-<li>活动时间：</li>
-</ol>
-</blockquote>
-<blockquote>
-<ol start="4">
-<li>活动描述：</li>
-</ol>
-</blockquote>
-<blockquote>
-<ol start="5">
-<li>规则详情：</li>
-</ol>
-</blockquote>
-<blockquote>
-<p>让用户看得懂，让开发人员看得懂，</p>
-</blockquote>
-<blockquote>
-<ol start="6">
-<li>投放渠道：</li>
-</ol>
-</blockquote>
-<blockquote>
-<ol start="7">
-<li>风险控制：</li>
-</ol>
-</blockquote>
-<blockquote>
-<ol start="8">
-<li>监测指标：</li>
-</ol>
-</blockquote>
-<blockquote>
-<p>包括投放渠道的监控、用户参与情况的监控、奖励发放的监控等。</p>
-</blockquote>
-<blockquote>
-<ol start="9">
-<li>成本预估：</li>
-</ol>
-</blockquote>
-<blockquote>
-<ol start="10">
-<li>效果评估：</li>
-</ol>
-</blockquote>
-<blockquote>
-<ol start="11">
-<li>FAQ（常见问题解答）：</li>
-</ol>
-</blockquote>
-<blockquote>
-<p>提供给客服或者相关人员，帮助解决用户在参与活动中遇到的问题</p>
-</blockquote>
-<blockquote>
-<p>如果活动规模大，仅有FAQ还不够，你需要提前准备客服的培训文件</p>
-</blockquote>
-<blockquote>
-<p>活动策划的文本</p>
-</blockquote>
-<blockquote>
-<p>一部分作为前端展示，除了让用户看得明白如何参与活动，</p>
-</blockquote>
-<blockquote>
-<p>另一部分是作为与开发人员的约定，活动如何设计、如何实现，需要和开发人员沟通，</p>
-</blockquote>
-<blockquote>
-<p>活动的理由、耗费运营成本的代价、上线后可能带来的预期收益</p>
-</blockquote>
-<blockquote>
-<p>每件事都必须进行细节确认、每个时间节点都必须进行把控，</p>
-</blockquote>
-<blockquote>
-<p>活动结束后，一份关于活动效果的报告</p>
-</blockquote>
-<blockquote>
-<ol>
-<li>活动概述：</li>
-</ol>
-</blockquote>
-<blockquote>
-<ol start="2">
-<li>活动效果统计：</li>
-</ol>
-</blockquote>
-<blockquote>
-<ol start="3">
-<li>宣传效果统计：</li>
-</ol>
-</blockquote>
-<blockquote>
-<ol start="4">
-<li>反思与总结：</li>
-</ol>
-</blockquote>
-<blockquote>
-<p>真刀实枪地写一个活动策划案，在这里引入一个例子。</p>
-</blockquote>
-<blockquote>
-<p>如何控制运营风险，把用户体验做到最好</p>
-</blockquote>
-<blockquote>
-<p>产品发展初期，为了吸引用户进入，风控可以较为宽松，甚至直接不做风控。产品发展期，为了促进用户留存及活跃，对部分提升用户留存和活跃的活动可以使用较为宽松的风控，但涉及到付费行为，就需要较为严格的风控。产品成熟期，需要较为严格的风控，这个时期最怕的就是数据的大起大落，严格风控可以帮助你将数据变化控制在比较平稳的范围内，也可以对有实际价值的客户提供更多奖励。产品衰退期，可以采用较为宽松的风控以延长产品的生命周期。</p>
-</blockquote>
-<blockquote>
-<p>活动是一种短期刺激运营指标的手段</p>
-</blockquote>
-<blockquote>
-<p>在活动设计的有效期内，通过活动这种运营手段，有效地提升相关核心指标的数据表现</p>
-</blockquote>
-<blockquote>
-<p>有时候监控的数据颗粒度太粗，很难准确定位问题，有时候监控的数据颗粒度太细，开发人员怨声载道，认为工作量太大，不愿意开发。</p>
-</blockquote>
-<blockquote>
-<p>如果你要提升交易总额，那么核心数据就不是转化率，而是客单价和下单次数，转化率只是辅助指标，只需要统计，而不需要监控。如果你要提升转化率，那么核心数据就是转化率，所以你要监控的是进入流量和购买流量，客单价和下单次数只需要统计，而不需要监控。如果你的产品是社区，你要提升社区某个版块的发帖数，那么你要监控的就是发帖量，只需统计回复数而不用监控。</p>
-</blockquote>
-<blockquote>
-<p>如果出现资源不足，无法支撑密集的活动监控数据时，我的建议不是追着开发人员去埋点<a href="#">插图</a></p>
-</blockquote>
-<p>◆ 完成活动设计之后做什么</p>
-<blockquote>
-<p>产品和运营人员最常见的困境就是：没有资源。</p>
-</blockquote>
-<blockquote>
-<p>设计人员开始视觉设计</p>
-</blockquote>
-<blockquote>
-<p>开发人员开始写活动代码</p>
-</blockquote>
-<blockquote>
-<p>测试人员好好聊一聊上线检查单和测试任务</p>
-</blockquote>
-<blockquote>
-<p>各条线的工作计划和时间节点，是否有延迟，完成进度如何</p>
-</blockquote>
-<blockquote>
-<p>需求实现完成度，有没有遗漏的需求</p>
-</blockquote>
-<blockquote>
-<p>上线前各方资源准备情况的检查</p>
-</blockquote>
-<p>◆ 写一份靠谱的活动总结</p>
-<blockquote>
-<p>成本测量原则</p>
-</blockquote>
-<blockquote>
-<p>所谓成本测量原则，是指在活动设计阶段，设定一个总成本、人均成本以及活动目标值，活动结束时，考核成本是否在预期成本以内。</p>
-</blockquote>
-<blockquote>
-<p>将活动总成本控制在预算总成本以内，不超发，同时单个指标的成本越低越好。</p>
-</blockquote>
-<blockquote>
-<p>KPI达成原则</p>
-</blockquote>
-<blockquote>
-<p>KPI达成原则的预期是：用超出预期的效果来抵消成本控制不当的负面影响。</p>
-</blockquote>
-<p>◆ 以系统的观念对待活动策划</p>
-<blockquote>
-<p>考虑“系统复用”的课题</p>
-</blockquote>
-<blockquote>
-<p>具备周期性活动策划的意识</p>
-</blockquote>
-<blockquote>
-<p>可扩展，系统本身的开放性很高，因此可以兼容多个产品设计方案的填充；可配置，调整配置就可以产生各种不同的效果；可通用，用户的需求有核心需求和边缘需求，系统也有核心功能和扩展功能，核心功能越没有针对性，可复用的可能性就越高。</p>
-</blockquote>
-<blockquote>
-<p>“签到”是一个特别常见的周期性活动策划。</p>
-</blockquote>
-<blockquote>
-<p>周期性的活动有助于用户习惯的养成，可以减少宣传成本，养成习惯的用户到了时间节点会主动参与活动。</p>
-</blockquote>
-<blockquote>
-<p>用户推广计划</p>
-</blockquote>
-<blockquote>
-<p>从已有用户出发，请已有用户在社交圈传播自己的产品，并定向邀请自己的好友加入使用，作为回报，邀请他人的用户和被邀请的用户都有可能获得奖励。</p>
-</blockquote>
-<p>◆ 你了解你的用户吗？</p>
-<blockquote>
-<p>做一个User Referral（用户推荐）活动</p>
-</blockquote>
-<blockquote>
-<p>用户喜欢用哪些渠道进行分享和邀请</p>
-</blockquote>
-<blockquote>
-<p>和哪些外部平台做联合推广，会达到最优效果。</p>
-</blockquote>
-<blockquote>
-<p>产品也因为用户的需求而变得丰满、甚至臃肿起来，</p>
-</blockquote>
-<blockquote>
-<p>• 通过数据窥探用户。<br>• 直面用户。</p>
-</blockquote>
-<blockquote>
-<p>浏览</p>
-</blockquote>
-<blockquote>
-<p>对应的数据指标是停留时长</p>
-</blockquote>
-<blockquote>
-<p>点击</p>
-</blockquote>
-<blockquote>
-<p>注册</p>
-</blockquote>
-<blockquote>
-<p>登录</p>
-</blockquote>
-<blockquote>
-<p>蹦失</p>
-</blockquote>
-<blockquote>
-<p>蹦失不等于跳出，蹦失是用户直接离开页面或者关闭浏览器。跳出是离开这个页面，在正常流程中，用户也会跳出，不一定是蹦失。</p>
-</blockquote>
-<blockquote>
-<p>操作</p>
-</blockquote>
-<blockquote>
-<p>订单量、客单价</p>
-</blockquote>
-<blockquote>
-<p>转化率</p>
-</blockquote>
-<blockquote>
-<p>列表页转化率=最终下单用户数/商品列表页到达用户数<br>详情页转化率=最终下单用户数/商品详情页到达用户数<br>支付转化率（支付成功率）=支付成功的用户/最终下单用户数</p>
-</blockquote>
-<blockquote>
-<p>让相似的用户模型购买过的商品被互相推荐，而不具共性的用户模型购买过的商品被过滤。</p>
-</blockquote>
-<blockquote>
-<p>“个性化运营”、“精准营销”所强调的，应当满足用户的个体需求，而不是刻意寻求共性的解决方案。</p>
-</blockquote>
-<blockquote>
-<p>有一种方法被广泛使用，产品经理称之为“用户研究”。</p>
-</blockquote>
-<blockquote>
-<p>用户运营人员千万要重视与客服同事的沟通，因为当用户有不满时，会第一时间找客服</p>
-</blockquote>
-<blockquote>
-<p>先记录所有的客服事件并挖掘其背后的问题，再归纳其共性。</p>
-</blockquote>
-<blockquote>
-<p>你可以主动对这个用户或者这类用户进行电话回访</p>
-</blockquote>
-<blockquote>
-<p>并不是所有的情况都适合回访，</p>
-</blockquote>
-<blockquote>
-<p>选型用户，就是预设立场选出来的典型用户</p>
-</blockquote>
-<blockquote>
-<p>对于产品来说，快速迭代、试错调整，是必由之路。</p>
-</blockquote>
-<blockquote>
-<p>在产品迭代中，有很多需求是故意不解决的，这就涉及如何确定产品功能优先级的问题</p>
-</blockquote>
-<p>◆ 用户运营的工作内容</p>
-<blockquote>
-<p>最后指标都会落实到最终的运营收益上，收益可能是用户数也可能是交易额或者利润</p>
-</blockquote>
-<blockquote>
-<p>通常我们讨论一个网站（产品）的用户规模、付费状况、运营的数据健康程度等，其中很多方面都落脚在用户运营。</p>
-</blockquote>
-<blockquote>
-<p>开源、节流（减少流失）、维持（促进活跃及提高留存）、刺激（转化付费）</p>
-</blockquote>
-<blockquote>
-<ol>
-<li>注册渠道的挑选与打开。</li>
-</ol>
-</blockquote>
-<blockquote>
-<ol start="2">
-<li>提升注册转化率。</li>
-</ol>
-</blockquote>
-<blockquote>
-<p>落脚点在沉默用户或流失用户</p>
-</blockquote>
-<blockquote>
-<ol>
-<li>定义用户沉默或流失的标准。</li>
-</ol>
-</blockquote>
-<blockquote>
-<p>弄清楚用户是在什么情况下流失的</p>
-</blockquote>
-<blockquote>
-<p>当用户行为符合流失模型定义时发出警告</p>
-</blockquote>
-<blockquote>
-<ol start="3">
-<li>对已流失的用户进行挽回。</li>
-</ol>
-</blockquote>
-<blockquote>
-<p>预防流失，而不是挽回</p>
-</blockquote>
-<blockquote>
-<p>落脚点在用户留存率和用户活跃率</p>
-</blockquote>
-<blockquote>
-<ol>
-<li>定义用户留存与用户活跃的标准。</li>
-</ol>
-</blockquote>
-<blockquote>
-<p>2.提升用户留存率。</p>
-</blockquote>
-<blockquote>
-<p>3.提升用户活跃度（用户行为、产品使用频次等）。</p>
-</blockquote>
-<blockquote>
-<p>1.通过一系列行为让未付费的活跃用户付费。</p>
-</blockquote>
-<blockquote>
-<p>2.通过机制让已付费的用户持续付费。</p>
-</blockquote>
-<blockquote>
-<p>企业意识到用户其实就是同一个群体，账号的共享之路就开启了，</p>
-</blockquote>
-<blockquote>
-<p>已有用户绑定社交账号后，知乎内容的转发和扩散变得很容易。以UGC为核心内容的社区，其内容在各个平台上的露出，是非常重要的。</p>
-</blockquote>
-<blockquote>
-<p>必须让用户付出一些成本，这样他才会在离开前有所犹豫。</p>
-</blockquote>
-<blockquote>
-<p>注册引导在开源的同时也大大推后了用户可能流失的时间。</p>
-</blockquote>
-<blockquote>
-<p>• 注册来源</p>
-</blockquote>
-<blockquote>
-<p>• 注册转化率</p>
-</blockquote>
-<blockquote>
-<p>• 蹦失页面</p>
-</blockquote>
-<blockquote>
-<p>如果用户肯留下来，网站（产品）就一直有机会获取这些资料，</p>
-</blockquote>
-<blockquote>
-<p>如果你有很好的开源引流的渠道，那么完全可以不急于获得更多的用户资料。</p>
-</blockquote>
-<blockquote>
-<p>更重要的并不是开源，而是要节流和刺激用户留存。</p>
-</blockquote>
-<blockquote>
-<p>• 在流失前，用户进行了哪些类似的行为。<br>• 这些用户是否集中于某一渠道。<br>• 这些用户的性别属性、地域属性、年龄层次、兴趣特征是否类似。<br>• 在发生流失的时间点，产品做了哪些动作，是否发布了新版本，是否更改了某些核心功能。</p>
-</blockquote>
-<blockquote>
-<p>获取一个新用户的成本，比维护一个老用户的成本要高得多。</p>
-</blockquote>
-<p>所以腾讯重产品、阿里重运营的说法本身就不严谨。</p>
-<blockquote>
-<p>这种细致到极限的产品运营，是腾讯能够这么多年屹立不倒的关键原因。这也是为什么我一直在各种场合强调运营与产品不可分割的原因。</p>
-</blockquote>
-<blockquote>
-<p>这种细致到极限的产品运营，是腾讯能够这么多年屹立不倒的关键原因。这也是为什么我一直在各种场合强调运营与产品不可分割的原因。</p>
-</blockquote>
-<p>◆ 市场拉用户，运营留用户</p>
-<blockquote>
-<p>用少量的用户引导，换取主动的用户进入、活跃、付费、甚至传播，</p>
-</blockquote>
-<blockquote>
-<p>这就是自运营。</p>
-</blockquote>
-<p>◆ 谈一谈用户激励</p>
-<blockquote>
-<p>头衔是一种简单、易用，同时几乎没有其他运营成本的策略，它往往和社区、游戏等产品形态相关，用来体现用户的贡献或者活跃度。</p>
-</blockquote>
-<blockquote>
-<p>等级机制之所以能够激励用户，是因为不同的等级会有对应的增值服务设计。</p>
-</blockquote>
-<p>◆ 尊重用户，但保持距离</p>
-<blockquote>
-<p>一个产品，最难做的不是加法；而是减法；最难的不是改变，最难的是坚持。</p>
-</blockquote>
-<blockquote>
-<p>运营者是管理者，而不是调停者。管理，就是确立规范，对符合规范者予以奖励，对不符合规范的，就惩罚；同时，要考虑如何将规范落实，而不是空有一堆条款作摆设。</p>
-</blockquote>
-<p>◆ 分级管理，用户运营的必备手段</p>
-<blockquote>
-<p>建立RFM模型，</p>
-</blockquote>
-<blockquote>
-<p>R是Recency，最近一次消费；F是Frequency，消费频率；M是Monetary，消费金额。这三个要素，可以简单有效地反馈客户的价值。</p>
-</blockquote>
-<blockquote>
-<p>R5F5M1</p>
-</blockquote>
-<p>◆ 如何获取种子用户</p>
-<blockquote>
-<p>太多的产品还没有积累到足够多的用户就失败了，这里面有产品的问题，也有运营的问题。</p>
-</blockquote>
-<blockquote>
-<p>用户之所以愿意沉浸在社区中，愿意提供内容，有两个动力：表达与认同。</p>
-</blockquote>
-<blockquote>
-<ol>
-<li>创始人关注每一个早期进入者。</li>
-</ol>
-</blockquote>
-<blockquote>
-<p>每个创始人都会与一些活跃度高的用户进行积极的互动，这在形成早期社区氛围的过程中，非常重要。</p>
-</blockquote>
-<blockquote>
-<ol start="2">
-<li>情感维系。</li>
-</ol>
-</blockquote>
-<blockquote>
-<p>与高活跃度、高质量的用户积极进行私信互动，</p>
-</blockquote>
-<blockquote>
-<p>任何关联都比情感关联弱，情感关联让早期用户更加愿意贡献内容，以及自发分享邀请自己的朋友进入。</p>
-</blockquote>
-<p>即刻/目前的jellow，创始人瓦恁经常在社区活跃，也是采用邀请制。用户质量非常高，且有用户基础。正式重新上线后，估计会掀起热潮。</p>
-<blockquote>
-<p>通过邀请制的方式</p>
-</blockquote>
-<blockquote>
-<p>数量。大概多少个种子用户会让应用爆发呢？或许1000～5000个就够了，但前提是，他们是种子用户，而不是初始用户。</p>
-</blockquote>
-<blockquote>
-<p>质量。</p>
-</blockquote>
-<blockquote>
-<p>种子用户不仅仅是传播产品最积极的用户，更是为产品出谋划策、提出建议的用户。</p>
-</blockquote>
-<blockquote>
-<p>应该如何面向种子用户做一些有价值的运营，从而让他们更加愿意贡献力量呢？</p>
-</blockquote>
-<ol>
-<li>仔细倾听种子用户的声音。</li>
-</ol>
-<blockquote>
-<p>把商务人员提出的需求做一个列表，然后与产品经理和开发负责人沟通，找到共性需求，并划分优先级。</p>
-</blockquote>
-<blockquote>
-<ol start="2">
-<li>与种子用户的关系尽量保持亲密。</li>
-</ol>
-</blockquote>
-<blockquote>
-<ol start="3">
-<li>真诚地对待所有种子用户。</li>
-</ol>
-</blockquote>
-<p>◆ 谈论数据的基础</p>
-<blockquote>
-<p>其中三个数据类型是所有运营人员都需要了解的</p>
-</blockquote>
-<blockquote>
-<p>渠道数据、成本数据、收益数据。</p>
-</blockquote>
-<blockquote>
-<p>获取数据的渠道有很多，</p>
-</blockquote>
-<blockquote>
-<p>关于自己获取的途径，App可以选择“埋点”、log等方式，而Web可以通过log、日志与按钮埋点等方式。</p>
-</blockquote>
-<blockquote>
-<p>第三方会提供外部工具服务</p>
-</blockquote>
-<blockquote>
-<p>Google Analytics（谷歌分析）、百度统计</p>
-</blockquote>
-<blockquote>
-<p>运营数据分析中，经常会使用环比和同比</p>
-</blockquote>
-<blockquote>
-<p>环比</p>
-</blockquote>
-<blockquote>
-<p>本日与前一日</p>
-</blockquote>
-<blockquote>
-<p>本月与上月</p>
-</blockquote>
-<blockquote>
-<p>本季度与上季度</p>
-</blockquote>
-<blockquote>
-<p>同比</p>
-</blockquote>
-<blockquote>
-<p>今年当日与去年当日</p>
-</blockquote>
-<blockquote>
-<p>今年当月与去年当月</p>
-</blockquote>
-<blockquote>
-<p>今年当季度与去年当季度</p>
-</blockquote>
-<blockquote>
-<p>环比显示短期的数据波动</p>
-</blockquote>
-<blockquote>
-<p>同比可以帮我们了解大环境下的数据波动</p>
-</blockquote>
-<p>◆ 数据分析的方法、误区与数据说谎的手法</p>
-<blockquote>
-<p>数据分析的能力是渐进的，对数据的敏感度是需要培养的</p>
-</blockquote>
-<blockquote>
-<p>UV（Unique Visitors）：独立访客数</p>
-</blockquote>
-<blockquote>
-<p>独立访客数和独立IP是两个概念。</p>
-</blockquote>
-<blockquote>
-<p>在同一台电脑上，你注册了一个新用户，你哥哥注册了另一个新用户。此时，网站的后台会记录1个独立IP，但同时会记录2个UV。</p>
-</blockquote>
-<blockquote>
-<p>如果在同一台电脑上，你和你哥哥都没有注册，只是浏览，那么后台会记录1个独立IP及1个UV。</p>
-</blockquote>
-<blockquote>
-<p>PV（Page Views）：页面访问量</p>
-</blockquote>
-<blockquote>
-<p>RV（Repeat Visitors）：重复访客</p>
-</blockquote>
-<blockquote>
-<p>TP（Time On Page）：页面停留时间</p>
-</blockquote>
-<blockquote>
-<p>Traffic Sources：流量来源渠道</p>
-</blockquote>
-<blockquote>
-<p>数据量越大、维度越多，数据越需要拆解，可以分为按照时间的拆解和按照相关性的拆解。</p>
-</blockquote>
-<blockquote>
-<p>• 不要夸大偶然事件，认为带来必然结果。</p>
-</blockquote>
-<blockquote>
-<p>避免用结论推导原因。</p>
-</blockquote>
-<blockquote>
-<p>发现数据增长了，然后寻找各种对数据增长可能有帮助的事件，并且将数据增长的原因归功于这些事件。</p>
-</blockquote>
-<blockquote>
-<p>最好的方式是再现。</p>
-</blockquote>
-<p>◆ 跳出数据看数据</p>
-<blockquote>
-<p>在进行数据分析的时候，其实想要了解的不仅仅是数据，而是数据背后的用户。</p>
-</blockquote>
-<blockquote>
-<p>先不要着急定义数据展现的意义，而是研究数据的波动和波动的节点，通过这一步去确立要研究哪些相关事件，研究用户行为还是系统事件</p>
-</blockquote>
-<p>◆ 运营的核心数据</p>
-<blockquote>
-<p>注册数据可能包括但不限于：</p>
-</blockquote>
-<blockquote>
-<p>注册用户的规模、增长速度——现在有多少用户，未来何时会有多少用户；<br>渠道质量——注册渠道有哪些，渠道的注册转化率如何；<br>注册流程质量——完成注册的用户数、注册流程中用户蹦失节点统计。<br>注册用户行为跟踪——完成注册后当时用户的行为统计。</p>
-</blockquote>
-<blockquote>
-<p>留存数据可能包括但不限于：<br>留存用户的规模，从注册到留存的转化率——已有注册用户中，多少注册用户会留下来，能否提升转化率，让更多的用户留存。<br>用户登录的时间、频率—留存的用户使用产品的习惯是登录后使用吗？如果是的话，他们都是什么时候登录，几天登录一次？<br>用户使用网站（产品）服务的时间、时长、频率等——每次用户使用产品，会停留多长时间，使用核心功能还是辅助功能，使用功能的频率是怎样的。</p>
-</blockquote>
-<blockquote>
-<p>活跃数据可能包括但不限于：<br>活跃用户的规模、增长速度，从注册到活跃的转化率——留下来的用户是活跃的用户，那么活跃的定义是什么，有多少用户符合这个定义，活跃用户的增长速度。<br>活跃用户的行为统计——活跃用户使用产品的哪些功能，他们每次使用产品的路径是不变的吗？对于新的功能，他们是如何使用的？<br>用户使用网站（产品）服务的频率、内容、行为——用户对网站（产品）的功能的使用情况，包括频率等；他们对内容的接受情况。</p>
-</blockquote>
-<blockquote>
-<p>付费数据很容易理解，大致包括：<br>付费用户规模、增长速度、注册到付费/活跃到付费的转化率——这决定了产品的盈利能力，收入增长的速度和宽度。<br>付费金额、频率等——简单来说，用户在此花多少钱，多久花一次钱？<br>付费用户的日常行为跟踪——了解用户不花钱的时候的一些行为。</p>
-</blockquote>
-<blockquote>
-<p>流失数据包含的内容也很容易理解，大致包括：<br>流失用户的规模、速度——用户流失了多少？每天流失的速度是10个还是10万个？这决定了产品的生命周期还能延续多久。<br>流失用户的日常行为跟踪——他们在流失之前做了什么？<br>用户流失的原因分析——为什么用户做了这些动作之后就会流失？<br>流失用户挽回策略和效果分析等——能够挽回这些用户吗？什么样的动作对挽回他们有帮助？这些动作可以长期做吗？</p>
-</blockquote>
-<p>◆ 当运营切入产品</p>
-<blockquote>
-<p>一个互联网企业的前进是四个轮子协同运转的结果，这四个轮子是：产品、运营、技术、市场。</p>
-</blockquote>
-<p>◆ 运营与产品的联动</p>
-<blockquote>
-<p>产品经理不断简化流程、缩短用户使用产品时的思考时间，让他们的行为更加自然、流畅</p>
-</blockquote>
-<blockquote>
-<p>运营人员则不断寻找尽可能多且准确的切入点让用户们多做一件事情，促进用户的转化。</p>
-</blockquote>
-<blockquote>
-<p>明明是自己先找到的用户需求，先想到的运营方案，可是竞争对手却赶在自己前面做好了一切。</p>
-</blockquote>
-<blockquote>
-<p>产品经理和运营人员</p>
-</blockquote>
-<blockquote>
-<p>必须让他们有相同的目标。</p>
-</blockquote>
-<p>◆ 当说到运营目标，我们在说什么</p>
-<blockquote>
-<p>从产品竞争开始，第二阶段是营销竞争</p>
-</blockquote>
-<blockquote>
-<p>拼的是流量</p>
-</blockquote>
-<blockquote>
-<p>营销竞争阶段以后，就是服务竞争。</p>
-</blockquote>
-<blockquote>
-<p>对于社区来说，服务沉淀得越久越好。</p>
-</blockquote>
-<blockquote>
-<p>很多运营者忙于KPI的达成，却很少有人停下来思考：</p>
-</blockquote>
-<blockquote>
-<p>• 为什么会有这样的KPI？<br>• 老板定义KPI的目的是什么？<br>• 我们目前所做的工作能否支撑KPI的实现？<br>• 难道KPI仅仅是一个数值，只要我们实现了就无需再考虑其他方面？</p>
-</blockquote>
-<blockquote>
-<p>你的运营思维都会打开，不仅仅是执行力的提高，而是视野的变化。</p>
-</blockquote>
-<p>◆ 用户习惯的养成</p>
-<blockquote>
-<p>用户习惯</p>
-</blockquote>
-<blockquote>
-<p>产品经理进行用户研究、交互设计的过程中</p>
-</blockquote>
-<blockquote>
-<p>更多的是心理学层面上的研究，主要讨论在产品的交互设计中，怎样能够让用户不假思索的使用产品。</p>
-</blockquote>
-<blockquote>
-<p>持续</p>
-</blockquote>
-<blockquote>
-<p>并不等于一个活动做一年</p>
-</blockquote>
-<blockquote>
-<p>每到这个节点，你都有对应的运营策略。</p>
-</blockquote>
-<blockquote>
-<p>固化</p>
-</blockquote>
-<blockquote>
-<p>不等于每到这个节点你都做同样的事情</p>
-</blockquote>
-<blockquote>
-<p>每到这个节点你会让用户有相似的感知。</p>
-</blockquote>
-<blockquote>
-<p>沉淀运营机制，形成运营规范。</p>
-</blockquote>
-<blockquote>
-<p>养成用户习惯。</p>
-</blockquote>
-<p>◆ 教育用户还是贴近用户</p>
-<blockquote>
-<p>“教育用户”就是在培养新的用户习惯。</p>
-</blockquote>
-<blockquote>
-<p>如果你的设计不符合用户的预期，并且你打算通过这些设计差异与竞争对手保留竞争优势，那么用户是需要被教育的。</p>
-</blockquote>
-<blockquote>
-<p>什么情形下需要教育用户</p>
-</blockquote>
-<blockquote>
-<p>• 产品大改版，很多功能发生了改变</p>
-</blockquote>
-<blockquote>
-<p>增加了新功能，或在某些特性上有大的改进。</p>
-</blockquote>
-<blockquote>
-<p> 产品未改变，但是运营端调整了机制、新增了活动。</p>
-</blockquote>
-<blockquote>
-<p>新用户进入，产品设计可能和市面上的同类产品有较大的区别，</p>
-</blockquote>
-<blockquote>
-<p>老用户回归，产品已经发生了很大变化。</p>
-</blockquote>
-<p>◆ 第九章 移动端的运营</p>
-<blockquote>
-<p>• 新App陷入“长尾困境”，难以传播和占据用户手机。</p>
-</blockquote>
-<p>◆ 流量，在哪？</p>
-<blockquote>
-<p>做Web，只要你能和入口保持良好的关系，拿得到推荐位、广告位，买得起关键词，合作起来风生水起，流量哗哗地进，</p>
-</blockquote>
-<blockquote>
-<p>做App，你除了要和入口（商店）保持良好的关系，拿到首发、推荐之外，还要有切实有效的办法从各个分散的入口导流。</p>
-</blockquote>
-<blockquote>
-<p>Web用户关闭的是浏览器，只要入口还在，就能想办法挽回用户，可App用户流失，删除的是应用，</p>
-</blockquote>
-<blockquote>
-<p>Web的流量越多越好，而App的流量越稳定越好。</p>
-</blockquote>
-<blockquote>
-<p>20%的用户在微信公众号中挑选内容，然后80%的用户在朋友圈阅读这些内容。</p>
-</blockquote>
-<blockquote>
-<p>绝大多数流量仍然集中在几家主要社交网站和App应用，其中</p>
-</blockquote>
-<blockquote>
-<p>微信、微博、QQ位列前三，而微信的分享回流率最高</p>
-</blockquote>
-<blockquote>
-<p>App获取用户的入口主要有如下几种。<br>• 应用商店的推荐、推广位。<br>• 与其他App的换量互推。<br>• 积分墙。<br>• 品牌手机预装。<br>• 各种排行榜。</p>
-</blockquote>
-<blockquote>
-<p>换量互推则更多地考虑用户的重合度以及产品对构建用户信任的帮助。</p>
-</blockquote>
-<blockquote>
-<p>需要考虑双方用户群是否吻合。</p>
-</blockquote>
-<blockquote>
-<p>你还需要考虑对方换量放置的位置，不宜藏得太深。</p>
-</blockquote>
-<blockquote>
-<p>对于通过换量获得的用户，你需要用相当棒的引导和策略让他们可以留下来，并转化为活跃用户甚至付费用户。</p>
-</blockquote>
-<p>◆ 移动端的运营</p>
-<blockquote>
-<p>移动端和PC端相比，内容运营的根本并没有改变——凡是内容运营，其核心竞争力都依然是内容的质量、时效等。但是有一点发生了变化：基于内容的用户互动越来越多，社交力量开始显现。</p>
-</blockquote>
-<blockquote>
-<p>针对性</p>
-</blockquote>
-<blockquote>
-<p>延续性</p>
-</blockquote>
-<blockquote>
-<p>一个叫作“乡土乡亲的茶铺”的微信公众号，有兴趣的朋友可以去看看这个做电商的微信公众号是怎么把社交元素加入内容运营的，已经到了疯狂的状态。</p>
-</blockquote>
-<blockquote>
-<p>移动端内容运营应当把握的原则是快速反应，包括对热点的快速把握、对用户反馈的快速响应等。</p>
-</blockquote>
-<blockquote>
-<p>在移动互联网时代，用户的时间已经被各种应用切割得非常细碎，只有对热点快速把握，对用户反馈快速响应，才能牢牢地抓住已经定位的用户，提供持续的、有针对性的内容，从而获得更多优势。</p>
-</blockquote>
-<blockquote>
-<p>先通过初始数据获取模型、再逐步上线并设置好调节阀的步骤</p>
-</blockquote>
-<blockquote>
-<p>在移动端开展活动，不仅仅要关注活动当期的效果，还应该关注用户的后续动向。</p>
-</blockquote>
-<p>◆ 关于社会化媒体矩阵的思考</p>
-<blockquote>
-<p>社会化媒体矩阵的前提之一是差异化。</p>
-</blockquote>
-<blockquote>
-<p>如果运营者本身没有高质量的内容或没有提供高质量内容的能力，以及让社会化媒体矩阵差异化运作的能力，那么就没有必要运营社会化媒体矩阵。</p>
-</blockquote>
-<blockquote>
-<p>如果做社会化媒体矩阵仅仅是为了呈现内容，你将很难在不同的平台实现差异化，很容易重复展现。</p>
-</blockquote>
-<blockquote>
-<p>如果你做内容的目的是促进转化与购买，那么社会化媒体矩阵就很有价值了。</p>
-</blockquote>
-<blockquote>
-<p>如果老王一开始就搞出一堆媒体和群组，可能根本就没有人愿意参与。</p>
-</blockquote>
-<p>◆ 点评</p>
-<p>点评:★★★★★</p>
-]]></content>
-      <categories>
-        <category>PM</category>
-      </categories>
-      <tags>
-        <tag>读书笔记复盘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《君主》观后感</title>
-    <url>/2020/04/26/%E3%80%8A%E5%90%9B%E4%B8%BB%E3%80%8B%E8%A7%82%E5%90%8E%E6%84%9F/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="《君主》观后感"><a href="#《君主》观后感" class="headerlink" title="《君主》观后感"></a>《君主》观后感</h1><p>不得不承认，韩剧确实要好很多。</p>
-<p>国产剧总是拍都市剧、伦理剧、古装剧、家庭剧等，翻新也没花样，为了赚取注意力，沉迷流量神话。相比而言，韩剧的脑洞、剧情、主题等非常丰富。</p>
-<p>不过电视剧的主题分类其实是大同小异的，关键是如何做出创新，加入新元素。<br>而且如《红楼梦》、《父母爱情》、《大宅门》等等，也是一个时代与环境的记录。文学取之现实并反映现实，应该说的是这个道理。国情、背景之类的前提不同，所孕育出的文学形式应该是不同的。暂不讨论这种大环境对电视剧的文学主题的影响，这里只讨论为什么近几年大热的韩剧，信手拈来一部，都还不错的原因。</p>
-<p>个人认为，这种差距的原因至少表现在两点上：</p>
-<p>一是受众层面。<br>观众审美提高，或者说是在新的时代成长并被环境塑造出的观众，对于新剧情、新形式、新主题的电视剧文学的渴求。再或者说，是审美形式发生了改变。近些年韩剧刚好迎合了观众的审美。</p>
-<p>二是传者层面。这里仅表达个人看法。<br>首先就是剧本差，以最近的韩剧《君主》为例，其中至少有两个新元素的运用，国内差之千里。一是“符号-意义”，男主通过“符号对于意义的表征+符号只是意义的指涉”分析出反派没死这段剧情；二是“量子物理学”，“一个电子可以同时存在于电子轨道的任何一个地方→粒子同时存在于不同的时空+平行宇宙”。一为文，二为理，是整个剧整体水平的缩影，这要求编剧要有这种知识底蕴才能写出这种剧本，处理其中的象征符与意义的关系，以及基本理解量子力学从而处理平行宇宙时间线的关系，最终使观众观看时，既陷入悬疑的剧情中，又能清晰呈现这条线，引导观众发掘出来，且符号逻辑。最终呈现就不弱智。<br>其次是拍摄技巧。这个我不是很理解，就不多分析。但是韩剧的服装、色调、道具以及这些外在的客观物质塑造的拍戏场景，我作为观众，给我的感觉是很舒服，不突兀、不违和、不假。这里有一点值得注意，关于布景、运镜之类的，我个人认为，当事实上的技巧在现阶段的技术水平限制下已经无法提升之时，那么其最终讲的逻辑，和剧情相匹配的逻辑。编剧对于场景的设想才是指导所有的后续拍、演的根本。</p>
-<p>综上，但是比之韩剧，那种脑洞、那种新元素的运用，并对当下具有新审美的观众的吸引与共情，国产剧差很多。因为脑洞是建立在知识储备和拍摄实践经验上的。仅仅一点，《星际穿越》、《彗星来的那一夜》等电影，还有很多电视剧，早就是用量子力学作为影视的那个点（我不知道术语叫什么），我们根本没有。有也只是去年台湾的《想见你》。</p>
-<p>需要强调的是，我所选取的样本很小，可能不具代表性，无论是国产剧还是韩剧都有精粹有糟粕。但是韩国的影视做得比国内要好得多，我相信这是公认的。我也相信国产剧在我们的国情和背景之下做出来的，也是有很大价值的，并且积累了符合国情的实践技巧。比如说古装剧、知青主题的剧，我作为普通观众，其色调和场景，都能看到明显的进步。</p>
-]]></content>
-      <categories>
-        <category>新传</category>
-      </categories>
-      <tags>
-        <tag>胡思乱想</tag>
       </tags>
   </entry>
   <entry>
@@ -5306,6 +4064,1229 @@
       </tags>
   </entry>
   <entry>
+    <title>《从零开始做运营》读书笔记</title>
+    <url>/2020/04/28/%E3%80%8A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E5%81%9A%E8%BF%90%E8%90%A5%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>从零开始做运营<br>张亮<br>371个笔记</p>
+<p>◆ 前 言</p>
+<blockquote>
+<p>产品与运营本来是一对孪生兄弟</p>
+</blockquote>
+<blockquote>
+<p>产品负责生孩子，运营负责养孩子。</p>
+</blockquote>
+<p>◆ 第一章 实话实说说运营</p>
+<blockquote>
+<p>我一直认为产品经理这样的职位并不是为应届生准备的，产品经理所需要的知识结构、需求敏感性、需求转化的能力不是普通应届生所能企及的。</p>
+</blockquote>
+<blockquote>
+<p>一毕业就能做产品经理的同学有没有？有，但这些人可能在校期间就已经有了互联网产品的设计经验，或者已经作为实习生在产品经理岗位上进行了深入的实习。</p>
+</blockquote>
+<blockquote>
+<p>我通常会给他们一些建议，而最多的建议就是：“为什么不尝试从互联网运营开始做起呢？”</p>
+</blockquote>
+<p>◆ 苦哈哈的运营、产品两兄弟</p>
+<blockquote>
+<p>产品经理有很多工作要做，其中很大一部分是需求分析、文档写作以及资源沟通。一个好的产品经理，需要有“跟到底”的精神。这是真理。</p>
+</blockquote>
+<p>◆ 开阔的职业发展道路</p>
+<blockquote>
+<p>你需要的是让自己变得有责任心和有价值。</p>
+</blockquote>
+<blockquote>
+<p>“产品经理是通往CEO（首席执行官）的训练营”</p>
+</blockquote>
+<p>◆ 假如你是一个实习生</p>
+<blockquote>
+<ol>
+<li>盛大内部有一句名言：“产品不足运营补。”请问这句话有没有道理？</li>
+<li>如果你认为有道理，那么什么样的产品适用于这句话，什么样的产品不适用于这句话？</li>
+<li>如果你认为没有道理，请问为什么没有道理，你认为这句话的问题出在哪里？</li>
+</ol>
+</blockquote>
+<p>◆ 运营是个筐</p>
+<blockquote>
+<p>产品是一项贯穿用户整个生命周期的设计行为。它根据用户的需求而变化，最终完成对用户需求的实现与用户体验的完善。</p>
+</blockquote>
+<blockquote>
+<p>进行产品推广、促进用户使用、提高用户认知</p>
+</blockquote>
+<blockquote>
+<p>预留好运营接口、做好对应的运营准备</p>
+</blockquote>
+<blockquote>
+<p>获取初始用户、培养种子用户</p>
+</blockquote>
+<blockquote>
+<p>进行市场推广、开展各项活动，加速用户与收入的增长速度</p>
+</blockquote>
+<blockquote>
+<p>保持用户稳定，保障收入稳定</p>
+</blockquote>
+<blockquote>
+<p>关怀用户，并试图将已有用户导入新的产品</p>
+</blockquote>
+<blockquote>
+<p>第一，流量建设。</p>
+</blockquote>
+<blockquote>
+<p>持续的大量的流量</p>
+</blockquote>
+<blockquote>
+<p>第二，用户维系。</p>
+</blockquote>
+<blockquote>
+<p>如何持续有效地推动用户的活跃与留存，并从中发现有价值甚至高价值的用户</p>
+</blockquote>
+<blockquote>
+<p>“User”（使用者）与“Member”（会员）</p>
+</blockquote>
+<blockquote>
+<p>内容运营、用户运营、活动运营。而这三类的总和，即我们常说的“产品运营”。</p>
+</blockquote>
+<blockquote>
+<p>内容运营非常倚重文案能力，</p>
+</blockquote>
+<blockquote>
+<p>了解用户互动的逻辑</p>
+</blockquote>
+<blockquote>
+<p>用户运营首先要做的事情，就是掌握用户结构。</p>
+</blockquote>
+<blockquote>
+<p>了解用户的规模以及增长或衰退情况，并进行适当的用户分级，</p>
+</blockquote>
+<blockquote>
+<p>用户都处于怎样的生命周期。</p>
+</blockquote>
+<blockquote>
+<p>熟练掌握网站的用户行为数据分析，</p>
+</blockquote>
+<blockquote>
+<p>从用户需求出发反向提出产品优化建议的能力，</p>
+</blockquote>
+<blockquote>
+<p>活动是用户感知最明显的一项运营工作。</p>
+</blockquote>
+<blockquote>
+<p>• 活动文案撰写</p>
+</blockquote>
+<blockquote>
+<p>• 活动流程设计</p>
+</blockquote>
+<blockquote>
+<p>• 活动规则制定</p>
+</blockquote>
+<blockquote>
+<p>• 活动成本预估</p>
+</blockquote>
+<blockquote>
+<p>• 活动预期收益</p>
+</blockquote>
+<blockquote>
+<p>• 活动效果统计</p>
+</blockquote>
+<blockquote>
+<p>• 活动改进措施</p>
+</blockquote>
+<p>◆ 运营是万能的吗</p>
+<blockquote>
+<p>腾讯经常被人说抄袭，360被指作流氓，百度一直被批评竞价排名，这些批评不但与公关工作有关，也和运营方式有关。</p>
+</blockquote>
+<blockquote>
+<p>最近网站要拉动注册用户量，你可以想出多少种办法来实现这一目标？</p>
+</blockquote>
+<blockquote>
+<p>用户邀请用户，</p>
+</blockquote>
+<blockquote>
+<p>不仅仅是成功的邀请人有奖励，新注册的用户也可以获得奖励。</p>
+</blockquote>
+<blockquote>
+<p>设置一些阻碍，让用户在未完成注册的情况下权限降低</p>
+</blockquote>
+<blockquote>
+<p>产品人员进行支持</p>
+</blockquote>
+<blockquote>
+<p>采用预注册的方式，为每个进入的用户保留一个ID</p>
+</blockquote>
+<blockquote>
+<p>如果最近网站的流失率有点高，大家有什么好的运营办法？</p>
+</blockquote>
+<blockquote>
+<p>对流失用户开展挽回活动，给他们一些奖励</p>
+</blockquote>
+<blockquote>
+<p>只能确保其他没流失的用户保持活跃，鼓励留存</p>
+</blockquote>
+<blockquote>
+<p>先看看流失的用户是什么类型，是否具备共同点，找出他们流失的原因</p>
+</blockquote>
+<blockquote>
+<p>去掉这些因素，再专门设计一个针对流失用户的活动</p>
+</blockquote>
+<blockquote>
+<p>先送一些礼品，或者告知他们之前导致他们离开的阻碍已经消除了，看他们是否愿意回归</p>
+</blockquote>
+<blockquote>
+<p>老板希望能够增加活动运营的频率，最好每天都能有网站活动，运营人员应该怎么办？</p>
+</blockquote>
+<blockquote>
+<p>增加开发人员和设计人员，我们多设计一些活动，确保每天都有新活动上线。</p>
+</blockquote>
+<blockquote>
+<p>把活动分类，通过模板来解决设计问题，一套程序可以同时做多个活动。</p>
+</blockquote>
+<blockquote>
+<p>先看一下我们目前的运营目标，以及用户的行为数据，考虑是不是能够做一套工具，帮助我们快速上线活动。</p>
+</blockquote>
+<blockquote>
+<ol>
+<li>运营工作与产品工作是对立的吗？</li>
+<li>如果你准备从运营工作进入互联网行业，你打算如何规划自己的职业生涯？</li>
+</ol>
+</blockquote>
+<p>◆ 内容运营的初期事项</p>
+<blockquote>
+<p>• 内容消费者定位（网站定位+受众定位+运营目标）。<br>• 内容来源确认（采集或者寻找内容生产者）。<br>• 内容标准的确立（有哪些内容、如何展现内容、评判内容质量的标准）。</p>
+</blockquote>
+<blockquote>
+<p>内容流转的机制</p>
+</blockquote>
+<blockquote>
+<p>准备内容并在内容供应链完成</p>
+</blockquote>
+<blockquote>
+<p>确立好内容面对的初始用户群</p>
+</blockquote>
+<blockquote>
+<p>种子用户</p>
+</blockquote>
+<p>◆ 持续运营中的内容运营——以知乎为例</p>
+<p>转化分析</p>
+<blockquote>
+<p>历史推送数据。它主要包括使用过什么样的渠道，各个渠道的到达率与转化率如何。</p>
+</blockquote>
+<blockquote>
+<p>历史推送数据。它主要包括使用过什么样的渠道，各个渠道的到达率与转化率如何。</p>
+</blockquote>
+<p>对比分析</p>
+<blockquote>
+<p>竞品选择的渠道。如果没有历史数据，就需要预估，此时比较具有参考价值的，是竞品的渠道选择。</p>
+</blockquote>
+<blockquote>
+<p>竞品选择的渠道。如果没有历史数据，就需要预估，此时比较具有参考价值的，是竞品的渠道选择。</p>
+</blockquote>
+<blockquote>
+<p>根据用户的行为去猜测用户可能会在哪些渠道上接受信息，比如搜索引擎，属于几乎人人都会去接触的；比如电商网站用户经常会去导购平台、返利平台。</p>
+</blockquote>
+<blockquote>
+<p>呈漏斗状</p>
+</blockquote>
+<blockquote>
+<p>漏斗的每个环节的转化率分别是多少</p>
+</blockquote>
+<blockquote>
+<p>渠道的质量分析</p>
+</blockquote>
+<blockquote>
+<p>成功到达用户的数量</p>
+</blockquote>
+<blockquote>
+<p>有多少用户打开、阅读了推送的内容</p>
+</blockquote>
+<blockquote>
+<p>有多少人进入网站（产品）中对应的Landing Page（着陆页）</p>
+</blockquote>
+<blockquote>
+<p>有多少用户完成了我们期望的转化</p>
+</blockquote>
+<blockquote>
+<p>内容推荐</p>
+</blockquote>
+<blockquote>
+<p>内容整合</p>
+</blockquote>
+<blockquote>
+<p>不再过多地依赖运营人员的引导，实现用户自主运营。</p>
+</blockquote>
+<p>◆ 内容运营的核心</p>
+<blockquote>
+<p>内容供应链的建立必然涉及三方：网站（产品）、内容生产者及内容消费者。</p>
+</blockquote>
+<blockquote>
+<p>内容消费者的定位是动态的，</p>
+</blockquote>
+<blockquote>
+<p>以内容为主的网站（产品）都需要评估让用户进入的速率以及用户选型￼的控制。</p>
+</blockquote>
+<blockquote>
+<p>控制内容消费者进入最成熟的方案是：邀请机制。</p>
+</blockquote>
+<blockquote>
+<p>让人感受到“稀缺性”，能够带来精确锁定，也会造成黑市交易。</p>
+</blockquote>
+<blockquote>
+<p>可以制造垂直领域用户群，但可能导致用户群体过于单一。</p>
+</blockquote>
+<blockquote>
+<p>用户群体单一可以让网站（产品）拥有较好的掌控能力和内容生产能力，但长期来说会因为缺乏成长性与活力降低用户的兴趣。</p>
+</blockquote>
+<blockquote>
+<p>邀请码让潜在的用户充满了好奇，</p>
+</blockquote>
+<blockquote>
+<p>如果用户预期控制不当，内容生产者或者运营者的能力不足</p>
+</blockquote>
+<blockquote>
+<p>“护城河机制”是指人为确立一个较高的门槛，只有跨过了这一门槛的用户才能获得一定的权限和资格。</p>
+</blockquote>
+<blockquote>
+<p>需要有一套完善的激励措施，来激励他们持续地贡献内容</p>
+</blockquote>
+<blockquote>
+<p>内容运营者要充分理解并信任内容生产者的价值，</p>
+</blockquote>
+<blockquote>
+<p>运营人员要知道内容生产者是谁，知道他们能贡献哪个方面或哪个层次的内容，并且知道如何推动他们贡献内容。</p>
+</blockquote>
+<blockquote>
+<p>增强了用户与网站之间的互动；网站运营人员有机会了解用户对该内容的态度；通过数据挖掘，可以尝试了解用户对这一类型的内容是否感兴趣，进一步了解用户对这一类型的内容背后的产品的认知态度。</p>
+</blockquote>
+<blockquote>
+<p>这个功能其实代表的是一种反馈机制。</p>
+</blockquote>
+<blockquote>
+<p>某些企业利用自有的独立平台进行运营</p>
+</blockquote>
+<blockquote>
+<p>有一些内容运营者并未拥有独立的内容平台，那么它们就会通过EDM（电子邮件营销），甚至是其他媒体平台开展内容运营。</p>
+</blockquote>
+<blockquote>
+<p>某一篇内容获得了大量的阅读、转发甚至点赞，我们可以尝试对这一类型的内容继续强化</p>
+</blockquote>
+<blockquote>
+<p>跟进策略</p>
+</blockquote>
+<p>◆ 让内容健康地流转</p>
+<blockquote>
+<p>引入运营者的一个工作职责——用户研究</p>
+</blockquote>
+<blockquote>
+<p>对于内容运营者来说，要让内容生产者持续地创造内容，就要尽量避免在一个时间段内，带来大量与内容生产者创造的内容类型、内容质量不匹配的内容消费者。</p>
+</blockquote>
+<blockquote>
+<p>人为隔离对丰富社区内容拥有不同贡献度的用户，以保证核心的内容生产者不受到过多的干扰，尽量避免“鸡同鸭讲”甚至互相倾轧的现象，以维护内容社区的健康、稳定。</p>
+</blockquote>
+<blockquote>
+<p>这些行为的根本目的之一是为了避免大量的垃圾内容填充到用户的Timeline（时间轴）中，造成过于负面的影响，从而损害用户体验，进而威胁整个微信产品的稳定。</p>
+</blockquote>
+<p>◆ 如何让社区用户动起来</p>
+<blockquote>
+<p>“二八法则”在内容社区里可能会放大到1∶9，甚至是1∶999。</p>
+</blockquote>
+<blockquote>
+<p>拥有稀缺内容或者优质内容的社区，会采用抬高用户的准入门槛的方式，通过设置护城河、用户分级，让真正需要内容的用户进入</p>
+</blockquote>
+<blockquote>
+<p>建立标准化内容，让用户按照规定动作参与社区运营</p>
+</blockquote>
+<blockquote>
+<p>结构化处理可以简化用户点评的流程，明晰用户需要提供的内容，从而确保用户可以提供合适的内容。</p>
+</blockquote>
+<blockquote>
+<p>140字的内容限制</p>
+</blockquote>
+<blockquote>
+<p>，让用户发现其实制造内容并不是一件非常困难的事情，</p>
+</blockquote>
+<blockquote>
+<p>让不同类型的用户都可以找到适合自己的动作</p>
+</blockquote>
+<blockquote>
+<p>制造观念冲突，让用户自发站队</p>
+</blockquote>
+<blockquote>
+<p>“制造冲突”是一种比较有风险的做法。当然，这也是一种能够在短时间内制造出用户活跃和用户引入的做法。</p>
+</blockquote>
+<blockquote>
+<p>最通常的运营方式是利用社会热点，创造多种不同角度、不同立场的初始内容，然后通过多种手段，让认同不同观点的用户发现彼此，并制造出冲突，从而引发用户的站队。</p>
+</blockquote>
+<blockquote>
+<p>申请一个微信公众号，坚持发布原创内容，在一个月的时间里做到1000个粉丝，并完成数据分析与运营总结，然后制定下一阶段运营规划。</p>
+</blockquote>
+<p>◆ 第四章 做一个有趣的活动</p>
+<blockquote>
+<p>通过组织活动在短期内快速提升相关指标的运营手段</p>
+</blockquote>
+<blockquote>
+<p>短期：在一个较短的时间内开展活动。<br>快速：用简单直接的方式在较短时间内达成结果。<br>提升指标：目的明确，提升活动对应指标，达成KPI。</p>
+</blockquote>
+<blockquote>
+<p>• 活动设计与成本预算。</p>
+</blockquote>
+<blockquote>
+<p>• 活动风险管控与应急预案。</p>
+</blockquote>
+<blockquote>
+<p>• 活动数据监测与应对策略。</p>
+</blockquote>
+<blockquote>
+<p>• 活动效果判定与总结。</p>
+</blockquote>
+<p>◆ 活动设计与成本预算</p>
+<blockquote>
+<p>不管什么类型的运营，都逃不掉成本、预算这两个词</p>
+</blockquote>
+<blockquote>
+<p>将活动设计得吸引用户，同时又能够将成本控制在预算之内</p>
+</blockquote>
+<blockquote>
+<p>常见的做法</p>
+</blockquote>
+<blockquote>
+<p>是采用抽奖的形式</p>
+</blockquote>
+<blockquote>
+<p>将一个或几个看起来昂贵的奖品加上部分看起来不怎么贵的奖品进行组合，利用人们的侥幸心理加以诱惑</p>
+</blockquote>
+<blockquote>
+<p>为什么微博上各种转发抽××奖品的活动会人气这么旺？因为对用户来说，这类活动的操作成本很低，</p>
+</blockquote>
+<blockquote>
+<p>新浪每年都做的活动“让红包飞”，其实新浪几乎不用负担成本，但是效果是有目共睹的，至少在春节期间，微博会被刷爆。</p>
+</blockquote>
+<blockquote>
+<p>一曰借力，二曰借势。借力是借别人的力，借势是借环境的势。</p>
+</blockquote>
+<blockquote>
+<p>尝试与别的网站（产品）联合做活动，共担成本。</p>
+</blockquote>
+<blockquote>
+<p>可以借势的活动用抽奖的方式进行，可以借力的活动用合作分摊成本。</p>
+</blockquote>
+<blockquote>
+<p>就要拿出数据说服老板，要么降低活动预期，要么增加活动预算。</p>
+</blockquote>
+<blockquote>
+<p>以时间为理由做活动，比较容易获得用户的认同。</p>
+</blockquote>
+<blockquote>
+<p>这种活动，通常会利用商品的一个类目或者共同属性，甚至产品迭代的某个重要版本，有针对性地开展活动。</p>
+</blockquote>
+<blockquote>
+<p>不管是社会热点、娱乐热点，还是生活热点，都可以拿来作为活动素材、活动理由。</p>
+</blockquote>
+<blockquote>
+<p>自造热点</p>
+</blockquote>
+<blockquote>
+<p>《引爆点》、《部落》、《乌合之众》</p>
+</blockquote>
+<blockquote>
+<p>天猫的“双十一”活动策划，淘宝硬生生地炒出一个“光棍节”</p>
+</blockquote>
+<blockquote>
+<p>活动规则的设计准则就一句话：流程简单少思考，文案清晰无歧义。</p>
+</blockquote>
+<blockquote>
+<p>• 普奖并不一定比抽奖的效果更好。<br>• 抽奖的设计不是越复杂越好。<br>• 活动规则越复杂，用户逃跑的心态越强烈。<br>• 采用游戏化或任务化的设计，</p>
+</blockquote>
+<blockquote>
+<p>• 不管活动设计得多好，如果活动宣传没做好，活动效果还是会很差。</p>
+</blockquote>
+<blockquote>
+<p>宣传渠道投放</p>
+</blockquote>
+<blockquote>
+<p>你时刻记住你的用户是谁</p>
+</blockquote>
+<blockquote>
+<p>他们处于怎样的生命周期，活动的设计是为了达成什么目标。</p>
+</blockquote>
+<blockquote>
+<p>用户经常在哪里出没、对怎样的内容感兴趣</p>
+</blockquote>
+<blockquote>
+<p>百度指数相关活动的搜索、来源都可以作为参考。</p>
+</blockquote>
+<blockquote>
+<ol>
+<li>活动主题：</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="2">
+<li>活动对象：</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="3">
+<li>活动时间：</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="4">
+<li>活动描述：</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="5">
+<li>规则详情：</li>
+</ol>
+</blockquote>
+<blockquote>
+<p>让用户看得懂，让开发人员看得懂，</p>
+</blockquote>
+<blockquote>
+<ol start="6">
+<li>投放渠道：</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="7">
+<li>风险控制：</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="8">
+<li>监测指标：</li>
+</ol>
+</blockquote>
+<blockquote>
+<p>包括投放渠道的监控、用户参与情况的监控、奖励发放的监控等。</p>
+</blockquote>
+<blockquote>
+<ol start="9">
+<li>成本预估：</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="10">
+<li>效果评估：</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="11">
+<li>FAQ（常见问题解答）：</li>
+</ol>
+</blockquote>
+<blockquote>
+<p>提供给客服或者相关人员，帮助解决用户在参与活动中遇到的问题</p>
+</blockquote>
+<blockquote>
+<p>如果活动规模大，仅有FAQ还不够，你需要提前准备客服的培训文件</p>
+</blockquote>
+<blockquote>
+<p>活动策划的文本</p>
+</blockquote>
+<blockquote>
+<p>一部分作为前端展示，除了让用户看得明白如何参与活动，</p>
+</blockquote>
+<blockquote>
+<p>另一部分是作为与开发人员的约定，活动如何设计、如何实现，需要和开发人员沟通，</p>
+</blockquote>
+<blockquote>
+<p>活动的理由、耗费运营成本的代价、上线后可能带来的预期收益</p>
+</blockquote>
+<blockquote>
+<p>每件事都必须进行细节确认、每个时间节点都必须进行把控，</p>
+</blockquote>
+<blockquote>
+<p>活动结束后，一份关于活动效果的报告</p>
+</blockquote>
+<blockquote>
+<ol>
+<li>活动概述：</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="2">
+<li>活动效果统计：</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="3">
+<li>宣传效果统计：</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="4">
+<li>反思与总结：</li>
+</ol>
+</blockquote>
+<blockquote>
+<p>真刀实枪地写一个活动策划案，在这里引入一个例子。</p>
+</blockquote>
+<blockquote>
+<p>如何控制运营风险，把用户体验做到最好</p>
+</blockquote>
+<blockquote>
+<p>产品发展初期，为了吸引用户进入，风控可以较为宽松，甚至直接不做风控。产品发展期，为了促进用户留存及活跃，对部分提升用户留存和活跃的活动可以使用较为宽松的风控，但涉及到付费行为，就需要较为严格的风控。产品成熟期，需要较为严格的风控，这个时期最怕的就是数据的大起大落，严格风控可以帮助你将数据变化控制在比较平稳的范围内，也可以对有实际价值的客户提供更多奖励。产品衰退期，可以采用较为宽松的风控以延长产品的生命周期。</p>
+</blockquote>
+<blockquote>
+<p>活动是一种短期刺激运营指标的手段</p>
+</blockquote>
+<blockquote>
+<p>在活动设计的有效期内，通过活动这种运营手段，有效地提升相关核心指标的数据表现</p>
+</blockquote>
+<blockquote>
+<p>有时候监控的数据颗粒度太粗，很难准确定位问题，有时候监控的数据颗粒度太细，开发人员怨声载道，认为工作量太大，不愿意开发。</p>
+</blockquote>
+<blockquote>
+<p>如果你要提升交易总额，那么核心数据就不是转化率，而是客单价和下单次数，转化率只是辅助指标，只需要统计，而不需要监控。如果你要提升转化率，那么核心数据就是转化率，所以你要监控的是进入流量和购买流量，客单价和下单次数只需要统计，而不需要监控。如果你的产品是社区，你要提升社区某个版块的发帖数，那么你要监控的就是发帖量，只需统计回复数而不用监控。</p>
+</blockquote>
+<blockquote>
+<p>如果出现资源不足，无法支撑密集的活动监控数据时，我的建议不是追着开发人员去埋点<a href="#">插图</a></p>
+</blockquote>
+<p>◆ 完成活动设计之后做什么</p>
+<blockquote>
+<p>产品和运营人员最常见的困境就是：没有资源。</p>
+</blockquote>
+<blockquote>
+<p>设计人员开始视觉设计</p>
+</blockquote>
+<blockquote>
+<p>开发人员开始写活动代码</p>
+</blockquote>
+<blockquote>
+<p>测试人员好好聊一聊上线检查单和测试任务</p>
+</blockquote>
+<blockquote>
+<p>各条线的工作计划和时间节点，是否有延迟，完成进度如何</p>
+</blockquote>
+<blockquote>
+<p>需求实现完成度，有没有遗漏的需求</p>
+</blockquote>
+<blockquote>
+<p>上线前各方资源准备情况的检查</p>
+</blockquote>
+<p>◆ 写一份靠谱的活动总结</p>
+<blockquote>
+<p>成本测量原则</p>
+</blockquote>
+<blockquote>
+<p>所谓成本测量原则，是指在活动设计阶段，设定一个总成本、人均成本以及活动目标值，活动结束时，考核成本是否在预期成本以内。</p>
+</blockquote>
+<blockquote>
+<p>将活动总成本控制在预算总成本以内，不超发，同时单个指标的成本越低越好。</p>
+</blockquote>
+<blockquote>
+<p>KPI达成原则</p>
+</blockquote>
+<blockquote>
+<p>KPI达成原则的预期是：用超出预期的效果来抵消成本控制不当的负面影响。</p>
+</blockquote>
+<p>◆ 以系统的观念对待活动策划</p>
+<blockquote>
+<p>考虑“系统复用”的课题</p>
+</blockquote>
+<blockquote>
+<p>具备周期性活动策划的意识</p>
+</blockquote>
+<blockquote>
+<p>可扩展，系统本身的开放性很高，因此可以兼容多个产品设计方案的填充；可配置，调整配置就可以产生各种不同的效果；可通用，用户的需求有核心需求和边缘需求，系统也有核心功能和扩展功能，核心功能越没有针对性，可复用的可能性就越高。</p>
+</blockquote>
+<blockquote>
+<p>“签到”是一个特别常见的周期性活动策划。</p>
+</blockquote>
+<blockquote>
+<p>周期性的活动有助于用户习惯的养成，可以减少宣传成本，养成习惯的用户到了时间节点会主动参与活动。</p>
+</blockquote>
+<blockquote>
+<p>用户推广计划</p>
+</blockquote>
+<blockquote>
+<p>从已有用户出发，请已有用户在社交圈传播自己的产品，并定向邀请自己的好友加入使用，作为回报，邀请他人的用户和被邀请的用户都有可能获得奖励。</p>
+</blockquote>
+<p>◆ 你了解你的用户吗？</p>
+<blockquote>
+<p>做一个User Referral（用户推荐）活动</p>
+</blockquote>
+<blockquote>
+<p>用户喜欢用哪些渠道进行分享和邀请</p>
+</blockquote>
+<blockquote>
+<p>和哪些外部平台做联合推广，会达到最优效果。</p>
+</blockquote>
+<blockquote>
+<p>产品也因为用户的需求而变得丰满、甚至臃肿起来，</p>
+</blockquote>
+<blockquote>
+<p>• 通过数据窥探用户。<br>• 直面用户。</p>
+</blockquote>
+<blockquote>
+<p>浏览</p>
+</blockquote>
+<blockquote>
+<p>对应的数据指标是停留时长</p>
+</blockquote>
+<blockquote>
+<p>点击</p>
+</blockquote>
+<blockquote>
+<p>注册</p>
+</blockquote>
+<blockquote>
+<p>登录</p>
+</blockquote>
+<blockquote>
+<p>蹦失</p>
+</blockquote>
+<blockquote>
+<p>蹦失不等于跳出，蹦失是用户直接离开页面或者关闭浏览器。跳出是离开这个页面，在正常流程中，用户也会跳出，不一定是蹦失。</p>
+</blockquote>
+<blockquote>
+<p>操作</p>
+</blockquote>
+<blockquote>
+<p>订单量、客单价</p>
+</blockquote>
+<blockquote>
+<p>转化率</p>
+</blockquote>
+<blockquote>
+<p>列表页转化率=最终下单用户数/商品列表页到达用户数<br>详情页转化率=最终下单用户数/商品详情页到达用户数<br>支付转化率（支付成功率）=支付成功的用户/最终下单用户数</p>
+</blockquote>
+<blockquote>
+<p>让相似的用户模型购买过的商品被互相推荐，而不具共性的用户模型购买过的商品被过滤。</p>
+</blockquote>
+<blockquote>
+<p>“个性化运营”、“精准营销”所强调的，应当满足用户的个体需求，而不是刻意寻求共性的解决方案。</p>
+</blockquote>
+<blockquote>
+<p>有一种方法被广泛使用，产品经理称之为“用户研究”。</p>
+</blockquote>
+<blockquote>
+<p>用户运营人员千万要重视与客服同事的沟通，因为当用户有不满时，会第一时间找客服</p>
+</blockquote>
+<blockquote>
+<p>先记录所有的客服事件并挖掘其背后的问题，再归纳其共性。</p>
+</blockquote>
+<blockquote>
+<p>你可以主动对这个用户或者这类用户进行电话回访</p>
+</blockquote>
+<blockquote>
+<p>并不是所有的情况都适合回访，</p>
+</blockquote>
+<blockquote>
+<p>选型用户，就是预设立场选出来的典型用户</p>
+</blockquote>
+<blockquote>
+<p>对于产品来说，快速迭代、试错调整，是必由之路。</p>
+</blockquote>
+<blockquote>
+<p>在产品迭代中，有很多需求是故意不解决的，这就涉及如何确定产品功能优先级的问题</p>
+</blockquote>
+<p>◆ 用户运营的工作内容</p>
+<blockquote>
+<p>最后指标都会落实到最终的运营收益上，收益可能是用户数也可能是交易额或者利润</p>
+</blockquote>
+<blockquote>
+<p>通常我们讨论一个网站（产品）的用户规模、付费状况、运营的数据健康程度等，其中很多方面都落脚在用户运营。</p>
+</blockquote>
+<blockquote>
+<p>开源、节流（减少流失）、维持（促进活跃及提高留存）、刺激（转化付费）</p>
+</blockquote>
+<blockquote>
+<ol>
+<li>注册渠道的挑选与打开。</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="2">
+<li>提升注册转化率。</li>
+</ol>
+</blockquote>
+<blockquote>
+<p>落脚点在沉默用户或流失用户</p>
+</blockquote>
+<blockquote>
+<ol>
+<li>定义用户沉默或流失的标准。</li>
+</ol>
+</blockquote>
+<blockquote>
+<p>弄清楚用户是在什么情况下流失的</p>
+</blockquote>
+<blockquote>
+<p>当用户行为符合流失模型定义时发出警告</p>
+</blockquote>
+<blockquote>
+<ol start="3">
+<li>对已流失的用户进行挽回。</li>
+</ol>
+</blockquote>
+<blockquote>
+<p>预防流失，而不是挽回</p>
+</blockquote>
+<blockquote>
+<p>落脚点在用户留存率和用户活跃率</p>
+</blockquote>
+<blockquote>
+<ol>
+<li>定义用户留存与用户活跃的标准。</li>
+</ol>
+</blockquote>
+<blockquote>
+<p>2.提升用户留存率。</p>
+</blockquote>
+<blockquote>
+<p>3.提升用户活跃度（用户行为、产品使用频次等）。</p>
+</blockquote>
+<blockquote>
+<p>1.通过一系列行为让未付费的活跃用户付费。</p>
+</blockquote>
+<blockquote>
+<p>2.通过机制让已付费的用户持续付费。</p>
+</blockquote>
+<blockquote>
+<p>企业意识到用户其实就是同一个群体，账号的共享之路就开启了，</p>
+</blockquote>
+<blockquote>
+<p>已有用户绑定社交账号后，知乎内容的转发和扩散变得很容易。以UGC为核心内容的社区，其内容在各个平台上的露出，是非常重要的。</p>
+</blockquote>
+<blockquote>
+<p>必须让用户付出一些成本，这样他才会在离开前有所犹豫。</p>
+</blockquote>
+<blockquote>
+<p>注册引导在开源的同时也大大推后了用户可能流失的时间。</p>
+</blockquote>
+<blockquote>
+<p>• 注册来源</p>
+</blockquote>
+<blockquote>
+<p>• 注册转化率</p>
+</blockquote>
+<blockquote>
+<p>• 蹦失页面</p>
+</blockquote>
+<blockquote>
+<p>如果用户肯留下来，网站（产品）就一直有机会获取这些资料，</p>
+</blockquote>
+<blockquote>
+<p>如果你有很好的开源引流的渠道，那么完全可以不急于获得更多的用户资料。</p>
+</blockquote>
+<blockquote>
+<p>更重要的并不是开源，而是要节流和刺激用户留存。</p>
+</blockquote>
+<blockquote>
+<p>• 在流失前，用户进行了哪些类似的行为。<br>• 这些用户是否集中于某一渠道。<br>• 这些用户的性别属性、地域属性、年龄层次、兴趣特征是否类似。<br>• 在发生流失的时间点，产品做了哪些动作，是否发布了新版本，是否更改了某些核心功能。</p>
+</blockquote>
+<blockquote>
+<p>获取一个新用户的成本，比维护一个老用户的成本要高得多。</p>
+</blockquote>
+<p>所以腾讯重产品、阿里重运营的说法本身就不严谨。</p>
+<blockquote>
+<p>这种细致到极限的产品运营，是腾讯能够这么多年屹立不倒的关键原因。这也是为什么我一直在各种场合强调运营与产品不可分割的原因。</p>
+</blockquote>
+<blockquote>
+<p>这种细致到极限的产品运营，是腾讯能够这么多年屹立不倒的关键原因。这也是为什么我一直在各种场合强调运营与产品不可分割的原因。</p>
+</blockquote>
+<p>◆ 市场拉用户，运营留用户</p>
+<blockquote>
+<p>用少量的用户引导，换取主动的用户进入、活跃、付费、甚至传播，</p>
+</blockquote>
+<blockquote>
+<p>这就是自运营。</p>
+</blockquote>
+<p>◆ 谈一谈用户激励</p>
+<blockquote>
+<p>头衔是一种简单、易用，同时几乎没有其他运营成本的策略，它往往和社区、游戏等产品形态相关，用来体现用户的贡献或者活跃度。</p>
+</blockquote>
+<blockquote>
+<p>等级机制之所以能够激励用户，是因为不同的等级会有对应的增值服务设计。</p>
+</blockquote>
+<p>◆ 尊重用户，但保持距离</p>
+<blockquote>
+<p>一个产品，最难做的不是加法；而是减法；最难的不是改变，最难的是坚持。</p>
+</blockquote>
+<blockquote>
+<p>运营者是管理者，而不是调停者。管理，就是确立规范，对符合规范者予以奖励，对不符合规范的，就惩罚；同时，要考虑如何将规范落实，而不是空有一堆条款作摆设。</p>
+</blockquote>
+<p>◆ 分级管理，用户运营的必备手段</p>
+<blockquote>
+<p>建立RFM模型，</p>
+</blockquote>
+<blockquote>
+<p>R是Recency，最近一次消费；F是Frequency，消费频率；M是Monetary，消费金额。这三个要素，可以简单有效地反馈客户的价值。</p>
+</blockquote>
+<blockquote>
+<p>R5F5M1</p>
+</blockquote>
+<p>◆ 如何获取种子用户</p>
+<blockquote>
+<p>太多的产品还没有积累到足够多的用户就失败了，这里面有产品的问题，也有运营的问题。</p>
+</blockquote>
+<blockquote>
+<p>用户之所以愿意沉浸在社区中，愿意提供内容，有两个动力：表达与认同。</p>
+</blockquote>
+<blockquote>
+<ol>
+<li>创始人关注每一个早期进入者。</li>
+</ol>
+</blockquote>
+<blockquote>
+<p>每个创始人都会与一些活跃度高的用户进行积极的互动，这在形成早期社区氛围的过程中，非常重要。</p>
+</blockquote>
+<blockquote>
+<ol start="2">
+<li>情感维系。</li>
+</ol>
+</blockquote>
+<blockquote>
+<p>与高活跃度、高质量的用户积极进行私信互动，</p>
+</blockquote>
+<blockquote>
+<p>任何关联都比情感关联弱，情感关联让早期用户更加愿意贡献内容，以及自发分享邀请自己的朋友进入。</p>
+</blockquote>
+<p>即刻/目前的jellow，创始人瓦恁经常在社区活跃，也是采用邀请制。用户质量非常高，且有用户基础。正式重新上线后，估计会掀起热潮。</p>
+<blockquote>
+<p>通过邀请制的方式</p>
+</blockquote>
+<blockquote>
+<p>数量。大概多少个种子用户会让应用爆发呢？或许1000～5000个就够了，但前提是，他们是种子用户，而不是初始用户。</p>
+</blockquote>
+<blockquote>
+<p>质量。</p>
+</blockquote>
+<blockquote>
+<p>种子用户不仅仅是传播产品最积极的用户，更是为产品出谋划策、提出建议的用户。</p>
+</blockquote>
+<blockquote>
+<p>应该如何面向种子用户做一些有价值的运营，从而让他们更加愿意贡献力量呢？</p>
+</blockquote>
+<ol>
+<li>仔细倾听种子用户的声音。</li>
+</ol>
+<blockquote>
+<p>把商务人员提出的需求做一个列表，然后与产品经理和开发负责人沟通，找到共性需求，并划分优先级。</p>
+</blockquote>
+<blockquote>
+<ol start="2">
+<li>与种子用户的关系尽量保持亲密。</li>
+</ol>
+</blockquote>
+<blockquote>
+<ol start="3">
+<li>真诚地对待所有种子用户。</li>
+</ol>
+</blockquote>
+<p>◆ 谈论数据的基础</p>
+<blockquote>
+<p>其中三个数据类型是所有运营人员都需要了解的</p>
+</blockquote>
+<blockquote>
+<p>渠道数据、成本数据、收益数据。</p>
+</blockquote>
+<blockquote>
+<p>获取数据的渠道有很多，</p>
+</blockquote>
+<blockquote>
+<p>关于自己获取的途径，App可以选择“埋点”、log等方式，而Web可以通过log、日志与按钮埋点等方式。</p>
+</blockquote>
+<blockquote>
+<p>第三方会提供外部工具服务</p>
+</blockquote>
+<blockquote>
+<p>Google Analytics（谷歌分析）、百度统计</p>
+</blockquote>
+<blockquote>
+<p>运营数据分析中，经常会使用环比和同比</p>
+</blockquote>
+<blockquote>
+<p>环比</p>
+</blockquote>
+<blockquote>
+<p>本日与前一日</p>
+</blockquote>
+<blockquote>
+<p>本月与上月</p>
+</blockquote>
+<blockquote>
+<p>本季度与上季度</p>
+</blockquote>
+<blockquote>
+<p>同比</p>
+</blockquote>
+<blockquote>
+<p>今年当日与去年当日</p>
+</blockquote>
+<blockquote>
+<p>今年当月与去年当月</p>
+</blockquote>
+<blockquote>
+<p>今年当季度与去年当季度</p>
+</blockquote>
+<blockquote>
+<p>环比显示短期的数据波动</p>
+</blockquote>
+<blockquote>
+<p>同比可以帮我们了解大环境下的数据波动</p>
+</blockquote>
+<p>◆ 数据分析的方法、误区与数据说谎的手法</p>
+<blockquote>
+<p>数据分析的能力是渐进的，对数据的敏感度是需要培养的</p>
+</blockquote>
+<blockquote>
+<p>UV（Unique Visitors）：独立访客数</p>
+</blockquote>
+<blockquote>
+<p>独立访客数和独立IP是两个概念。</p>
+</blockquote>
+<blockquote>
+<p>在同一台电脑上，你注册了一个新用户，你哥哥注册了另一个新用户。此时，网站的后台会记录1个独立IP，但同时会记录2个UV。</p>
+</blockquote>
+<blockquote>
+<p>如果在同一台电脑上，你和你哥哥都没有注册，只是浏览，那么后台会记录1个独立IP及1个UV。</p>
+</blockquote>
+<blockquote>
+<p>PV（Page Views）：页面访问量</p>
+</blockquote>
+<blockquote>
+<p>RV（Repeat Visitors）：重复访客</p>
+</blockquote>
+<blockquote>
+<p>TP（Time On Page）：页面停留时间</p>
+</blockquote>
+<blockquote>
+<p>Traffic Sources：流量来源渠道</p>
+</blockquote>
+<blockquote>
+<p>数据量越大、维度越多，数据越需要拆解，可以分为按照时间的拆解和按照相关性的拆解。</p>
+</blockquote>
+<blockquote>
+<p>• 不要夸大偶然事件，认为带来必然结果。</p>
+</blockquote>
+<blockquote>
+<p>避免用结论推导原因。</p>
+</blockquote>
+<blockquote>
+<p>发现数据增长了，然后寻找各种对数据增长可能有帮助的事件，并且将数据增长的原因归功于这些事件。</p>
+</blockquote>
+<blockquote>
+<p>最好的方式是再现。</p>
+</blockquote>
+<p>◆ 跳出数据看数据</p>
+<blockquote>
+<p>在进行数据分析的时候，其实想要了解的不仅仅是数据，而是数据背后的用户。</p>
+</blockquote>
+<blockquote>
+<p>先不要着急定义数据展现的意义，而是研究数据的波动和波动的节点，通过这一步去确立要研究哪些相关事件，研究用户行为还是系统事件</p>
+</blockquote>
+<p>◆ 运营的核心数据</p>
+<blockquote>
+<p>注册数据可能包括但不限于：</p>
+</blockquote>
+<blockquote>
+<p>注册用户的规模、增长速度——现在有多少用户，未来何时会有多少用户；<br>渠道质量——注册渠道有哪些，渠道的注册转化率如何；<br>注册流程质量——完成注册的用户数、注册流程中用户蹦失节点统计。<br>注册用户行为跟踪——完成注册后当时用户的行为统计。</p>
+</blockquote>
+<blockquote>
+<p>留存数据可能包括但不限于：<br>留存用户的规模，从注册到留存的转化率——已有注册用户中，多少注册用户会留下来，能否提升转化率，让更多的用户留存。<br>用户登录的时间、频率—留存的用户使用产品的习惯是登录后使用吗？如果是的话，他们都是什么时候登录，几天登录一次？<br>用户使用网站（产品）服务的时间、时长、频率等——每次用户使用产品，会停留多长时间，使用核心功能还是辅助功能，使用功能的频率是怎样的。</p>
+</blockquote>
+<blockquote>
+<p>活跃数据可能包括但不限于：<br>活跃用户的规模、增长速度，从注册到活跃的转化率——留下来的用户是活跃的用户，那么活跃的定义是什么，有多少用户符合这个定义，活跃用户的增长速度。<br>活跃用户的行为统计——活跃用户使用产品的哪些功能，他们每次使用产品的路径是不变的吗？对于新的功能，他们是如何使用的？<br>用户使用网站（产品）服务的频率、内容、行为——用户对网站（产品）的功能的使用情况，包括频率等；他们对内容的接受情况。</p>
+</blockquote>
+<blockquote>
+<p>付费数据很容易理解，大致包括：<br>付费用户规模、增长速度、注册到付费/活跃到付费的转化率——这决定了产品的盈利能力，收入增长的速度和宽度。<br>付费金额、频率等——简单来说，用户在此花多少钱，多久花一次钱？<br>付费用户的日常行为跟踪——了解用户不花钱的时候的一些行为。</p>
+</blockquote>
+<blockquote>
+<p>流失数据包含的内容也很容易理解，大致包括：<br>流失用户的规模、速度——用户流失了多少？每天流失的速度是10个还是10万个？这决定了产品的生命周期还能延续多久。<br>流失用户的日常行为跟踪——他们在流失之前做了什么？<br>用户流失的原因分析——为什么用户做了这些动作之后就会流失？<br>流失用户挽回策略和效果分析等——能够挽回这些用户吗？什么样的动作对挽回他们有帮助？这些动作可以长期做吗？</p>
+</blockquote>
+<p>◆ 当运营切入产品</p>
+<blockquote>
+<p>一个互联网企业的前进是四个轮子协同运转的结果，这四个轮子是：产品、运营、技术、市场。</p>
+</blockquote>
+<p>◆ 运营与产品的联动</p>
+<blockquote>
+<p>产品经理不断简化流程、缩短用户使用产品时的思考时间，让他们的行为更加自然、流畅</p>
+</blockquote>
+<blockquote>
+<p>运营人员则不断寻找尽可能多且准确的切入点让用户们多做一件事情，促进用户的转化。</p>
+</blockquote>
+<blockquote>
+<p>明明是自己先找到的用户需求，先想到的运营方案，可是竞争对手却赶在自己前面做好了一切。</p>
+</blockquote>
+<blockquote>
+<p>产品经理和运营人员</p>
+</blockquote>
+<blockquote>
+<p>必须让他们有相同的目标。</p>
+</blockquote>
+<p>◆ 当说到运营目标，我们在说什么</p>
+<blockquote>
+<p>从产品竞争开始，第二阶段是营销竞争</p>
+</blockquote>
+<blockquote>
+<p>拼的是流量</p>
+</blockquote>
+<blockquote>
+<p>营销竞争阶段以后，就是服务竞争。</p>
+</blockquote>
+<blockquote>
+<p>对于社区来说，服务沉淀得越久越好。</p>
+</blockquote>
+<blockquote>
+<p>很多运营者忙于KPI的达成，却很少有人停下来思考：</p>
+</blockquote>
+<blockquote>
+<p>• 为什么会有这样的KPI？<br>• 老板定义KPI的目的是什么？<br>• 我们目前所做的工作能否支撑KPI的实现？<br>• 难道KPI仅仅是一个数值，只要我们实现了就无需再考虑其他方面？</p>
+</blockquote>
+<blockquote>
+<p>你的运营思维都会打开，不仅仅是执行力的提高，而是视野的变化。</p>
+</blockquote>
+<p>◆ 用户习惯的养成</p>
+<blockquote>
+<p>用户习惯</p>
+</blockquote>
+<blockquote>
+<p>产品经理进行用户研究、交互设计的过程中</p>
+</blockquote>
+<blockquote>
+<p>更多的是心理学层面上的研究，主要讨论在产品的交互设计中，怎样能够让用户不假思索的使用产品。</p>
+</blockquote>
+<blockquote>
+<p>持续</p>
+</blockquote>
+<blockquote>
+<p>并不等于一个活动做一年</p>
+</blockquote>
+<blockquote>
+<p>每到这个节点，你都有对应的运营策略。</p>
+</blockquote>
+<blockquote>
+<p>固化</p>
+</blockquote>
+<blockquote>
+<p>不等于每到这个节点你都做同样的事情</p>
+</blockquote>
+<blockquote>
+<p>每到这个节点你会让用户有相似的感知。</p>
+</blockquote>
+<blockquote>
+<p>沉淀运营机制，形成运营规范。</p>
+</blockquote>
+<blockquote>
+<p>养成用户习惯。</p>
+</blockquote>
+<p>◆ 教育用户还是贴近用户</p>
+<blockquote>
+<p>“教育用户”就是在培养新的用户习惯。</p>
+</blockquote>
+<blockquote>
+<p>如果你的设计不符合用户的预期，并且你打算通过这些设计差异与竞争对手保留竞争优势，那么用户是需要被教育的。</p>
+</blockquote>
+<blockquote>
+<p>什么情形下需要教育用户</p>
+</blockquote>
+<blockquote>
+<p>• 产品大改版，很多功能发生了改变</p>
+</blockquote>
+<blockquote>
+<p>增加了新功能，或在某些特性上有大的改进。</p>
+</blockquote>
+<blockquote>
+<p> 产品未改变，但是运营端调整了机制、新增了活动。</p>
+</blockquote>
+<blockquote>
+<p>新用户进入，产品设计可能和市面上的同类产品有较大的区别，</p>
+</blockquote>
+<blockquote>
+<p>老用户回归，产品已经发生了很大变化。</p>
+</blockquote>
+<p>◆ 第九章 移动端的运营</p>
+<blockquote>
+<p>• 新App陷入“长尾困境”，难以传播和占据用户手机。</p>
+</blockquote>
+<p>◆ 流量，在哪？</p>
+<blockquote>
+<p>做Web，只要你能和入口保持良好的关系，拿得到推荐位、广告位，买得起关键词，合作起来风生水起，流量哗哗地进，</p>
+</blockquote>
+<blockquote>
+<p>做App，你除了要和入口（商店）保持良好的关系，拿到首发、推荐之外，还要有切实有效的办法从各个分散的入口导流。</p>
+</blockquote>
+<blockquote>
+<p>Web用户关闭的是浏览器，只要入口还在，就能想办法挽回用户，可App用户流失，删除的是应用，</p>
+</blockquote>
+<blockquote>
+<p>Web的流量越多越好，而App的流量越稳定越好。</p>
+</blockquote>
+<blockquote>
+<p>20%的用户在微信公众号中挑选内容，然后80%的用户在朋友圈阅读这些内容。</p>
+</blockquote>
+<blockquote>
+<p>绝大多数流量仍然集中在几家主要社交网站和App应用，其中</p>
+</blockquote>
+<blockquote>
+<p>微信、微博、QQ位列前三，而微信的分享回流率最高</p>
+</blockquote>
+<blockquote>
+<p>App获取用户的入口主要有如下几种。<br>• 应用商店的推荐、推广位。<br>• 与其他App的换量互推。<br>• 积分墙。<br>• 品牌手机预装。<br>• 各种排行榜。</p>
+</blockquote>
+<blockquote>
+<p>换量互推则更多地考虑用户的重合度以及产品对构建用户信任的帮助。</p>
+</blockquote>
+<blockquote>
+<p>需要考虑双方用户群是否吻合。</p>
+</blockquote>
+<blockquote>
+<p>你还需要考虑对方换量放置的位置，不宜藏得太深。</p>
+</blockquote>
+<blockquote>
+<p>对于通过换量获得的用户，你需要用相当棒的引导和策略让他们可以留下来，并转化为活跃用户甚至付费用户。</p>
+</blockquote>
+<p>◆ 移动端的运营</p>
+<blockquote>
+<p>移动端和PC端相比，内容运营的根本并没有改变——凡是内容运营，其核心竞争力都依然是内容的质量、时效等。但是有一点发生了变化：基于内容的用户互动越来越多，社交力量开始显现。</p>
+</blockquote>
+<blockquote>
+<p>针对性</p>
+</blockquote>
+<blockquote>
+<p>延续性</p>
+</blockquote>
+<blockquote>
+<p>一个叫作“乡土乡亲的茶铺”的微信公众号，有兴趣的朋友可以去看看这个做电商的微信公众号是怎么把社交元素加入内容运营的，已经到了疯狂的状态。</p>
+</blockquote>
+<blockquote>
+<p>移动端内容运营应当把握的原则是快速反应，包括对热点的快速把握、对用户反馈的快速响应等。</p>
+</blockquote>
+<blockquote>
+<p>在移动互联网时代，用户的时间已经被各种应用切割得非常细碎，只有对热点快速把握，对用户反馈快速响应，才能牢牢地抓住已经定位的用户，提供持续的、有针对性的内容，从而获得更多优势。</p>
+</blockquote>
+<blockquote>
+<p>先通过初始数据获取模型、再逐步上线并设置好调节阀的步骤</p>
+</blockquote>
+<blockquote>
+<p>在移动端开展活动，不仅仅要关注活动当期的效果，还应该关注用户的后续动向。</p>
+</blockquote>
+<p>◆ 关于社会化媒体矩阵的思考</p>
+<blockquote>
+<p>社会化媒体矩阵的前提之一是差异化。</p>
+</blockquote>
+<blockquote>
+<p>如果运营者本身没有高质量的内容或没有提供高质量内容的能力，以及让社会化媒体矩阵差异化运作的能力，那么就没有必要运营社会化媒体矩阵。</p>
+</blockquote>
+<blockquote>
+<p>如果做社会化媒体矩阵仅仅是为了呈现内容，你将很难在不同的平台实现差异化，很容易重复展现。</p>
+</blockquote>
+<blockquote>
+<p>如果你做内容的目的是促进转化与购买，那么社会化媒体矩阵就很有价值了。</p>
+</blockquote>
+<blockquote>
+<p>如果老王一开始就搞出一堆媒体和群组，可能根本就没有人愿意参与。</p>
+</blockquote>
+<p>◆ 点评</p>
+<p>点评:★★★★★</p>
+]]></content>
+      <categories>
+        <category>PM</category>
+      </categories>
+      <tags>
+        <tag>读书笔记复盘</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《永远的零售：厉玲的零售经营哲学》读书笔记</title>
     <url>/2020/04/24/%E3%80%8A%E6%B0%B8%E8%BF%9C%E7%9A%84%E9%9B%B6%E5%94%AE%EF%BC%9A%E5%8E%89%E7%8E%B2%E7%9A%84%E9%9B%B6%E5%94%AE%E7%BB%8F%E8%90%A5%E5%93%B2%E5%AD%A6%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>永远的零售：厉玲的零售经营哲学<br>厉玲<br>55个笔记</p>
@@ -5484,6 +5465,25 @@
       </categories>
       <tags>
         <tag>读书笔记复盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《君主》观后感</title>
+    <url>/2020/04/26/%E3%80%8A%E5%90%9B%E4%B8%BB%E3%80%8B%E8%A7%82%E5%90%8E%E6%84%9F/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="《君主》观后感"><a href="#《君主》观后感" class="headerlink" title="《君主》观后感"></a>《君主》观后感</h1><p>不得不承认，韩剧确实要好很多。</p>
+<p>国产剧总是拍都市剧、伦理剧、古装剧、家庭剧等，翻新也没花样，为了赚取注意力，沉迷流量神话。相比而言，韩剧的脑洞、剧情、主题等非常丰富。</p>
+<p>不过电视剧的主题分类其实是大同小异的，关键是如何做出创新，加入新元素。<br>而且如《红楼梦》、《父母爱情》、《大宅门》等等，也是一个时代与环境的记录。文学取之现实并反映现实，应该说的是这个道理。国情、背景之类的前提不同，所孕育出的文学形式应该是不同的。暂不讨论这种大环境对电视剧的文学主题的影响，这里只讨论为什么近几年大热的韩剧，信手拈来一部，都还不错的原因。</p>
+<p>个人认为，这种差距的原因至少表现在两点上：</p>
+<p>一是受众层面。<br>观众审美提高，或者说是在新的时代成长并被环境塑造出的观众，对于新剧情、新形式、新主题的电视剧文学的渴求。再或者说，是审美形式发生了改变。近些年韩剧刚好迎合了观众的审美。</p>
+<p>二是传者层面。这里仅表达个人看法。<br>首先就是剧本差，以最近的韩剧《君主》为例，其中至少有两个新元素的运用，国内差之千里。一是“符号-意义”，男主通过“符号对于意义的表征+符号只是意义的指涉”分析出反派没死这段剧情；二是“量子物理学”，“一个电子可以同时存在于电子轨道的任何一个地方→粒子同时存在于不同的时空+平行宇宙”。一为文，二为理，是整个剧整体水平的缩影，这要求编剧要有这种知识底蕴才能写出这种剧本，处理其中的象征符与意义的关系，以及基本理解量子力学从而处理平行宇宙时间线的关系，最终使观众观看时，既陷入悬疑的剧情中，又能清晰呈现这条线，引导观众发掘出来，且符号逻辑。最终呈现就不弱智。<br>其次是拍摄技巧。这个我不是很理解，就不多分析。但是韩剧的服装、色调、道具以及这些外在的客观物质塑造的拍戏场景，我作为观众，给我的感觉是很舒服，不突兀、不违和、不假。这里有一点值得注意，关于布景、运镜之类的，我个人认为，当事实上的技巧在现阶段的技术水平限制下已经无法提升之时，那么其最终讲的逻辑，和剧情相匹配的逻辑。编剧对于场景的设想才是指导所有的后续拍、演的根本。</p>
+<p>综上，但是比之韩剧，那种脑洞、那种新元素的运用，并对当下具有新审美的观众的吸引与共情，国产剧差很多。因为脑洞是建立在知识储备和拍摄实践经验上的。仅仅一点，《星际穿越》、《彗星来的那一夜》等电影，还有很多电视剧，早就是用量子力学作为影视的那个点（我不知道术语叫什么），我们根本没有。有也只是去年台湾的《想见你》。</p>
+<p>需要强调的是，我所选取的样本很小，可能不具代表性，无论是国产剧还是韩剧都有精粹有糟粕。但是韩国的影视做得比国内要好得多，我相信这是公认的。我也相信国产剧在我们的国情和背景之下做出来的，也是有很大价值的，并且积累了符合国情的实践技巧。比如说古装剧、知青主题的剧，我作为普通观众，其色调和场景，都能看到明显的进步。</p>
+]]></content>
+      <categories>
+        <category>新传</category>
+      </categories>
+      <tags>
+        <tag>胡思乱想</tag>
       </tags>
   </entry>
   <entry>
@@ -6919,6 +6919,44 @@
       </tags>
   </entry>
   <entry>
+    <title>关于36Kr App缺陷的几点思考</title>
+    <url>/2020/04/29/%E5%85%B3%E4%BA%8E36Kr%20App%E7%BC%BA%E9%99%B7%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="36氪App的缺陷"><a href="#36氪App的缺陷" class="headerlink" title="36氪App的缺陷"></a>36氪App的缺陷</h1><ol>
+<li><p>呈现形式交叉混乱<br>页面显示复杂，大小图、文字、图标链接相互交叉，整个瀑布流都是采用这种交叉呈现的方式，而不是顶部集中重要的icon、banner等，下面是文字/图标/图片的一个种类的连续呈现。尤其是推荐页面，试图将文字、音频、视频、广告等所有形式的信息打包在一个页面中。</p>
+</li>
+<li><p>开氪栏目无分类<br>开氪栏目中，所有课程仅区分为免费和付费，极为显眼的也是红色字体的价格。没有区分课程的类型，作为用户我觉得查找起来非常麻烦，只能看那种线性的呈现方式，没有提供给我精确搜索所需课程的功能。</p>
+</li>
+<li><p>发现栏目无重点<br>发现栏目中，给用户的感觉是不知道其主旨是什么。有投票、有选择、有问答等，细看可能是想给用户发表意见的单独入口，但是既不是纯粹的UGC内容，也不是单纯的投票选择题。如果不仔细看，不知道发现一栏想强调什么；如果仔细看，似乎是为了给用户提问而堆砌功能，为了做而做。</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>PM</category>
+      </categories>
+      <tags>
+        <tag>idea常规性复盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于36Kr缺陷的几点思考</title>
+    <url>/2020/04/16/%E5%85%B3%E4%BA%8E36Kr%E7%BC%BA%E9%99%B7%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><ul>
+<li><p>只有PGC，没有UGC。所有的内容都是36氪平台的签约作家生成或是其他平台转载，普通用户的多元意见得不到表达。类似于新华社app上既提供专业内容，它的“现场云”板块也允许用户提供新闻线索。还有梨视频也是PGC+UGC的内容生产模式。</p>
+</li>
+<li><p>其次，没有嵌入性的服务平台，比如说最近今日头条根据线下场景提供适配的生活服务平台，拓展的新板块“在家玩”，提供在家做菜、外卖到家、送药上门、送菜等服务。可以通过在资讯类app中增加嵌入式服务平台，一方面可以拓展业务边界，另一方面可以满足用户的多元需求。</p>
+</li>
+<li><p>再次，36氪app的知识付费的商业模式中，内容同质化严重，而且优质内容被头部讲师垄断。另外，文章里可以适当加入课程链接，类似抖音的视频+电商的模式，资讯类app也可以使用文章+课程的模式。</p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>PM</category>
+      </categories>
+      <tags>
+        <tag>idea常规性复盘</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《社群营销实战手册：从社群运营到社群经济》读书笔记</title>
     <url>/2020/04/24/%E3%80%8A%E7%A4%BE%E7%BE%A4%E8%90%A5%E9%94%80%E5%AE%9E%E6%88%98%E6%89%8B%E5%86%8C%EF%BC%9A%E4%BB%8E%E7%A4%BE%E7%BE%A4%E8%BF%90%E8%90%A5%E5%88%B0%E7%A4%BE%E7%BE%A4%E7%BB%8F%E6%B5%8E%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>社群营销实战手册：从社群运营到社群经济<br>秋叶 邻三月 秦阳<br>170个笔记</p>
@@ -7445,25 +7483,6 @@
       </tags>
   </entry>
   <entry>
-    <title>关于36Kr App缺陷的几点思考</title>
-    <url>/2020/04/29/%E5%85%B3%E4%BA%8E36Kr%20App%E7%BC%BA%E9%99%B7%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="36氪App的缺陷"><a href="#36氪App的缺陷" class="headerlink" title="36氪App的缺陷"></a>36氪App的缺陷</h1><ol>
-<li><p>呈现形式交叉混乱<br>页面显示复杂，大小图、文字、图标链接相互交叉，整个瀑布流都是采用这种交叉呈现的方式，而不是顶部集中重要的icon、banner等，下面是文字/图标/图片的一个种类的连续呈现。尤其是推荐页面，试图将文字、音频、视频、广告等所有形式的信息打包在一个页面中。</p>
-</li>
-<li><p>开氪栏目无分类<br>开氪栏目中，所有课程仅区分为免费和付费，极为显眼的也是红色字体的价格。没有区分课程的类型，作为用户我觉得查找起来非常麻烦，只能看那种线性的呈现方式，没有提供给我精确搜索所需课程的功能。</p>
-</li>
-<li><p>发现栏目无重点<br>发现栏目中，给用户的感觉是不知道其主旨是什么。有投票、有选择、有问答等，细看可能是想给用户发表意见的单独入口，但是既不是纯粹的UGC内容，也不是单纯的投票选择题。如果不仔细看，不知道发现一栏想强调什么；如果仔细看，似乎是为了给用户提问而堆砌功能，为了做而做。</p>
-</li>
-</ol>
-]]></content>
-      <categories>
-        <category>PM</category>
-      </categories>
-      <tags>
-        <tag>idea常规性复盘</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>关于QQ和微信的几点简单思考</title>
     <url>/2020/04/16/%E5%85%B3%E4%BA%8EQQ%E5%92%8C%E5%BE%AE%E4%BF%A1%E7%9A%84%E5%87%A0%E7%82%B9%E7%AE%80%E5%8D%95%E6%80%9D%E8%80%83/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>两者不同风格，功能和偏向都有所不同。风格主题。</p>
@@ -7497,22 +7516,18 @@
       </tags>
   </entry>
   <entry>
-    <title>关于36Kr缺陷的几点思考</title>
-    <url>/2020/04/16/%E5%85%B3%E4%BA%8E36Kr%E7%BC%BA%E9%99%B7%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><ul>
-<li><p>只有PGC，没有UGC。所有的内容都是36氪平台的签约作家生成或是其他平台转载，普通用户的多元意见得不到表达。类似于新华社app上既提供专业内容，它的“现场云”板块也允许用户提供新闻线索。还有梨视频也是PGC+UGC的内容生产模式。</p>
-</li>
-<li><p>其次，没有嵌入性的服务平台，比如说最近今日头条根据线下场景提供适配的生活服务平台，拓展的新板块“在家玩”，提供在家做菜、外卖到家、送药上门、送菜等服务。可以通过在资讯类app中增加嵌入式服务平台，一方面可以拓展业务边界，另一方面可以满足用户的多元需求。</p>
-</li>
-<li><p>再次，36氪app的知识付费的商业模式中，内容同质化严重，而且优质内容被头部讲师垄断。另外，文章里可以适当加入课程链接，类似抖音的视频+电商的模式，资讯类app也可以使用文章+课程的模式。</p>
-</li>
-</ul>
+    <title>关于团队与工作的思考</title>
+    <url>/2020/05/02/%E5%85%B3%E4%BA%8E%E5%9B%A2%E9%98%9F%E4%B8%8E%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%80%9D%E8%80%83/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于团队与工作的思考"><a href="#关于团队与工作的思考" class="headerlink" title="关于团队与工作的思考"></a>关于团队与工作的思考</h1><p>1、先看大环境再做业务，任何行业都是如此，任何岗位也是如此。业务技能做到最后，都是对行业、对环境有清晰准确的把握。无论何时何地哪个国家，任何业界干得著名且牛逼，莫不是了解国情、行业、趋势之人。我觉得既可以边做业务边提升眼界，也可以先升眼界再做业务并持续论证。</p>
+<p>2、“有什么不好处理的，都是为公司干活，干好了大家都有利益，干不好大家的利益都受影响。”一个国家、一个公司、一个团队所有人都是这么想的，那这个国家、公司、团队倒好管理了。从理论上说，这种观点无丝毫不足之处，但是从现实上来说，这种观点也只能存在于期望之中。</p>
+<p>3、我们通常会用“拴在一根绳上的蚂蚱”来比喻利益的一致性，但真实的结果往往是每个蚂蚱都想着自己先飞，让其他蚂蚱掩护。即使是在最终利益一致的情况下，也会有各种各样的小团体利益存在于最终利益之中，在最终利益未实现之前，人们首先考虑的是保证小团体利益的实现，再细化就是个人利益。</p>
+<p>4、所有问题、事件说到最后都是哲学问题。哲学问题是脑子问题，脑子问题是生物问题，最终都是物质、元素问题。所以如果用一个词来形容物理学，我喜欢用“上帝物理学”。</p>
 ]]></content>
       <categories>
-        <category>PM</category>
+        <category>日常</category>
       </categories>
       <tags>
-        <tag>idea常规性复盘</tag>
+        <tag>胡思乱想</tag>
       </tags>
   </entry>
   <entry>
@@ -7526,6 +7541,25 @@
 <li><p>不理睬噪音<br>对于噪音，最好的处理方式是不去理睬，不看、不想、不产生情绪。因为一旦给予了注意力，它就得逞了，它的目的就是为了赚取你的注意力。这不是失去了它们，只是淘汰了没有价值的信息。</p>
 </li>
 </ul>
+]]></content>
+      <categories>
+        <category>PM</category>
+      </categories>
+      <tags>
+        <tag>idea常规性复盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于央视频的几点思考</title>
+    <url>/2020/04/15/%E5%85%B3%E4%BA%8E%E5%A4%AE%E8%A7%86%E9%A2%91%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>从产品功能看，可以说是很多高大上技术的结晶了，功能做的非常强大。据了解，腾讯也加入了央视频的开发工作。</p>
+<ul>
+<li>电视功能，它集成了所有央视、卫视的频道，软件就相当于一个电视。</li>
+<li>场景，基于5G技术的4K高清和VR现场直播，为用户创造一个虚拟化场景，比其他视频app内容版权要多、视角要多，而且央视频能提供基于位置的服务，比如说根据用户位置，提供地方资讯。</li>
+<li>精准推送，基于大数据和AI的个性化搜索，能够精准地分析用户喜好，提供优质内容。</li>
+</ul>
+<p>其次，从内容和渠道来看，以横屏短视频为主，依托央视，也有长剧集和直播等内容；新闻采编权又赋予了它一手的新闻线索和广泛的直播内容；还有一个非常强大的地方在于，广电总台已经将其定位为央视旗舰产品，不只是自己的内容，央视频打造账号森林，招募MCN、PGC和UGC加入其中，还鼓励总台的记者、主持人开账号。</p>
+<p>另外，央视频有个非常重要的入口，叫免流量特权。央视频卡也就是腾讯王卡-央视频版，这个意义非常重大，王卡免流不仅能提高央视频的用户黏性，而且对腾讯来说，王卡也意味着流量和入口，在央视频上用户能看到王卡的其他免流app，其他app上也同样提示央视频免流，这就相互导流，形成一种循环。</p>
 ]]></content>
       <categories>
         <category>PM</category>
@@ -7563,22 +7597,43 @@
       </tags>
   </entry>
   <entry>
-    <title>关于央视频的几点思考</title>
-    <url>/2020/04/15/%E5%85%B3%E4%BA%8E%E5%A4%AE%E8%A7%86%E9%A2%91%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>从产品功能看，可以说是很多高大上技术的结晶了，功能做的非常强大。据了解，腾讯也加入了央视频的开发工作。</p>
-<ul>
-<li>电视功能，它集成了所有央视、卫视的频道，软件就相当于一个电视。</li>
-<li>场景，基于5G技术的4K高清和VR现场直播，为用户创造一个虚拟化场景，比其他视频app内容版权要多、视角要多，而且央视频能提供基于位置的服务，比如说根据用户位置，提供地方资讯。</li>
-<li>精准推送，基于大数据和AI的个性化搜索，能够精准地分析用户喜好，提供优质内容。</li>
-</ul>
-<p>其次，从内容和渠道来看，以横屏短视频为主，依托央视，也有长剧集和直播等内容；新闻采编权又赋予了它一手的新闻线索和广泛的直播内容；还有一个非常强大的地方在于，广电总台已经将其定位为央视旗舰产品，不只是自己的内容，央视频打造账号森林，招募MCN、PGC和UGC加入其中，还鼓励总台的记者、主持人开账号。</p>
-<p>另外，央视频有个非常重要的入口，叫免流量特权。央视频卡也就是腾讯王卡-央视频版，这个意义非常重大，王卡免流不仅能提高央视频的用户黏性，而且对腾讯来说，王卡也意味着流量和入口，在央视频上用户能看到王卡的其他免流app，其他app上也同样提示央视频免流，这就相互导流，形成一种循环。</p>
+    <title>物理小思考（一）</title>
+    <url>/2020/04/23/%E7%89%A9%E7%90%86%E5%B0%8F%E6%80%9D%E8%80%83%EF%BC%88%E4%B8%80%EF%BC%89/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>《思想大唠嗑》</p>
+<p>自牛顿建立经典物理学以来，其成就一是建立了宏观物理学的壮阔大厦，目之所及无不是经典物理学的“真理”之光照耀之处。</p>
+<p>实证的研究方法自此被确立下来（原来是源自这里），实践也就成了检验真理的唯一标准。“一套理性成熟的逻辑体系是无法证明自己的正确和完善的”（哥德尔不具备定理），一个逻辑体系无论多么繁复完善，也一定会在其中找到“既不能证实也不能证伪的问题”。这种问题也就成为了后来者提出假设、进行论证的新起点。</p>
+<p>所以在牛顿之后，“实证研究”和“提出假设”应用到自然科学直至人文科学之中。</p>
+<p>而爱因斯坦光的二象性、玻尔的普朗克常数、玻尔的原子模型提出之后，量子理论在微观世界彻底推翻牛顿创立的经典物理学。自1900年后发展迄今，量子物理学建立了另一座宏伟的双子大厦。</p>
+<p>之后，一群物理学家、数学家、逻辑学家形成的维也纳学派，“尝试在自然科学的基础上，探讨哲学和科学研究方法等问题”。“他们的哲学有时被称为逻辑实证主义，其基础是逻辑分析、可验证性准则以及被认可的科学陈述。”</p>
+<p>和书中观点一致，此处个人认为，在生活中某种情境之下，严格的形式逻辑和一味的追根溯源，其实会对语言和意义之间的指涉进行循环无尽的分析。表面是在扮演哲学思辨，实际上可能成了一种语言游戏和自相矛盾。</p>
+<p>复盘之后，目前再看作者奉行的体验主义，确实值得我们将其作为一种态度。继续阅读…</p>
 ]]></content>
       <categories>
-        <category>PM</category>
+        <category>物理</category>
       </categories>
       <tags>
-        <tag>idea常规性复盘</tag>
+        <tag>物理点子复盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>基于“共识:融合态”的一种相处连接</title>
+    <url>/2020/05/02/%E5%9F%BA%E4%BA%8E%E2%80%9C%E5%85%B1%E8%AF%86:%E8%9E%8D%E5%90%88%E6%80%81%E2%80%9D%E7%9A%84%E4%B8%80%E7%A7%8D%E7%9B%B8%E5%A4%84%E8%BF%9E%E6%8E%A5/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="基于“共识-融合态”的一种相处连接"><a href="#基于“共识-融合态”的一种相处连接" class="headerlink" title="基于“共识/融合态”的一种相处连接"></a>基于“共识/融合态”的一种相处连接</h1><p>人与人之间的交往和相处，其本质是建立在多个维度的连接之上的。</p>
+<p>以下所举例的维度都是强调，在这一维度上的连接。越多维度的连接，人与人之间就能建立越亲密的关系。</p>
+<p>这里说的维度，其实就是一个角度、一个规则，在某个方面的共识。这里说的“共识”不一定是相同的看待事物的基础，而是想要强调一种融合的状态，超越同与不同的概念，纯粹是人与人之间相处的一种融合状态。<br>（其实我也没有思辨好这个略带哲学意味的话题。）</p>
+<p>我目前所思考的，作为类比，相当于一个点对点结构，两点就是两个人，点与点的连接不是一条线的简单连接，也不是一个平面的多条线的连接，而是多个平面的多条线的连接，即立体状态。点与点间的每一条线就是人与人之间相处的一个维度，也就是连接的一个维度。<br>这样，线条越多、维度越多，人与人之间的连接就越强，越亲密。</p>
+<p>&lt;!– more –&gt;</p>
+<p>具体来说，举几个例子：</p>
+<p>1、两者之间对于事物要有看法，对人生有追求，这里强调的不是相同的看法和一致的追求，以前我是这么以为，现在不这么认为。我觉得是一种连接，这种连接超越是否相同、是否互补这类概念，而是仅强调一种“连接”，即使有差异也可以连接在一起，偏向于融合共生的状态。这是举例的第一个维度。</p>
+<p>2、细化下来，第二个例子，对于交朋友的看法，必须要在平等的条件下，进行公正对比，避免双标的情况发生。比如说男生A和女生B是好朋友，A与（B+B的一群朋友）吃饭；男生C和女生D是好朋友，C和D单独吃饭。这种就是不对等的情况。这只是一个例子。人与人之间对于事物的判断和理解，也是可同、可不同，这作为人与人之间相处的另一个维度。关键在于，超越表面概念之上，如何建立连接，如何建立一种融合的状态。不是说你优秀我不优秀、你阶层高我阶层低、你有钱我没钱，或者你我想法一致、你我追求相同等，这样才可以建立连接，而是超越这种概念的“共识”，并在这“共识”之上建立的连接。似乎有点倾向于“认可”。</p>
+<p>3、第三个例子，说情侣之间。如果一方对另一方失去信心，而只关注爱不爱、好不好（个人认为这是很玄妙的东西），如果不是因为一个人的“特质”而相互吸引，而只关注“爱情”、“对我好不好”，这是无根浮萍（弱连接）。这么说的基础是，“爱情”是建立在“特质”相互吸引、多个维度连接的基础上的，如果没有“特质”可吸引或维度连接（强连接）都断裂了，那爱情也就会破碎。归纳下似乎所有的爱情破灭都可以这么解释。<br>进一步具体地说，如果一个女的觉得一个男的不行，没有优点和“特质”，仅仅是因为“对我好”并在此基础上产生自以为的“爱情”（而不是因为其他而产生爱情）而维系情侣关系，这其实已经破碎，因为失去了强连接。并且不止一条的强连接，在多个方面都失去了强连接。</p>
+<p>综上一番论述，也就是强调：如果人与人之间的在多个维度的强连接断裂了，或者说在多个角度达不成一种“共识”的状态，那关系即将破碎。反之，关系亲密。尤其需要强调，这个“共识”是超越同与不同、互不互补等等概念的一种融合态。<br>这些维度可能包括：思考、想法、观点、目标、态度等等。<br>似乎不是这些维度，太大了。我想说的就是一些连接的维度，但是形容不出来了，现在有点混乱。</p>
+]]></content>
+      <categories>
+        <category>心理</category>
+      </categories>
+      <tags>
+        <tag>胡思乱想</tag>
       </tags>
   </entry>
   <entry>
@@ -7600,38 +7655,68 @@
       </tags>
   </entry>
   <entry>
-    <title>关于团队与工作的思考</title>
-    <url>/2020/05/02/%E5%85%B3%E4%BA%8E%E5%9B%A2%E9%98%9F%E4%B8%8E%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%80%9D%E8%80%83/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于团队与工作的思考"><a href="#关于团队与工作的思考" class="headerlink" title="关于团队与工作的思考"></a>关于团队与工作的思考</h1><p>1、先看大环境再做业务，任何行业都是如此，任何岗位也是如此。业务技能做到最后，都是对行业、对环境有清晰准确的把握。无论何时何地哪个国家，任何业界干得著名且牛逼，莫不是了解国情、行业、趋势之人。我觉得既可以边做业务边提升眼界，也可以先升眼界再做业务并持续论证。</p>
-<p>2、“有什么不好处理的，都是为公司干活，干好了大家都有利益，干不好大家的利益都受影响。”一个国家、一个公司、一个团队所有人都是这么想的，那这个国家、公司、团队倒好管理了。从理论上说，这种观点无丝毫不足之处，但是从现实上来说，这种观点也只能存在于期望之中。</p>
-<p>3、我们通常会用“拴在一根绳上的蚂蚱”来比喻利益的一致性，但真实的结果往往是每个蚂蚱都想着自己先飞，让其他蚂蚱掩护。即使是在最终利益一致的情况下，也会有各种各样的小团体利益存在于最终利益之中，在最终利益未实现之前，人们首先考虑的是保证小团体利益的实现，再细化就是个人利益。</p>
-<p>4、所有问题、事件说到最后都是哲学问题。哲学问题是脑子问题，脑子问题是生物问题，最终都是物质、元素问题。所以如果用一个词来形容物理学，我喜欢用“上帝物理学”。</p>
+    <title>谈一款现象级的互联网产品（三）——小红书</title>
+    <url>/2020/04/26/%E8%B0%88%E4%B8%80%E6%AC%BE%E7%8E%B0%E8%B1%A1%E7%BA%A7%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%A7%E5%93%81%EF%BC%88%E4%B8%89%EF%BC%89%E2%80%94%E2%80%94%E5%B0%8F%E7%BA%A2%E4%B9%A6/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>小红书作为一款分享型电商产品，其核心模式为UGC+电商。解决痛点：海淘用户不知道买什么、买完又怕不好。</p>
+<h2 id="探索期"><a href="#探索期" class="headerlink" title="探索期"></a>探索期</h2><h3 id="产品视角"><a href="#产品视角" class="headerlink" title="产品视角"></a>产品视角</h3><ul>
+<li>刚开始做海外代购分享的时候，以香港（购物金额大、用户群体多、物品种类丰富）为海外第一个代购地点，验证产品构想，之后逐渐扩展到全球代购。</li>
+<li>互联网产品灰度测试、快速迭代、试错成本低的典型应用。</li>
+</ul>
+<h3 id="运营视角"><a href="#运营视角" class="headerlink" title="运营视角"></a>运营视角</h3><p>高质量UGC的培养和积累。<br>优质内容/商品质量把关。</p>
+<h2 id="成长期"><a href="#成长期" class="headerlink" title="成长期"></a>成长期</h2><h3 id="产品视角-1"><a href="#产品视角-1" class="headerlink" title="产品视角"></a>产品视角</h3><p>UGC沉淀→电商型分享平台。<br>优化购买、支付功能，提升用户购买体验。<br>实现UGC分享产品+用户找产品、买产品的核心功能闭环。</p>
+<h3 id="运营视角-1"><a href="#运营视角-1" class="headerlink" title="运营视角"></a>运营视角</h3><p>促活。<br>优质内容/商品质量把关。</p>
+<h2 id="成熟期"><a href="#成熟期" class="headerlink" title="成熟期"></a>成熟期</h2><h3 id="产品视角-2"><a href="#产品视角-2" class="headerlink" title="产品视角"></a>产品视角</h3><p>商城功能优化，如订单查询等辅助型功能，提升用户使用体验。</p>
+<h3 id="运营视角-2"><a href="#运营视角-2" class="headerlink" title="运营视角"></a>运营视角</h3><p>周年庆+口碑营销进行产品曝光和宣传，并拉新。</p>
+<p>参考：<a href="http://www.woshipm.com/pmd/503537.html" target="_blank" rel="noopener">http://www.woshipm.com/pmd/503537.html</a></p>
 ]]></content>
       <categories>
-        <category>日常</category>
+        <category>PM</category>
+      </categories>
+      <tags>
+        <tag>idea常规性复盘</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>看书和工作形成方法论</title>
+    <url>/2020/04/16/%E7%9C%8B%E4%B9%A6%E5%92%8C%E5%B7%A5%E4%BD%9C%E5%BD%A2%E6%88%90%E6%96%B9%E6%B3%95%E8%AE%BA/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="碎片化信息无法形成方法论"><a href="#碎片化信息无法形成方法论" class="headerlink" title="碎片化信息无法形成方法论"></a>碎片化信息无法形成方法论</h1><p>看书和工作，是形成个人方法论的两个根本途径。碎片化的信息只能叫新闻，如垂直类App，只能获得灵感开拓视野，无法形成知识体系。</p>
+]]></content>
+      <categories>
+        <category>PM</category>
       </categories>
       <tags>
         <tag>胡思乱想</tag>
       </tags>
   </entry>
   <entry>
-    <title>基于“共识:融合态”的一种相处连接</title>
-    <url>/2020/05/02/%E5%9F%BA%E4%BA%8E%E2%80%9C%E5%85%B1%E8%AF%86:%E8%9E%8D%E5%90%88%E6%80%81%E2%80%9D%E7%9A%84%E4%B8%80%E7%A7%8D%E7%9B%B8%E5%A4%84%E8%BF%9E%E6%8E%A5/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="基于“共识-融合态”的一种相处连接"><a href="#基于“共识-融合态”的一种相处连接" class="headerlink" title="基于“共识/融合态”的一种相处连接"></a>基于“共识/融合态”的一种相处连接</h1><p>人与人之间的交往和相处，其本质是建立在多个维度的连接之上的。</p>
-<p>以下所举例的维度都是强调，在这一维度上的连接。越多维度的连接，人与人之间就能建立越亲密的关系。</p>
-<p>这里说的维度，其实就是一个角度、一个规则，在某个方面的共识。这里说的“共识”不一定是相同的看待事物的基础，而是想要强调一种融合的状态，超越同与不同的概念，纯粹是人与人之间相处的一种融合状态。<br>（其实我也没有思辨好这个略带哲学意味的话题。）</p>
-<p>我目前所思考的，作为类比，相当于一个点对点结构，两点就是两个人，点与点的连接不是一条线的简单连接，也不是一个平面的多条线的连接，而是多个平面的多条线的连接，即立体状态。点与点间的每一条线就是人与人之间相处的一个维度，也就是连接的一个维度。<br>这样，线条越多、维度越多，人与人之间的连接就越强，越亲密。</p>
-<p>具体来说，举几个例子：</p>
-<p>1、两者之间对于事物要有看法，对人生有追求，这里强调的不是相同的看法和一致的追求，以前我是这么以为，现在不这么认为。我觉得是一种连接，这种连接超越是否相同、是否互补这类概念，而是仅强调一种“连接”，即使有差异也可以连接在一起，偏向于融合共生的状态。这是举例的第一个维度。</p>
-<p>2、细化下来，第二个例子，对于交朋友的看法，必须要在平等的条件下，进行公正对比，避免双标的情况发生。比如说男生A和女生B是好朋友，A与（B+B的一群朋友）吃饭；男生C和女生D是好朋友，C和D单独吃饭。这种就是不对等的情况。这只是一个例子。人与人之间对于事物的判断和理解，也是可同、可不同，这作为人与人之间相处的另一个维度。关键在于，超越表面概念之上，如何建立连接，如何建立一种融合的状态。不是说你优秀我不优秀、你阶层高我阶层低、你有钱我没钱，或者你我想法一致、你我追求相同等，这样才可以建立连接，而是超越这种概念的“共识”，并在这“共识”之上建立的连接。似乎有点倾向于“认可”。</p>
-<p>3、第三个例子，说情侣之间。如果一方对另一方失去信心，而只关注爱不爱、好不好（个人认为这是很玄妙的东西），如果不是因为一个人的“特质”而相互吸引，而只关注“爱情”、“对我好不好”，这是无根浮萍（弱连接）。这么说的基础是，“爱情”是建立在“特质”相互吸引、多个维度连接的基础上的，如果没有“特质”可吸引或维度连接（强连接）都断裂了，那爱情也就会破碎。归纳下似乎所有的爱情破灭都可以这么解释。<br>进一步具体地说，如果一个女的觉得一个男的不行，没有优点和“特质”，仅仅是因为“对我好”并在此基础上产生自以为的“爱情”（而不是因为其他而产生爱情）而维系情侣关系，这其实已经破碎，因为失去了强连接。并且不止一条的强连接，在多个方面都失去了强连接。</p>
-<p>综上一番论述，也就是强调：如果人与人之间的在多个维度的强连接断裂了，或者说在多个角度达不成一种“共识”的状态，那关系即将破碎。反之，关系亲密。尤其需要强调，这个“共识”是超越同与不同、互不互补等等概念的一种融合态。<br>这些维度可能包括：思考、想法、观点、目标、态度等等。<br>似乎不是这些维度，太大了。我想说的就是一些连接的维度，但是形容不出来了，现在有点混乱。</p>
+    <title>谈一款现象级的互联网产品（一）——滴滴出行</title>
+    <url>/2020/04/17/%E8%B0%88%E4%B8%80%E6%AC%BE%E7%8E%B0%E8%B1%A1%E7%BA%A7%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%A7%E5%93%81%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%94%E2%80%94%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>谈一款现象级的互联网产品（六）——滴滴出行<br>滴滴出行作为国内目前最大的解决出行问题的互联网产品，定位共享出行。</p>
+<h2 id="共享经济"><a href="#共享经济" class="headerlink" title="共享经济"></a>共享经济</h2><blockquote>
+<p>共享经济是指拥有闲置资源的机构或个人有偿让渡资源使用权给他人，并获得回报。实质是分享者通过分享闲置资源获得利益。</p>
+</blockquote>
+<p>共享经济是一种能够优化资源配置并推动社会治理进步的模式。这是基于互联网等技术而架构的平台，平台方将卖房的资源有偿提供给买房。事实上，互联网产品都涉及到三方，一是平台方，二是卖房，三是买房。不同定位的产品可能三方的说法不同。</p>
+<p>从这个角度看，滴滴作为共享出行的平台，它将汽车这一闲置资源放在平台上有偿共享，拥有汽车的并且相对闲置，或者说对资源拥有者来说可以赚点外快，何乐而不为呢，这样的一个人群个人认为是庞大的，这一方作为卖方，作为资源拥有方和提供方。</p>
+<p>另一方是有出行需求的人，在共享出行方式出现之前，打车难、被拒载这些环境的大问题或者说痛点，始终存在，滴滴平台做的事是什么呢？将刚才说的闲置汽车资源提供给有出行用户，且这些用户的出行是有痛点的。这样三方就联系起来了。</p>
+<h2 id="发展历程"><a href="#发展历程" class="headerlink" title="发展历程"></a>发展历程</h2><p>滴滴从2012年成立，到目前，已经超越Uber，是全球最大的出行服务平台。滴滴刚开始叫做“嘀嘀”，2012年成立于北京，同年快的（杭州）也成立了。两者刚成立的时候提供的业务仅限于出租车在线叫车服务。<strong>O2O模式</strong></p>
+<p>在2013年分别被腾讯、阿里投资，并且“嘀嘀”收购了大黄蜂打车。</p>
+<p>2014年1月开始，其实两者也爆发了在出行领域的补贴大战，饿了么美团的补贴大战也是同一年（_回头也会思考下美团和饿了么，发到博客做个记录_）。在“嘀嘀”与快的打仗的2014年，移动出行这一概念也就开始兴起，收到资本追捧，为大众也熟知。2014年5月，“嘀嘀”更名为“滴滴”。_我就说对这个更名的新闻有点熟悉呢，那会儿是有这么一出事，原来是来龙去脉是这样的。_8月份，滴滴专车上线。</p>
+<p>2015年2月，滴滴和快的战略合并。猜测应该是政府出门协调的。6月份，顺风车上线。<strong>C2C模式。</strong>8月更名为“滴滴出行”，明确构建一站式出行平台。</p>
+<p>后面就开始市场扩张了，在国内国外各种扩张。据维基百科的介绍，滴滴在2016年收购Uber中国业务，实际上是通过换股的方式进行收购的，这种换股实际上Uber成为滴滴的第一大股东，并且获取最多的股东收益。</p>
+<h2 id="产品视角"><a href="#产品视角" class="headerlink" title="产品视角"></a>产品视角</h2><h3 id="推广阶段"><a href="#推广阶段" class="headerlink" title="推广阶段"></a>推广阶段</h3><p>定位于共享出行市场。<br>用户痛点：用户打车难、司机拉客难。<br>核心要求：保证用户流畅使用App打车，并完成支付。<br>解决办法：注册bug→免注册，直接使用→保证核心功能体验。</p>
+<h3 id="成长阶段"><a href="#成长阶段" class="headerlink" title="成长阶段"></a>成长阶段</h3><p>丰富产品功能+算法优化+产品迭代+接入第三方支付功能。<br>提升用户体验。</p>
+<h3 id="成熟阶段"><a href="#成熟阶段" class="headerlink" title="成熟阶段"></a>成熟阶段</h3><p>解锁各种新功能，形成全方位的产品线格局，一是滴滴专车、顺风车、巴士、豪车等原始产品线，二是预约、接送机、代驾、包车、二手车买卖等服务线，三是入局共享单车，即青桔单车。<br>吸引更多用户成为司机（仍有潜力），吸引更多受众成为用户（国内增长速度放缓）。<br>→带动更多社会闲置资源的流转和复用。</p>
+<h2 id="运营视角"><a href="#运营视角" class="headerlink" title="运营视角"></a>运营视角</h2><h3 id="推广阶段-1"><a href="#推广阶段-1" class="headerlink" title="推广阶段"></a>推广阶段</h3><p>滴滴刚开始的阶段，做的是出租车在线打车业务，主要就是通过补贴，让出租车愿意接单，得到更多补贴；用户愿意在线打车，得到补贴更便宜。<br>主要任务：拉新。</p>
+<h3 id="成长阶段-1"><a href="#成长阶段-1" class="headerlink" title="成长阶段"></a>成长阶段</h3><p>从一线城市向二三线城市扩张。<br>从出租车纵向发展，触及高品质出行（豪车）+下沉便利便宜出行（快车）+中间是专车，形成差异化产品格局。<br>持续补贴。<br>拉新。<br>主要任务：城市扩张+产品扩张。</p>
+<h3 id="成熟阶段-1"><a href="#成熟阶段-1" class="headerlink" title="成熟阶段"></a>成熟阶段</h3><p>产品扩张，构建全方位一站式出行平台，不仅有实体产品，还有服务类产品，如代驾服务等。<br>减少补贴力度。<br>App中加入游戏性机制，如分享领红包、随机减、赠送游戏积分。<br>主要任务：促活。</p>
+<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p><strong><em>安全机制！</em></strong></p>
+<p>参考：<a href="http://www.woshipm.com/pmd/503537.html" target="_blank" rel="noopener">http://www.woshipm.com/pmd/503537.html</a></p>
 ]]></content>
       <categories>
-        <category>心理</category>
+        <category>PM</category>
       </categories>
       <tags>
-        <tag>胡思乱想</tag>
+        <tag>idea常规性复盘</tag>
       </tags>
   </entry>
   <entry>
@@ -7662,59 +7747,6 @@
       </tags>
   </entry>
   <entry>
-    <title>物理小思考（一）</title>
-    <url>/2020/04/23/%E7%89%A9%E7%90%86%E5%B0%8F%E6%80%9D%E8%80%83%EF%BC%88%E4%B8%80%EF%BC%89/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>《思想大唠嗑》</p>
-<p>自牛顿建立经典物理学以来，其成就一是建立了宏观物理学的壮阔大厦，目之所及无不是经典物理学的“真理”之光照耀之处。</p>
-<p>实证的研究方法自此被确立下来（原来是源自这里），实践也就成了检验真理的唯一标准。“一套理性成熟的逻辑体系是无法证明自己的正确和完善的”（哥德尔不具备定理），一个逻辑体系无论多么繁复完善，也一定会在其中找到“既不能证实也不能证伪的问题”。这种问题也就成为了后来者提出假设、进行论证的新起点。</p>
-<p>所以在牛顿之后，“实证研究”和“提出假设”应用到自然科学直至人文科学之中。</p>
-<p>而爱因斯坦光的二象性、玻尔的普朗克常数、玻尔的原子模型提出之后，量子理论在微观世界彻底推翻牛顿创立的经典物理学。自1900年后发展迄今，量子物理学建立了另一座宏伟的双子大厦。</p>
-<p>之后，一群物理学家、数学家、逻辑学家形成的维也纳学派，“尝试在自然科学的基础上，探讨哲学和科学研究方法等问题”。“他们的哲学有时被称为逻辑实证主义，其基础是逻辑分析、可验证性准则以及被认可的科学陈述。”</p>
-<p>和书中观点一致，此处个人认为，在生活中某种情境之下，严格的形式逻辑和一味的追根溯源，其实会对语言和意义之间的指涉进行循环无尽的分析。表面是在扮演哲学思辨，实际上可能成了一种语言游戏和自相矛盾。</p>
-<p>复盘之后，目前再看作者奉行的体验主义，确实值得我们将其作为一种态度。继续阅读…</p>
-]]></content>
-      <categories>
-        <category>物理</category>
-      </categories>
-      <tags>
-        <tag>物理点子复盘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>看书和工作形成方法论</title>
-    <url>/2020/04/16/%E7%9C%8B%E4%B9%A6%E5%92%8C%E5%B7%A5%E4%BD%9C%E5%BD%A2%E6%88%90%E6%96%B9%E6%B3%95%E8%AE%BA/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="碎片化信息无法形成方法论"><a href="#碎片化信息无法形成方法论" class="headerlink" title="碎片化信息无法形成方法论"></a>碎片化信息无法形成方法论</h1><p>看书和工作，是形成个人方法论的两个根本途径。碎片化的信息只能叫新闻，如垂直类App，只能获得灵感开拓视野，无法形成知识体系。</p>
-]]></content>
-      <categories>
-        <category>PM</category>
-      </categories>
-      <tags>
-        <tag>胡思乱想</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>谈一款现象级的互联网产品（三）——小红书</title>
-    <url>/2020/04/26/%E8%B0%88%E4%B8%80%E6%AC%BE%E7%8E%B0%E8%B1%A1%E7%BA%A7%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%A7%E5%93%81%EF%BC%88%E4%B8%89%EF%BC%89%E2%80%94%E2%80%94%E5%B0%8F%E7%BA%A2%E4%B9%A6/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>小红书作为一款分享型电商产品，其核心模式为UGC+电商。解决痛点：海淘用户不知道买什么、买完又怕不好。</p>
-<h2 id="探索期"><a href="#探索期" class="headerlink" title="探索期"></a>探索期</h2><h3 id="产品视角"><a href="#产品视角" class="headerlink" title="产品视角"></a>产品视角</h3><ul>
-<li>刚开始做海外代购分享的时候，以香港（购物金额大、用户群体多、物品种类丰富）为海外第一个代购地点，验证产品构想，之后逐渐扩展到全球代购。</li>
-<li>互联网产品灰度测试、快速迭代、试错成本低的典型应用。</li>
-</ul>
-<h3 id="运营视角"><a href="#运营视角" class="headerlink" title="运营视角"></a>运营视角</h3><p>高质量UGC的培养和积累。<br>优质内容/商品质量把关。</p>
-<h2 id="成长期"><a href="#成长期" class="headerlink" title="成长期"></a>成长期</h2><h3 id="产品视角-1"><a href="#产品视角-1" class="headerlink" title="产品视角"></a>产品视角</h3><p>UGC沉淀→电商型分享平台。<br>优化购买、支付功能，提升用户购买体验。<br>实现UGC分享产品+用户找产品、买产品的核心功能闭环。</p>
-<h3 id="运营视角-1"><a href="#运营视角-1" class="headerlink" title="运营视角"></a>运营视角</h3><p>促活。<br>优质内容/商品质量把关。</p>
-<h2 id="成熟期"><a href="#成熟期" class="headerlink" title="成熟期"></a>成熟期</h2><h3 id="产品视角-2"><a href="#产品视角-2" class="headerlink" title="产品视角"></a>产品视角</h3><p>商城功能优化，如订单查询等辅助型功能，提升用户使用体验。</p>
-<h3 id="运营视角-2"><a href="#运营视角-2" class="headerlink" title="运营视角"></a>运营视角</h3><p>周年庆+口碑营销进行产品曝光和宣传，并拉新。</p>
-<p>参考：<a href="http://www.woshipm.com/pmd/503537.html" target="_blank" rel="noopener">http://www.woshipm.com/pmd/503537.html</a></p>
-]]></content>
-      <categories>
-        <category>PM</category>
-      </categories>
-      <tags>
-        <tag>idea常规性复盘</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>谈一款现象级的互联网产品（二）——简书</title>
     <url>/2020/04/26/%E8%B0%88%E4%B8%80%E6%AC%BE%E7%8E%B0%E8%B1%A1%E7%BA%A7%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%A7%E5%93%81%EF%BC%88%E4%BA%8C%EF%BC%89%E2%80%94%E2%80%94%E7%AE%80%E4%B9%A6/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>简书可以说是内容类产品中的又一个豆瓣，逼格有些小众，但是随着产品的发展和运营，逐渐向一款大众化产品发展。</p>
@@ -7740,37 +7772,6 @@
 <li>通过口碑营销提高产品知名度，并拉新。</li>
 <li>简书出版的线上线下联动模式，拓展边界，出圈。</li>
 </ul>
-<p>参考：<a href="http://www.woshipm.com/pmd/503537.html" target="_blank" rel="noopener">http://www.woshipm.com/pmd/503537.html</a></p>
-]]></content>
-      <categories>
-        <category>PM</category>
-      </categories>
-      <tags>
-        <tag>idea常规性复盘</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>谈一款现象级的互联网产品（一）——滴滴出行</title>
-    <url>/2020/04/17/%E8%B0%88%E4%B8%80%E6%AC%BE%E7%8E%B0%E8%B1%A1%E7%BA%A7%E7%9A%84%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%A7%E5%93%81%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%94%E2%80%94%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>谈一款现象级的互联网产品（六）——滴滴出行<br>滴滴出行作为国内目前最大的解决出行问题的互联网产品，定位共享出行。</p>
-<h2 id="共享经济"><a href="#共享经济" class="headerlink" title="共享经济"></a>共享经济</h2><blockquote>
-<p>共享经济是指拥有闲置资源的机构或个人有偿让渡资源使用权给他人，并获得回报。实质是分享者通过分享闲置资源获得利益。</p>
-</blockquote>
-<p>共享经济是一种能够优化资源配置并推动社会治理进步的模式。这是基于互联网等技术而架构的平台，平台方将卖房的资源有偿提供给买房。事实上，互联网产品都涉及到三方，一是平台方，二是卖房，三是买房。不同定位的产品可能三方的说法不同。</p>
-<p>从这个角度看，滴滴作为共享出行的平台，它将汽车这一闲置资源放在平台上有偿共享，拥有汽车的并且相对闲置，或者说对资源拥有者来说可以赚点外快，何乐而不为呢，这样的一个人群个人认为是庞大的，这一方作为卖方，作为资源拥有方和提供方。</p>
-<p>另一方是有出行需求的人，在共享出行方式出现之前，打车难、被拒载这些环境的大问题或者说痛点，始终存在，滴滴平台做的事是什么呢？将刚才说的闲置汽车资源提供给有出行用户，且这些用户的出行是有痛点的。这样三方就联系起来了。</p>
-<h2 id="发展历程"><a href="#发展历程" class="headerlink" title="发展历程"></a>发展历程</h2><p>滴滴从2012年成立，到目前，已经超越Uber，是全球最大的出行服务平台。滴滴刚开始叫做“嘀嘀”，2012年成立于北京，同年快的（杭州）也成立了。两者刚成立的时候提供的业务仅限于出租车在线叫车服务。<strong>O2O模式</strong></p>
-<p>在2013年分别被腾讯、阿里投资，并且“嘀嘀”收购了大黄蜂打车。</p>
-<p>2014年1月开始，其实两者也爆发了在出行领域的补贴大战，饿了么美团的补贴大战也是同一年（_回头也会思考下美团和饿了么，发到博客做个记录_）。在“嘀嘀”与快的打仗的2014年，移动出行这一概念也就开始兴起，收到资本追捧，为大众也熟知。2014年5月，“嘀嘀”更名为“滴滴”。_我就说对这个更名的新闻有点熟悉呢，那会儿是有这么一出事，原来是来龙去脉是这样的。_8月份，滴滴专车上线。</p>
-<p>2015年2月，滴滴和快的战略合并。猜测应该是政府出门协调的。6月份，顺风车上线。<strong>C2C模式。</strong>8月更名为“滴滴出行”，明确构建一站式出行平台。</p>
-<p>后面就开始市场扩张了，在国内国外各种扩张。据维基百科的介绍，滴滴在2016年收购Uber中国业务，实际上是通过换股的方式进行收购的，这种换股实际上Uber成为滴滴的第一大股东，并且获取最多的股东收益。</p>
-<h2 id="产品视角"><a href="#产品视角" class="headerlink" title="产品视角"></a>产品视角</h2><h3 id="推广阶段"><a href="#推广阶段" class="headerlink" title="推广阶段"></a>推广阶段</h3><p>定位于共享出行市场。<br>用户痛点：用户打车难、司机拉客难。<br>核心要求：保证用户流畅使用App打车，并完成支付。<br>解决办法：注册bug→免注册，直接使用→保证核心功能体验。</p>
-<h3 id="成长阶段"><a href="#成长阶段" class="headerlink" title="成长阶段"></a>成长阶段</h3><p>丰富产品功能+算法优化+产品迭代+接入第三方支付功能。<br>提升用户体验。</p>
-<h3 id="成熟阶段"><a href="#成熟阶段" class="headerlink" title="成熟阶段"></a>成熟阶段</h3><p>解锁各种新功能，形成全方位的产品线格局，一是滴滴专车、顺风车、巴士、豪车等原始产品线，二是预约、接送机、代驾、包车、二手车买卖等服务线，三是入局共享单车，即青桔单车。<br>吸引更多用户成为司机（仍有潜力），吸引更多受众成为用户（国内增长速度放缓）。<br>→带动更多社会闲置资源的流转和复用。</p>
-<h2 id="运营视角"><a href="#运营视角" class="headerlink" title="运营视角"></a>运营视角</h2><h3 id="推广阶段-1"><a href="#推广阶段-1" class="headerlink" title="推广阶段"></a>推广阶段</h3><p>滴滴刚开始的阶段，做的是出租车在线打车业务，主要就是通过补贴，让出租车愿意接单，得到更多补贴；用户愿意在线打车，得到补贴更便宜。<br>主要任务：拉新。</p>
-<h3 id="成长阶段-1"><a href="#成长阶段-1" class="headerlink" title="成长阶段"></a>成长阶段</h3><p>从一线城市向二三线城市扩张。<br>从出租车纵向发展，触及高品质出行（豪车）+下沉便利便宜出行（快车）+中间是专车，形成差异化产品格局。<br>持续补贴。<br>拉新。<br>主要任务：城市扩张+产品扩张。</p>
-<h3 id="成熟阶段-1"><a href="#成熟阶段-1" class="headerlink" title="成熟阶段"></a>成熟阶段</h3><p>产品扩张，构建全方位一站式出行平台，不仅有实体产品，还有服务类产品，如代驾服务等。<br>减少补贴力度。<br>App中加入游戏性机制，如分享领红包、随机减、赠送游戏积分。<br>主要任务：促活。</p>
-<h2 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h2><p><strong><em>安全机制！</em></strong></p>
 <p>参考：<a href="http://www.woshipm.com/pmd/503537.html" target="_blank" rel="noopener">http://www.woshipm.com/pmd/503537.html</a></p>
 ]]></content>
       <categories>
