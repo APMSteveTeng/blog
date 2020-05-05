@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-02T10:16:38.086Z</updated>
+  <updated>2020-05-05T15:13:16.589Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>2017年左右对几本书的思考</title>
+    <link href="http://yoursite.com/2020/05/05/2017%E5%B9%B4%E5%B7%A6%E5%8F%B3%E5%AF%B9%E5%87%A0%E6%9C%AC%E4%B9%A6%E7%9A%84%E6%80%9D%E8%80%83/"/>
+    <id>http://yoursite.com/2020/05/05/2017%E5%B9%B4%E5%B7%A6%E5%8F%B3%E5%AF%B9%E5%87%A0%E6%9C%AC%E4%B9%A6%E7%9A%84%E6%80%9D%E8%80%83/</id>
+    <published>2020-05-05T15:11:32.933Z</published>
+    <updated>2020-05-05T15:13:16.589Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;2017年左右对几本书的思考&quot;&gt;&lt;a href=&quot;#2017年左右对几本书的思考&quot; class=&quot;headerlink&quot; title=&quot;2017年左右对几本书的思考&quot;&gt;&lt;/a&gt;2017年左右对几本书的思考&lt;/h1&gt;&lt;h2 id=&quot;娱乐至死&quot;&gt;&lt;a href=&quot;#娱乐至死&quot; class=&quot;headerlink&quot; title=&quot;娱乐至死&quot;&gt;&lt;/a&gt;娱乐至死&lt;/h2&gt;&lt;p&gt;从读《娱乐至死》中，隐隐发现，学术研究需要的是对本学科和社会的深入思考，这种思考是极为深刻的与安静的，同时还需要“站在巨人的肩膀上”，通读大量著作，这是需要耐心的，最后站在一个通观全局的高度，发挥自己的能动性去创造、感悟。&lt;/p&gt;
+&lt;p&gt;“中国人缺少创新”，即使这一情况正在逐渐改善。在中国，十几亿人的竞争实在太过剧烈，发展中国家的国际形势与社会发展进程提供的是一个喧嚣、争夺的环境，相比于美国，也许是社会发达程度不同，大部分人是不需要考虑生活条件的，国家以自由为名，尽可能满足大部分人不同的需求，鼓励不同方向的发展，这就提供了学术研究便利、安静的土壤。其次，对于一部分学生来说，目的是好学历、好工作、好收入、好生活，追求高学历事实上只是把学术作为一种追求更好生活的手段，并不能把学术作为人生第一宗旨，而且从这个角度来看，生活富裕阶层比生活贫困阶层更有机会去接近、追求学术。另外，不管是富是贫，最终也会被中国的社会背景所影响，被周围这种气氛所感染，很难做到静下心来做学术研究。最终也就缺乏世界性的名著、科学技术了。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="思考" scheme="http://yoursite.com/categories/%E6%80%9D%E8%80%83/"/>
+    
+    
+      <category term="读书笔记复盘" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E5%A4%8D%E7%9B%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title>关于团队与工作的思考</title>
     <link href="http://yoursite.com/2020/05/02/%E5%85%B3%E4%BA%8E%E5%9B%A2%E9%98%9F%E4%B8%8E%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%80%9D%E8%80%83/"/>
     <id>http://yoursite.com/2020/05/02/%E5%85%B3%E4%BA%8E%E5%9B%A2%E9%98%9F%E4%B8%8E%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%80%9D%E8%80%83/</id>
     <published>2020-05-02T10:16:38.086Z</published>
-    <updated>2020-05-02T10:16:38.086Z</updated>
+    <updated>2020-05-05T15:14:51.279Z</updated>
     
     <summary type="html">
     
@@ -36,10 +58,10 @@
     </summary>
     
     
-      <category term="日常" scheme="http://yoursite.com/categories/%E6%97%A5%E5%B8%B8/"/>
+      <category term="PM" scheme="http://yoursite.com/categories/PM/"/>
     
     
-      <category term="胡思乱想" scheme="http://yoursite.com/tags/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/"/>
+      <category term="idea常规性复盘" scheme="http://yoursite.com/tags/idea%E5%B8%B8%E8%A7%84%E6%80%A7%E5%A4%8D%E7%9B%98/"/>
     
   </entry>
   
@@ -73,33 +95,6 @@
     <id>http://yoursite.com/2020/05/02/%E5%85%B3%E4%BA%8E36%E6%B0%AAApp%E7%BC%BA%E9%99%B7%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/</id>
     <published>2020-05-02T10:11:38.966Z</published>
     <updated>2020-05-02T10:14:55.448Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="PM" scheme="http://yoursite.com/categories/PM/"/>
-    
-    
-      <category term="idea常规性复盘" scheme="http://yoursite.com/tags/idea%E5%B8%B8%E8%A7%84%E6%80%A7%E5%A4%8D%E7%9B%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>关于36氪缺陷的几点思考</title>
-    <link href="http://yoursite.com/2020/04/29/%E5%85%B3%E4%BA%8E36%E6%B0%AA%E7%BC%BA%E9%99%B7%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/"/>
-    <id>http://yoursite.com/2020/04/29/%E5%85%B3%E4%BA%8E36%E6%B0%AA%E7%BC%BA%E9%99%B7%E7%9A%84%E5%87%A0%E7%82%B9%E6%80%9D%E8%80%83/</id>
-    <published>2020-04-29T03:34:42.459Z</published>
-    <updated>2020-04-29T03:34:42.459Z</updated>
     
     <summary type="html">
     
