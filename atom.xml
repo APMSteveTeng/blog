@@ -39,17 +39,14 @@
   
   <entry>
     <title>关于丰巢涨价引争议事件的思考</title>
-    <link href="http://yoursite.com/2020/05/13/%E5%85%B3%E4%BA%8E%E4%B8%B0%E5%B7%A2%E6%B6%A8%E4%BB%B7%E5%BC%95%E4%BA%89%E8%AE%AE%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%80%9D%E8%80%83/"/>
-    <id>http://yoursite.com/2020/05/13/%E5%85%B3%E4%BA%8E%E4%B8%B0%E5%B7%A2%E6%B6%A8%E4%BB%B7%E5%BC%95%E4%BA%89%E8%AE%AE%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%80%9D%E8%80%83/</id>
-    <published>2020-05-13T13:24:07.835Z</published>
-    <updated>2020-05-13T13:34:09.796Z</updated>
+    <link href="http://yoursite.com/2020/05/09/%E5%85%B3%E4%BA%8E%E4%B8%B0%E5%B7%A2%E6%B6%A8%E4%BB%B7%E5%BC%95%E4%BA%89%E8%AE%AE%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%80%9D%E8%80%83/"/>
+    <id>http://yoursite.com/2020/05/09/%E5%85%B3%E4%BA%8E%E4%B8%B0%E5%B7%A2%E6%B6%A8%E4%BB%B7%E5%BC%95%E4%BA%89%E8%AE%AE%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%80%9D%E8%80%83/</id>
+    <published>2020-05-08T16:00:00.000Z</published>
+    <updated>2020-05-13T14:12:49.190Z</updated>
     
     <summary type="html">
     
-      &lt;hr&gt;
-&lt;p&gt;date：2020-5-9&lt;br&gt;categories：PM&lt;br&gt;tags：idea常规性复盘&lt;/p&gt;
-&lt;hr&gt;
-&lt;h1 id=&quot;关于丰巢涨价引争议事件的思考&quot;&gt;&lt;a href=&quot;#关于丰巢涨价引争议事件的思考&quot; class=&quot;headerlink&quot; title=&quot;关于丰巢涨价引争议事件的思考&quot;&gt;&lt;/a&gt;关于丰巢涨价引争议事件的思考&lt;/h1&gt;&lt;p&gt;任何行业出现寡头、巨头后，必然垄断之势。因为这些寡头已经瓜分了市场，并在上下游产业链中扮演了不可替代的角色，用户离不开他们，行业离不开他们，因此涨价、割韭菜也是必然的事。&lt;/p&gt;
+      &lt;h1 id=&quot;关于丰巢涨价引争议事件的思考&quot;&gt;&lt;a href=&quot;#关于丰巢涨价引争议事件的思考&quot; class=&quot;headerlink&quot; title=&quot;关于丰巢涨价引争议事件的思考&quot;&gt;&lt;/a&gt;关于丰巢涨价引争议事件的思考&lt;/h1&gt;&lt;p&gt;任何行业出现寡头、巨头后，必然垄断之势。因为这些寡头已经瓜分了市场，并在上下游产业链中扮演了不可替代的角色，用户离不开他们，行业离不开他们，因此涨价、割韭菜也是必然的事。&lt;/p&gt;
 &lt;p&gt;此次快递业集体涨价，其实也是起源前几天的丰巢快递柜收费一事。事件脉络：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;丰巢制定“超12小时存放”收费标准，第一家小区抵制快递柜&lt;/li&gt;
@@ -63,29 +60,10 @@
     </summary>
     
     
-    
-  </entry>
-  
-  <entry>
-    <title>《Yes，产品经理》读书idea复盘</title>
-    <link href="http://yoursite.com/2020/05/13/%E3%80%8AYes%EF%BC%8C%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E3%80%8B%E8%AF%BB%E4%B9%A6idea%E5%A4%8D%E7%9B%98/"/>
-    <id>http://yoursite.com/2020/05/13/%E3%80%8AYes%EF%BC%8C%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E3%80%8B%E8%AF%BB%E4%B9%A6idea%E5%A4%8D%E7%9B%98/</id>
-    <published>2020-05-13T13:21:28.557Z</published>
-    <updated>2020-05-13T13:33:42.947Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
-        
-      
-    
-    </summary>
+      <category term="PM" scheme="http://yoursite.com/categories/PM/"/>
     
     
+      <category term="idea常规性复盘" scheme="http://yoursite.com/tags/idea%E5%B8%B8%E8%A7%84%E6%80%A7%E5%A4%8D%E7%9B%98/"/>
     
   </entry>
   
@@ -224,6 +202,33 @@
     
     
       <category term="读书笔记复盘" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E5%A4%8D%E7%9B%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《Yes，产品经理》读书idea复盘</title>
+    <link href="http://yoursite.com/2020/04/28/%E3%80%8AYes%EF%BC%8C%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E3%80%8B%E8%AF%BB%E4%B9%A6idea%E5%A4%8D%E7%9B%98/"/>
+    <id>http://yoursite.com/2020/04/28/%E3%80%8AYes%EF%BC%8C%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E3%80%8B%E8%AF%BB%E4%B9%A6idea%E5%A4%8D%E7%9B%98/</id>
+    <published>2020-04-27T16:00:00.000Z</published>
+    <updated>2020-05-13T14:12:39.066Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="PM" scheme="http://yoursite.com/categories/PM/"/>
+    
+    
+      <category term="idea常规性复盘" scheme="http://yoursite.com/tags/idea%E5%B8%B8%E8%A7%84%E6%80%A7%E5%A4%8D%E7%9B%98/"/>
     
   </entry>
   
