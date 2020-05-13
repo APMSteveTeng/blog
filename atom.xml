@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-13T13:27:42.400Z</updated>
+  <updated>2020-05-13T13:33:19.117Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,18 +21,19 @@
     <link href="http://yoursite.com/2020/05/13/%E7%BB%88%E6%9E%81%E5%91%BD%E9%A2%98%E5%AF%B9%E8%87%AA%E8%BA%AB%E7%9A%84%E5%86%B2%E5%87%BB/"/>
     <id>http://yoursite.com/2020/05/13/%E7%BB%88%E6%9E%81%E5%91%BD%E9%A2%98%E5%AF%B9%E8%87%AA%E8%BA%AB%E7%9A%84%E5%86%B2%E5%87%BB/</id>
     <published>2020-05-13T13:27:42.400Z</published>
-    <updated>2020-05-13T13:27:42.400Z</updated>
+    <updated>2020-05-13T13:33:19.117Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;终极命题对自身的冲击&quot;&gt;&lt;a href=&quot;#终极命题对自身的冲击&quot; class=&quot;headerlink&quot; title=&quot;终极命题对自身的冲击&quot;&gt;&lt;/a&gt;终极命题对自身的冲击&lt;/h1&gt;&lt;hr&gt;
-&lt;p&gt;categories: 心理&lt;br&gt;tags: 胡思乱想&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;当没有一层层认识到或者说见识到超出自身能力的事物、真理、思想，在空荡的基础上，接触终极命题甚至试图去求索，可能是对已有认知的崩塌。尤其是面对量子力学基本逻辑“当粒子可能同时存在于不同位置”所引申的对多元宇宙、时间空间的讨论。因为你实在不知道在面临那些问题时，该如何用远远不够完备的知识体系、逻辑思维，包括经济基础、专业素养、社会认知等，去冷静对待和理性分析。&lt;/p&gt;
+      &lt;h1 id=&quot;终极命题对自身的冲击&quot;&gt;&lt;a href=&quot;#终极命题对自身的冲击&quot; class=&quot;headerlink&quot; title=&quot;终极命题对自身的冲击&quot;&gt;&lt;/a&gt;终极命题对自身的冲击&lt;/h1&gt;&lt;p&gt;当没有一层层认识到或者说见识到超出自身能力的事物、真理、思想，在空荡的基础上，接触终极命题甚至试图去求索，可能是对已有认知的崩塌。尤其是面对量子力学基本逻辑“当粒子可能同时存在于不同位置”所引申的对多元宇宙、时间空间的讨论。因为你实在不知道在面临那些问题时，该如何用远远不够完备的知识体系、逻辑思维，包括经济基础、专业素养、社会认知等，去冷静对待和理性分析。&lt;/p&gt;
     
     </summary>
     
     
+      <category term="心理" scheme="http://yoursite.com/categories/%E5%BF%83%E7%90%86/"/>
+    
+    
+      <category term="胡思乱想" scheme="http://yoursite.com/tags/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/"/>
     
   </entry>
   
@@ -41,14 +42,14 @@
     <link href="http://yoursite.com/2020/05/13/%E5%85%B3%E4%BA%8E%E4%B8%B0%E5%B7%A2%E6%B6%A8%E4%BB%B7%E5%BC%95%E4%BA%89%E8%AE%AE%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%80%9D%E8%80%83/"/>
     <id>http://yoursite.com/2020/05/13/%E5%85%B3%E4%BA%8E%E4%B8%B0%E5%B7%A2%E6%B6%A8%E4%BB%B7%E5%BC%95%E4%BA%89%E8%AE%AE%E4%BA%8B%E4%BB%B6%E7%9A%84%E6%80%9D%E8%80%83/</id>
     <published>2020-05-13T13:24:07.835Z</published>
-    <updated>2020-05-13T13:28:20.672Z</updated>
+    <updated>2020-05-13T13:34:09.796Z</updated>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;关于丰巢涨价引争议事件的思考&quot;&gt;&lt;a href=&quot;#关于丰巢涨价引争议事件的思考&quot; class=&quot;headerlink&quot; title=&quot;关于丰巢涨价引争议事件的思考&quot;&gt;&lt;/a&gt;关于丰巢涨价引争议事件的思考&lt;/h1&gt;&lt;hr&gt;
+      &lt;hr&gt;
 &lt;p&gt;date：2020-5-9&lt;br&gt;categories：PM&lt;br&gt;tags：idea常规性复盘&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;任何行业出现寡头、巨头后，必然垄断之势。因为这些寡头已经瓜分了市场，并在上下游产业链中扮演了不可替代的角色，用户离不开他们，行业离不开他们，因此涨价、割韭菜也是必然的事。&lt;/p&gt;
+&lt;h1 id=&quot;关于丰巢涨价引争议事件的思考&quot;&gt;&lt;a href=&quot;#关于丰巢涨价引争议事件的思考&quot; class=&quot;headerlink&quot; title=&quot;关于丰巢涨价引争议事件的思考&quot;&gt;&lt;/a&gt;关于丰巢涨价引争议事件的思考&lt;/h1&gt;&lt;p&gt;任何行业出现寡头、巨头后，必然垄断之势。因为这些寡头已经瓜分了市场，并在上下游产业链中扮演了不可替代的角色，用户离不开他们，行业离不开他们，因此涨价、割韭菜也是必然的事。&lt;/p&gt;
 &lt;p&gt;此次快递业集体涨价，其实也是起源前几天的丰巢快递柜收费一事。事件脉络：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;丰巢制定“超12小时存放”收费标准，第一家小区抵制快递柜&lt;/li&gt;
@@ -70,7 +71,7 @@
     <link href="http://yoursite.com/2020/05/13/%E3%80%8AYes%EF%BC%8C%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E3%80%8B%E8%AF%BB%E4%B9%A6idea%E5%A4%8D%E7%9B%98/"/>
     <id>http://yoursite.com/2020/05/13/%E3%80%8AYes%EF%BC%8C%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E3%80%8B%E8%AF%BB%E4%B9%A6idea%E5%A4%8D%E7%9B%98/</id>
     <published>2020-05-13T13:21:28.557Z</published>
-    <updated>2020-05-13T13:21:28.557Z</updated>
+    <updated>2020-05-13T13:33:42.947Z</updated>
     
     <summary type="html">
     
