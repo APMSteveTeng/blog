@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-05-13T13:33:19.117Z</updated>
+  <updated>2020-06-16T00:26:42.747Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>电商类目运营</title>
+    <link href="http://yoursite.com/2020/06/16/%E7%94%B5%E5%95%86%E7%B1%BB%E7%9B%AE%E8%BF%90%E8%90%A5/"/>
+    <id>http://yoursite.com/2020/06/16/%E7%94%B5%E5%95%86%E7%B1%BB%E7%9B%AE%E8%BF%90%E8%90%A5/</id>
+    <published>2020-06-16T00:26:42.747Z</published>
+    <updated>2020-06-16T00:26:42.747Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>终极命题对自身的冲击</title>
@@ -623,36 +646,6 @@
     
     
       <category term="物理点子复盘" scheme="http://yoursite.com/tags/%E7%89%A9%E7%90%86%E7%82%B9%E5%AD%90%E5%A4%8D%E7%9B%98/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《给孩子讲量子力学》读书笔记</title>
-    <link href="http://yoursite.com/2020/04/22/%E3%80%8A%E7%BB%99%E5%AD%A9%E5%AD%90%E8%AE%B2%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    <id>http://yoursite.com/2020/04/22/%E3%80%8A%E7%BB%99%E5%AD%A9%E5%AD%90%E8%AE%B2%E9%87%8F%E5%AD%90%E5%8A%9B%E5%AD%A6%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</id>
-    <published>2020-04-22T15:24:44.937Z</published>
-    <updated>2020-05-03T02:41:54.773Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;给孩子讲量子力学&lt;br&gt;李淼&lt;br&gt;92个笔记&lt;/p&gt;
-&lt;h2 id=&quot;◆-第1讲-量子世界是什么样的&quot;&gt;&lt;a href=&quot;#◆-第1讲-量子世界是什么样的&quot; class=&quot;headerlink&quot; title=&quot;◆ 第1讲 量子世界是什么样的&quot;&gt;&lt;/a&gt;◆ 第1讲 量子世界是什么样的&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;波也有能量：其频率越高，或者说波长越短，波的能量越高。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;物体热辐射所发出的光，其能量并不连续，而是一份份的，大小等于光的频率乘以一个很小的常数，叫普朗克常数。我们所说的“量子化”，其实就是指这种物理量本身不连续、总是一份份分布的特性。换言之，在量子世界里，物理量总是存在着一个最小值，无法像在经典世界中那样，直接趋于零。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;用光照射金属就可以从其内部打出电子。这并不奇怪。光可以把自身的能量传递给电子，使它获得足够的能量，从而逃脱金属原子对它的束缚。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-      <category term="PM" scheme="http://yoursite.com/categories/PM/"/>
-    
-    
-      <category term="读书笔记复盘" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E5%A4%8D%E7%9B%98/"/>
     
   </entry>
   
