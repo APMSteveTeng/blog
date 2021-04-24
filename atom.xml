@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-02-28T04:41:21.617Z</updated>
+  <updated>2021-04-24T12:47:55.685Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>微信视频号的产品设计分析</title>
+    <link href="http://yoursite.com/2021/04/24/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8F%B7%E7%9A%84%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%88%86%E6%9E%90/"/>
+    <id>http://yoursite.com/2021/04/24/%E5%BE%AE%E4%BF%A1%E8%A7%86%E9%A2%91%E5%8F%B7%E7%9A%84%E4%BA%A7%E5%93%81%E8%AE%BE%E8%AE%A1%E5%88%86%E6%9E%90/</id>
+    <published>2021-04-24T12:35:39.306Z</published>
+    <updated>2021-04-24T12:47:55.685Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="行业" scheme="http://yoursite.com/tags/%E8%A1%8C%E4%B8%9A/"/>
+    
+  </entry>
   
   <entry>
     <title>女权自媒体假象</title>
@@ -515,60 +540,6 @@
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;盒马内部所称的“一店二仓五中心”，即一个门店，前端为消费区，后端为仓储配送区，囊括超市中心、餐饮中心、物流中心、体验中心以及粉丝运营中心。&lt;/p&gt;
-&lt;/blockquote&gt;
-    
-    </summary>
-    
-    
-      <category term="PM" scheme="http://yoursite.com/categories/PM/"/>
-    
-    
-      <category term="读书笔记" scheme="http://yoursite.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>《社群营销实战手册：从社群运营到社群经济》读书笔记</title>
-    <link href="http://yoursite.com/2020/04/24/%E3%80%8A%E7%A4%BE%E7%BE%A4%E8%90%A5%E9%94%80%E5%AE%9E%E6%88%98%E6%89%8B%E5%86%8C%EF%BC%9A%E4%BB%8E%E7%A4%BE%E7%BE%A4%E8%BF%90%E8%90%A5%E5%88%B0%E7%A4%BE%E7%BE%A4%E7%BB%8F%E6%B5%8E%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
-    <id>http://yoursite.com/2020/04/24/%E3%80%8A%E7%A4%BE%E7%BE%A4%E8%90%A5%E9%94%80%E5%AE%9E%E6%88%98%E6%89%8B%E5%86%8C%EF%BC%9A%E4%BB%8E%E7%A4%BE%E7%BE%A4%E8%BF%90%E8%90%A5%E5%88%B0%E7%A4%BE%E7%BE%A4%E7%BB%8F%E6%B5%8E%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</id>
-    <published>2020-04-24T08:27:20.879Z</published>
-    <updated>2021-02-26T00:28:26.225Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;社群营销实战手册：从社群运营到社群经济&lt;br&gt;秋叶 邻三月 秦阳&lt;br&gt;170个笔记&lt;/p&gt;
-&lt;p&gt;◆ 前言&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;先产生情感认同、价值认同，进而有了信任，在信任的基础上创造各种连接，&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;◆ 1.1 为什么我的社群渐渐沉寂了&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;社群反而更强调情感认同&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;强调三观认同&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;强调线下连接&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;强调碎片互动&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;强调长期陪伴&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;知识付费标准化产品&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;走渠道走流量&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;马斯洛需求层次理论告诉我们，人类对于社交的需求仅次于生理、安全。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;理解媒介，麦克卢汉&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;媒介是人的延伸，媒介在进化，关系的连接方式也一直在变。&lt;/p&gt;
 &lt;/blockquote&gt;
     
     </summary>
