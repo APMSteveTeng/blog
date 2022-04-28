@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>岛</title>
-  <icon>https://www.gravatar.com/avatar/319858fe73279bed7f24b32f1a37ff1f</icon>
-  <subtitle>一生努力，一生热爱</subtitle>
+  <title>红油蘸水白米饭</title>
+  <icon>https://www.gravatar.com/avatar/8f9f89fe16c97831660196c08f37074d</icon>
+  
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -11,7 +11,7 @@
   
   <author>
     <name>Steve Teng</name>
-    <email>simpletjun@163.com</email>
+    <email>simpletjun@gmail.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
